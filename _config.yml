@@ -1,11 +1,11 @@
 # Site-wide settings
 # ------------------
 #
-# title: INDOLOGY - Resources for Indological scholarship
+ title: INDOLOGY - Resources for Indological scholarship
 #
-author:
-  name: Dominik Wujastyk
-  email: wujastyk@gmail.com
+ author:
+   name: Dominik Wujastyk
+   email: wujastyk@gmail.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
