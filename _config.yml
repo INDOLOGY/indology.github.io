@@ -61,7 +61,7 @@ remote_theme: jekyll/minima@d4d779a
 #     and list the `path` property (as represented via Liquid) of the pages in
 #     the order they should be rendered.
    nav_pages:
-     - pages/about.md
+     - about.md
 #
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
