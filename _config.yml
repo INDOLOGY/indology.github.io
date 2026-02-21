@@ -6,6 +6,8 @@
  author:
    name: Dominik Wujastyk
    email: wujastyk@gmail.com
+header_pages:
+  - pages/about.md   
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
@@ -61,9 +63,7 @@ remote_theme: jekyll/minima@d4d779a
 #     and list the `path` property (as represented via Liquid) of the pages in
 #     the order they should be rendered.
 #   nav_pages:
-   header_pages:
-     - pages/about.md
-md#
+#
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
 #
