@@ -6,11 +6,3 @@
 
 This website is an adjunct to the [INDOLOGY](https://list.indology.info/mailman/listinfo/indology) online discussion forum for classical South Asian studies. The forum was founded in 1990 by Dominik Wujastyk as a medium for exchange and debate by university-level research scholars. Since July 2001 the forum has been managed by a committee of active Indologists. 
 
-<div class="row">
-    <div class="col-md-6">
-      Testing
-    </div>
-    <div class="col-md-6">
-        More testing
-    </div>
-</div>
