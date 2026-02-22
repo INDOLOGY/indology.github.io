@@ -9,5 +9,3 @@ relative_links:
 header_pages:
   - pages/about.md
 theme: minima
-  hide_site_feed_link: true
-
