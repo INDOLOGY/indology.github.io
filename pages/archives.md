@@ -1,5 +1,6 @@
 ---
 name: Archives
+layout: page
 ---
 
 # Current archives
