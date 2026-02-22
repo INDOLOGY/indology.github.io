@@ -1,5 +1,6 @@
 ---
 title: Guidelines
+layout: page
 ---
 
 * Do not remove this line (it will not be displayed)
