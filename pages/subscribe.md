@@ -2,13 +2,11 @@
 title: Subscribe
 ---
 
-Subscribing to the Forum
-
-If you wish to subscribe to the INDOLOGY forum, first
+To subscribe to the INDOLOGY forum, first
 
 1. **Read the [Guidelines](https://indology.github.io/pages/guidelines.html)**.
    
-   If you are eligible to join, according to the criteria described in the Guidelines,
+   If you are eligible to join, according to the criteria described in the Guidelines.  Then,
 
 3. **Send your short CV to the committee**
 
