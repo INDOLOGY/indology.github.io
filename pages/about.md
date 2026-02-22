@@ -6,7 +6,8 @@ permalink: /about/
 nav: true
 ---
 
-
+* Do not remove this line (it will not be displayed)
+{:toc}
 # Founding
 
 The INDOLOGY LISTSERV forum was launched in November 1990 by Dominik Wujastyk. This was the first message:
