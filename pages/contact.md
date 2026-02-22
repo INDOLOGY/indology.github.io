@@ -2,7 +2,7 @@
 title: Contact
 layout: page
 ---
-The email address of the Management Committee is indology-owner@list.indology.info.
+The email address of the Management Committee is [indology-owner@list.indology.info](mailto:indology-owner@list.indology.info).
 
 Kindly send all communications to this committee address. 
 Please do not email individual members of the committee. 
