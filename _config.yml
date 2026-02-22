@@ -11,5 +11,7 @@ header_pages:
   - pages/contact.md
   - pages/management-committee.md
   - pages/archives.md
+  - pages/guidelines.md
+  - pages/subscribe.md
 #
 theme: minima
