@@ -7,4 +7,5 @@ relative_links:
   collections: true
 header_pages:
   - pages/about.md
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima@d4d779a
