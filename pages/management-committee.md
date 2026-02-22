@@ -1,9 +1,9 @@
 ---
-title: Management committee
+title: Committee
 layout: page
 ---
 
-# Committee
+# Management committee
 ## Present
 
 *    Stefan Baums, University of Munich
