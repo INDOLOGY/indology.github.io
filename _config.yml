@@ -14,4 +14,8 @@ header_pages:
   - pages/guidelines.md
   - pages/subscribe.md
 #
+kramdown:
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
+#
 theme: minima
