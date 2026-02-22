@@ -8,5 +8,6 @@ relative_links:
 #
 header_pages:
   - pages/about.md
+  - pages/management-committee.md
 #
 theme: minima
