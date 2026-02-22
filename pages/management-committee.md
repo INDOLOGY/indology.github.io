@@ -1,3 +1,8 @@
+---
+title: Management committee
+layout: page
+---
+
 # Committee
 ## Present
 
