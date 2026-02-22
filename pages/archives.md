@@ -1,3 +1,7 @@
+---
+name: Archives
+---
+
 # Current archives
 * [https://list.indology.info/pipermail/indology/](https://list.indology.info/pipermail/indology/)
 
