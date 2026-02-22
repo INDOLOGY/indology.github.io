@@ -6,7 +6,8 @@ relative_links:
   enabled: true
   collections: true
 remote_theme: jekyll/minima@d4d779a
-  header_pages:
-    - pages/about.md
+header_pages:
+  - pages/about.md
 #theme: minima
+  hide_site_feed_link: true
 
