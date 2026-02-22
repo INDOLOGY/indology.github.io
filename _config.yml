@@ -1,11 +1,12 @@
-title: INDOLOGY
-description: Resources for Indological scholars
+#title: INDOLOGY
+#description: Resources for Indological scholars
 plugins:
   - jekyll-relative-links # converts links to markdown files to their html counterparts
+remote_theme: jekyll/minima@d4d779a
 relative_links:
   enabled: true
   collections: true
 header_pages:
   - pages/about.md
 #theme: minima
-remote_theme: jekyll/minima@d4d779a
+
