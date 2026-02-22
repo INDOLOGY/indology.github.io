@@ -1,11 +1,12 @@
-title: INDOLOGY
+title: 
 description: 
 plugins:
   - jekyll-relative-links # converts links to markdown files to their html counterparts
 relative_links:
   enabled: true
   collections: true
-# remote_theme: jekyll/minima@d4d779a
+#
 header_pages:
   - pages/about.md
+#
 theme: minima
