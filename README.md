@@ -1,3 +1,5 @@
+# Resources for Indological Scholarship
+
 ![Image](assets/img/1-1079-1024x572.png){: width="25%"}
 
 ## Welcome to INDOLOGY
