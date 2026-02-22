@@ -10,7 +10,7 @@ To subscribe to the INDOLOGY forum, first
 
 3. **Send your short CV to the committee**
 
-   The address is indology-owner@list.indology.info
+   The address is [indology-owner@list.indology.info](mailto:indology-owner@list.indology.info)
 
    Without your CV, the committee will not process your application further. Your CV can be a single page,
    or a link to your university page if it shows your academic status and publications.
