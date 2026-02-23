@@ -1,4 +1,4 @@
-![Image](assets/img/1-1079-1024x572.png){: width="40%"}
+![Image](assets/img/1-1079-1024x572.png){: width="50%"}
 
 # Resources for Indological scholarship
 
