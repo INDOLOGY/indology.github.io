@@ -13,6 +13,7 @@ header_pages:
   - pages/archives.md
   - pages/guidelines.md
   - pages/subscribe.md
+  - pages/links.md
 #
 kramdown:
   # parse markdown inside block-level HTML tag
