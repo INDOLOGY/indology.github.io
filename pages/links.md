@@ -3,8 +3,6 @@ title: Links
 layout: page
 ---
 
-{:toc}
-
 ## Hosted by INDOLOGY
 
 * [SARIT: Search and Retrieval of Indic Texts](https://sarit.indology.info) 
