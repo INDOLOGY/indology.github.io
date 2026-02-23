@@ -1,5 +1,5 @@
 ---
-name: Archives
+title: Archives
 layout: page
 ---
 
