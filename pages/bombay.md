@@ -1,3 +1,11 @@
+---
+title: 'Bombay'
+author: 'John Smith'
+layout: page
+permalink: /bombay/
+nav: true
+---
+
 ![](assets/img/verse.gif)
 
 # ![](assets/img/srilal2.gif){: align="middle"} bombay.indology.info ![](assets/img/parbu1.gif){: align="middle"}
