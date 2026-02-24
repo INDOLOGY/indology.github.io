@@ -1,7 +1,3 @@
----
-title = INDOLOGY
----
-
 # Resources for Indological scholarship
 
 ## Welcome to INDOLOGY
