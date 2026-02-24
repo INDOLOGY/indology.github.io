@@ -1,6 +1,6 @@
 ![](https://bombay.indology.info/verse.gif)
 
-# ![](https://bombay.indology.info/pabuji/srilal2.gif){align="middle"} bombay.indology.info ![](https://bombay.indology.info/pabuji/parbu1.gif){align="middle"}
+# ![](https://bombay.indology.info/pabuji/srilal2.gif){: align="middle"} bombay.indology.info ![](https://bombay.indology.info/pabuji/parbu1.gif){: align="middle"}
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ contrast between thin and thick strokes. The actual shapes of some of
 the glyphs (e.g. initial "a", retroflex "ṇ") also differ according to
 the style of the font.
 
-![](https://bombay.indology.info/cover.gif)
+![](https://bombay.indology.info/cover.gif){: align="middle"}
 
 John Smith\'s translation of the *Mahābhārata* is published by Penguin
 Classics. It is available from all really good bookshops and from
