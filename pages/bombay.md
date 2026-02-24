@@ -8,7 +8,9 @@ nav: true
 
 ![Image](assets/img/verse.png)
 
-# ![Image](assets/img/srilal2.png){: align="middle"} bombay.indology.info ![Image](assets/img/parbu1.png){: align="middle"}
+![Image](assets/img/srilal2.png){: align="middle"} 
+bombay.indology.info 
+![Image](assets/img/parbu1.png){: align="middle"}
 
 ------------------------------------------------------------------------
 
