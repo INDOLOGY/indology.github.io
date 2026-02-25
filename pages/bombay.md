@@ -7,7 +7,8 @@ nav: true
 ---
 
 
-![Image](/assets/img/verse.png){: style="text-align: center"}
+![Image](/assets/img/verse.png)
+{: style="text-align: center"}
     
 ![Image](/assets/img/srilal2.png)   bombay.indology.info   ![Image](/assets/img/parbu1.png)
 {: style="text-align: center"}
