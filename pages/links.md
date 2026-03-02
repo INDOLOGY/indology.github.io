@@ -29,4 +29,7 @@ layout: page
 * [Skrutable text tools](https://skrutable.info/) 
 * [Persian historical literature in English tr.](http://persian.packhum.org/main) 
 * [Searchable Aggregate Library of Sanskrit Etexts](https://www.searchable-sanskrit-library.org) 
-* [More external resources](https://indology.info/external-resources-2/)
+
+
+## More external resources
+* See a [further collection of external resources](https://web.archive.org/web/20260223060805/https://indology.info/external-resources-2/) (March 2026).
