@@ -32,4 +32,4 @@ layout: page
 
 
 ## More external resources
-* See a [further collection of external resources](https://web.archive.org/web/20260223060805/https://indology.info/external-resources-2/) (March 2026).
+* See a [further collection of external resources](https://web.archive.org/web/20260302191723/https://indology.info/external-resources-2/) (March 2026).
