@@ -1,0 +1,43 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<base href="/bombay/" />
+<title>The mconv.cleanup program</title>
+</head>
+
+<body bgcolor="#e7e7e7">
+<h2>The <i>mconv.cleanup</i> program</h2>
+
+<hr>
+
+<i>Note that the original program makes direct use of accented characters in
+the CSX encoding; here it has been converted to use Unicode equivalents to
+ensure readability on modern computers. This means that downloading and
+attempting to run the program as it stands is unlikely to work.</i>
+
+<hr>
+
+<pre>
+
+#!/usr/bin/perl -p
+
+next if (/[{}\\]/) || !(/['A-zÇ-Ḥ]/) || (/^%/);
+s/a([aāiīuūṛeoEO])/a $1/g;
+s/([^0-9])E/$1ai/g;
+s/([^0-9])O/$1au/g;
+
+<p>
+<hr>
+<p>
+
+<a href="/bombay/"><i>Back to home page</i></a>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6465011-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body></html>

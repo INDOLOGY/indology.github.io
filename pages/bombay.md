@@ -10,7 +10,7 @@ nav: true
 ![Image](/assets/img/verse.png)
 {: style="text-align: center"}
     
-![Image](/assets/img/srilal2.png)   bombay.indology.info   ![Image](/assets/img/parbu1.png)
+![Image](/assets/img/srilal2.png)   John Smith’s Indic home page   ![Image](/assets/img/parbu1.png)
 {: style="text-align: center"}
 
 ------------------------------------------------------------------------
@@ -18,35 +18,35 @@ nav: true
 *Look here for:*
 
 - the official, authoritative electronic text of the Sanskrit epic
-  [*Mahābhārata*](https://bombay.indology.info/mahabharata/statement.html);
+  [*Mahābhārata*](/bombay/mahabharata/statement.html);
 - the electronic text of the Sanskrit epic
-  [*Rāmāyaṇa*](https://bombay.indology.info/ramayana/statement.html);
+  [*Rāmāyaṇa*](/bombay/ramayana/statement.html);
 - the Rajasthani oral [epic of
-  Pābūjī](https://bombay.indology.info/pabuji/statement.html) including
+  Pābūjī](/bombay/pabuji/statement.html) including
   a complete electronic [second edition of John Smith's *The epic of
-  Pābūjī*](https://bombay.indology.info/pabuji/pabuji.pdf), as well as a
+  Pābūjī*](/bombay/pabuji/pabuji.pdf), as well as a
   collection of
-  [audio](https://bombay.indology.info/pabuji/audio/index.html) and
-  [video](https://bombay.indology.info/pabuji/video/index.html)
+  [audio](/bombay/pabuji/audio/index.html) and
+  [video](/bombay/pabuji/video/index.html)
   extracts;
 - a collection of [exam
-  howlers](https://bombay.indology.info/howlers.html).
+  howlers](/bombay/howlers.html).
 
 *In addition you can access a variety of*
-[fonts](https://bombay.indology.info/software/fonts/index.html) *and*
-[programs](https://bombay.indology.info/software/programs/index.html)
+[fonts](/bombay/software/fonts/index.html) *and*
+[programs](/bombay/software/programs/index.html)
 *likely to be of interest to Indologists.* Functioning Windows
 executables are now once again available for many of these programs.
 
 The high-quality OpenType ["IndUni"
-fonts](https://bombay.indology.info/software/fonts/induni/index.html)
+fonts](/bombay/software/fonts/induni/index.html)
 allow the representation of Indian-language (and similar) material in
 Roman script using the Unicode character set. The fonts contain all the
 accented characters that Indologists are likely to need, as well as all
 common European accented characters, and many others too.
 
 Two [Devanagari
-fonts](https://bombay.indology.info/software/fonts/devanagari/index.html)
+fonts](/bombay/software/fonts/devanagari/index.html)
 are available. Nakula and Sahadeva are "twin" Devanagari fonts, which
 have been developed by IMRC, India, for the University of Cambridge.
 Both fonts are TrueType/OpenType, and are Unicode compliant. Both

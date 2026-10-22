@@ -1,0 +1,293 @@
+% Mahabharata: supplementary passages - General information
+% Last updated: Fri Sep 25 2020
+% Encoding: Unicode Devanagari
+% Electronic text (C) Bhandarkar Oriental Research Institute,
+% Pune, India, 2001
+
+
+==========================================================
+Electronic text of the Mahabharata: supplementary passages
+==========================================================
+
+This file contains information about the supplementary passages to
+the electronic text of the Mahabharata. Anyone who intends to make
+use of the text is asked to read it carefully. It is divided into
+three sections:
+
+  * The status of the text
+  * The format of the text
+  * Notes on the text
+
+                                                          John D. Smith
+                                                University of Cambridge
+------------------------------------------------------------------------
+
+The status of the text
+~~~~~~~~~~~~~~~~~~~~~~
+
+The electronic text of the Mahabharata is Copyright (C) The Bhandarkar
+Oriental Research Institute (BORI), Pune. This authorised and
+regularly updated text is available only via the web page
+https://indology.github.io/bombay/mahabharata/statement.html. Please do not
+provide copies of the text to others.
+
+The text is as accurate as possible, but errors may well still appear. If you
+believe you have found an error, please report it by email to Suvarna
+Deshpande (suvarnad09 [at] gmail.com) or Pranav Gokhale (pranavpg88 [at]
+gmail.com). Before reporting any error, please read the rest of this document!
+
+Corrections will be made to errors remaining in the text as they come
+to light. Check the “Last updated” date at the head of each parvan
+against the current dates listed on the distribution website (URL
+https://indology.github.io/bombay/mahabharata/apps.html)
+to see whether you need to download newer versions.
+
+The text was typed up by a team consisting of Kirti Sameer Kulkarni,
+Mukta Lalit, Pradnya Anant Rayrikar, Shilpa Mulay, Suvarna Rajarshi
+and Swati Choukar. The task was done throughout in duplicate, so
+that slips made by one assistant would show up through comparison
+with the work of another. I was responsible for collating the
+results, which form the basis of this electronic text.
+
+For their dedicated work, and the levels of accuracy that they have
+brought to a long and demanding task, the members of the team have
+earned the gratitude of all those who make use of the electronic
+Mahabharata. My own gratitude goes in addition to Prof. Saroja
+Bhate, without whose help the project would never have reached such
+successful results.
+
+------------------------------------------------------------------------
+
+The format of the electronic text
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Line-numbers
+---------------
+
+The supplementary text is divided into eighteen files, one per main
+book (पर्वन्) of the Mahabharata. Each file consists of (a) all
+the “star passages” cited in the critical apparatus for that
+पर्वन्, (b) all the “Appendix I” passages. Star passages are short
+fragments of text attested in one or more manuscripts but not
+accepted into the constituted text of the Critical Edition; similar
+but longer passages are located in Appendix I to each पर्वन्.
+
+The critical apparatus introducing each passage is reproduced, with
+every line starting with a “percent” sign (“%”). Then follows the
+passage itself, with each line prefaced by an identificatory number.
+For star passages, this number typically takes a form such as
+“01*2345_67”, which would mean “पर्वन् 1, star passage 2345*, line
+67”; for App. I passages the form is “01_234_5678”, which would mean
+“पर्वन् 1, App. I passage 234, line 5678”. These line numbers
+exactly follow the printed numeration (typically marked every five
+lines). Lines such as “भीष्म उवाच” or “Colophon” are not counted
+in the printed edition; in the electronic text, they bear the same
+line number as the preceding line (or a number ending in “0” if they
+occur as the first line of a passage), but the underscore separating
+passage number from line number is replaced by an equals sign. Thus
+if the 67th line of a star passage were followed by “भीष्म उवाच”,
+the text would read “01*2345=67 भीष्म उवाच”.
+
+There is a minor difference between Book 1 and the other books in
+the form assumed by त्रिष्टुभ् verses, because these are numbered by
+the double-पाद in Book 1 but by the पाद everywhere else. In
+the electronic version of Book 1, त्रिष्टुभ् verses in the
+supplementary passages are therefore reproduced with two पादs to
+the line, the पादs being separated by a semicolon (“;”) as in the
+main text. In every other पर्वन्, त्रिष्टुभ्s are reproduced with
+one पाद to the line.
+
+Inevitably, the supplementary passages are not quite as consistently
+formatted in the printed text of the Critical Edition as is the main
+text. There are therefore some inconsistencies of format in the
+electronic version also. Some examples:
+
+  Where an extra passage has to be accommodated between two passages
+  that have already been assigned numbers, the editor normally adds
+  a letter to its passage number, as with star passage 240a
+  (1.11.11). This has the result that the central component of the
+  line number has to contain five characters instead of the normal
+  four.
+
+  In two star passages in Book 4 (120*, 180*), there are over 100
+  lines to the passage, so that the final component of the line
+  number contains three digits instead of the normal two.
+
+  A passage may be laid out by the printer in a format different
+  from the normal one, as happens with Appendix I, passage 21, in
+  Book 3, and Appendix I, passage 3, in Book 6. In such cases the
+  format of the electronic text has also had to be modified.
+
+  In one case (Appendix I, passage 83, in Book 1) the editor
+  reproduces two passages with the same numbering, with the result
+  that the line numbers are ambiguous.
+
+2. Encodings
+------------
+
+The text is available in three encodings (character sets) commonly
+used for Sanskrit and other Indian languages: for details see
+https://indology.github.io/bombay/mahabharata/apps.html.
+
+Please note that in the ASCII encoding accents on text cited in the
+critical apparatus cannot be reproduced.
+
+3. Spelling conventions
+-----------------------
+
+As in the main text, forms such as किं चित् (/चन/अपि) are
+everywhere spelt as two words in Roman representations of the
+electronic text (assuming that sandhi does not prevent this, as in
+कापि), whatever the usage in the printed text; similarly किं स्वित्,
+etc. The word कच्चित् of course is unchanged, as are compounded
+forms such as किंचिच्छेष “having little left remaining”.
+
+In the Devanagari versions of the text, forms such as किंचित् are
+spelt as single words to respect normal usage in Indian scripts.
+
+The phrase अथ वा is always written as two words. The same
+applies to periphrastic perfects: कथयां बभूव, etc.
+
+In passages of text where a word is split across two lines and
+hyphenated, the electronic text includes the whole of the word on
+the first line. The only exception to this occurs where a long
+compound is split between two पादs of a त्रिष्टुभ्; in this case,
+the hyphen is retained.
+
+In all other respects, the spelling is entirely unchanged from that
+of the printed text (see below).
+
+------------------------------------------------------------------------
+
+Notes on the electronic text
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Unlike the main text, in which obvious typographic and similar
+errors have been corrected, the text of the supplementary passages
+has been reproduced exactly as printed; the difference of approach
+results from the fact that the main text is a product of human
+editing aimed at realising an ideal, while the supplementary
+passages are verbatim citations of manuscripts and may contain
+scribal errors. The following notes suggest corrections of what
+are nonetheless most likely printing errors; notes in [square
+brackets] comment on quirks in numbering, printing, etc.
+
+Notes on star passages
+
+01*0592_11 भुङ्क्ष्व राज्यं विशालाक्षि बुद्धिं मा त्वन्यथा कृथाः
+01*0621_05 इत्येवमुक्त्वा धर्मात्मा तां विशुद्ध्यर्थमस्पृशत्
+01*0830_11 दत्त्वा च प्रतिपत्स्ये वै पाप्मानं जरया सह
+01*1003_01 साल्वराजं सुसंक्रुद्धो न्यवर्तत परंतपः
+01*1007_01 आयोधनं महाघोरमिन्द्रलेखारिणोरिव
+01*1135_06 देहन्यासे कृतमना इदं वचनमब्रवीत्
+01*1171_01 अमावास्यां तु सहिता ऋषयः संशितव्रताः
+01*1510_01 भ्रातॄंश्च मातरं चैव जलं शीतमपाययत्
+01*1987_09 इन्द्रेण कृतनामानमिन्द्रप्रस्थं महापुरम्
+02*0068_02 कच्चित्सुहृदयाः सर्वे ह्यर्चयन्ति भवत्कृते
+02*0070_01 कच्चित्ते दयिताः सर्वे कृषिगोरक्षजीविनः
+02*0285    [There are two passages numbered 285; the second should be 285a]
+02*0627    [There are two passages numbered 627; the second should be 627a]
+03*0319    [The heading probably ought to read, “After 12”, not “After
+           11”]
+03*0654_02 अभिभूस्त्वं बालकौ बालिशौ च
+03*0765    [There are two passages numbered 765; the second should be 765a]
+03*1057    [There are two passages numbered 1057; the second should be 1058]
+03*1364_01 सोऽप्यदृश्याय भूताय नभस्यमिततेजसे
+04*0428_02 त्वया कृतं महाबाहो यदि जीवितुमुत्सहे
+04*0704_06 पुष्पाण्यत्र सुवर्णानि शतपत्राणि भागशः
+05*0333_02 कथं वीरैर्जितां भूमिमखिलां प्रतिपद्यथाः
+05*0372    [The heading probably ought to read, “After 82”, not “After
+           83”]
+05*0408    [The heading probably ought to read, “After 24”, not “After
+           23”]
+05*0413    [The heading probably ought to read, “After 41”, not “After
+           40”]
+06*0200    [The heading probably ought to read, “After 74”, not “After
+           75”]
+06*0280    [The heading probably ought to read, “After 10”, not “After
+           11”]
+06*0399_01 कशाभिस्ताडयामासुः पार्ष्णिभिश्च मुहुर्मुहुः
+06*0412    [The heading probably ought to read, “After 52”, not “After
+           51”]
+06*0451_02 यस्य लाङ्गूलशब्देन स्फुटतीव नभस्तलम्
+07*0038    [The heading probably ought to read, “D1-3.5.6”, not
+           “D1-3.5.5.6”]
+07*0145_01 गजैर्गात्रवरैः क्षुण्णा विषाणैश्च निपातिताः
+07*0177_04 श्रुतकर्माणमायान्तं दौःशासनिरवारयत्
+07*0405_01 स जित्वारिगणान्संख्ये वारयित्वा महाव्रतम्
+07*0625_01 शिखण्डिनं त्रिभिर्बाणैर्विद्ध्वा चिच्छेद कार्मुकम्
+07*0673_02 केवेति वादिनः सर्वे
+07*0983_01 ब्रह्मणस्त्वभवत्पुत्रो मानसोऽत्रिर्महातपाः
+07*1026_18 दृष्ट्वा तु निहतं संख्ये सिन्धुराजं महारथम्
+07*1120    [The heading probably ought to read, “after 27”, not “after
+           28”]
+07*1415    [The heading probably ought to read, “After 61abc”, not “After
+           42abc”]
+08*0007_39 पीतं च क्षतजं तस्य धार्तराष्ट्रस्य संयुगे
+08*0382_03 क्रोधदीप्तेक्षणः शल्य निर्दहन्निव चक्षुषा
+08*0444_03 अस्त्रैः कर्णं महेष्वासं समन्तात्पर्यवारय
+08*0529_05 केशवं नवभी राजन्बाह्वोरुरसि चार्पयत्
+08*0550    [The heading probably ought to read, “After 32cd”, not “After
+           32ed”]
+08*0650    [The heading probably ought to read, “After 17”, not “After
+           16”]
+08*0850_01 यदेकः समरे सर्वान्योधयामास मामकान्
+08*0871_02 कृतार्थो वा गमिष्यामि हतो वा स्वर्गमाप्नुयाम्
+08*0892_01 जिघांसवः पार्थमसह्यविक्रमं
+08*0898    [The heading probably ought to read, “For 7cd”, not “For
+           7ed”]
+08*0932_05 स समीपस्थितो भीमो विसंज्ञं वीक्ष्य ते सुतम्
+09*0052    [The heading probably ought to read, “After 40”, not “After
+           41”]
+12*0325ff. [The Critical Note to 12.137.62 reads, “Through an
+           unfortunate change of 324 into 342 in the process of
+	   proof-correction, star-numbers 325-342 have been
+	   ignored altogether. The mistake was discovered too
+	   late to rectify the following star-numbers.”]
+12*0511    [There are two passages numbered 511; the second should be 511A]
+13*0025    [There are two passages numbered 25; the second should be 25A]
+13*0626    [No such passage, due to a misnumbering in the printed text]
+15*0020    [No such passage, due to a misnumbering in the printed text]
+15*0083    [No such passage, due to a misnumbering in the printed text]
+16*0020    [No such passage, due to a misnumbering in the printed text]
+
+Notes on App. I passages
+
+01_079_0096 सौत्रामणीं तु तां पत्नीं ततः कालेऽभ्ययात्तदा
+01_079_0176 नाम चक्रुर्हि विद्वांसो द्रुपदोऽस्त्विति भूमिप
+02_029_0067 देवैरन्यैश्च यक्षैश्च उरगैर्दिव्यमानुषैः
+03_006_0131 वेपन्ती भ्रुकुटीवक्त्रा शशापाथ धनंजयम्
+03_014_0082 प्राप्तवांश्च पुनस्तेजस्तीर्थेऽस्मिन्पाण्डुनन्दन
+03_021 1.7a सम्यग्वर्षति पर्जन्यः सस्यसंपद उत्तमाः |
+04_004=0069 [No such line, due to a misnumbering in the printed text]
+04_046_0008 यद्यशक्तोऽसि वीरेण पार्थेनाद्भुतकर्मणा
+05_009_0093 रसातलं विशामोऽपि ऐन्द्रं वा पुरमेव तु
+07_006_0010 पाण्डवैः सह पैशुन्यं नित्यं त्वं कृतवानसि
+07_008_0320 राजपुत्रं ततो जह्रुः सुवर्णष्ठीविनं बलात्
+07_008_0471 न च ज्येष्ठाः कनिष्टेभ्यस्तदा श्राद्धानकारयन्
+07_008_0722 सूपभूयिष्ठमश्नीध्वं नाद्य मांसं यथापुरम्
+07_016_0069 न गृह्णन्न क्षिपन्राजन्न मुञ्चन्नापि संदधन्
+07_020A_0005 व्यात्तानना दीर्घजिह्वाः क्रोधताम्रेक्षणा भृशम्
+07_020A_0006 सिंहनादेन महता नादयन्तो वसुंधराम्
+07_020A_0010 प्रासानसींस्तोमरांश्च कणपान्कम्पनाञ्शितान्
+08_032_0013 भीमो बलाद्बाहुमुद्धृत्य दोर्भ्याम्
+08_043_0015 भग्नशृङ्गा इव वृषा भग्नदंष्ट्रा इवोरगाः
+09_003_0009 [No such line, due to a misnumbering in the printed text]
+12_017C_0080 ततो ब्रह्मादयो देवा लोकपालास्तथैव च
+12_019_0233 अनेन साध्यं किं स्याद्वै शब्देनेति मतिर्मम
+12_029B_0171 चाप्रतिबुद्धत्वात्तदेकत्वमपदिश्यते | नानात्वं नाम यदयं सत्त्वादव्यक्ताच्
+12_029B_0387 ऋषिभ्यः | तदेतत्परमं तत्परेण भगवता व्यासेन व्यासान्
+13_001A_0148 सा त्ववक्रमतिर्देवी विनता जिह्मगामिनीम्
+13_003_0039 ये च संध्यामुपासन्ते सम्यगुक्ता महाव्रताः
+13_011_0009 [No such line: the numbering here is strange]
+13_012_0032 समाप्ते भोजयेद्विप्रानथ वा दापयेद्घृतम्
+13_012_0033 अतः परं नोपवासो भवतीति विनिश्चयः
+13_014_0512 येषां धर्माश्रिता बुद्धिः श्रद्दधानाश्च ये नराः
+13_015_0289 [No such line, due to a misnumbering in the printed text]
+13_015_2892 प्रोच्यते तत्त्रिधा देवि सुकृतं च समासतः
+14_004_0204 वणिग्धर्मान्न मुञ्चन्वै देवब्राह्मणपूजकः
+14_004_1142 ततः कालावतीर्णश्च सोऽस्मिँल्लोके हि जायते
+14_004_1702 भयं विक्लवता जाड्यं पापकं मन्युरेव च
+14_004_2327 [Of the अक्षर following सम, only the अनुस्वार is legible]
+14_004_3261 ऊर्ध्वामेव गतिं विद्धि किं पुनर्ज्ञानिनां नृणाम्
+14_004_3292 यस्तु राजाश्रयेणैव जीवेद्द्वादशवार्षिकम्

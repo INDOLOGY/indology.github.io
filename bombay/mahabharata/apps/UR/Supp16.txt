@@ -1,0 +1,342 @@
+% Mahābhārata: supplementary passages - Mausalaparvan
+% Last updated: Tue Mar 13 2001
+% Encoding: Unicode Roman
+% Electronic text (C) Bhandarkar Oriental Research Institute,
+% Pune, India, 2001
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+% Book 16, star passages
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+% The introductory mantra
+16*0001_01 nārāyaṇaṁ namaskr̥tya naraṁ caiva narottamam
+16*0001_02 devīṁ sarasvatīṁ caiva tato jayam udīrayet
+
+% 16.1.6
+% For 6cd, D5.6 T2.4 G1.2 M1
+% subst.:
+16*0002_01 dr̥śyante jagato nāthe divam āroḍhum icchati
+% After 6, D5.6 T2-4 G1.2 ins.:
+16*0003_01 yasya prasādād dharmo ’yaṁ kr̥te yadvat kalāv api
+16*0003_02 pāṇḍavās tu mahābhāgā yuktās tu yaśasānaghāḥ
+
+% 16.2.1
+% After 1,
+% T1.3 G3 M5 ins.:
+16*0004_01 etad bhavantaṁ pr̥cchāmi saṁmānyābhipraṇamya ca
+
+% 16.2.15
+% After 15ab, K B1-5 Dn D1-4.5 (marg.).7-9 T3
+% ins.:
+16*0005_01 yena vr̥ṣṇyandhakakule puruṣā bhasmasāt kr̥tāḥ
+
+% 16.2.17
+% For 17ab, K4 B D (except
+% D6) T3 subst.:
+16*0006_01 tac cūrṇaṁ sāgare cāpi prākṣipan puruṣā nr̥pa
+% After 17ab, M4 ins.:
+16*0007_01 jajñe sāve[va?]rakāś cūrṇaṁ prakl̥ptaṁ tair mahodadhau
+% After 17, K
+% (K2 after 16) B Dn D1-4.5 (marg.).7-9 T2.3 ins.:
+16*0008_01 janārdanasya rāmasya babhroś caiva mahātmanaḥ
+
+% 16.3.2
+% For 2ab, K4 subst.:
+16*0009_01 karaṭo muṇḍaḥ puruṣaḥ kr̥ṣṇapiṅgalalocanaḥ
+% After 2ab, K3.5 ins.:
+16*0010_01 samūhini mahāketur japāpuṣpāvataṁsakaḥ
+16*0010_02 kr̥kalāsavāhanagaḥ kākapakṣavibhūṣaṇaḥ
+% After 2, N (except D6) T2.3 ins.:
+16*0011_01 tam aghnanta maheṣvāsāḥ śaraiḥ śatasahasraśaḥ
+16*0011_02 na cāśakyata veddhuṁ sa sarvabhūtātyayas tadā
+
+% 16.3.4
+% After
+% 4ab, N (except D5.6) T3 ins.:
+16*0012_01 keśā nakhāś ca suptānām adyante mūṣakair niśi
+
+% 16.3.13
+% After
+% 13ab, T1 ins.:
+16*0013_01 aśrūyanta śunāṁ śabdāḥ sarvataḥ karṇavedhakāḥ
+
+% 16.3.20
+% After 20, K3 ins.:
+16*0014_01 puṇyadānapradāc cāpi śāntimohāc ca kevalāt
+16*0014_02 puṇyakarmaprayogāc ca nānyac chreyo bhaved iti
+
+% 16.4.1
+% After 1, N (except
+% D4) T2.3 ins.:
+16*0015_01 agnihotraniketeṣu vāstumadhyeṣu veśmasu
+16*0015_02 vr̥ṣṇyandhakān akhādanta svapne gr̥dhrā bhayānakāḥ
+% K3.5 cont.:
+16*0016_01 kurvanto bhīṣaṇān nādān karālāś cāpy asaṁgatāḥ
+16*0016_02 tathā dviśiraso raudrāś caturbāhava eva ca
+16*0016_03 strīṇāṁ garbheṣu jāyante rākṣasā guhyakās tathā
+
+% 16.4.5
+% After 5, D5.6 T2.4 G1.2 ins.:
+16*0017_01 bhagavaddarśanasparśasnehair vitatabhoginām
+16*0017_02 divaḥ praveśanārthaṁ te vimānair divam āyayuḥ
+
+% 16.4.17
+% For 17cd,
+% D5.6 T1.2.4 G1.2.5 M subst.:
+16*0018_01 na tan mr̥ṣyati hārdikyo yad avocat tadā ruṣā
+
+% 16.4.33
+% After 33ab, K3.4 B D (except D5.6) T2.3 ins.:
+16*0019_01 vyāyacchamānau tau vīrau bāhudraviṇaśālinau
+
+% 16.5.12
+% For 12cd,
+% K1 subst.:
+16*0021_01 śveto yayau cāpi mahānubhāvo
+16*0021_02 mahārṇavaṁ yena tam īkṣamāṇaḥ
+
+% 16.5.13
+% After 13ab, D5.6 T G1-3.5 M ins.:
+16*0022_01 saṁdr̥śya taṁ sāgarāntaṁ viśantaṁ
+
+% 16.5.15
+% For 15ef, K3
+% subst.:
+16*0023_01 samāgatās te naradevarūpair
+16*0023_02 anandanta pūjayaṁś cādyadevam
+% After 15, D5.6 T1.2.4 G1-3.5 M1-4 ins.:
+16*0024_01 saṁkarṣaṇaṁ bhūdharaṁ śuddhabuddhim
+
+% 16.5.17
+% D5.6 T2.4 G1.2 ins.
+% after 17: T3 after 18ab:
+16*0025_01 kulastrīṇāṁ suvratānāṁ gavāṁ ca
+16*0025_02 dvijendrāṇāṁ balam ādāya dharme
+16*0025_03 yonir devānāṁ varado brahmadevo
+16*0025_04 govindākhyo vāsudevo ’tha nityaḥ
+
+% 16.5.18
+% After 18, Dn D2.5.6.9 T G1-3.5 M ins.:
+16*0026_01 yathā ca lokasthitipālanārthaṁ
+16*0026_02 durvāsavākyapratipālanārtham
+16*0026_03 devo ’pi saṁdehavimokṣahetor
+16*0026_04 nimittam aicchat sakalārthatattvavit
+
+% 16.5.20
+% For 20abcd, K1.2.5 D5.6
+% T1.2.4 G1-3.5 M subst.:
+16*0027_01 kr̥ṣṇaṁ śayānaṁ sa vikr̥ṣya bāṇaṁ
+16*0027_02 vivyādha pāde mr̥gaśaṅkayā jarā
+
+% 16.5.21
+% After 21abc, D5.6 T2.4 G1.2 ins.:
+16*0028_01 tathānutāpāt karmaṇo janmanaś ca
+16*0028_02 dr̥ṣṭvā tathā devam anantavīryaṁ
+16*0028_03 devaiḥ svargaṁ prāpitas tyaktadehaḥ
+16*0028_04 gaṇair munīnāṁ pūjitas tatra kr̥ṣṇaḥ
+% For 21cd, K1-3.5 T1 G3.5 M subst.:
+16*0029_01 āśvāsayām āsa tataś ca kr̥ṣṇa
+16*0029_02 ūrdhvaṁ gacchan vyāpya lokān svalakṣmyā
+% After 21, K3 ins.:
+16*0030_01 taṁ yogayuktyā sahasā hi lakṣya
+
+% 16.5.22
+% After 22, G3 ins.:
+16*0031_01 gandharvamukhyā uragāś caiva sarve
+16*0031_02 pratuṣṭuvus tatra varāpsarobhiḥ
+
+% 16.5.24
+% For 24ab, K1-3.5 D5.6 T1.2.4 G1-3.5
+% M2-5 subst.:
+16*0032_01 tataḥ sameto madhusūdanas tair
+16*0032_02 devaiḥ sarvair r̥ṣibhiś cāraṇaiś ca
+
+% 16.5.25
+% After 25ab, B6 ins.:
+16*0033_01 śivabrahmādyair lokapālaiḥ sametya
+16*0033_02 saṁstūyamānaḥ surasiddhasaṁghaiḥ
+
+% 16.6.5
+% For 5cd, D1 subst.:
+16*0034_01 arjunaṁ tāḥ sma nāthaṁ ca dr̥ṣṭvānāthaṁ vicukruśuḥ
+
+% 16.7.2
+% After 2, N (except D5.6; K3
+% after 2ab) T2.3 ins.:
+16*0035_01 tasya mūrdhānam āghrātum iyeṣānakadundubhiḥ
+16*0035_02 svasrīyasya mahābāhur na śaśāka ca śatruhan
+
+% 16.7.11
+% K
+% B1-5 D (except D5.6) T2.3 ins. after 11: B6
+% after 9ab:
+16*0036_01 tvaṁ hi taṁ nāradaś caiva munayaś ca sanātanam
+16*0036_02 govindaṁ paramaṁ devam abhijānīdhvam acyutam
+16*0036_03 pratyapaśyac ca sa vibhur jñātikṣayam adhokṣajaḥ
+16*0036_04 upaprekṣitavān nityaṁ svayaṁ sa mama putrakaḥ
+16*0036_05 gāndhāryā vacanaṁ yat tad r̥ṣīṇāṁ ca paraṁtapa
+16*0036_06 tan nūnam anyathā kartuṁ naicchat sa jagataḥ prabhuḥ
+16*0036_07 pratyakṣaṁ bhavataś cāpi tava pautraḥ paraṁtapa
+16*0036_08 aśvatthāmnā hataś cāpi jīvitas tasya tejasā
+16*0036_09 imāṁs tu naicchat svāñ jñātīn rakṣituṁ sa sakhā tava
+
+% 16.7.15
+% After 15ab, G2 ins.:
+16*0037_01 yathā jīvaṁ paraṁ brahma mahāvākyasya niścayāt
+
+% 16.7.22
+% After 22ab,
+% T1 ins.:
+16*0038_01 prāpya vr̥ṣṇipravīreṇa yadubhiś caiva pālitaḥ
+16*0038_02 tair hīnāṁ pr̥thivīṁ draṣṭuṁ na ca śakṣyāmi phalguna
+
+% 16.8.30
+% After 30, D5.6 T2-4 G1.2
+% M1 ins.:
+16*0039_01 tato bhagavato dehaṁ dr̥ṣṭvā śiṣyaḥ pralapya ca
+16*0039_02 smr̥tvā tad vacanaṁ sarvaṁ mohaśokopabr̥ṁhitam
+
+% 16.8.31
+% After
+% 31, M1 ins.:
+16*0040_01 aṣṭau mahiṣyaḥ kr̥ṣṇasya rukmiṇīpramukhā nr̥pa
+16*0040_02 revatī ca mahābhāgā viviśur jātavedasam
+16*0040_03 tayoḥ śarīre saṁśliṣya tatsaṅgāhlādaśītaḷe
+
+% 16.8.40
+% K B1-5 D (except D6) ins. after 40:
+% B6 after 37:
+16*0041_01 yad yad dhi puruṣavyāghro bhūmes tasyā vyamuñcata
+16*0041_02 tat tat saṁplāvayām āsa salilena sa sāgaraḥ
+% K3.5 cont.:
+16*0042_01 abravīc ca tadā sarvān prāṇinas tatra sāgaraḥ
+16*0042_02 tyaktvā suvarṇanicayān ratnāni vividhāni ca
+16*0042_03 bhājanāni ca haimāni raupyāṇi vividhāni ca
+16*0042_04 parityajyeha saṁyātam abhedyaṁ dravyasattamam
+16*0042_05 saveśmakā purī ceyaṁ hareḥ pālyā mayādhunā
+16*0042_06 punar yatrāvatāraś ca bhaviṣyati kr̥te yuge
+16*0042_07 kośādhyakṣo ’smy ahaṁ tasya tasyaitāny api no dhanam
+
+% 16.8.46
+% After 46ab,
+% M4 ins.:
+16*0043_01 hatvā garvaṁ samārūḍho bhīṣmakarṇajayadrathān
+16*0043_02 yaṣṭihastān avekṣyāsmān avajānāti durmatiḥ
+% After 46, M1 ins.:
+16*0044_01 bhīṣmadroṇamukhān hatvā nivātakavacān api
+16*0044_02 jitvā śakraṁ ca rudraṁ ca so ’smān adyāvamanyate
+
+% 16.8.52
+% After 52ab, B2.3 ins.:
+16*0045_01 ākroṣṭuṁ nāśakaj jiṣṇuḥ sarvaprāṇaiś ca bhārata
+
+% 16.8.53
+% After
+% 53a, M1 ins.:
+16*0046_01                    tac cābhūc chithilaṁ punaḥ
+16*0046_02 tvagbhedaṁ na śarāś cakrur astā gāṇḍīvadhanvanā
+
+% 16.8.66
+% D5.6 T2.4 G1.2 M1 subst. for 66ab, while M4 ins.
+% after 66ab:
+16*0047_01 yudhiṣṭhirasyānumate vaṁśakartr̥kumārakān
+
+% 16.8.67
+% After 67ab, D5.6
+% T2-4 G1.2 ins.:
+16*0048_01 dagdhe ’tra khāṇḍavāraṇye rājye taṁ saṁnyaveśayat
+
+% 16.8.70
+% After 70, K3.5 ins.:
+16*0049_01 sarasvatīṁ praviviśus tathānyāḥ śuddhacetasaḥ
+
+% 16.8.72
+% After 72, K3.5 Dn2 D9 ins.:
+16*0050_01 phalamūlādibhojinyo haridhyānaikatatparāḥ
+16*0050_02 himavantam atikramya kalāpagrāmam āviśan
+
+% 16.9.4
+% After 4,
+% K3.5 Dn D2-5.8.9 T3 (marg.) G1 ins.:
+16*0051_01 nakhakeśadaśākumbhavāriṇā kiṁ samukṣitaḥ
+% On the other hand, G2 ins.:
+16*0052_01 paricārakeṣu yaḥ kaś cit tiṣṭhann eva vinidritaḥ
+16*0052_02 patitas tavopariṣadād gata ......................
+16*0052_03 sarvopaniṣadām arthaṁ yo brūte sa mahāguruḥ
+16*0052_04 tena saṁpūjitaṁ liṅgam uddiśya prativāsaram
+16*0052_05 niṣkadāne namaskāre niyame kena vighnitaḥ
+16*0052_06 ahany ahani vedāntaśravaṇaṁ ghaṭikādvayam
+
+% 16.9.6
+% After 6, M4 ins.:
+16*0053=00 vaiśaṁpāyanaḥ
+16*0053_01 tataḥ pārtho viniḥśvasya śrūyatāṁ bhagavan iti
+16*0053_02 proktvā yathāvad ācaṣṭe vyāsāyātmaparābhavam
+
+% 16.9.7
+% After 7, D5.6 T2.4 G1.2 M1
+% ins.:
+16*0054_01 tad anusmr̥tya saṁmohaṁ sadā śokaṁ mahāmate
+16*0054_02 prayāmi sarvadā mahyaṁ mumūrṣā copajāyate
+16*0054_03 tvadvākyasparśanālokasukhaṁ cāmr̥tasaṁnibham
+16*0054_04 saṁsmr̥tya devadevasya pramuhyāmi mahātmanaḥ
+% On the other hand, M4 ins. after 7:
+16*0055_01 bhīṣmadroṇāṅgarājādyās tathā duryodhanādayaḥ
+16*0055_02 yatprabhāveṇa nirdagdhāḥ sa kr̥ṣṇas tyaktavān bhuvam
+
+% 16.9.18
+% After 18, K3.5
+% ins.:
+16*0056_01 tad dhanus tāni cāstrāṇi sa rathas te ca vājinaḥ
+16*0056_02 sarvam ekapade bhraṣṭaṁ dānam aśrotriye yathā
+
+% 16.9.22
+% After 22, D5.6 T G1-3
+% ins.:
+16*0057_01 devakīnandanaṁ devaṁ vāsudevam ajaṁ prabhum
+
+% 16.9.25
+% After the ref., D5.6 T2-4 G1.2 ins.:
+16*0058_01 devāṁśā devadevena saṁbhūtās te gatāḥ saha
+16*0058_02 dharmavyavasthārakṣārthaṁ devena samupekṣitāḥ
+
+% 16.9.27
+% After
+% 27, D5.6 T2-4 G1.2 M1.4 ins.:
+16*0059_01 striyaś ca tāḥ purā śaptāḥ prahāsakupitena vai
+16*0059_02 aṣṭāvakreṇa muninā tadarthaṁ tvadbalakṣayaḥ
+
+% 16.9.32
+% After
+% 32, M4 ins.:
+16*0060_01 tvayaikena hatāḥ pūrvaṁ bhīṣmakarṇādayo nr̥pāḥ
+16*0060_02 te mām arjuna kālotthakarmaṇābhibhavo na saḥ
+16*0060_03 tvayā yat kauravā dhvastā yadābhīrair bhavāñ jitaḥ
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Book 16, Appendix I passages
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% T G1-3.5 M ins. after 16.5.25: D5.6 after 15.
+% 5.25abc:
+16_001_0001 namo namas te bhagavañ śārṅgadhanvan
+16_001_0002 dharmasthityā prādurāsīr dharāyām
+16_001_0003 kaṁsākhyādīn devaśatrūṁś ca sarvān
+16_001_0004 hatvā bhūmiḥ sthāpitā bhārataptā
+16_001_0005 divyaṁ sthānam ajaraṁ cāprameyaṁ
+16_001_0006 durvijñeyaṁ cāgamair gamyam agryam
+16_001_0007 gaccha prabho rakṣa cārtiṁ prapannān
+16_001_0008 kalpe kalpe jāyamāna svamūrtyā
+16_001_0009 ity evam uktvā devasaṁgho ’nugamya
+16_001_0010 śriyā yuktaṁ puṣpavr̥ṣṭyā vavarṣa
+16_001_0011 vāṇī hy āsīt saṁśritā rūpiṇī sā
+16_001_0012 bhānor madhye praviśa tvaṁ tu rājan
+16_001_0013 bhujaiś caturbhiḥ samupetaṁ mamedaṁ
+16_001_0014 rūpaṁ viśiṣṭaṁ divi saṁsthitaṁ ca
+16_001_0015 bhūmau gataṁ pūjayatāprameyaṁ
+16_001_0016 sadā hi tasmin nivasāmi devāḥ
+16_001_0017 devā nivr̥ttās tat padaṁ nāpnuvanto
+16_001_0018 buddhyā devaṁ saṁsmarantaḥ pratītāḥ
+16_001_0019 brahmādyās te tadguṇān kīrtayantaḥ
+16_001_0020 śubhām̐l lokān svān prapeduḥ surendrāḥ

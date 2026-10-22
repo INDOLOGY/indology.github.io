@@ -1,0 +1,94 @@
+<html><head>
+<base href="/bombay/" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="content-type" content="text/html;
+charset=UTF-8"><title>Utility programs</title>
+</head>
+
+<body bgcolor="#e7e7e7">
+
+<h1>Utility programs</h1>
+
+<p>Here you can find various sets of programs for use with
+Indian-language text.</p>
+
+<p>There is a set of <a href="/bombay/software/programs/perlconv.zip"
+title="Conversion utilities">conversion utilities</a> written in the
+programming language Perl, which is installed by default on most Unix
+systems and is freely available for all systems. These programs
+(csx2tex, dn2tex, tex2csx, tex2dn, iscii2csx, tex2norman, norman2tex)
+are for use in converting between different encodings used to
+represent Indian-language text: (1) CSX, (2) the DN encoding used in
+conjunction with Frans Veltuis's “Devanagari for TeX” package, (3) the
+ISCII standard used by much Indian software, (4) the encoding
+popularised by Professor K. R. Norman, and (5) my variation on
+standard TeX (in which “\.” represents a <i>subscript</i> dot, “\:” a
+superscript). Some of the programs accept options on the command line
+to modify their behaviour: these have a “-h” option which provides
+basic help.</p>
+
+<p>A second set of <a href="/bombay/software/programs/cconv.zip" title="Conversion
+programs">conversion programs</a> are written not in Perl but in C; source
+code and Win32 executables are provided. Csx2isc and csxp2isc convert
+respectively from CSX and CSX+ to ISCII. Csxp2ur converts text from CSX+ to
+accented Unicode Roman. A2c and c2a convert between CSX and Harvard-Kyoto
+ASCII. Iscii2ud converts from ISCII to Unicode Devanagari, and ud2iscii
+converts in the opposite direction. Ur2ud converts from Unicode Roman to
+Unicode Devanagari; it can read and write UTF-8 and other standard Unicode
+formats; Roman transliteration adheres to the ISO 15919 standard. Ud2ur
+converts in the opposite direction, but both input and output are restricted
+UTF-8. There is also a Unicode format converter uconv, which can convert
+between UTF-8 and the two UCS-2 variants (big- and little-endian). Both ur2ud
+and uconv have a “-h” option to provide help on usage.</p>
+
+Macros for Microsoft Word enabling the user to convert documents using legacy
+encodings such as CSX+ or Norman to Unicode can be
+found <a href="/bombay/software/fonts/word-macros.zip" title="Word macros">here</a>;
+suitable Unicode fonts can be
+found <a href="/bombay/software/fonts/induni/index.html" title="IndUni">here</a>.</p>
+
+<p>There are two <a href="/bombay/software/programs/sktutils.zip" title="Sanskrit
+utilities">Sanskrit-related utilities</a> written in Perl. Vaccent is intended
+for use in conjunction with ur2ud (available in
+the <a href="/bombay/software/programs/cconv.zip" title="Conversion
+programs">conversion programs</a> above). It reads in an accented Vedic text
+in Unicode Roman transliteration, which must adhere to ISO 15919 conventions,
+and outputs the same file with Vedic accents added; this output file can then
+be processed with ur2ud -s to produce a Devanagari version of the text
+correctly accented according to the system used in the RV, AV, TS, etc. Sscan
+is a simple program that generates metrical analyses of Sanskrit verse texts.
+It is particularly geared to the texts of the two epics, but stands a good
+chance of working with any Unicode Roman text in a reasonably sane
+format. </p>
+
+<p>The zip-file <a href="/bombay/software/programs/accfonts.zip"
+title="accfonts.zip">accfonts.zip</a> contains three Perl programs
+which address the same requirement using the same basic algorithms:
+their aim is to make it easy to create versions of existing fonts
+containing whatever accented characters the user may need, arranged
+according to whatever encoding he/she may favour. Mkt1font does this
+by reading in the two files that define a Type 1 PostScript font and
+writing out new versions of them; vpl2vpl does it by reading in the
+file that defines a TeX virtual font and writing out a new version of
+it; vpl2ovp does it in the same way as vpl2vpl, but generates virtual
+fonts for Omega, the 16-bit Unicode-aware development from TeX. In
+each case information about what accented characters are required and
+where they should be located is supplied by means of a simple
+definition file, which has the same format for all three programs. For
+more details consult the README file provided.</p>
+
+<p>Please email any problems to John Smith: <b>jds10 &lt;at&gt;
+cam.ac.uk</b>.</p>
+
+<a href="/bombay/"><i>Back to home page</i></a>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6465011-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body></html>

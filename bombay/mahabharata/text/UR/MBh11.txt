@@ -1,0 +1,1556 @@
+% Mahābhārata: Strīparvan
+% Last updated: Mon Apr 17 2017
+% Encoding: Unicode Roman
+% Electronic text (C) Bhandarkar Oriental Research Institute,
+% Pune, India, 1999
+%
+11001001  janamejaya uvāca
+11001001a hate duryodhane caiva hate sainye ca sarvaśaḥ
+11001001c dhr̥tarāṣṭro mahārājaḥ śrutvā kim akaron mune
+11001002a tathaiva kauravo rājā dharmaputro mahāmanāḥ
+11001002c kr̥paprabhr̥tayaś caiva kim akurvata te trayaḥ
+11001003a aśvatthāmnaḥ śrutaṁ karma śāpaś cānyonyakāritaḥ
+11001003c vr̥ttāntam uttaraṁ brūhi yad abhāṣata saṁjayaḥ
+11001004  vaiśaṁpāyana uvāca
+11001004a hate putraśate dīnaṁ chinnaśākham iva drumam
+11001004c putraśokābhisaṁtaptaṁ dhr̥tarāṣṭraṁ mahīpatim
+11001005a dhyānamūkatvam āpannaṁ cintayā samabhiplutam
+11001005c abhigamya mahāprājñaḥ saṁjayo vākyam abravīt
+11001006a kiṁ śocasi mahārāja nāsti śoke sahāyatā
+11001006c akṣauhiṇyo hatāś cāṣṭau daśa caiva viśāṁ pate
+11001006e nirjaneyaṁ vasumatī śūnyā saṁprati kevalā
+11001007a nānādigbhyaḥ samāgamya nānādeśyā narādhipāḥ
+11001007c sahitās tava putreṇa sarve vai nidhanaṁ gatāḥ
+11001008a pitr̥̄ṇāṁ putrapautrāṇāṁ jñātīnāṁ suhr̥dāṁ tathā
+11001008c gurūṇāṁ cānupūrvyeṇa pretakāryāṇi kāraya
+11001009  vaiśaṁpāyana uvāca
+11001009a tac chrutvā karuṇaṁ vākyaṁ putrapautravadhārditaḥ
+11001009c papāta bhuvi durdharṣo vātāhata iva drumaḥ
+11001010  dhr̥tarāṣṭra uvāca
+11001010a hataputro hatāmātyo hatasarvasuhr̥jjanaḥ
+11001010c duḥkhaṁ nūnaṁ bhaviṣyāmi vicaran pr̥thivīm imām
+11001011a kiṁ nu bandhuvihīnasya jīvitena mamādya vai
+11001011c lūnapakṣasya iva me jarājīrṇasya pakṣiṇaḥ
+11001012a hr̥tarājyo hatasuhr̥d dhatacakṣuś ca vai tathā
+11001012c na bhrājiṣye mahāprājña kṣīṇaraśmir ivāṁśumān
+11001013a na kr̥taṁ suhr̥dāṁ vākyaṁ jāmadagnyasya jalpataḥ
+11001013c nāradasya ca devarṣeḥ kr̥ṣṇadvaipāyanasya ca
+11001014a sabhāmadhye tu kr̥ṣṇena yac chreyo ’bhihitaṁ mama
+11001014c alaṁ vaireṇa te rājan putraḥ saṁgr̥hyatām iti
+11001015a tac ca vākyam akr̥tvāhaṁ bhr̥śaṁ tapyāmi durmatiḥ
+11001015c na hi śrotāsmi bhīṣmasya dharmayuktaṁ prabhāṣitam
+11001016a duryodhanasya ca tathā vr̥ṣabhasyeva nardataḥ
+11001016c duḥśāsanavadhaṁ śrutvā karṇasya ca viparyayam
+11001016e droṇasūryoparāgaṁ ca hr̥dayaṁ me vidīryate
+11001017a na smarāmy ātmanaḥ kiṁ cit purā saṁjaya duṣkr̥tam
+11001017c yasyedaṁ phalam adyeha mayā mūḍhena bhujyate
+11001018a nūnaṁ hy apakr̥taṁ kiṁ cin mayā pūrveṣu janmasu
+11001018c yena māṁ duḥkhabhāgeṣu dhātā karmasu yuktavān
+11001019a pariṇāmaś ca vayasaḥ sarvabandhukṣayaś ca me
+11001019c suhr̥nmitravināśaś ca daivayogād upāgataḥ
+11001019e ko ’nyo ’sti duḥkhitataro mayā loke pumān iha
+11001020a tan mām adyaiva paśyantu pāṇḍavāḥ saṁśitavratam
+11001020c vivr̥taṁ brahmalokasya dīrgham adhvānam āsthitam
+11001021  vaiśaṁpāyana uvāca
+11001021a tasya lālapyamānasya bahuśokaṁ vicinvataḥ
+11001021c śokāpahaṁ narendrasya saṁjayo vākyam abravīt
+11001022a śokaṁ rājan vyapanuda śrutās te vedaniścayāḥ
+11001022c śāstrāgamāś ca vividhā vr̥ddhebhyo nr̥pasattama
+11001022e sr̥ñjaye putraśokārte yad ūcur munayaḥ purā
+11001023a tathā yauvanajaṁ darpam āsthite te sute nr̥pa
+11001023c na tvayā suhr̥dāṁ vākyaṁ bruvatām avadhāritam
+11001023e svārthaś ca na kr̥taḥ kaś cil lubdhena phalagr̥ddhinā
+11001024a tava duḥśāsano mantrī rādheyaś ca durātmavān
+11001024c śakuniś caiva duṣṭātmā citrasenaś ca durmatiḥ
+11001024e śalyaś ca yena vai sarvaṁ śalyabhūtaṁ kr̥taṁ jagat
+11001025a kuruvr̥ddhasya bhīṣmasya gāndhāryā vidurasya ca
+11001025c na kr̥taṁ vacanaṁ tena tava putreṇa bhārata
+11001026a na dharmaḥ satkr̥taḥ kaś cin nityaṁ yuddham iti bruvan
+11001026c kṣapitāḥ kṣatriyāḥ sarve śatrūṇāṁ vardhitaṁ yaśaḥ
+11001027a madhyastho hi tvam apy āsīr na kṣamaṁ kiṁ cid uktavān
+11001027c dhūr dhareṇa tvayā bhāras tulayā na samaṁ dhr̥taḥ
+11001028a ādāv eva manuṣyeṇa vartitavyaṁ yathā kṣamam
+11001028c yathā nātītam arthaṁ vai paścāttāpena yujyate
+11001029a putragr̥ddhyā tvayā rājan priyaṁ tasya cikīrṣatā
+11001029c paścāttāpam idaṁ prāptaṁ na tvaṁ śocitum arhasi
+11001030a madhu yaḥ kevalaṁ dr̥ṣṭvā prapātaṁ nānupaśyati
+11001030c sa bhraṣṭo madhulobhena śocaty eva yathā bhavān
+11001031a arthān na śocan prāpnoti na śocan vindate sukham
+11001031c na śocañ śriyam āpnoti na śocan vindate param
+11001032a svayam utpādayitvāgniṁ vastreṇa pariveṣṭayet
+11001032c dahyamāno manastāpaṁ bhajate na sa paṇḍitaḥ
+11001033a tvayaiva sasutenāyaṁ vākyavāyusamīritaḥ
+11001033c lobhājyena ca saṁsikto jvalitaḥ pārthapāvakaḥ
+11001034a tasmin samiddhe patitāḥ śalabhā iva te sutāḥ
+11001034c tān keśavārcir nirdagdhān na tvaṁ śocitum arhasi
+11001035a yac cāśrupātakalilaṁ vadanaṁ vahase nr̥pa
+11001035c aśāstradr̥ṣṭam etad dhi na praśaṁsanti paṇḍitāḥ
+11001036a visphuliṅgā iva hy etān dahanti kila mānavān
+11001036c jahīhi manyuṁ buddhyā vai dhārayātmānam ātmanā
+11001037a evam āśvāsitas tena saṁjayena mahātmanā
+11001037c viduro bhūya evāha buddhipūrvaṁ paraṁtapa
+11002001  vaiśaṁpāyana uvāca
+11002001a tato ’mr̥tasamair vākyair hlādayan puruṣarṣabham
+11002001c vaicitravīryaṁ viduro yad uvāca nibodha tat
+11002002  vidura uvāca
+11002002a uttiṣṭha rājan kiṁ śeṣe dhārayātmānam ātmanā
+11002002c sthirajaṅgamamartyānāṁ sarveṣām eṣa nirṇayaḥ
+11002003a sarve kṣayāntā nicayāḥ patanāntāḥ samucchrayāḥ
+11002003c saṁyogā viprayogāntā maraṇāntaṁ hi jīvitam
+11002004a yadā śūraṁ ca bhīruṁ ca yamaḥ karṣati bhārata
+11002004c tat kiṁ na yotsyanti hi te kṣatriyāḥ kṣatriyarṣabha
+11002005a ayudhyamāno mriyate yudhyamānaś ca jīvati
+11002005c kālaṁ prāpya mahārāja na kaś cid ativartate
+11002006a na cāpy etān hatān yuddhe rājañ śocitum arhasi
+11002006c pramāṇaṁ yadi śāstrāṇi gatās te paramāṁ gatim
+11002007a sarve svādhyāyavanto hi sarve ca caritavratāḥ
+11002007c sarve cābhimukhāḥ kṣīṇās tatra kā paridevanā
+11002008a adarśanād āpatitāḥ punaś cādarśanaṁ gatāḥ
+11002008c na te tava na teṣāṁ tvaṁ tatra kā paridevanā
+11002009a hato ’pi labhate svargaṁ hatvā ca labhate yaśaḥ
+11002009c ubhayaṁ no bahuguṇaṁ nāsti niṣphalatā raṇe
+11002010a teṣāṁ kāmadughām̐l lokān indraḥ saṁkalpayiṣyati
+11002010c indrasyātithayo hy ete bhavanti puruṣarṣabha
+11002011a na yajñair dakṣiṇāvadbhir na tapobhir na vidyayā
+11002011c svargaṁ yānti tathā martyā yathā śūrā raṇe hatāḥ
+11002012a mātāpitr̥sahasrāṇi putradāraśatāni ca
+11002012c saṁsāreṣv anubhūtāni kasya te kasya vā vayam
+11002013a śokasthānasahasrāṇi bhayasthānaśatāni ca
+11002013c divase divase mūḍham āviśanti na paṇḍitam
+11002014a na kālasya priyaḥ kaś cin na dveṣyaḥ kurusattama
+11002014c na madhyasthaḥ kva cit kālaḥ sarvaṁ kālaḥ prakarṣati
+11002015a anityaṁ jīvitaṁ rūpaṁ yauvanaṁ dravyasaṁcayaḥ
+11002015c ārogyaṁ priyasaṁvāso gr̥dhyed eṣu na paṇḍitaḥ
+11002016a na jānapadikaṁ duḥkham ekaḥ śocitum arhasi
+11002016c apy abhāvena yujyeta tac cāsya na nivartate
+11002017a aśocan pratikurvīta yadi paśyet parākramam
+11002017c bhaiṣajyam etad duḥkhasya yad etan nānucintayet
+11002017e cintyamānaṁ hi na vyeti bhūyaś cāpi vivardhate
+11002018a aniṣṭasaṁprayogāc ca viprayogāt priyasya ca
+11002018c manuṣyā mānasair duḥkhair yujyante ye ’lpabuddhayaḥ
+11002019a nārtho na dharmo na sukhaṁ yad etad anuśocasi
+11002019c na ca nāpaiti kāryārthāt trivargāc caiva bhraśyate
+11002020a anyām anyāṁ dhanāvasthāṁ prāpya vaiśeṣikīṁ narāḥ
+11002020c asaṁtuṣṭāḥ pramuhyanti saṁtoṣaṁ yānti paṇḍitāḥ
+11002021a prajñayā mānasaṁ duḥkhaṁ hanyāc chārīram auṣadhaiḥ
+11002021c etaj jñānasya sāmarthyaṁ na bālaiḥ samatām iyāt
+11002022a śayānaṁ cānuśayati tiṣṭhantaṁ cānutiṣṭhati
+11002022c anudhāvati dhāvantaṁ karma pūrvakr̥taṁ naram
+11002023a yasyāṁ yasyām avasthāyāṁ yat karoti śubhāśubham
+11002023c tasyāṁ tasyām avasthāyāṁ tat tat phalam upāśnute
+11003001  dhr̥tarāṣṭra uvāca
+11003001a subhāṣitair mahāprājña śoko ’yaṁ vigato mama
+11003001c bhuya eva tu vākyāni śrotum icchāmi tattvataḥ
+11003002a aniṣṭānāṁ ca saṁsargād iṣṭānāṁ ca vivarjanāt
+11003002c kathaṁ hi mānasair duḥkhaiḥ pramucyante ’tra paṇḍitāḥ
+11003003  vidura uvāca
+11003003a yato yato mano duḥkhāt sukhād vāpi pramucyate
+11003003c tatas tataḥ śamaṁ labdhvā sugatiṁ vindate budhaḥ
+11003004a aśāśvatam idaṁ sarvaṁ cintyamānaṁ nararṣabha
+11003004c kadalīsaṁnibho lokaḥ sāro hy asya na vidyate
+11003005a gr̥hāṇy eva hi martyānām āhur dehāni paṇḍitāḥ
+11003005c kālena viniyujyante sattvam ekaṁ tu śobhanam
+11003006a yathā jīrṇam ajīrṇaṁ vā vastraṁ tyaktvā tu vai naraḥ
+11003006c anyad rocayate vastram evaṁ dehāḥ śarīriṇām
+11003007a vaicitravīrya vāsaṁ hi duḥkhaṁ vā yadi vā sukham
+11003007c prāpnuvantīha bhūtāni svakr̥tenaiva karmaṇā
+11003008a karmaṇā prāpyate svargaṁ sukhaṁ duḥkhaṁ ca bhārata
+11003008c tato vahati taṁ bhāram avaśaḥ svavaśo ’pi vā
+11003009a yathā ca mr̥nmayaṁ bhāṇḍaṁ cakrārūḍhaṁ vipadyate
+11003009c kiṁ cit prakriyamāṇaṁ vā kr̥tamātram athāpi vā
+11003010a chinnaṁ vāpy avaropyantam avatīrṇam athāpi vā
+11003010c ārdraṁ vāpy atha vā śuṣkaṁ pacyamānam athāpi vā
+11003011a avatāryamāṇam āpākād uddhr̥taṁ vāpi bhārata
+11003011c atha vā paribhujyantam evaṁ dehāḥ śarīriṇām
+11003012a garbhastho vā prasūto vāpy atha vā divasāntaraḥ
+11003012c ardhamāsagato vāpi māsamātragato ’pi vā
+11003013a saṁvatsaragato vāpi dvisaṁvatsara eva vā
+11003013c yauvanastho ’pi madhyastho vr̥ddho vāpi vipadyate
+11003014a prākkarmabhis tu bhūtāni bhavanti na bhavanti ca
+11003014c evaṁ sāṁsiddhike loke kimartham anutapyase
+11003015a yathā ca salile rājan krīḍārtham anusaṁcaran
+11003015c unmajjec ca nimajjec ca kiṁ cit sattvaṁ narādhipa
+11003016a evaṁ saṁsāragahanād unmajjananimajjanāt
+11003016c karmabhogena badhyantaḥ kliśyante ye ’lpabuddhayaḥ
+11003017a ye tu prājñāḥ sthitāḥ satye saṁsārāntagaveṣiṇaḥ
+11003017c samāgamajñā bhūtānāṁ te yānti paramāṁ gatim
+11004001  dhr̥tarāṣṭra uvāca
+11004001a kathaṁ saṁsāragahanaṁ vijñeyaṁ vadatāṁ vara
+11004001c etad icchāmy ahaṁ śrotuṁ tattvam ākhyāhi pr̥cchataḥ
+11004002  vidura uvāca
+11004002a janmaprabhr̥ti bhūtānāṁ kriyāḥ sarvāḥ śr̥ṇu prabho
+11004002c pūrvam eveha kalale vasate kiṁ cid antaram
+11004003a tataḥ sa pañcame ’tīte māse māṁsaṁ prakalpayet
+11004003c tataḥ sarvāṅgasaṁpūrṇo garbho māse prajāyate
+11004004a amedhyamadhye vasati māṁsaśoṇitalepane
+11004004c tatas tu vāyuvegena ūrdhvapādo hy adhaḥśirāḥ
+11004005a yonidvāram upāgamya bahūn kleśān samr̥cchati
+11004005c yonisaṁpīḍanāc caiva pūrvakarmabhir anvitaḥ
+11004006a tasmān muktaḥ sa saṁsārād anyān paśyaty upadravān
+11004006c grahās tam upasarpanti sārameyā ivāmiṣam
+11004007a tataḥ prāptottare kāle vyādhayaś cāpi taṁ tathā
+11004007c upasarpanti jīvantaṁ badhyamānaṁ svakarmabhiḥ
+11004008a baddham indriyapāśais taṁ saṅgasvādubhir āturam
+11004008c vyasanāny upavartante vividhāni narādhipa
+11004008e badhyamānaś ca tair bhūyo naiva tr̥ptim upaiti saḥ
+11004009a ayaṁ na budhyate tāvad yamalokam athāgatam
+11004009c yamadūtair vikr̥ṣyaṁś ca mr̥tyuṁ kālena gacchati
+11004010a vāgghīnasya ca yanmātram iṣṭāniṣṭaṁ kr̥taṁ mukhe
+11004010c bhūya evātmanātmānaṁ badhyamānam upekṣate
+11004011a aho vinikr̥to loko lobhena ca vaśīkr̥taḥ
+11004011c lobhakrodhamadonmatto nātmānam avabudhyate
+11004012a kulīnatvena ramate duṣkulīnān vikutsayan
+11004012c dhanadarpeṇa dr̥ptaś ca daridrān parikutsayan
+11004013a mūrkhān iti parān āha nātmānaṁ samavekṣate
+11004013c śikṣāṁ kṣipati cānyeṣāṁ nātmānaṁ śāstum icchati
+11004014a adhruve jīvaloke ’smin yo dharmam anupālayan
+11004014c janmaprabhr̥ti varteta prāpnuyāt paramāṁ gatim
+11004015a evaṁ sarvaṁ viditvā vai yas tattvam anuvartate
+11004015c sa pramokṣāya labhate panthānaṁ manujādhipa
+11005001  dhr̥tarāṣṭra uvāca
+11005001a yad idaṁ dharmagahanaṁ buddhyā samanugamyate
+11005001c etad vistaraśaḥ sarvaṁ buddhimārgaṁ praśaṁsa me
+11005002  vidura uvāca
+11005002a atra te vartayiṣyāmi namaskr̥tvā svayaṁbhuve
+11005002c yathā saṁsāragahanaṁ vadanti paramarṣayaḥ
+11005003a kaś cin mahati saṁsāre vartamāno dvijaḥ kila
+11005003c vanaṁ durgam anuprāpto mahat kravyādasaṁkulam
+11005004a siṁhavyāghragajākārair atighorair mahāśanaiḥ
+11005004c samantāt saṁparikṣiptaṁ mr̥tyor api bhayapradam
+11005005a tad asya dr̥ṣṭvā hr̥dayam udvegam agamat param
+11005005c abhyucchrayaś ca romṇāṁ vai vikriyāś ca paraṁtapa
+11005006a sa tad vanaṁ vyanusaran vipradhāvan itas tataḥ
+11005006c vīkṣamāṇo diśaḥ sarvāḥ śaraṇaṁ kva bhaved iti
+11005007a sa teṣāṁ chidram anvicchan pradruto bhayapīḍitaḥ
+11005007c na ca niryāti vai dūraṁ na ca tair viprayujyate
+11005008a athāpaśyad vanaṁ ghoraṁ samantād vāgurāvr̥tam
+11005008c bāhubhyāṁ saṁpariṣvaktaṁ striyā paramaghorayā
+11005009a pañcaśīrṣadharair nāgaiḥ śailair iva samunnataiḥ
+11005009c nabhaḥspr̥śair mahāvr̥kṣaiḥ parikṣiptaṁ mahāvanam
+11005010a vanamadhye ca tatrābhūd udapānaḥ samāvr̥taḥ
+11005010c vallībhis tr̥ṇachannābhir gūḍhābhir abhisaṁvr̥taḥ
+11005011a papāta sa dvijas tatra nigūḍhe salilāśaye
+11005011c vilagnaś cābhavat tasmim̐l latāsaṁtānasaṁkaṭe
+11005012a panasasya yathā jātaṁ vr̥ntabaddhaṁ mahāphalam
+11005012c sa tathā lambate tatra ūrdhvapādo hy adhaḥśirāḥ
+11005013a atha tatrāpi cānyo ’sya bhūyo jāta upadravaḥ
+11005013c kūpavīnāhavelāyām apaśyata mahāgajam
+11005014a ṣaḍvaktraṁ kr̥ṣṇaśabalaṁ dviṣaṭkapadacāriṇam
+11005014c krameṇa parisarpantaṁ vallīvr̥kṣasamāvr̥tam
+11005015a tasya cāpi praśākhāsu vr̥kṣaśākhāvalambinaḥ
+11005015c nānārūpā madhukarā ghorarūpā bhayāvahāḥ
+11005015e āsate madhu saṁbhr̥tya pūrvam eva niketajāḥ
+11005016a bhūyo bhūyaḥ samīhante madhūni bharatarṣabha
+11005016c svādanīyāni bhūtānāṁ na yair bālo ’pi tr̥pyate
+11005017a teṣāṁ madhūnāṁ bahudhā dhārā prasravate sadā
+11005017c tāṁ lambamānaḥ sa pumān dhārāṁ pibati sarvadā
+11005017e na cāsya tr̥ṣṇā viratā pibamānasya saṁkaṭe
+11005018a abhīpsati ca tāṁ nityam atr̥ptaḥ sa punaḥ punaḥ
+11005018c na cāsya jīvite rājan nirvedaḥ samajāyata
+11005019a tatraiva ca manuṣyasya jīvitāśā pratiṣṭhitā
+11005019c kr̥ṣṇāḥ śvetāś ca taṁ vr̥kṣaṁ kuṭṭayanti sma mūṣakāḥ
+11005020a vyālaiś ca vanadurgānte striyā ca paramograyā
+11005020c kūpādhastāc ca nāgena vīnāhe kuñjareṇa ca
+11005021a vr̥kṣaprapātāc ca bhayaṁ mūṣakebhyaś ca pañcamam
+11005021c madhulobhān madhukaraiḥ ṣaṣṭham āhur mahad bhayam
+11005022a evaṁ sa vasate tatra kṣiptaḥ saṁsārasāgare
+11005022c na caiva jīvitāśāyāṁ nirvedam upagacchati
+11006001  dhr̥tarāṣṭra uvāca
+11006001a aho khalu mahad duḥkhaṁ kr̥cchravāsaṁ vasaty asau
+11006001c kathaṁ tasya ratis tatra tuṣṭir vā vadatāṁ vara
+11006002a sa deśaḥ kva nu yatrāsau vasate dharmasaṁkaṭe
+11006002c kathaṁ vā sa vimucyeta naras tasmān mahābhayāt
+11006003a etan me sarvam ācakṣva sādhu ceṣṭāmahe tathā
+11006003c kr̥pā me mahatī jātā tasyābhyuddharaṇena hi
+11006004  vidura uvāca
+11006004a upamānam idaṁ rājan mokṣavidbhir udāhr̥tam
+11006004c sugatiṁ vindate yena paralokeṣu mānavaḥ
+11006005a yat tad ucyati kāntāraṁ mahat saṁsāra eva saḥ
+11006005c vanaṁ durgaṁ hi yat tv etat saṁsāragahanaṁ hi tat
+11006006a ye ca te kathitā vyālā vyādhayas te prakīrtitāḥ
+11006006c yā sā nārī br̥hatkāyā adhitiṣṭhati tatra vai
+11006006e tām āhus tu jarāṁ prājñā varṇarūpavināśinīm
+11006007a yas tatra kūpo nr̥pate sa tu dehaḥ śarīriṇām
+11006007c yas tatra vasate ’dhastān mahāhiḥ kāla eva saḥ
+11006007e antakaḥ sarvabhūtānāṁ dehināṁ sarvahāry asau
+11006008a kūpamadhye ca yā jātā vallī yatra sa mānavaḥ
+11006008c pratāne lambate sā tu jīvitāśā śarīriṇām
+11006009a sa yas tu kūpavīnāhe taṁ vr̥kṣaṁ parisarpati
+11006009c ṣaḍvaktraḥ kuñjaro rājan sa tu saṁvatsaraḥ smr̥taḥ
+11006009e mukhāni r̥tavo māsāḥ pādā dvādaśa kīrtitāḥ
+11006010a ye tu vr̥kṣaṁ nikr̥ntanti mūṣakāḥ satatotthitāḥ
+11006010c rātryahāni tu tāny āhur bhūtānāṁ paricintakāḥ
+11006010e ye te madhukarās tatra kāmās te parikīrtitāḥ
+11006011a yās tu tā bahuśo dhārāḥ sravanti madhunisravam
+11006011c tāṁs tu kāmarasān vidyād yatra majjanti mānavāḥ
+11006012a evaṁ saṁsāracakrasya parivr̥ttiṁ sma ye viduḥ
+11006012c te vai saṁsāracakrasya pāśāṁś chindanti vai budhāḥ
+11007001  dhr̥tarāṣṭra uvāca
+11007001a aho ’bhihitam ākhyānaṁ bhavatā tattvadarśinā
+11007001c bhūya eva tu me harṣaḥ śrotuṁ vāgamr̥taṁ tava
+11007002  vidura uvāca
+11007002a śr̥ṇu bhūyaḥ pravakṣyāmi mārgasyaitasya vistaram
+11007002c yac chrutvā vipramucyante saṁsārebhyo vicakṣaṇāḥ
+11007003a yathā tu puruṣo rājan dīrgham adhvānam āsthitaḥ
+11007003c kva cit kva cic chramāt sthātā kurute vāsam eva vā
+11007004a evaṁ saṁsāraparyāye garbhavāseṣu bhārata
+11007004c kurvanti durbudhā vāsaṁ mucyante tatra paṇḍitāḥ
+11007005a tasmād adhvānam evaitam āhuḥ śāstravido janāḥ
+11007005c yat tu saṁsāragahanaṁ vanam āhur manīṣiṇaḥ
+11007006a so ’yaṁ lokasamāvarto martyānāṁ bharatarṣabha
+11007006c carāṇāṁ sthāvarāṇāṁ ca gr̥dhyet tatra na paṇḍitaḥ
+11007007a śārīrā mānasāś caiva martyānāṁ ye tu vyādhayaḥ
+11007007c pratyakṣāś ca parokṣāś ca te vyālāḥ kathitā budhaiḥ
+11007008a kliśyamānāś ca tair nityaṁ hanyamānāś ca bhārata
+11007008c svakarmabhir mahāvyālair nodvijanty alpabuddhayaḥ
+11007009a athāpi tair vimucyeta vyādhibhiḥ puruṣo nr̥pa
+11007009c āvr̥ṇoty eva taṁ paścāj jarā rūpavināśinī
+11007010a śabdarūparasasparśair gandhaiś ca vividhair api
+11007010c majjamānaṁ mahāpaṅke nirālambe samantataḥ
+11007011a saṁvatsarartavo māsāḥ pakṣāhorātrasaṁdhayaḥ
+11007011c krameṇāsya pralumpanti rūpam āyus tathaiva ca
+11007012a ete kālasya nidhayo naitāñ jānanti durbudhāḥ
+11007012c atrābhilikhitāny āhuḥ sarvabhūtāni karmaṇā
+11007013a rathaṁ śarīraṁ bhūtānāṁ sattvam āhus tu sārathim
+11007013c indriyāṇi hayān āhuḥ karma buddhiś ca raśmayaḥ
+11007014a teṣāṁ hayānāṁ yo vegaṁ dhāvatām anudhāvati
+11007014c sa tu saṁsāracakre ’smiṁś cakravat parivartate
+11007015a yas tān yamayate buddhyā sa yantā na nivartate
+11007015c yāmyam āhū rathaṁ hy enaṁ muhyante yena durbudhāḥ
+11007016a sa caitat prāpnute rājan yat tvaṁ prāpto narādhipa
+11007016c rājyanāśaṁ suhr̥nnāśaṁ sutanāśaṁ ca bhārata
+11007017a anutarṣulam evaitad duḥkhaṁ bhavati bhārata
+11007017c sādhuḥ paramaduḥkhānāṁ duḥkhabhaiṣajyam ācaret
+11007018a na vikramo na cāpy artho na mitraṁ na suhr̥jjanaḥ
+11007018c tathonmocayate duḥkhād yathātmā sthirasaṁyamaḥ
+11007019a tasmān maitraṁ samāsthāya śīlam āpadya bhārata
+11007019c damas tyāgo ’pramādaś ca te trayo brahmaṇo hayāḥ
+11007020a śīlaraśmisamāyukte sthito yo mānase rathe
+11007020c tyaktvā mr̥tyubhayaṁ rājan brahmalokaṁ sa gacchati
+11008001  vaiśaṁpāyana uvāca
+11008001a vidurasya tu tad vākyaṁ niśamya kurusattamaḥ
+11008001c putraśokābhisaṁtaptaḥ papāta bhuvi mūrchitaḥ
+11008002a taṁ tathā patitaṁ bhūmau niḥsaṁjñaṁ prekṣya bāndhavāḥ
+11008002c kr̥ṣṇadvaipāyanaś caiva kṣattā ca viduras tathā
+11008003a saṁjayaḥ suhr̥daś cānye dvāḥsthā ye cāsya saṁmatāḥ
+11008003c jalena sukhaśītena tālavr̥ntaiś ca bhārata
+11008004a paspr̥śuś ca karair gātraṁ vījamānāś ca yatnataḥ
+11008004c anvāsan suciraṁ kālaṁ dhr̥tarāṣṭraṁ tathāgatam
+11008005a atha dīrghasya kālasya labdhasaṁjño mahīpatiḥ
+11008005c vilalāpa ciraṁ kālaṁ putrādhibhir abhiplutaḥ
+11008006a dhig astu khalu mānuṣyaṁ mānuṣye ca parigraham
+11008006c yatomūlāni duḥkhāni saṁbhavanti muhur muhuḥ
+11008007a putranāśe ’rthanāśe ca jñātisaṁbandhinām api
+11008007c prāpyate sumahad duḥkhaṁ viṣāgnipratimaṁ vibho
+11008008a yena dahyanti gātrāṇi yena prajñā vinaśyati
+11008008c yenābhibhūtaḥ puruṣo maraṇaṁ bahu manyate
+11008009a tad idaṁ vyasanaṁ prāptaṁ mayā bhāgyaviparyayāt
+11008009c tac caivāhaṁ kariṣyāmi adyaiva dvijasattama
+11008010a ity uktvā tu mahātmānaṁ pitaraṁ brahmavittamam
+11008010c dhr̥tarāṣṭro ’bhavan mūḍhaḥ śokaṁ ca paramaṁ gataḥ
+11008010e abhūc ca tūṣṇīṁ rājāsau dhyāyamāno mahīpate
+11008011a tasya tad vacanaṁ śrutvā kr̥ṣṇadvaipāyanaḥ prabhuḥ
+11008011c putraśokābhisaṁtaptaṁ putraṁ vacanam abravīt
+11008012a dhr̥tarāṣṭra mahābāho yat tvāṁ vakṣyāmi tac chr̥ṇu
+11008012c śrutavān asi medhāvī dharmārthakuśalas tathā
+11008013a na te ’sty aviditaṁ kiṁ cid veditavyaṁ paraṁtapa
+11008013c anityatāṁ hi martyānāṁ vijānāsi na saṁśayaḥ
+11008014a adhruve jīvaloke ca sthāne vāśāśvate sati
+11008014c jīvite maraṇānte ca kasmāc chocasi bhārata
+11008015a pratyakṣaṁ tava rājendra vairasyāsya samudbhavaḥ
+11008015c putraṁ te kāraṇaṁ kr̥tvā kālayogena kāritaḥ
+11008016a avaśyaṁ bhavitavye ca kurūṇāṁ vaiśase nr̥pa
+11008016c kasmāc chocasi tāñ śūrān gatān paramikāṁ gatim
+11008017a jānatā ca mahābāho vidureṇa mahātmanā
+11008017c yatitaṁ sarvayatnena śamaṁ prati janeśvara
+11008018a na ca daivakr̥to mārgaḥ śakyo bhūtena kena cit
+11008018c ghaṭatāpi ciraṁ kālaṁ niyantum iti me matiḥ
+11008019a devatānāṁ hi yat kāryaṁ mayā pratyakṣataḥ śrutam
+11008019c tat te ’haṁ saṁpravakṣyāmi kathaṁ sthairyaṁ bhavet tava
+11008020a purāhaṁ tvarito yātaḥ sabhām aindrīṁ jitaklamaḥ
+11008020c apaśyaṁ tatra ca tadā samavetān divaukasaḥ
+11008020e nāradapramukhāṁś cāpi sarvān devar̥ṣīṁs tathā
+11008021a tatra cāpi mayā dr̥ṣṭā pr̥thivī pr̥thivīpate
+11008021c kāryārtham upasaṁprāptā devatānāṁ samīpataḥ
+11008022a upagamya tadā dhātrī devān āha samāgatān
+11008022c yat kāryaṁ mama yuṣmābhir brahmaṇaḥ sadane tadā
+11008022e pratijñātaṁ mahābhāgās tac chīghraṁ saṁvidhīyatām
+11008023a tasyās tad vacanaṁ śrutvā viṣṇur lokanamaskr̥taḥ
+11008023c uvāca prahasan vākyaṁ pr̥thivīṁ devasaṁsadi
+11008024a dhr̥tarāṣṭrasya putrāṇāṁ yas tu jyeṣṭhaḥ śatasya vai
+11008024c duryodhana iti khyātaḥ sa te kāryaṁ kariṣyati
+11008024e taṁ ca prāpya mahīpālaṁ kr̥takr̥tyā bhaviṣyasi
+11008025a tasyārthe pr̥thivīpālāḥ kurukṣetre samāgatāḥ
+11008025c anyonyaṁ ghātayiṣyanti dr̥ḍhaiḥ śastraiḥ prahāriṇaḥ
+11008026a tatas te bhavitā devi bhārasya yudhi nāśanam
+11008026c gaccha śīghraṁ svakaṁ sthānaṁ lokān dhāraya śobhane
+11008027a sa eṣa te suto rājam̐l lokasaṁhārakāraṇāt
+11008027c kaler aṁśaḥ samutpanno gāndhāryā jaṭhare nr̥pa
+11008028a amarṣī capalaś cāpi krodhano duṣprasādhanaḥ
+11008028c daivayogāt samutpannā bhrātaraś cāsya tādr̥śāḥ
+11008029a śakunir mātulaś caiva karṇaś ca paramaḥ sakhā
+11008029c samutpannā vināśārthaṁ pr̥thivyāṁ sahitā nr̥pāḥ
+11008029e etam arthaṁ mahābāho nārado veda tattvataḥ
+11008030a ātmāparādhāt putrās te vinaṣṭāḥ pr̥thivīpate
+11008030c mā tāñ śocasva rājendra na hi śoke ’sti kāraṇam
+11008031a na hi te pāṇḍavāḥ svalpam aparādhyanti bhārata
+11008031c putrās tava durātmāno yair iyaṁ ghātitā mahī
+11008032a nāradena ca bhadraṁ te pūrvam eva na saṁśayaḥ
+11008032c yudhiṣṭhirasya samitau rājasūye niveditam
+11008033a pāṇḍavāḥ kauravāś caiva samāsādya parasparam
+11008033c na bhaviṣyanti kaunteya yat te kr̥tyaṁ tad ācara
+11008034a nāradasya vacaḥ śrutvā tadāśocanta pāṇḍavāḥ
+11008034c etat te sarvam ākhyātaṁ devaguhyaṁ sanātanam
+11008035a kathaṁ te śokanāśaḥ syāt prāṇeṣu ca dayā prabho
+11008035c snehaś ca pāṇḍuputreṣu jñātvā daivakr̥taṁ vidhim
+11008036a eṣa cārtho mahābāho pūrvam eva mayā śrutaḥ
+11008036c kathito dharmarājasya rājasūye kratūttame
+11008037a yatitaṁ dharmaputreṇa mayā guhye nivedite
+11008037c avigrahe kauravāṇāṁ daivaṁ tu balavattaram
+11008038a anatikramaṇīyo hi vidhī rājan kathaṁ cana
+11008038c kr̥tāntasya hi bhūtena sthāvareṇa trasena ca
+11008039a bhavān dharmaparo yatra buddhiśreṣṭhaś ca bhārata
+11008039c muhyate prāṇināṁ jñātvā gatiṁ cāgatim eva ca
+11008040a tvāṁ tu śokena saṁtaptaṁ muhyamānaṁ muhur muhuḥ
+11008040c jñātvā yudhiṣṭhiro rājā prāṇān api parityajet
+11008041a kr̥pālur nityaśo vīras tiryagyonigateṣv api
+11008041c sa kathaṁ tvayi rājendra kr̥pāṁ vai na kariṣyati
+11008042a mama caiva niyogena vidheś cāpy anivartanāt
+11008042c pāṇḍavānāṁ ca kāruṇyāt prāṇān dhāraya bhārata
+11008043a evaṁ te vartamānasya loke kīrtir bhaviṣyati
+11008043c dharmaś ca sumahāṁs tāta taptaṁ syāc ca tapaś cirāt
+11008044a putraśokasamutpannaṁ hutāśaṁ jvalitaṁ yathā
+11008044c prajñāmbhasā mahārāja nirvāpaya sadā sadā
+11008045a etac chrutvā tu vacanaṁ vyāsasyāmitatejasaḥ
+11008045c muhūrtaṁ samanudhyāya dhr̥tarāṣṭro ’bhyabhāṣata
+11008046a mahatā śokajālena praṇunno ’smi dvijottama
+11008046c nātmānam avabudhyāmi muhyamāno muhur muhuḥ
+11008047a idaṁ tu vacanaṁ śrutvā tava daivaniyogajam
+11008047c dhārayiṣyāmy ahaṁ prāṇān yatiṣye ca naśocitum
+11008048a etac chrutvā tu vacanaṁ vyāsaḥ satyavatīsutaḥ
+11008048c dhr̥tarāṣṭrasya rājendra tatraivāntaradhīyata
+11009001  janamejaya uvāca
+11009001a gate bhagavati vyāse dhr̥tarāṣṭro mahīpatiḥ
+11009001c kim aceṣṭata viprarṣe tan me vyākhyātum arhasi
+11009002  vaiśaṁpāyana uvāca
+11009002a etac chrutvā naraśreṣṭha ciraṁ dhyātvā tv acetanaḥ
+11009002c saṁjayaṁ yojayety uktvā viduraṁ pratyabhāṣata
+11009003a kṣipram ānaya gāndhārīṁ sarvāś ca bharatastriyaḥ
+11009003c vadhūṁ kuntīm upādāya yāś cānyās tatra yoṣitaḥ
+11009004a evam uktvā sa dharmātmā viduraṁ dharmavittamam
+11009004c śokaviprahatajñāno yānam evānvapadyata
+11009005a gāndhārī caiva śokārtā bhartur vacanacoditā
+11009005c saha kuntyā yato rājā saha strībhir upādravat
+11009006a tāḥ samāsādya rājānaṁ bhr̥śaṁ śokasamanvitāḥ
+11009006c āmantryānyonyam īyuḥ sma bhr̥śam uccukruśus tataḥ
+11009007a tāḥ samāśvāsayat kṣattā tābhyaś cārtataraḥ svayam
+11009007c aśrukaṇṭhīḥ samāropya tato ’sau niryayau purāt
+11009008a tataḥ praṇādaḥ saṁjajñe sarveṣu kuruveśmasu
+11009008c ākumāraṁ puraṁ sarvam abhavac chokakarśitam
+11009009a adr̥ṣṭapūrvā yā nāryaḥ purā devagaṇair api
+11009009c pr̥thagjanena dr̥śyanta tās tadā nihateśvarāḥ
+11009010a prakīrya keśān suśubhān bhūṣaṇāny avamucya ca
+11009010c ekavastradharā nāryaḥ paripetur anāthavat
+11009011a śvetaparvatarūpebhyo gr̥hebhyas tās tv apākraman
+11009011c guhābhya iva śailānāṁ pr̥ṣatyo hatayūthapāḥ
+11009012a tāny udīrṇāni nārīṇāṁ tadā vr̥ndāny anekaśaḥ
+11009012c śokārtāny adravan rājan kiśorīṇām ivāṅgane
+11009013a pragr̥hya bāhūn krośantyaḥ putrān bhrātr̥̄n pitr̥̄n api
+11009013c darśayantīva tā ha sma yugānte lokasaṁkṣayam
+11009014a vilapantyo rudantyaś ca dhāvamānās tatas tataḥ
+11009014c śokenābhyāhatajñānāḥ kartavyaṁ na prajajñire
+11009015a vrīḍāṁ jagmuḥ purā yāḥ sma sakhīnām api yoṣitaḥ
+11009015c tā ekavastrā nirlajjāḥ śvaśrūṇāṁ purato ’bhavan
+11009016a parasparaṁ susūkṣmeṣu śokeṣv āśvāsayan sma yāḥ
+11009016c tāḥ śokavihvalā rājann upaikṣanta parasparam
+11009017a tābhiḥ parivr̥to rājā rudatībhiḥ sahasraśaḥ
+11009017c niryayau nagarād dīnas tūrṇam āyodhanaṁ prati
+11009018a śilpino vaṇijo vaiśyāḥ sarvakarmopajīvinaḥ
+11009018c te pārthivaṁ puraskr̥tya niryayur nagarād bahiḥ
+11009019a tāsāṁ vikrośamānānām ārtānāṁ kurusaṁkṣaye
+11009019c prādurāsīn mahāñ śabdo vyathayan bhuvanāny uta
+11009020a yugāntakāle saṁprāpte bhūtānāṁ dahyatām iva
+11009020c abhāvaḥ syād ayaṁ prāpta iti bhūtāni menire
+11009021a bhr̥śam udvignamanasas te paurāḥ kurusaṁkṣaye
+11009021c prākrośanta mahārāja svanuraktās tadā bhr̥śam
+11010001  vaiśaṁpāyana uvāca
+11010001a krośamātraṁ tato gatvā dadr̥śus tān mahārathān
+11010001c śāradvataṁ kr̥paṁ drauṇiṁ kr̥tavarmāṇam eva ca
+11010002a te tu dr̥ṣṭvaiva rājānaṁ prajñācakṣuṣam īśvaram
+11010002c aśrukaṇṭhā viniḥśvasya rudantam idam abruvan
+11010003a putras tava mahārāja kr̥tvā karma suduṣkaram
+11010003c gataḥ sānucaro rājañ śakralokaṁ mahīpatiḥ
+11010004a duryodhanabalān muktā vayam eva trayo rathāḥ
+11010004c sarvam anyat parikṣīṇaṁ sainyaṁ te bharatarṣabha
+11010005a ity evam uktvā rājānaṁ kr̥paḥ śāradvatas tadā
+11010005c gāndhārīṁ putraśokārtām idaṁ vacanam abravīt
+11010006a abhītā yudhyamānās te ghnantaḥ śatrugaṇān bahūn
+11010006c vīrakarmāṇi kurvāṇāḥ putrās te nidhanaṁ gatāḥ
+11010007a dhruvaṁ saṁprāpya lokāṁs te nirmalāñ śastranirjitān
+11010007c bhāsvaraṁ deham āsthāya viharanty amarā iva
+11010008a na hi kaś cid dhi śūrāṇāṁ yudhyamānaḥ parāṅmukhaḥ
+11010008c śastreṇa nidhanaṁ prāpto na ca kaś cit kr̥tāñjaliḥ
+11010009a etāṁ tāṁ kṣatriyasyāhuḥ purāṇāṁ paramāṁ gatim
+11010009c śastreṇa nidhanaṁ saṁkhye tān na śocitum arhasi
+11010010a na cāpi śatravas teṣām r̥dhyante rājñi pāṇḍavāḥ
+11010010c śr̥ṇu yat kr̥tam asmābhir aśvatthāmapurogamaiḥ
+11010011a adharmeṇa hataṁ śrutvā bhīmasenena te sutam
+11010011c suptaṁ śibiram āviśya pāṇḍūnāṁ kadanaṁ kr̥tam
+11010012a pāñcālā nihatāḥ sarve dhr̥ṣṭadyumnapurogamāḥ
+11010012c drupadasyātmajāś caiva draupadeyāś ca pātitāḥ
+11010013a tathā viśasanaṁ kr̥tvā putraśatrugaṇasya te
+11010013c prādravāma raṇe sthātuṁ na hi śakyāmahe trayaḥ
+11010014a te hi śūrā maheṣvāsāḥ kṣipram eṣyanti pāṇḍavāḥ
+11010014c amarṣavaśam āpannā vairaṁ pratijihīrṣavaḥ
+11010015a nihatān ātmajāñ śrutvā pramattān puruṣarṣabhāḥ
+11010015c ninīṣantaḥ padaṁ śūrāḥ kṣipram eva yaśasvini
+11010016a pāṇḍūnāṁ kilbiṣaṁ kr̥tvā saṁsthātuṁ notsahāmahe
+11010016c anujānīhi no rājñi mā ca śoke manaḥ kr̥thāḥ
+11010017a rājaṁs tvam anujānīhi dhairyam ātiṣṭha cottamam
+11010017c niṣṭhāntaṁ paśya cāpi tvaṁ kṣatradharmaṁ ca kevalam
+11010018a ity evam uktvā rājānaṁ kr̥tvā cābhipradakṣiṇam
+11010018c kr̥paś ca kr̥tavarmā ca droṇaputraś ca bhārata
+11010019a avekṣamāṇā rājānaṁ dhr̥tarāṣṭraṁ manīṣiṇam
+11010019c gaṅgām anu mahātmānas tūrṇam aśvān acodayan
+11010020a apakramya tu te rājan sarva eva mahārathāḥ
+11010020c āmantryānyonyam udvignās tridhā te prayayus tataḥ
+11010021a jagāma hāstinapuraṁ kr̥paḥ śāradvatas tadā
+11010021c svam eva rāṣṭraṁ hārdikyo drauṇir vyāsāśramaṁ yayau
+11010022a evaṁ te prayayur vīrā vīkṣamāṇāḥ parasparam
+11010022c bhayārtāḥ pāṇḍuputrāṇām āgaskr̥tvā mahātmanām
+11010023a sametya vīrā rājānaṁ tadā tv anudite ravau
+11010023c viprajagmur mahārāja yathecchakam ariṁdamāḥ
+11011001  vaiśaṁpāyana uvāca
+11011001a hateṣu sarvasainyeṣu dharmarājo yudhiṣṭhiraḥ
+11011001c śuśruve pitaraṁ vr̥ddhaṁ niryātaṁ gajasāhvayāt
+11011002a so ’bhyayāt putraśokārtaḥ putraśokapariplutam
+11011002c śocamāno mahārāja bhrātr̥bhiḥ sahitas tadā
+11011003a anvīyamāno vīreṇa dāśārheṇa mahātmanā
+11011003c yuyudhānena ca tathā tathaiva ca yuyutsunā
+11011004a tam anvagāt suduḥkhārtā draupadī śokakarśitā
+11011004c saha pāñcālayoṣidbhir yās tatrāsan samāgatāḥ
+11011005a sa gaṅgām anu vr̥ndāni strīṇāṁ bharatasattama
+11011005c kurarīṇām ivārtānāṁ krośantīnāṁ dadarśa ha
+11011006a tābhiḥ parivr̥to rājā rudatībhiḥ sahasraśaḥ
+11011006c ūrdhvabāhubhir ārtābhir bruvatībhiḥ priyāpriye
+11011007a kva nu dharmajñatā rājñaḥ kva nu sādyānr̥śaṁsatā
+11011007c yadāvadhīt pitr̥̄n bhrātr̥̄n gurūn putrān sakhīn api
+11011008a ghātayitvā kathaṁ droṇaṁ bhīṣmaṁ cāpi pitāmaham
+11011008c manas te ’bhūn mahābāho hatvā cāpi jayadratham
+11011009a kiṁ nu rājyena te kāryaṁ pitr̥̄n bhrātr̥̄n apaśyataḥ
+11011009c abhimanyuṁ ca durdharṣaṁ draupadeyāṁś ca bhārata
+11011010a atītya tā mahābāhuḥ krośantīḥ kurarīr iva
+11011010c vavande pitaraṁ jyeṣṭhaṁ dharmarājo yudhiṣṭhiraḥ
+11011011a tato ’bhivādya pitaraṁ dharmeṇāmitrakarśanāḥ
+11011011c nyavedayanta nāmāni pāṇḍavās te ’pi sarvaśaḥ
+11011012a tam ātmajāntakaraṇaṁ pitā putravadhārditaḥ
+11011012c aprīyamāṇaḥ śokārtaḥ pāṇḍavaṁ pariṣasvaje
+11011013a dharmarājaṁ pariṣvajya sāntvayitvā ca bhārata
+11011013c duṣṭātmā bhīmam anvaicchad didhakṣur iva pāvakaḥ
+11011014a sa kopapāvakas tasya śokavāyusamīritaḥ
+11011014c bhīmasenamayaṁ dāvaṁ didhakṣur iva dr̥śyate
+11011015a tasya saṁkalpam ājñāya bhīmaṁ praty aśubhaṁ hariḥ
+11011015c bhīmam ākṣipya pāṇibhyāṁ pradadau bhīmam āyasam
+11011016a prāg eva tu mahābuddhir buddhvā tasyeṅgitaṁ hariḥ
+11011016c saṁvidhānaṁ mahāprājñas tatra cakre janārdanaḥ
+11011017a taṁ tu gr̥hyaiva pāṇibhyāṁ bhīmasenam ayasmayam
+11011017c babhañja balavān rājā manyamāno vr̥kodaram
+11011018a nāgāyutabalaprāṇaḥ sa rājā bhīmam āyasam
+11011018c bhaṅktvā vimathitoraskaḥ susrāva rudhiraṁ mukhāt
+11011019a tataḥ papāta medinyāṁ tathaiva rudhirokṣitaḥ
+11011019c prapuṣpitāgraśikharaḥ pārijāta iva drumaḥ
+11011020a paryagr̥hṇata taṁ vidvān sūto gāvalgaṇis tadā
+11011020c maivam ity abravīc cainaṁ śamayan sāntvayann iva
+11011021a sa tu kopaṁ samutsr̥jya gatamanyur mahāmanāḥ
+11011021c hā hā bhīmeti cukrośa bhūyaḥ śokasamanvitaḥ
+11011022a taṁ viditvā gatakrodhaṁ bhīmasenavadhārditam
+11011022c vāsudevo varaḥ puṁsām idaṁ vacanam abravīt
+11011023a mā śuco dhr̥tarāṣṭra tvaṁ naiṣa bhīmas tvayā hataḥ
+11011023c āyasī pratimā hy eṣā tvayā rājan nipātitā
+11011024a tvāṁ krodhavaśam āpannaṁ viditvā bharatarṣabha
+11011024c mayāpakr̥ṣṭaḥ kaunteyo mr̥tyor daṁṣṭrāntaraṁ gataḥ
+11011025a na hi te rājaśārdūla bale tulyo ’sti kaś cana
+11011025c kaḥ saheta mahābāho bāhvor nigrahaṇaṁ naraḥ
+11011026a yathāntakam anuprāpya jīvan kaś cin na mucyate
+11011026c evaṁ bāhvantaraṁ prāpya tava jīven na kaś cana
+11011027a tasmāt putreṇa yā sā te pratimā kāritāyasī
+11011027c bhīmasya seyaṁ kauravya tavaivopahr̥tā mayā
+11011028a putraśokābhisaṁtāpād dharmād apahr̥taṁ manaḥ
+11011028c tava rājendra tena tvaṁ bhīmasenaṁ jighāṁsasi
+11011029a na ca te tat kṣamaṁ rājan hanyās tvaṁ yad vr̥kodaram
+11011029c na hi putrā mahārāja jīveyus te kathaṁ cana
+11011030a tasmād yat kr̥tam asmābhir manyamānaiḥ kṣamaṁ prati
+11011030c anumanyasva tat sarvaṁ mā ca śoke manaḥ kr̥thāḥ
+11012001  vaiśaṁpāyana uvāca
+11012001a tata enam upātiṣṭhañ śaucārthaṁ paricārakāḥ
+11012001c kr̥taśaucaṁ punaś cainaṁ provāca madhusūdanaḥ
+11012002a rājann adhītā vedās te śāstrāṇi vividhāni ca
+11012002c śrutāni ca purāṇāni rājadharmāś ca kevalāḥ
+11012003a evaṁ vidvān mahāprājña nākārṣīr vacanaṁ tadā
+11012003c pāṇḍavān adhikāñ jānan bale śaurye ca kaurava
+11012004a rājā hi yaḥ sthiraprajñaḥ svayaṁ doṣān avekṣate
+11012004c deśakālavibhāgaṁ ca paraṁ śreyaḥ sa vindati
+11012005a ucyamānaṁ ca yaḥ śreyo gr̥hṇīte no hitāhite
+11012005c āpadaṁ samanuprāpya sa śocaty anaye sthitaḥ
+11012006a tato ’nyavr̥ttam ātmānaṁ samavekṣasva bhārata
+11012006c rājaṁs tvaṁ hy avidheyātmā duryodhanavaśe sthitaḥ
+11012007a ātmāparādhād āyastas tat kiṁ bhīmaṁ jighāṁsasi
+11012007c tasmāt saṁyaccha kopaṁ tvaṁ svam anusmr̥tya duṣkr̥tam
+11012008a yas tu tāṁ spardhayā kṣudraḥ pāñcālīm ānayat sabhām
+11012008c sa hato bhīmasenena vairaṁ praticikīrṣatā
+11012009a ātmano ’tikramaṁ paśya putrasya ca durātmanaḥ
+11012009c yad anāgasi pāṇḍūnāṁ parityāgaḥ paraṁtapa
+11012010a evam uktaḥ sa kr̥ṣṇena sarvaṁ satyaṁ janādhipa
+11012010c uvāca devakīputraṁ dhr̥tarāṣṭro mahīpatiḥ
+11012011a evam etan mahābāho yathā vadasi mādhava
+11012011c putrasnehas tu dharmātman dhairyān māṁ samacālayat
+11012012a diṣṭyā tu puruṣavyāghro balavān satyavikramaḥ
+11012012c tvadgupto nāgamat kr̥ṣṇa bhīmo bāhvantaraṁ mama
+11012013a idānīṁ tv aham ekāgro gatamanyur gatajvaraḥ
+11012013c madhyamaṁ pāṇḍavaṁ vīraṁ spraṣṭum icchāmi keśava
+11012014a hateṣu pārthivendreṣu putreṣu nihateṣu ca
+11012014c pāṇḍuputreṣu me śarma prītiś cāpy avatiṣṭhate
+11012015a tataḥ sa bhīmaṁ ca dhanaṁjayaṁ ca; mādryāś ca putrau puruṣapravīrau
+11012015c pasparśa gātraiḥ prarudan sugātrān; āśvāsya kalyāṇam uvāca cainān
+11013001  vaiśaṁpāyana uvāca
+11013001a dhr̥tarāṣṭrābhyanujñātās tatas te kurupuṁgavāḥ
+11013001c abhyayur bhrātaraḥ sarve gāndhārīṁ sahakeśavāḥ
+11013002a tato jñātvā hatāmitraṁ dharmarājaṁ yudhiṣṭhiram
+11013002c gāndhārī putraśokārtā śaptum aicchad aninditā
+11013003a tasyāḥ pāpam abhiprāyaṁ viditvā pāṇḍavān prati
+11013003c r̥ṣiḥ satyavatīputraḥ prāg eva samabudhyata
+11013004a sa gaṅgāyām upaspr̥śya puṇyagandhaṁ payaḥ śuci
+11013004c taṁ deśam upasaṁpede paramarṣir manojavaḥ
+11013005a divyena cakṣuṣā paśyan manasānuddhatena ca
+11013005c sarvaprāṇabhr̥tāṁ bhāvaṁ sa tatra samabudhyata
+11013006a sa snuṣām abravīt kāle kalyavādī mahātapāḥ
+11013006c śāpakālam avākṣipya śamakālam udīrayan
+11013007a na kopaḥ pāṇḍave kāryo gāndhāri śamam āpnuhi
+11013007c rajo nigr̥hyatām etac chr̥ṇu cedaṁ vaco mama
+11013008a uktāsy aṣṭādaśāhāni putreṇa jayam icchatā
+11013008c śivam āśāssva me mātar yudhyamānasya śatrubhiḥ
+11013009a sā tathā yācyamānā tvaṁ kāle kāle jayaiṣiṇā
+11013009c uktavaty asi gāndhāri yato dharmas tato jayaḥ
+11013010a na cāpy atītāṁ gāndhāri vācaṁ te vitathām aham
+11013010c smarāmi bhāṣamāṇāyās tathā praṇihitā hy asi
+11013011a sā tvaṁ dharmaṁ parismr̥tya vācā coktvā manasvini
+11013011c kopaṁ saṁyaccha gāndhāri maivaṁ bhūḥ satyavādini
+11013012  gāndhāry uvāca
+11013012a bhagavan nābhyasūyāmi naitān icchāmi naśyataḥ
+11013012c putraśokena tu balān mano vihvalatīva me
+11013013a yathaiva kuntyā kaunteyā rakṣitavyās tathā mayā
+11013013c yathaiva dhr̥tarāṣṭreṇa rakṣitavyās tathā mayā
+11013014a duryodhanāparādhena śakuneḥ saubalasya ca
+11013014c karṇaduḥśāsanābhyāṁ ca vr̥tto ’yaṁ kurusaṁkṣayaḥ
+11013015a nāparādhyati bībhatsur na ca pārtho vr̥kodaraḥ
+11013015c nakulaḥ sahadevo vā naiva jātu yudhiṣṭhiraḥ
+11013016a yudhyamānā hi kauravyāḥ kr̥ntamānāḥ parasparam
+11013016c nihatāḥ sahitāś cānyais tatra nāsty apriyaṁ mama
+11013017a yat tu karmākarod bhīmo vāsudevasya paśyataḥ
+11013017c duryodhanaṁ samāhūya gadāyuddhe mahāmanāḥ
+11013018a śikṣayābhyadhikaṁ jñātvā carantaṁ bahudhā raṇe
+11013018c adho nābhyāṁ prahr̥tavāṁs tan me kopam avardhayat
+11013019a kathaṁ nu dharmaṁ dharmajñaiḥ samuddiṣṭaṁ mahātmabhiḥ
+11013019c tyajeyur āhave śūrāḥ prāṇahetoḥ kathaṁ cana
+11014001  vaiśaṁpāyana uvāca
+11014001a tac chrutvā vacanaṁ tasyā bhīmaseno ’tha bhītavat
+11014001c gāndhārīṁ pratyuvācedaṁ vacaḥ sānunayaṁ tadā
+11014002a adharmo yadi vā dharmas trāsāt tatra mayā kr̥taḥ
+11014002c ātmānaṁ trātukāmena tan me tvaṁ kṣantum arhasi
+11014003a na hi yuddhena putras te dharmeṇa sa mahābalaḥ
+11014003c śakyaḥ kena cid udyantum ato viṣamam ācaram
+11014004a sainyasyaiko ’vaśiṣṭo ’yaṁ gadāyuddhe ca vīryavān
+11014004c māṁ hatvā na hared rājyam iti caitat kr̥taṁ mayā
+11014005a rājaputrīṁ ca pāñcālīm ekavastrāṁ rajasvalām
+11014005c bhavatyā viditaṁ sarvam uktavān yat sutas tava
+11014006a suyodhanam asaṁgr̥hya na śakyā bhūḥ sasāgarā
+11014006c kevalā bhoktum asmābhir ataś caitat kr̥taṁ mayā
+11014007a tac cāpy apriyam asmākaṁ putras te samupācarat
+11014007c draupadyā yat sabhāmadhye savyam ūrum adarśayat
+11014008a tatraiva vadhyaḥ so ’smākaṁ durācāro ’mba te sutaḥ
+11014008c dharmarājājñayā caiva sthitāḥ sma samaye tadā
+11014009a vairam uddhukṣitaṁ rājñi putreṇa tava tan mahat
+11014009c kleśitāś ca vane nityaṁ tata etat kr̥taṁ mayā
+11014010a vairasyāsya gataḥ pāraṁ hatvā duryodhanaṁ raṇe
+11014010c rājyaṁ yudhiṣṭhiraḥ prāpto vayaṁ ca gatamanyavaḥ
+11014011  gāndhāry uvāca
+11014011a na tasyaiṣa vadhas tāta yat praśaṁsasi me sutam
+11014011c kr̥tavāṁś cāpi tat sarvaṁ yad idaṁ bhāṣase mayi
+11014012a hatāśve nakule yat tad vr̥ṣasenena bhārata
+11014012c apibaḥ śoṇitaṁ saṁkhye duḥśāsanaśarīrajam
+11014013a sadbhir vigarhitaṁ ghoram anāryajanasevitam
+11014013c krūraṁ karmākaroḥ kasmāt tad ayuktaṁ vr̥kodara
+11014014  bhīmasena uvāca
+11014014a anyasyāpi na pātavyaṁ rudhiraṁ kiṁ punaḥ svakam
+11014014c yathaivātmā tathā bhrātā viśeṣo nāsti kaś cana
+11014015a rudhiraṁ na vyatikrāmad dantoṣṭhaṁ me ’mba mā śucaḥ
+11014015c vaivasvatas tu tad veda hastau me rudhirokṣitau
+11014016a hatāśvaṁ nakulaṁ dr̥ṣṭvā vr̥ṣasenena saṁyuge
+11014016c bhrātr̥̄ṇāṁ saṁprahr̥ṣṭānāṁ trāsaḥ saṁjanito mayā
+11014017a keśapakṣaparāmarśe draupadyā dyūtakārite
+11014017c krodhād yad abruvaṁ cāhaṁ tac ca me hr̥di vartate
+11014018a kṣatradharmāc cyuto rājñi bhaveyaṁ śāśvatīḥ samāḥ
+11014018c pratijñāṁ tām anistīrya tatas tat kr̥tavān aham
+11014019a na mām arhasi gāndhāri doṣeṇa pariśaṅkitum
+11014019c anigr̥hya purā putrān asmāsv anapakāriṣu
+11014020  gāndhāry uvāca
+11014020a vr̥ddhasyāsya śataṁ putrān nighnaṁs tvam aparājitaḥ
+11014020c kasmān na śeṣayaḥ kaṁ cid yenālpam aparādhitam
+11014021a saṁtānam āvayos tāta vr̥ddhayor hr̥tarājyayoḥ
+11014021c katham andhadvayasyāsya yaṣṭir ekā na varjitā
+11014022a śeṣe hy avasthite tāta putrāṇām antake tvayi
+11014022c na me duḥkhaṁ bhaved etad yadi tvaṁ dharmam ācaraḥ
+11015001  vaiśaṁpāyana uvāca
+11015001a evam uktvā tu gāndhārī yudhiṣṭhiram apr̥cchata
+11015001c kva sa rājeti sakrodhā putrapautravadhārditā
+11015002a tām abhyagacchad rājendro vepamānaḥ kr̥tāñjaliḥ
+11015002c yudhiṣṭhira idaṁ caināṁ madhuraṁ vākyam abravīt
+11015003a putrahantā nr̥śaṁso ’haṁ tava devi yudhiṣṭhiraḥ
+11015003c śāpārhaḥ pr̥thivīnāśe hetubhūtaḥ śapasva mām
+11015004a na hi me jīvitenārtho na rājyena dhanena vā
+11015004c tādr̥śān suhr̥do hatvā mūḍhasyāsya suhr̥ddruhaḥ
+11015005a tam evaṁvādinaṁ bhītaṁ saṁnikarṣagataṁ tadā
+11015005c novāca kiṁ cid gāndhārī niḥśvāsaparamā bhr̥śam
+11015006a tasyāvanatadehasya pādayor nipatiṣyataḥ
+11015006c yudhiṣṭhirasya nr̥pater dharmajñā dharmadarśinī
+11015006e aṅgulyagrāṇi dadr̥śe devī paṭṭāntareṇa sā
+11015007a tataḥ sa kunakhībhūto darśanīyanakho nr̥paḥ
+11015007c taṁ dr̥ṣṭvā cārjuno ’gacchad vāsudevasya pr̥ṣṭhataḥ
+11015008a evaṁ saṁceṣṭamānāṁs tān itaś cetaś ca bhārata
+11015008c gāndhārī vigatakrodhā sāntvayām āsa mātr̥vat
+11015009a tayā te samanujñātā mātaraṁ vīramātaram
+11015009c abhyagacchanta sahitāḥ pr̥thāṁ pr̥thulavakṣasaḥ
+11015010a cirasya dr̥ṣṭvā putrān sā putrādhibhir abhiplutā
+11015010c bāṣpam āhārayad devī vastreṇāvr̥tya vai mukham
+11015011a tato bāṣpaṁ samutsr̥jya saha putrais tathā pr̥thā
+11015011c apaśyad etāñ śastraughair bahudhā parivikṣatān
+11015012a sā tān ekaikaśaḥ putrān saṁspr̥śantī punaḥ punaḥ
+11015012c anvaśocanta duḥkhārtā draupadīṁ ca hatātmajām
+11015012e rudatīm atha pāñcālīṁ dadarśa patitāṁ bhuvi
+11015013  draupady uvāca
+11015013a ārye pautrāḥ kva te sarve saubhadrasahitā gatāḥ
+11015013c na tvāṁ te ’dyābhigacchanti ciradr̥ṣṭāṁ tapasvinīm
+11015013e kiṁ nu rājyena vai kāryaṁ vihīnāyāḥ sutair mama
+11015014  vaiśaṁpāyana uvāca
+11015014a tāṁ samāśvāsayām āsa pr̥thā pr̥thulalocanā
+11015014c utthāpya yājñasenīṁ tu rudatīṁ śokakarśitām
+11015015a tayaiva sahitā cāpi putrair anugatā pr̥thā
+11015015c abhyagacchata gāndhārīm ārtām ārtatarā svayam
+11015016a tām uvācātha gāndhārī saha vadhvā yaśasvinīm
+11015016c maivaṁ putrīti śokārtā paśya mām api duḥkhitām
+11015017a manye lokavināśo ’yaṁ kālaparyāyacoditaḥ
+11015017c avaśyabhāvī saṁprāptaḥ svabhāvāl lomaharṣaṇaḥ
+11015018a idaṁ tat samanuprāptaṁ vidurasya vaco mahat
+11015018c asiddhānunaye kr̥ṣṇe yad uvāca mahāmatiḥ
+11015019a tasminn aparihārye ’rthe vyatīte ca viśeṣataḥ
+11015019c mā śuco na hi śocyās te saṁgrāme nidhanaṁ gatāḥ
+11015020a yathaiva tvaṁ tathaivāhaṁ ko vā māśvāsayiṣyati
+11015020c mamaiva hy aparādhena kulam agryaṁ vināśitam
+11016001  vaiśaṁpāyana uvāca
+11016001a evam uktvā tu gāndhārī kurūṇām āvikartanam
+11016001c apaśyat tatra tiṣṭhantī sarvaṁ divyena cakṣuṣā
+11016002a pativratā mahābhāgā samānavratacāriṇī
+11016002c ugreṇa tapasā yuktā satataṁ satyavādinī
+11016003a varadānena kr̥ṣṇasya maharṣeḥ puṇyakarmaṇaḥ
+11016003c divyajñānabalopetā vividhaṁ paryadevayat
+11016004a dadarśa sā buddhimatī dūrād api yathāntike
+11016004c raṇājiraṁ nr̥vīrāṇām adbhutaṁ lomaharṣaṇam
+11016005a asthikeśaparistīrṇaṁ śoṇitaughapariplutam
+11016005c śarīrair bahusāhasrair vinikīrṇaṁ samantataḥ
+11016006a gajāśvarathayodhānām āvr̥taṁ rudhirāvilaiḥ
+11016006c śarīrair aśiraskaiś ca videhaiś ca śirogaṇaiḥ
+11016007a gajāśvanaravīrāṇāṁ niḥsattvair abhisaṁvr̥tam
+11016007c sr̥gālabaḍakākolakaṅkakākaniṣevitam
+11016008a rakṣasāṁ puruṣādānāṁ modanaṁ kurarākulam
+11016008c aśivābhiḥ śivābhiś ca nāditaṁ gr̥dhrasevitam
+11016009a tato vyāsābhyanujñāto dhr̥tarāṣṭro mahīpatiḥ
+11016009c pāṇḍuputrāś ca te sarve yudhiṣṭhirapurogamāḥ
+11016010a vāsudevaṁ puraskr̥tya hatabandhuṁ ca pārthivam
+11016010c kurustriyaḥ samāsādya jagmur āyodhanaṁ prati
+11016011a samāsādya kurukṣetraṁ tāḥ striyo nihateśvarāḥ
+11016011c apaśyanta hatāṁs tatra putrān bhrātr̥̄n pitr̥̄n patīn
+11016012a kravyādair bhakṣyamāṇān vai gomāyubaḍavāyasaiḥ
+11016012c bhūtaiḥ piśācai rakṣobhir vividhaiś ca niśācaraiḥ
+11016013a rudrākrīḍanibhaṁ dr̥ṣṭvā tadā viśasanaṁ striyaḥ
+11016013c mahārhebhyo ’tha yānebhyo vikrośantyo nipetire
+11016014a adr̥ṣṭapūrvaṁ paśyantyo duḥkhārtā bharatastriyaḥ
+11016014c śarīreṣv askhalann anyā nyapataṁś cāparā bhuvi
+11016015a śrāntānāṁ cāpy anāthānāṁ nāsīt kā cana cetanā
+11016015c pāñcālakuruyoṣāṇāṁ kr̥paṇaṁ tad abhūn mahat
+11016016a duḥkhopahatacittābhiḥ samantād anunāditam
+11016016c dr̥ṣṭvāyodhanam atyugraṁ dharmajñā subalātmajā
+11016017a tataḥ sā puṇḍarīkākṣam āmantrya puruṣottamam
+11016017c kurūṇāṁ vaiśasaṁ dr̥ṣṭvā duḥkhād vacanam abravīt
+11016018a paśyaitāḥ puṇḍarīkākṣa snuṣā me nihateśvarāḥ
+11016018c prakīrṇakeśāḥ krośantīḥ kurarīr iva mādhava
+11016019a amūs tv abhisamāgamya smarantyo bharatarṣabhān
+11016019c pr̥thag evābhyadhāvanta putrān bhrātr̥̄n pitr̥̄n patīn
+11016020a vīrasūbhir mahābāho hataputrābhir āvr̥tam
+11016020c kva cic ca vīrapatnībhir hatavīrābhir ākulam
+11016021a śobhitaṁ puruṣavyāghrair bhīṣmakarṇābhimanyubhiḥ
+11016021c droṇadrupadaśalyaiś ca jvaladbhir iva pāvakaiḥ
+11016022a kāñcanaiḥ kavacair niṣkair maṇibhiś ca mahātmanām
+11016022c aṅgadair hastakeyūraiḥ sragbhiś ca samalaṁkr̥tam
+11016023a vīrabāhuvisr̥ṣṭābhiḥ śaktibhiḥ parighair api
+11016023c khaḍgaiś ca vimalais tīkṣṇaiḥ saśaraiś ca śarāsanaiḥ
+11016024a kravyādasaṁghair muditais tiṣṭhadbhiḥ sahitaiḥ kva cit
+11016024c kva cid ākrīḍamānaiś ca śayānair aparaiḥ kva cit
+11016025a etad evaṁvidhaṁ vīra saṁpaśyāyodhanaṁ vibho
+11016025c paśyamānā ca dahyāmi śokenāhaṁ janārdana
+11016026a pāñcālānāṁ kurūṇāṁ ca vināśaṁ madhusūdana
+11016026c pañcānām iva bhūtānāṁ nāhaṁ vadham acintayam
+11016027a tān suparṇāś ca gr̥dhrāś ca niṣkarṣanty asr̥gukṣitān
+11016027c nigr̥hya kavaceṣūgrā bhakṣayanti sahasraśaḥ
+11016028a jayadrathasya karṇasya tathaiva droṇabhīṣmayoḥ
+11016028c abhimanyor vināśaṁ ca kaś cintayitum arhati
+11016029a avadhyakalpān nihatān dr̥ṣṭvāhaṁ madhusūdana
+11016029c gr̥dhrakaṅkabaḍaśyenaśvasr̥gālādanīkr̥tān
+11016030a amarṣavaśam āpannān duryodhanavaśe sthitān
+11016030c paśyemān puruṣavyāghrān saṁśāntān pāvakān iva
+11016031a śayanāny ucitāḥ sarve mr̥dūni vimalāni ca
+11016031c vipannās te ’dya vasudhāṁ vivr̥tām adhiśerate
+11016032a bandibhiḥ satataṁ kāle stuvadbhir abhinanditāḥ
+11016032c śivānām aśivā ghorāḥ śr̥ṇvanti vividhā giraḥ
+11016033a ye purā śerate vīrāḥ śayaneṣu yaśasvinaḥ
+11016033c candanāgurudigdhāṅgās te ’dya pāṁsuṣu śerate
+11016034a teṣām ābharaṇāny ete gr̥dhragomāyuvāyasāḥ
+11016034c ākṣipanty aśivā ghorā vinadantaḥ punaḥ punaḥ
+11016035a cāpāni viśikhān pītān nistriṁśān vimalā gadāḥ
+11016035c yuddhābhimāninaḥ prītā jīvanta iva bibhrati
+11016036a surūpavarṇā bahavaḥ kravyādair avaghaṭṭitāḥ
+11016036c r̥ṣabhapratirūpākṣāḥ śerate haritasrajaḥ
+11016037a apare punar āliṅgya gadāḥ parighabāhavaḥ
+11016037c śerate ’bhimukhāḥ śūrā dayitā iva yoṣitaḥ
+11016038a bibhrataḥ kavacāny anye vimalāny āyudhāni ca
+11016038c na dharṣayanti kravyādā jīvantīti janārdana
+11016039a kravyādaiḥ kr̥ṣyamāṇānām apareṣāṁ mahātmanām
+11016039c śātakaumbhyaḥ srajaś citrā viprakīrṇāḥ samantataḥ
+11016040a ete gomāyavo bhīmā nihatānāṁ yaśasvinām
+11016040c kaṇṭhāntaragatān hārān ākṣipanti sahasraśaḥ
+11016041a sarveṣv apararātreṣu yān anandanta bandinaḥ
+11016041c stutibhiś ca parārdhyābhir upacāraiś ca śikṣitāḥ
+11016042a tān imāḥ paridevanti duḥkhārtāḥ paramāṅganāḥ
+11016042c kr̥paṇaṁ vr̥ṣṇiśārdūla duḥkhaśokārditā bhr̥śam
+11016043a raktotpalavanānīva vibhānti rucirāṇi vai
+11016043c mukhāni paramastrīṇāṁ pariśuṣkāṇi keśava
+11016044a ruditoparatā hy etā dhyāyantyaḥ saṁpariplutāḥ
+11016044c kurustriyo ’bhigacchanti tena tenaiva duḥkhitāḥ
+11016045a etāny ādityavarṇāni tapanīyanibhāni ca
+11016045c roṣarodanatāmrāṇi vaktrāṇi kuruyoṣitām
+11016046a āsām aparipūrṇārthaṁ niśamya paridevitam
+11016046c itaretarasaṁkrandān na vijānanti yoṣitaḥ
+11016047a etā dīrgham ivocchvasya vikruśya ca vilapya ca
+11016047c vispandamānā duḥkhena vīrā jahati jīvitam
+11016048a bahvyo dr̥ṣṭvā śarīrāṇi krośanti vilapanti ca
+11016048c pāṇibhiś cāparā ghnanti śirāṁsi mr̥dupāṇayaḥ
+11016049a śirobhiḥ patitair hastaiḥ sarvāṅgair yūthaśaḥ kr̥taiḥ
+11016049c itaretarasaṁpr̥ktair ākīrṇā bhāti medinī
+11016050a viśiraskān atho kāyān dr̥ṣṭvā ghorābhinandinaḥ
+11016050c muhyanty anucitā nāryo videhāni śirāṁsi ca
+11016051a śiraḥ kāyena saṁdhāya prekṣamāṇā vicetasaḥ
+11016051c apaśyantyo paraṁ tatra nedam asyeti duḥkhitāḥ
+11016052a bāhūrucaraṇān anyān viśikhonmathitān pr̥thak
+11016052c saṁdadhatyo ’sukhāviṣṭā mūrchanty etāḥ punaḥ punaḥ
+11016053a utkr̥ttaśirasaś cānyān vijagdhān mr̥gapakṣibhiḥ
+11016053c dr̥ṣṭvā kāś cin na jānanti bhartr̥̄n bharatayoṣitaḥ
+11016054a pāṇibhiś cāparā ghnanti śirāṁsi madhusūdana
+11016054c prekṣya bhrātr̥̄n pitr̥̄n putrān patīṁś ca nihatān paraiḥ
+11016055a bāhubhiś ca sakhaḍgaiś ca śirobhiś ca sakuṇḍalaiḥ
+11016055c agamyakalpā pr̥thivī māṁsaśoṇitakardamā
+11016056a na duḥkheṣūcitāḥ pūrvaṁ duḥkhaṁ gāhanty aninditāḥ
+11016056c bhrātr̥bhiḥ pitr̥bhiḥ putrair upakīrṇāṁ vasuṁdharām
+11016057a yūthānīva kiśorīṇāṁ sukeśīnāṁ janārdana
+11016057c snuṣāṇāṁ dhr̥tarāṣṭrasya paśya vr̥ndāny anekaśaḥ
+11016058a ato duḥkhataraṁ kiṁ nu keśava pratibhāti me
+11016058c yad imāḥ kurvate sarvā rūpam uccāvacaṁ striyaḥ
+11016059a nūnam ācaritaṁ pāpaṁ mayā pūrveṣu janmasu
+11016059c yā paśyāmi hatān putrān pautrān bhrātr̥̄ṁś ca keśava
+11016059e evam ārtā vilapatī dadarśa nihataṁ sutam
+11017001  vaiśaṁpāyana uvāca
+11017001a tato duryodhanaṁ dr̥ṣṭvā gāndhārī śokakarśitā
+11017001c sahasā nyapatad bhūmau chinneva kadalī vane
+11017002a sā tu labdhvā punaḥ saṁjñāṁ vikruśya ca punaḥ punaḥ
+11017002c duryodhanam abhiprekṣya śayānaṁ rudhirokṣitam
+11017003a pariṣvajya ca gāndhārī kr̥paṇaṁ paryadevayat
+11017003c hā hā putreti śokārtā vilalāpākulendriyā
+11017004a sugūḍhajatru vipulaṁ hāraniṣkaniṣevitam
+11017004c vāriṇā netrajenoraḥ siñcantī śokatāpitā
+11017004e samīpasthaṁ hr̥ṣīkeśam idaṁ vacanam abravīt
+11017005a upasthite ’smin saṁgrāme jñātīnāṁ saṁkṣaye vibho
+11017005c mām ayaṁ prāha vārṣṇeya prāñjalir nr̥pasattamaḥ
+11017005e asmiñ jñātisamuddharṣe jayam ambā bravītu me
+11017006a ity ukte jānatī sarvam ahaṁ svaṁ vyasanāgamam
+11017006c abruvaṁ puruṣavyāghra yato dharmas tato jayaḥ
+11017007a yathā na yudhyamānas tvaṁ saṁpramuhyasi putraka
+11017007c dhruvaṁ śastrajitām̐l lokān prāptāsy amaravad vibho
+11017008a ity evam abruvaṁ pūrvaṁ nainaṁ śocāmi vai prabho
+11017008c dhr̥tarāṣṭraṁ tu śocāmi kr̥paṇaṁ hatabāndhavam
+11017009a amarṣaṇaṁ yudhāṁ śreṣṭhaṁ kr̥tāstraṁ yuddhadurmadam
+11017009c śayānaṁ vīraśayane paśya mādhava me sutam
+11017010a yo ’yaṁ mūrdhāvasiktānām agre yāti paraṁtapaḥ
+11017010c so ’yaṁ pāṁsuṣu śete ’dya paśya kālasya paryayam
+11017011a dhruvaṁ duryodhano vīro gatiṁ nasulabhāṁ gataḥ
+11017011c tathā hy abhimukhaḥ śete śayane vīrasevite
+11017012a yaṁ purā paryupāsīnā ramayanti mahīkṣitaḥ
+11017012c mahītalasthaṁ nihataṁ gr̥dhrās taṁ paryupāsate
+11017013a yaṁ purā vyajanair agryair upavījanti yoṣitaḥ
+11017013c tam adya pakṣavyajanair upavījanti pakṣiṇaḥ
+11017014a eṣa śete mahābāhur balavān satyavikramaḥ
+11017014c siṁheneva dvipaḥ saṁkhye bhīmasenena pātitaḥ
+11017015a paśya duryodhanaṁ kr̥ṣṇa śayānaṁ rudhirokṣitam
+11017015c nihataṁ bhīmasenena gadām udyamya bhārata
+11017016a akṣauhiṇīr mahābāhur daśa caikāṁ ca keśava
+11017016c anayad yaḥ purā saṁkhye so ’nayān nidhanaṁ gataḥ
+11017017a eṣa duryodhanaḥ śete maheṣvāso mahārathaḥ
+11017017c śārdūla iva siṁhena bhīmasenena pātitaḥ
+11017018a viduraṁ hy avamanyaiṣa pitaraṁ caiva mandabhāk
+11017018c bālo vr̥ddhāvamānena mando mr̥tyuvaśaṁ gataḥ
+11017019a niḥsapatnā mahī yasya trayodaśa samāḥ sthitā
+11017019c sa śete nihato bhūmau putro me pr̥thivīpatiḥ
+11017020a apaśyaṁ kr̥ṣṇa pr̥thivīṁ dhārtarāṣṭrānuśāsanāt
+11017020c pūrṇāṁ hastigavāśvasya vārṣṇeya na tu tac ciram
+11017021a tām evādya mahābāho paśyāmy anyānuśāsanāt
+11017021c hīnāṁ hastigavāśvena kiṁ nu jīvāmi mādhava
+11017022a idaṁ kr̥cchrataraṁ paśya putrasyāpi vadhān mama
+11017022c yad imāḥ paryupāsante hatāñ śūrān raṇe striyaḥ
+11017023a prakīrṇakeśāṁ suśroṇīṁ duryodhanabhujāṅkagām
+11017023c rukmavedīnibhāṁ paśya kr̥ṣṇa lakṣmaṇamātaram
+11017024a nūnam eṣā purā bālā jīvamāne mahābhuje
+11017024c bhujāv āśritya ramate subhujasya manasvinī
+11017025a kathaṁ tu śatadhā nedaṁ hr̥dayaṁ mama dīryate
+11017025c paśyantyā nihataṁ putraṁ putreṇa sahitaṁ raṇe
+11017026a putraṁ rudhirasaṁsiktam upajighraty aninditā
+11017026c duryodhanaṁ tu vāmorūḥ pāṇinā parimārjati
+11017027a kiṁ nu śocati bhartāraṁ putraṁ caiṣā manasvinī
+11017027c tathā hy avasthitā bhāti putraṁ cāpy abhivīkṣya sā
+11017028a svaśiraḥ pañcaśākhābhyām abhihatyāyatekṣaṇā
+11017028c pataty urasi vīrasya kururājasya mādhava
+11017029a puṇḍarīkanibhā bhāti puṇḍarīkāntaraprabhā
+11017029c mukhaṁ vimr̥jya putrasya bhartuś caiva tapasvinī
+11017030a yadi cāpy āgamāḥ santi yadi vā śrutayas tathā
+11017030c dhruvaṁ lokān avāpto ’yaṁ nr̥po bāhubalārjitān
+11018001  gāndhāry uvāca
+11018001a paśya mādhava putrān me śatasaṁkhyāñ jitaklamān
+11018001c gadayā bhīmasenena bhūyiṣṭhaṁ nihatān raṇe
+11018002a idaṁ duḥkhataraṁ me ’dya yad imā muktamūrdhajāḥ
+11018002c hataputrā raṇe bālāḥ paridhāvanti me snuṣāḥ
+11018003a prāsādatalacāriṇyaś caraṇair bhūṣaṇānvitaiḥ
+11018003c āpannā yat spr̥śantīmā rudhirārdrāṁ vasuṁdharām
+11018004a gr̥dhrān utsārayantyaś ca gomāyūn vāyasāṁs tathā
+11018004c śokenārtā vighūrṇantyo mattā iva caranty uta
+11018005a eṣānyā tv anavadyāṅgī karasaṁmitamadhyamā
+11018005c ghoraṁ tad vaiśasaṁ dr̥ṣṭvā nipataty atiduḥkhitā
+11018006a dr̥ṣṭvā me pārthivasutām etāṁ lakṣmaṇamātaram
+11018006c rājaputrīṁ mahābāho mano na vyupaśāmyati
+11018007a bhrātr̥̄ṁś cānyāḥ patīṁś cānyāḥ putrāṁś ca nihatān bhuvi
+11018007c dr̥ṣṭvā paripatanty etāḥ pragr̥hya subhujā bhujān
+11018008a madhyamānāṁ tu nārīṇāṁ vr̥ddhānāṁ cāparājita
+11018008c ākrandaṁ hatabandhūnāṁ dāruṇe vaiśase śr̥ṇu
+11018009a rathanīḍāni dehāṁś ca hatānāṁ gajavājinām
+11018009c āśritāḥ śramamohārtāḥ sthitāḥ paśya mahābala
+11018010a anyā cāpahr̥taṁ kāyāc cārukuṇḍalam unnasam
+11018010c svasya bandhoḥ śiraḥ kr̥ṣṇa gr̥hītvā paśya tiṣṭhati
+11018011a pūrvajātikr̥taṁ pāpaṁ manye nālpam ivānagha
+11018011c etābhir anavadyābhir mayā caivālpamedhayā
+11018012a tad idaṁ dharmarājena yātitaṁ no janārdana
+11018012c na hi nāśo ’sti vārṣṇeya karmaṇoḥ śubhapāpayoḥ
+11018013a pratyagravayasaḥ paśya darśanīyakucodarāḥ
+11018013c kuleṣu jātā hrīmatyaḥ kr̥ṣṇapakṣākṣimūrdhajāḥ
+11018014a haṁsagadgadabhāṣiṇyo duḥkhaśokapramohitāḥ
+11018014c sārasya iva vāśantyaḥ patitāḥ paśya mādhava
+11018015a phullapadmaprakāśāni puṇḍarīkākṣa yoṣitām
+11018015c anavadyāni vaktrāṇi tapaty asukharaśmivān
+11018016a īrṣūṇāṁ mama putrāṇāṁ vāsudevāvarodhanam
+11018016c mattamātaṅgadarpāṇāṁ paśyanty adya pr̥thagjanāḥ
+11018017a śatacandrāṇi carmāṇi dhvajāṁś cādityasaṁnibhān
+11018017c raukmāṇi caiva varmāṇi niṣkān api ca kāñcanān
+11018018a śīrṣatrāṇāni caitāni putrāṇāṁ me mahītale
+11018018c paśya dīptāni govinda pāvakān suhutān iva
+11018019a eṣa duḥśāsanaḥ śete śūreṇāmitraghātinā
+11018019c pītaśoṇitasarvāṅgo bhīmasenena pātitaḥ
+11018020a gadayā vīraghātinyā paśya mādhava me sutam
+11018020c dyūtakleśān anusmr̥tya draupadyā coditena ca
+11018021a uktā hy anena pāñcālī sabhāyāṁ dyūtanirjitā
+11018021c priyaṁ cikīrṣatā bhrātuḥ karṇasya ca janārdana
+11018022a sahaiva sahadevena nakulenārjunena ca
+11018022c dāsabhāryāsi pāñcāli kṣipraṁ praviśa no gr̥hān
+11018023a tato ’ham abruvaṁ kr̥ṣṇa tadā duryodhanaṁ nr̥pam
+11018023c mr̥tyupāśaparikṣiptaṁ śakuniṁ putra varjaya
+11018024a nibodhainaṁ sudurbuddhiṁ mātulaṁ kalahapriyam
+11018024c kṣipram enaṁ parityajya putra śāmyasva pāṇḍavaiḥ
+11018025a na budhyase tvaṁ durbuddhe bhīmasenam amarṣaṇam
+11018025c vāṅnārācais tudaṁs tīkṣṇair ulkābhir iva kuñjaram
+11018026a tān eṣa rabhasaḥ krūro vākśalyān avadhārayan
+11018026c utsasarja viṣaṁ teṣu sarpo govr̥ṣabheṣv iva
+11018027a eṣa duḥśāsanaḥ śete vikṣipya vipulau bhujau
+11018027c nihato bhīmasenena siṁheneva maharṣabhaḥ
+11018028a atyartham akarod raudraṁ bhīmaseno ’tyamarṣaṇaḥ
+11018028c duḥśāsanasya yat kruddho ’pibac choṇitam āhave
+11019001  gāndhāry uvāca
+11019001a eṣa mādhava putro me vikarṇaḥ prājñasaṁmataḥ
+11019001c bhūmau vinihataḥ śete bhīmena śatadhā kr̥taḥ
+11019002a gajamadhyagataḥ śete vikarṇo madhusūdana
+11019002c nīlameghaparikṣiptaḥ śaradīva divākaraḥ
+11019003a asya cāpagraheṇaiṣa pāṇiḥ kr̥takiṇo mahān
+11019003c kathaṁ cic chidyate gr̥dhrair attukāmais talatravān
+11019004a asya bhāryāmiṣaprepsūn gr̥dhrān etāṁs tapasvinī
+11019004c vārayaty aniśaṁ bālā na ca śaknoti mādhava
+11019005a yuvā vr̥ndārakaḥ śūro vikarṇaḥ puruṣarṣabha
+11019005c sukhocitaḥ sukhārhaś ca śete pāṁsuṣu mādhava
+11019006a karṇinālīkanārācair bhinnamarmāṇam āhave
+11019006c adyāpi na jahāty enaṁ lakṣmīr bharatasattamam
+11019007a eṣa saṁgrāmaśūreṇa pratijñāṁ pālayiṣyatā
+11019007c durmukho ’bhimukhaḥ śete hato ’rigaṇahā raṇe
+11019008a tasyaitad vadanaṁ kr̥ṣṇa śvāpadair ardhabhakṣitam
+11019008c vibhāty abhyadhikaṁ tāta saptamyām iva candramāḥ
+11019009a śūrasya hi raṇe kr̥ṣṇa yasyānanam athedr̥śam
+11019009c sa kathaṁ nihato ’mitraiḥ pāṁsūn grasati me sutaḥ
+11019010a yasyāhavamukhe saumya sthātā naivopapadyate
+11019010c sa kathaṁ durmukho ’mitrair hato vibudhalokajit
+11019011a citrasenaṁ hataṁ bhūmau śayānaṁ madhusūdana
+11019011c dhārtarāṣṭram imaṁ paśya pratimānaṁ danuṣmatām
+11019012a taṁ citramālyābharaṇaṁ yuvatyaḥ śokakarśitāḥ
+11019012c kravyādasaṁghaiḥ sahitā rudantyaḥ paryupāsate
+11019013a strīṇāṁ ruditanirghoṣaḥ śvāpadānāṁ ca garjitam
+11019013c citrarūpam idaṁ kr̥ṣṇa vicitraṁ pratibhāti me
+11019014a yuvā vr̥ndārako nityaṁ pravarastrīniṣevitaḥ
+11019014c viviṁśatir asau śete dhvastaḥ pāṁsuṣu mādhava
+11019015a śarasaṁkr̥ttavarmāṇaṁ vīraṁ viśasane hatam
+11019015c parivāryāsate gr̥dhrāḥ pariviṁśā viviṁśatim
+11019016a praviśya samare vīraḥ pāṇḍavānām anīkinīm
+11019016c āviśya śayane śete punaḥ satpuruṣocitam
+11019017a smitopapannaṁ sunasaṁ subhru tārādhipopamam
+11019017c atīva śubhraṁ vadanaṁ paśya kr̥ṣṇa viviṁśateḥ
+11019018a yaṁ sma taṁ paryupāsante vasuṁ vāsavayoṣitaḥ
+11019018c krīḍantam iva gandharvaṁ devakanyāḥ sahasraśaḥ
+11019019a hantāraṁ vīrasenānāṁ śūraṁ samitiśobhanam
+11019019c nibarhaṇam amitrāṇāṁ duḥsahaṁ viṣaheta kaḥ
+11019020a duḥsahasyaitad ābhāti śarīraṁ saṁvr̥taṁ śaraiḥ
+11019020c girir ātmaruhaiḥ phullaiḥ karṇikārair ivāvr̥taḥ
+11019021a śātakaumbhyā srajā bhāti kavacena ca bhāsvatā
+11019021c agnineva giriḥ śveto gatāsur api duḥsahaḥ
+11020001  gāndhāry uvāca
+11020001a adhyardhaguṇam āhur yaṁ bale śaurye ca mādhava
+11020001c pitrā tvayā ca dāśārha dr̥ptaṁ siṁham ivotkaṭam
+11020002a yo bibheda camūm eko mama putrasya durbhidām
+11020002c sa bhūtvā mr̥tyur anyeṣāṁ svayaṁ mr̥tyuvaśaṁ gataḥ
+11020003a tasyopalakṣaye kr̥ṣṇa kārṣṇer amitatejasaḥ
+11020003c abhimanyor hatasyāpi prabhā naivopaśāmyati
+11020004a eṣā virāṭaduhitā snuṣā gāṇḍīvadhanvanaḥ
+11020004c ārtā bālā patiṁ vīraṁ śocyā śocaty aninditā
+11020005a tam eṣā hi samāsādya bhāryā bhartāram antike
+11020005c virāṭaduhitā kr̥ṣṇa pāṇinā parimārjati
+11020006a tasya vaktram upāghrāya saubhadrasya yaśasvinī
+11020006c vibuddhakamalākāraṁ kambuvr̥ttaśirodharam
+11020007a kāmyarūpavatī caiṣā pariṣvajati bhāminī
+11020007c lajjamānā purevainaṁ mādhvīkamadamūrchitā
+11020008a tasya kṣatajasaṁdigdhaṁ jātarūpapariṣkr̥tam
+11020008c vimucya kavacaṁ kr̥ṣṇa śarīram abhivīkṣate
+11020009a avekṣamāṇā taṁ bālā kr̥ṣṇa tvām abhibhāṣate
+11020009c ayaṁ te puṇḍarīkākṣa sadr̥śākṣo nipātitaḥ
+11020010a bale vīrye ca sadr̥śas tejasā caiva te ’nagha
+11020010c rūpeṇa ca tavātyarthaṁ śete bhuvi nipātitaḥ
+11020011a atyantasukumārasya rāṅkavājinaśāyinaḥ
+11020011c kaccid adya śarīraṁ te bhūmau na paritapyate
+11020012a mātaṅgabhujavarṣmāṇau jyākṣepakaṭhinatvacau
+11020012c kāñcanāṅgadinau śeṣe nikṣipya vipulau bhujau
+11020013a vyāyamya bahudhā nūnaṁ sukhasuptaḥ śramād iva
+11020013c evaṁ vilapatīm ārtāṁ na hi mām abhibhāṣase
+11020014a āryām ārya subhadrāṁ tvam imāṁś ca tridaśopamān
+11020014c pitr̥̄n māṁ caiva duḥkhārtāṁ vihāya kva gamiṣyasi
+11020015a tasya śoṇitasaṁdigdhān keśān unnāmya pāṇinā
+11020015c utsaṅge vaktram ādhāya jīvantam iva pr̥cchati
+11020015e svasrīyaṁ vāsudevasya putraṁ gāṇḍīvadhanvanaḥ
+11020016a kathaṁ tvāṁ raṇamadhyasthaṁ jaghnur ete mahārathāḥ
+11020016c dhig astu krūrakartr̥̄ṁs tān kr̥pakarṇajayadrathān
+11020017a droṇadrauṇāyanī cobhau yair asi vyasanīkr̥taḥ
+11020017c ratharṣabhāṇāṁ sarveṣāṁ katham āsīt tadā manaḥ
+11020018a bālaṁ tvāṁ parivāryaikaṁ mama duḥkhāya jaghnuṣām
+11020018c kathaṁ nu pāṇḍavānāṁ ca pāñcālānāṁ ca paśyatām
+11020018e tvaṁ vīra nidhanaṁ prāpto nāthavān sann anāthavat
+11020019a dr̥ṣṭvā bahubhir ākrande nihataṁ tvām anāthavat
+11020019c vīraḥ puruṣaśārdūlaḥ kathaṁ jīvati pāṇḍavaḥ
+11020020a na rājyalābho vipulaḥ śatrūṇāṁ vā parābhavaḥ
+11020020c prītiṁ dāsyati pārthānāṁ tvām r̥te puṣkarekṣaṇa
+11020021a tava śastrajitām̐l lokān dharmeṇa ca damena ca
+11020021c kṣipram anvāgamiṣyāmi tatra māṁ pratipālaya
+11020022a durmaraṁ punar aprāpte kāle bhavati kena cit
+11020022c yad ahaṁ tvāṁ raṇe dr̥ṣṭvā hataṁ jīvāmi durbhagā
+11020023a kām idānīṁ naravyāghra ślakṣṇayā smitayā girā
+11020023c pitr̥loke sametyānyāṁ mām ivāmantrayiṣyasi
+11020024a nūnam apsarasāṁ svarge manāṁsi pramathiṣyasi
+11020024c parameṇa ca rūpeṇa girā ca smitapūrvayā
+11020025a prāpya puṇyakr̥tām̐l lokān apsarobhiḥ sameyivān
+11020025c saubhadra viharan kāle smarethāḥ sukr̥tāni me
+11020026a etāvān iha saṁvāso vihitas te mayā saha
+11020026c ṣaṇmāsān saptame māsi tvaṁ vīra nidhanaṁ gataḥ
+11020027a ity uktavacanām etām apakarṣanti duḥkhitām
+11020027c uttarāṁ moghasaṁkalpāṁ matsyarājakulastriyaḥ
+11020028a uttarām apakr̥ṣyainām ārtām ārtatarāḥ svayam
+11020028c virāṭaṁ nihataṁ dr̥ṣṭvā krośanti vilapanti ca
+11020029a droṇāstraśarasaṁkr̥ttaṁ śayānaṁ rudhirokṣitam
+11020029c virāṭaṁ vitudanty ete gr̥dhragomāyuvāyasāḥ
+11020030a vitudyamānaṁ vihagair virāṭam asitekṣaṇāḥ
+11020030c na śaknuvanti vivaśā nivartayitum āturāḥ
+11020031a āsām ātapataptānām āyāsena ca yoṣitām
+11020031c śrameṇa ca vivarṇānāṁ rūpāṇāṁ vigataṁ vapuḥ
+11020032a uttaraṁ cābhimanyuṁ ca kāmbojaṁ ca sudakṣiṇam
+11020032c śiśūn etān hatān paśya lakṣmaṇaṁ ca sudarśanam
+11020032e āyodhanaśiromadhye śayānaṁ paśya mādhava
+11021001  gāndhāry uvāca
+11021001a eṣa vaikartanaḥ śete maheṣvāso mahārathaḥ
+11021001c jvalitānalavat saṁkhye saṁśāntaḥ pārthatejasā
+11021002a paśya vaikartanaṁ karṇaṁ nihatyātirathān bahūn
+11021002c śoṇitaughaparītāṅgaṁ śayānaṁ patitaṁ bhuvi
+11021003a amarṣī dīrgharoṣaś ca maheṣvāso mahārathaḥ
+11021003c raṇe vinihataḥ śete śūro gāṇḍīvadhanvanā
+11021004a yaṁ sma pāṇḍavasaṁtrāsān mama putrā mahārathāḥ
+11021004c prāyudhyanta puraskr̥tya mātaṅgā iva yūthapam
+11021005a śārdūlam iva siṁhena samare savyasācinā
+11021005c mātaṅgam iva mattena mātaṅgena nipātitam
+11021006a sametāḥ puruṣavyāghra nihataṁ śūram āhave
+11021006c prakīrṇamūrdhajāḥ patnyo rudatyaḥ paryupāsate
+11021007a udvignaḥ satataṁ yasmād dharmarājo yudhiṣṭhiraḥ
+11021007c trayodaśa samā nidrāṁ cintayan nādhyagacchata
+11021008a anādhr̥ṣyaḥ parair yuddhe śatrubhir maghavān iva
+11021008c yugāntāgnir ivārciṣmān himavān iva ca sthiraḥ
+11021009a sa bhūtvā śaraṇaṁ vīro dhārtarāṣṭrasya mādhava
+11021009c bhūmau vinihataḥ śete vātarugṇa iva drumaḥ
+11021010a paśya karṇasya patnīṁ tvaṁ vr̥ṣasenasya mātaram
+11021010c lālapyamānāḥ karuṇaṁ rudatīṁ patitāṁ bhuvi
+11021011a ācāryaśāpo ’nugato dhruvaṁ tvāṁ; yad agrasac cakram iyaṁ dharā te
+11021011c tataḥ śareṇāpahr̥taṁ śiras te; dhanaṁjayenāhave śatrumadhye
+11021012a aho dhig eṣā patitā visaṁjñā; samīkṣya jāmbūnadabaddhaniṣkam
+11021012c karṇaṁ mahābāhum adīnasattvaṁ; suṣeṇamātā rudatī bhr̥śārtā
+11021013a alpāvaśeṣo hi kr̥to mahātmā; śarīrabhakṣaiḥ paribhakṣayadbhiḥ
+11021013c draṣṭuṁ na saṁprītikaraḥ śaśīva; kr̥ṣṇaśya pakṣasya caturdaśāhe
+11021014a sāvartamānā patitā pr̥thivyām; utthāya dīnā punar eva caiṣā
+11021014c karṇasya vaktraṁ parijighramāṇā; rorūyate putravadhābhitaptā
+11022001  gāndhāry uvāca
+11022001a āvantyaṁ bhīmasenena bhakṣayanti nipātitam
+11022001c gr̥dhragomāyavaḥ śūraṁ bahubandhum abandhuvat
+11022002a taṁ paśya kadanaṁ kr̥tvā śatrūṇāṁ madhusūdana
+11022002c śayānaṁ vīraśayane rudhireṇa samukṣitam
+11022003a taṁ sr̥gālāś ca kaṅkāś ca kravyādāś ca pr̥thagvidhāḥ
+11022003c tena tena vikarṣanti paśya kālasya paryayam
+11022004a śayānaṁ vīraśayane vīram ākrandasāriṇam
+11022004c āvantyam abhito nāryo rudatyaḥ paryupāsate
+11022005a prātipīyaṁ maheṣvāsaṁ hataṁ bhallena bāhlikam
+11022005c prasuptam iva śārdūlaṁ paśya kr̥ṣṇa manasvinam
+11022006a atīva mukhavarṇo ’sya nihatasyāpi śobhate
+11022006c somasyevābhipūrṇasya paurṇamāsyāṁ samudyataḥ
+11022007a putraśokābhitaptena pratijñāṁ parirakṣatā
+11022007c pākaśāsaninā saṁkhye vārddhakṣatrir nipātitaḥ
+11022008a ekādaśa camūr jitvā rakṣyamāṇaṁ mahātmanā
+11022008c satyaṁ cikīrṣatā paśya hatam enaṁ jayadratham
+11022009a sindhusauvīrabhartāraṁ darpapūrṇaṁ manasvinam
+11022009c bhakṣayanti śivā gr̥dhrā janārdana jayadratham
+11022010a saṁrakṣyamāṇaṁ bhāryābhir anuraktābhir acyuta
+11022010c bhaṣanto vyapakarṣanti gahanaṁ nimnam antikāt
+11022011a tam etāḥ paryupāsante rakṣamāṇā mahābhujam
+11022011c sindhusauvīragāndhārakāmbojayavanastriyaḥ
+11022012a yadā kr̥ṣṇām upādāya prādravat kekayaiḥ saha
+11022012c tadaiva vadhyaḥ pāṇḍūnāṁ janārdana jayadrathaḥ
+11022013a duḥśalāṁ mānayadbhis tu yadā mukto jayadrathaḥ
+11022013c katham adya na tāṁ kr̥ṣṇa mānayanti sma te punaḥ
+11022014a saiṣā mama sutā bālā vilapantī suduḥkhitā
+11022014c pramāpayati cātmānam ākrośati ca pāṇḍavān
+11022015a kiṁ nu duḥkhataraṁ kr̥ṣṇa paraṁ mama bhaviṣyati
+11022015c yat sutā vidhavā bālā snuṣāś ca nihateśvarāḥ
+11022016a aho dhig duḥśalāṁ paśya vītaśokabhayām iva
+11022016c śiro bhartur anāsādya dhāvamānām itas tataḥ
+11022017a vārayām āsa yaḥ sarvān pāṇḍavān putragr̥ddhinaḥ
+11022017c sa hatvā vipulāḥ senāḥ svayaṁ mr̥tyuvaśaṁ gataḥ
+11022018a taṁ mattam iva mātaṅgaṁ vīraṁ paramadurjayam
+11022018c parivārya rudanty etāḥ striyaś candropamānanāḥ
+11023001  gāndhāry uvāca
+11023001a eṣa śalyo hataḥ śete sākṣān nakulamātulaḥ
+11023001c dharmajñena satā tāta dharmarājena saṁyuge
+11023002a yas tvayā spardhate nityaṁ sarvatra puruṣarṣabha
+11023002c sa eṣa nihataḥ śete madrarājo mahārathaḥ
+11023003a yena saṁgr̥hṇatā tāta ratham ādhirather yudhi
+11023003c jayārthaṁ pāṇḍuputrāṇāṁ tathā tejovadhaḥ kr̥taḥ
+11023004a aho dhik paśya śalyasya pūrṇacandrasudarśanam
+11023004c mukhaṁ padmapalāśākṣaṁ vaḍair ādaṣṭam avraṇam
+11023005a eṣā cāmīkarābhasya taptakāñcanasaprabhā
+11023005c āsyād viniḥsr̥tā jihvā bhakṣyate kr̥ṣṇa pakṣibhiḥ
+11023006a yudhiṣṭhireṇa nihataṁ śalyaṁ samitiśobhanam
+11023006c rudantyaḥ paryupāsante madrarājakulastriyaḥ
+11023007a etāḥ susūkṣmavasanā madrarājaṁ nararṣabham
+11023007c krośanty abhisamāsādya kṣatriyāḥ kṣatriyarṣabham
+11023008a śalyaṁ nipatitaṁ nāryaḥ parivāryābhitaḥ sthitāḥ
+11023008c vāśitā gr̥ṣṭayaḥ paṅke parimagnam ivarṣabham
+11023009a śalyaṁ śaraṇadaṁ śūraṁ paśyainaṁ rathasattamam
+11023009c śayānaṁ vīraśayane śarair viśakalīkr̥tam
+11023010a eṣa śailālayo rājā bhagadattaḥ pratāpavān
+11023010c gajāṅkuśadharaḥ śreṣṭhaḥ śete bhuvi nipātitaḥ
+11023011a yasya rukmamayī mālā śirasy eṣā virājate
+11023011c śvāpadair bhakṣyamāṇasya śobhayantīva mūrdhajān
+11023012a etena kila pārthasya yuddham āsīt sudāruṇam
+11023012c lomaharṣaṇam atyugraṁ śakrasya balinā yathā
+11023013a yodhayitvā mahābāhur eṣa pārthaṁ dhanaṁjayam
+11023013c saṁśayaṁ gamayitvā ca kuntīputreṇa pātitaḥ
+11023014a yasya nāsti samo loke śaurye vīrye ca kaś cana
+11023014c sa eṣa nihataḥ śete bhīṣmo bhīṣmakr̥d āhave
+11023015a paśya śāṁtanavaṁ kr̥ṣṇa śayānaṁ sūryavarcasam
+11023015c yugānta iva kālena pātitaṁ sūryam ambarāt
+11023016a eṣa taptvā raṇe śatrūñ śastratāpena vīryavān
+11023016c narasūryo ’stam abhyeti sūryo ’stam iva keśava
+11023017a śaratalpagataṁ vīraṁ dharme devāpinā samam
+11023017c śayānaṁ vīraśayane paśya śūraniṣevite
+11023018a karṇinālīkanārācair āstīrya śayanottamam
+11023018c āviśya śete bhagavān skandaḥ śaravaṇaṁ yathā
+11023019a atūlapūrṇaṁ gāṅgeyas tribhir bāṇaiḥ samanvitam
+11023019c upadhāyopadhānāgryaṁ dattaṁ gāṇḍīvadhanvanā
+11023020a pālayānaḥ pituḥ śāstram ūrdhvaretā mahāyaśāḥ
+11023020c eṣa śāṁtanavaḥ śete mādhavāpratimo yudhi
+11023021a dharmātmā tāta dharmajñaḥ pāraṁparyeṇa nirṇaye
+11023021c amartya iva martyaḥ sann eṣa prāṇān adhārayat
+11023022a nāsti yuddhe kr̥tī kaś cin na vidvān na parākramī
+11023022c yatra śāṁtanavo bhīṣmaḥ śete ’dya nihataḥ paraiḥ
+11023023a svayam etena śūreṇa pr̥cchyamānena pāṇḍavaiḥ
+11023023c dharmajñenāhave mr̥tyur ākhyātaḥ satyavādinā
+11023024a pranaṣṭaḥ kuruvaṁśaś ca punar yena samuddhr̥taḥ
+11023024c sa gataḥ kurubhiḥ sārdhaṁ mahābuddhiḥ parābhavam
+11023025a dharmeṣu kuravaḥ kaṁ nu pariprakṣyanti mādhava
+11023025c gate devavrate svargaṁ devakalpe nararṣabhe
+11023026a arjunasya vinetāram ācāryaṁ sātyakes tathā
+11023026c taṁ paśya patitaṁ droṇaṁ kurūṇāṁ gurusattamam
+11023027a astraṁ caturvidhaṁ veda yathaiva tridaśeśvaraḥ
+11023027c bhārgavo vā mahāvīryas tathā droṇo ’pi mādhava
+11023028a yasya prasādād bībhatsuḥ pāṇḍavaḥ karma duṣkaram
+11023028c cakāra sa hataḥ śete nainam astrāṇy apālayan
+11023029a yaṁ purodhāya kurava āhvayanti sma pāṇḍavān
+11023029c so ’yaṁ śastrabhr̥tāṁ śreṣṭho droṇaḥ śastraiḥ pr̥thak kr̥taḥ
+11023030a yasya nirdahataḥ senāṁ gatir agner ivābhavat
+11023030c sa bhūmau nihataḥ śete śāntārcir iva pāvakaḥ
+11023031a dhanur muṣṭir aśīrṇaś ca hastāvāpaś ca mādhava
+11023031c droṇasya nihatasyāpi dr̥śyate jīvato yathā
+11023032a vedā yasmāc ca catvāraḥ sarvāstrāṇi ca keśava
+11023032c anapetāni vai śūrād yathaivādau prajāpateḥ
+11023033a vandanārhāv imau tasya bandibhir vanditau śubhau
+11023033c gomāyavo vikarṣanti pādau śiṣyaśatārcitau
+11023034a droṇaṁ drupadaputreṇa nihataṁ madhusūdana
+11023034c kr̥pī kr̥paṇam anvāste duḥkhopahatacetanā
+11023035a tāṁ paśya rudatīm ārtāṁ muktakeśīm adhomukhīm
+11023035c hataṁ patim upāsantīṁ droṇaṁ śastrabhr̥tāṁ varam
+11023036a bāṇair bhinnatanutrāṇaṁ dhr̥ṣṭadyumnena keśava
+11023036c upāste vai mr̥dhe droṇaṁ jaṭilā brahmacāriṇī
+11023037a pretakr̥tye ca yatate kr̥pī kr̥paṇam āturā
+11023037c hatasya samare bhartuḥ sukumārī yaśasvinī
+11023038a agnīn āhr̥tya vidhivac citāṁ prajvālya sarvaśaḥ
+11023038c droṇam ādhāya gāyanti trīṇi sāmāni sāmagāḥ
+11023039a kiranti ca citām ete jaṭilā brahmacāriṇaḥ
+11023039c dhanurbhiḥ śaktibhiś caiva rathanīḍaiś ca mādhava
+11023040a śastraiś ca vividhair anyair dhakṣyante bhūritejasam
+11023040c ta ete droṇam ādhāya śaṁsanti ca rudanti ca
+11023041a sāmabhis tribhir antaḥsthair anuśaṁsanti cāpare
+11023041c agnāv agnim ivādhāya droṇaṁ hutvā hutāśane
+11023042a gacchanty abhimukhā gaṅgāṁ droṇaśiṣyā dvijātayaḥ
+11023042c apasavyāṁ citiṁ kr̥tvā puraskr̥tya kr̥pīṁ tadā
+11024001  gāndhāry uvāca
+11024001a somadattasutaṁ paśya yuyudhānena pātitam
+11024001c vitudyamānaṁ vihagair bahubhir mādhavāntike
+11024002a putraśokābhisaṁtaptaḥ somadatto janārdana
+11024002c yuyudhānaṁ maheṣvāsaṁ garhayann iva dr̥śyate
+11024003a asau tu bhūriśravaso mātā śokapariplutā
+11024003c āśvāsayati bhartāraṁ somadattam aninditā
+11024004a diṣṭyā nedaṁ mahārāja dāruṇaṁ bharatakṣayam
+11024004c kurusaṁkrandanaṁ ghoraṁ yugāntam anupaśyasi
+11024005a diṣṭyā yūpadhvajaṁ vīraṁ putraṁ bhūrisahasradam
+11024005c anekakratuyajvānaṁ nihataṁ nādya paśyasi
+11024006a diṣṭyā snuṣāṇām ākrande ghoraṁ vilapitaṁ bahu
+11024006c na śr̥ṇoṣi mahārāja sārasīnām ivārṇave
+11024007a ekavastrānusaṁvītāḥ prakīrṇāsitamūrdhajāḥ
+11024007c snuṣās te paridhāvanti hatāpatyā hateśvarāḥ
+11024008a śvāpadair bhakṣyamāṇaṁ tvam aho diṣṭyā na paśyasi
+11024008c chinnabāhuṁ naravyāghram arjunena nipātitam
+11024009a śalaṁ vinihataṁ saṁkhye bhūriśravasam eva ca
+11024009c snuṣāś ca vidhavāḥ sarvā diṣṭyā nādyeha paśyasi
+11024010a diṣṭyā tat kāñcanaṁ chatraṁ yūpaketor mahātmanaḥ
+11024010c vinikīrṇaṁ rathopasthe saumadatter na paśyasi
+11024011a amūs tu bhūriśravaso bhāryāḥ sātyakinā hatam
+11024011c parivāryānuśocanti bhartāram asitekṣaṇāḥ
+11024012a etā vilapya bahulaṁ bhartr̥śokena karśitāḥ
+11024012c patanty abhimukhā bhūmau kr̥paṇaṁ bata keśava
+11024013a bībhatsur atibībhatsaṁ karmedam akarot katham
+11024013c pramattasya yad acchaitsīd bāhuṁ śūrasya yajvanaḥ
+11024014a tataḥ pāpataraṁ karma kr̥tavān api sātyakiḥ
+11024014c yasmāt prāyopaviṣṭasya prāhārṣīt saṁśitātmanaḥ
+11024015a eko dvābhyāṁ hataḥ śeṣe tvam adharmeṇa dhārmikaḥ
+11024015c iti yūpadhvajasyaitāḥ striyaḥ krośanti mādhava
+11024016a bhāryā yūpadhvajasyaiṣā karasaṁmitamadhyamā
+11024016c kr̥tvotsaṅge bhujaṁ bhartuḥ kr̥paṇaṁ paryadevayat
+11024017a ayaṁ sa raśanotkarṣī pīnastanavimardanaḥ
+11024017c nābhyūrujaghanasparśī nīvīvisraṁsanaḥ karaḥ
+11024018a vāsudevasya sāṁnidhye pārthenākliṣṭakarmaṇā
+11024018c yudhyataḥ samare ’nyena pramattasya nipātitaḥ
+11024019a kiṁ nu vakṣyasi saṁsatsu kathāsu ca janārdana
+11024019c arjunasya mahat karma svayaṁ vā sa kirīṭavān
+11024020a ity evaṁ garhayitvaiṣā tūṣṇīm āste varāṅganā
+11024020c tām etām anuśocanti sapatnyaḥ svām iva snuṣām
+11024021a gāndhārarājaḥ śakunir balavān satyavikramaḥ
+11024021c nihataḥ sahadevena bhāgineyena mātulaḥ
+11024022a yaḥ purā hemadaṇḍābhyāṁ vyajanābhyāṁ sma vījyate
+11024022c sa eṣa pakṣibhiḥ pakṣaiḥ śayāna upavījyate
+11024023a yaḥ sma rūpāṇi kurute śataśo ’tha sahasraśaḥ
+11024023c tasya māyāvino māyā dagdhāḥ pāṇḍavatejasā
+11024024a māyayā nikr̥tiprajño jitavān yo yudhiṣṭhiram
+11024024c sabhāyāṁ vipulaṁ rājyaṁ sa punar jīvitaṁ jitaḥ
+11024025a śakuntāḥ śakuniṁ kr̥ṣṇa samantāt paryupāsate
+11024025c kitavaṁ mama putrāṇāṁ vināśāyopaśikṣitam
+11024026a etenaitan mahad vairaṁ prasaktaṁ pāṇḍavaiḥ saha
+11024026c vadhāya mama putrāṇām ātmanaḥ sagaṇasya ca
+11024027a yathaiva mama putrāṇāṁ lokāḥ śastrajitāḥ prabho
+11024027c evam asyāpi durbuddher lokāḥ śastreṇa vai jitāḥ
+11024028a kathaṁ ca nāyaṁ tatrāpi putrān me bhrātr̥bhiḥ saha
+11024028c virodhayed r̥juprajñān anr̥jur madhusūdana
+11025001  gāndhāry uvāca
+11025001a kāmbojaṁ paśya durdharṣaṁ kāmbojāstaraṇocitam
+11025001c śayānam r̥ṣabhaskandhaṁ hataṁ pāṁsuśu mādhava
+11025002a yasya kṣatajasaṁdigdhau bāhū candanarūṣitau
+11025002c avekṣya kr̥paṇaṁ bhāryā vilapaty atiduḥkhitā
+11025003a imau tau parighaprakhyau bāhū śubhatalāṅgulī
+11025003c yayor vivaram āpannāṁ na ratir māṁ purājahat
+11025004a kāṁ gatiṁ nu gamiṣyāmi tvayā hīnā janeśvara
+11025004c dūrabandhur anātheva atīva madhurasvarā
+11025005a ātape klāmyamānānāṁ vividhānām iva srajām
+11025005c klāntānām api nārīṇāṁ na śrīr jahati vai tanum
+11025006a śayānam abhitaḥ śūraṁ kāliṅgaṁ madhusūdana
+11025006c paśya dīptāṅgadayugapratibaddhamahābhujam
+11025007a māgadhānām adhipatiṁ jayatsenaṁ janārdana
+11025007c parivārya praruditā māgadhyaḥ paśya yoṣitaḥ
+11025008a āsām āyatanetrāṇāṁ susvarāṇāṁ janārdana
+11025008c manaḥśrutiharo nādo mano mohayatīva me
+11025009a prakīrṇasarvābharaṇā rudantyaḥ śokakarśitāḥ
+11025009c svāstīrṇaśayanopetā māgadhyaḥ śerate bhuvi
+11025010a kosalānām adhipatiṁ rājaputraṁ br̥hadbalam
+11025010c bhartāraṁ parivāryaitāḥ pr̥thak praruditāḥ striyaḥ
+11025011a asya gātragatān bāṇān kārṣṇibāhubalārpitān
+11025011c uddharanty asukhāviṣṭā mūrchamānāḥ punaḥ punaḥ
+11025012a āsāṁ sarvānavadyānām ātapena pariśramāt
+11025012c pramlānanalinābhāni bhānti vaktrāṇi mādhava
+11025013a droṇena nihatāḥ śūrāḥ śerate rucirāṅgadāḥ
+11025013c droṇenābhimukhāḥ sarve bhrātaraḥ pañca kekayāḥ
+11025014a taptakāñcanavarmāṇas tāmradhvajarathasrajaḥ
+11025014c bhāsayanti mahīṁ bhāsā jvalitā iva pāvakāḥ
+11025015a droṇena drupadaṁ saṁkhye paśya mādhava pātitam
+11025015c mahādvipam ivāraṇye siṁhena mahatā hatam
+11025016a pāñcālarājño vipulaṁ puṇḍarīkākṣa pāṇḍuram
+11025016c ātapatraṁ samābhāti śaradīva divākaraḥ
+11025017a etās tu drupadaṁ vr̥ddhaṁ snuṣā bhāryāś ca duḥkhitāḥ
+11025017c dagdhvā gacchanti pāñcālyaṁ rājānam apasavyataḥ
+11025018a dhr̥ṣṭaketuṁ maheṣvāsaṁ cedipuṁgavam aṅganāḥ
+11025018c droṇena nihataṁ śūraṁ haranti hr̥tacetasaḥ
+11025019a droṇāstram abhihatyaiṣa vimarde madhusūdana
+11025019c maheṣvāso hataḥ śete nadyā hr̥ta iva drumaḥ
+11025020a eṣa cedipatiḥ śūro dhr̥ṣṭaketur mahārathaḥ
+11025020c śete vinihataḥ saṁkhye hatvā śatrūn sahasraśaḥ
+11025021a vitudyamānaṁ vihagais taṁ bhāryāḥ pratyupasthitāḥ
+11025021c cedirājaṁ hr̥ṣīkeśa hataṁ sabalabāndhavam
+11025022a dāśārhīputrajaṁ vīraṁ śayānaṁ satyavikramam
+11025022c āropyāṅke rudanty etāś cedirājavarāṅganāḥ
+11025023a asya putraṁ hr̥ṣīkeśa suvaktraṁ cārukuṇḍalam
+11025023c droṇena samare paśya nikr̥ttaṁ bahudhā śaraiḥ
+11025024a pitaraṁ nūnam ājisthaṁ yudhyamānaṁ paraiḥ saha
+11025024c nājahāt pr̥ṣṭhato vīram adyāpi madhusūdana
+11025025a evaṁ mamāpi putrasya putraḥ pitaram anvagāt
+11025025c duryodhanaṁ mahābāho lakṣmaṇaḥ paravīrahā
+11025026a vindānuvindāv āvantyau patitau paśya mādhava
+11025026c himānte puṣpitau śālau marutā galitāv iva
+11025027a kāñcanāṅgadavarmāṇau bāṇakhaḍgadhanurdharau
+11025027c r̥ṣabhapratirūpākṣau śayānau vimalasrajau
+11025028a avadhyāḥ pāṇḍavāḥ kr̥ṣṇa sarva eva tvayā saha
+11025028c ye muktā droṇabhīṣmābhyāṁ karṇād vaikartanāt kr̥pāt
+11025029a duryodhanād droṇasutāt saindhavāc ca mahārathāt
+11025029c somadattād vikarṇāc ca śūrāc ca kr̥tavarmaṇaḥ
+11025029e ye hanyuḥ śastravegena devān api nararṣabhāḥ
+11025030a ta ime nihatāḥ saṁkhye paśya kālasya paryayam
+11025030c nātibhāro ’sti daivasya dhruvaṁ mādhava kaś cana
+11025030e yad ime nihatāḥ śūrāḥ kṣatriyaiḥ kṣatriyarṣabhāḥ
+11025031a tadaiva nihatāḥ kr̥ṣṇa mama putrās tarasvinaḥ
+11025031c yadaivākr̥takāmas tvam upaplavyaṁ gataḥ punaḥ
+11025032a śaṁtanoś caiva putreṇa prājñena vidureṇa ca
+11025032c tadaivoktāsmi mā snehaṁ kuruṣvātmasuteṣv iti
+11025033a tayor na darśanaṁ tāta mithyā bhavitum arhati
+11025033c acireṇaiva me putrā bhasmībhūtā janārdana
+11025034  vaiśaṁpāyana uvāca
+11025034a ity uktvā nyapatad bhūmau gāndhārī śokakarśitā
+11025034c duḥkhopahatavijñānā dhairyam utsr̥jya bhārata
+11025035a tataḥ kopaparītāṅgī putraśokapariplutā
+11025035c jagāma śauriṁ doṣeṇa gāndhārī vyathitendriyā
+11025036  gāndhāry uvāca
+11025036a pāṇḍavā dhārtarāṣṭrāś ca drugdhāḥ kr̥ṣṇa parasparam
+11025036c upekṣitā vinaśyantas tvayā kasmāj janārdana
+11025037a śaktena bahubhr̥tyena vipule tiṣṭhatā bale
+11025037c ubhayatra samarthena śrutavākyena caiva ha
+11025038a icchatopekṣito nāśaḥ kurūṇāṁ madhusūdana
+11025038c yasmāt tvayā mahābāho phalaṁ tasmād avāpnuhi
+11025039a patiśuśrūṣayā yan me tapaḥ kiṁ cid upārjitam
+11025039c tena tvāṁ duravāpātmañ śapsye cakragadādhara
+11025040a yasmāt parasparaṁ ghnanto jñātayaḥ kurupāṇḍavāḥ
+11025040c upekṣitās te govinda tasmāj jñātīn vadhiṣyasi
+11025041a tvam apy upasthite varṣe ṣaṭtriṁśe madhusūdana
+11025041c hatajñātir hatāmātyo hataputro vanecaraḥ
+11025041e kutsitenābhyupāyena nidhanaṁ samavāpsyasi
+11025042a tavāpy evaṁ hatasutā nihatajñātibāndhavāḥ
+11025042c striyaḥ paripatiṣyanti yathaitā bharatastriyaḥ
+11025043  vaiśaṁpāyana uvāca
+11025043a tac chrutvā vacanaṁ ghoraṁ vāsudevo mahāmanāḥ
+11025043c uvāca devīṁ gāndhārīm īṣad abhyutsmayann iva
+11025044a saṁhartā vr̥ṣṇicakrasya nānyo mad vidyate śubhe
+11025044c jāne ’ham etad apy evaṁ cīrṇaṁ carasi kṣatriye
+11025045a avadhyās te narair anyair api vā devadānavaiḥ
+11025045c parasparakr̥taṁ nāśam ataḥ prāpsyanti yādavāḥ
+11025046a ity uktavati dāśārhe pāṇḍavās trastacetasaḥ
+11025046c babhūvur bhr̥śasaṁvignā nirāśāś cāpi jīvite
+11026001  vāsudeva uvāca
+11026001a uttiṣṭhottiṣṭha gāndhāri mā ca śoke manaḥ kr̥thāḥ
+11026001c tavaiva hy aparādhena kuravo nidhanaṁ gatāḥ
+11026002a yā tvaṁ putraṁ durātmānam īrṣum atyantamāninam
+11026002c duryodhanaṁ puraskr̥tya duṣkr̥taṁ sādhu manyase
+11026003a niṣṭhuraṁ vairaparuṣaṁ vr̥ddhānāṁ śāsanātigam
+11026003c katham ātmakr̥taṁ doṣaṁ mayy ādhātum ihecchasi
+11026004a mr̥taṁ vā yadi vā naṣṭaṁ yo ’tītam anuśocati
+11026004c duḥkhena labhate duḥkhaṁ dvāv anarthau prapadyate
+11026005a taporthīyaṁ brāhmaṇī dhatta garbhaṁ; gaur voḍhāraṁ dhāvitāraṁ turaṁgī
+11026005c śūdrā dāsaṁ paśupālaṁ tu vaiśyā; vadhārthīyaṁ tvadvidhā rājaputrī
+11026006  vaiśaṁpāyana uvāca
+11026006a tac chrutvā vāsudevasya punaruktaṁ vaco ’priyam
+11026006c tūṣṇīṁ babhūva gāndhārī śokavyākulalocanā
+11026007a dhr̥tarāṣṭras tu rājarṣir nigr̥hyābuddhijaṁ tamaḥ
+11026007c paryapr̥cchata dharmātmā dharmarājaṁ yudhiṣṭhiram
+11026008a jīvatāṁ parimāṇajñaḥ sainyānām asi pāṇḍava
+11026008c hatānāṁ yadi jānīṣe parimāṇaṁ vadasva me
+11026009  yudhiṣṭhira uvāca
+11026009a daśāyutānām ayutaṁ sahasrāṇi ca viṁśatiḥ
+11026009c koṭyaḥ ṣaṣṭiś ca ṣaṭ caiva ye ’smin rājamr̥dhe hatāḥ
+11026010a alakṣyāṇāṁ tu vīrāṇāṁ sahasrāṇi caturdaśa
+11026010c daśa cānyāni rājendra śataṁ ṣaṣṭiś ca pañca ca
+11026011  dhr̥tarāṣṭra uvāca
+11026011a yudhiṣṭhira gatiṁ kāṁ te gatāḥ puruṣasattamāḥ
+11026011c ācakṣva me mahābāho sarvajño hy asi me mataḥ
+11026012  yudhiṣṭhira uvāca
+11026012a yair hutāni śarīrāṇi hr̥ṣṭaiḥ paramasaṁyuge
+11026012c devarājasamām̐l lokān gatās te satyavikramāḥ
+11026013a ye tv ahr̥ṣṭena manasā martavyam iti bhārata
+11026013c yudhyamānā hatāḥ saṁkhye te gandharvaiḥ samāgatāḥ
+11026014a ye tu saṁgrāmabhūmiṣṭhā yācamānāḥ parāṅmukhāḥ
+11026014c śastreṇa nidhanaṁ prāptā gatās te guhyakān prati
+11026015a pīḍyamānāḥ parair ye tu hīyamānā nirāyudhāḥ
+11026015c hrīniṣedhā mahātmānaḥ parān abhimukhā raṇe
+11026016a chidyamānāḥ śitaiḥ śastraiḥ kṣatradharmaparāyaṇāḥ
+11026016c gatās te brahmasadanaṁ hatā vīrāḥ suvarcasaḥ
+11026017a ye tatra nihatā rājann antar āyodhanaṁ prati
+11026017c yathā kathaṁ cit te rājan saṁprāptā uttarān kurūn
+11026018  dhr̥tarāṣṭra uvāca
+11026018a kena jñānabalenaivaṁ putra paśyasi siddhavat
+11026018c tan me vada mahābāho śrotavyaṁ yadi vai mayā
+11026019  yudhiṣṭhira uvāca
+11026019a nideśād bhavataḥ pūrvaṁ vane vicaratā mayā
+11026019c tīrthayātrāprasaṅgena saṁprāpto ’yam anugrahaḥ
+11026020a devarṣir lomaśo dr̥ṣṭas tataḥ prāpto ’smy anusmr̥tim
+11026020c divyaṁ cakṣur api prāptaṁ jñānayogena vai purā
+11026021  dhr̥tarāṣṭra uvāca
+11026021a ye ’trānāthā janasyāsya sanāthā ye ca bhārata
+11026021c kaccit teṣāṁ śarīrāṇi dhakṣyanti vidhipūrvakam
+11026022a na yeṣāṁ santi kartāro na ca ye ’trāhitāgnayaḥ
+11026022c vayaṁ ca kasya kuryāmo bahutvāt tāta karmaṇaḥ
+11026023a yān suparṇāś ca gr̥dhrāś ca vikarṣanti tatas tataḥ
+11026023c teṣāṁ tu karmaṇā lokā bhaviṣyanti yudhiṣṭhira
+11026024  vaiśaṁpāyana uvāca
+11026024a evam ukto mahāprājñaḥ kuntīputro yudhiṣṭhiraḥ
+11026024c ādideśa sudharmāṇaṁ dhaumyaṁ sūtaṁ ca saṁjayam
+11026025a viduraṁ ca mahābuddhiṁ yuyutsuṁ caiva kauravam
+11026025c indrasenamukhāṁś caiva bhr̥tyān sūtāṁś ca sarvaśaḥ
+11026026a bhavantaḥ kārayantv eṣāṁ pretakāryāṇi sarvaśaḥ
+11026026c yathā cānāthavat kiṁ cic charīraṁ na vinaśyati
+11026027a śāsanād dharmarājasya kṣattā sūtaś ca saṁjayaḥ
+11026027c sudharmā dhaumyasahita indrasenādayas tathā
+11026028a candanāgurukāṣṭhāni tathā kālīyakāny uta
+11026028c ghr̥taṁ tailaṁ ca gandhāṁś ca kṣaumāṇi vasanāni ca
+11026029a samāhr̥tya mahārhāṇi dārūṇāṁ caiva saṁcayān
+11026029c rathāṁś ca mr̥ditāṁs tatra nānāpraharaṇāni ca
+11026030a citāḥ kr̥tvā prayatnena yathāmukhyān narādhipān
+11026030c dāhayām āsur avyagrā vidhidr̥ṣṭena karmaṇā
+11026031a duryodhanaṁ ca rājānaṁ bhrātr̥̄ṁś cāsya śatādhikān
+11026031c śalyaṁ śalaṁ ca rājānaṁ bhūriśravasam eva ca
+11026032a jayadrathaṁ ca rājānam abhimanyuṁ ca bhārata
+11026032c dauḥśāsaniṁ lakṣmaṇaṁ ca dhr̥ṣṭaketuṁ ca pārthivam
+11026033a br̥hantaṁ somadattaṁ ca sr̥ñjayāṁś ca śatādhikān
+11026033c rājānaṁ kṣemadhanvānaṁ virāṭadrupadau tathā
+11026034a śikhaṇḍinaṁ ca pāñcālyaṁ dhr̥ṣṭadyumnaṁ ca pārṣatam
+11026034c yudhāmanyuṁ ca vikrāntam uttamaujasam eva ca
+11026035a kausalyaṁ draupadeyāṁś ca śakuniṁ cāpi saubalam
+11026035c acalaṁ vr̥ṣakaṁ caiva bhagadattaṁ ca pārthivam
+11026036a karṇaṁ vaikartanaṁ caiva sahaputram amarṣaṇam
+11026036c kekayāṁś ca maheṣvāsāṁs trigartāṁś ca mahārathān
+11026037a ghaṭotkacaṁ rākṣasendraṁ bakabhrātaram eva ca
+11026037c alambusaṁ ca rājānaṁ jalasaṁdhaṁ ca pārthivam
+11026038a anyāṁś ca pārthivān rājañ śataśo ’tha sahasraśaḥ
+11026038c ghr̥tadhārāhutair dīptaiḥ pāvakaiḥ samadāhayan
+11026039a pitr̥medhāś ca keṣāṁ cid avartanta mahātmanām
+11026039c sāmabhiś cāpy agāyanta te ’nvaśocyanta cāparaiḥ
+11026040a sāmnām r̥cāṁ ca nādena strīṇāṁ ca ruditasvanaiḥ
+11026040c kaśmalaṁ sarvabhūtānāṁ niśāyāṁ samapadyata
+11026041a te vidhūmāḥ pradīptāś ca dīpyamānāś ca pāvakāḥ
+11026041c nabhasīvānvadr̥śyanta grahās tanvabhrasaṁvr̥tāḥ
+11026042a ye cāpy anāthās tatrāsan nānādeśasamāgatāḥ
+11026042c tāṁś ca sarvān samānāyya rāśīn kr̥tvā sahasraśaḥ
+11026043a citvā dārubhir avyagraḥ prabhūtaiḥ snehatāpitaiḥ
+11026043c dāhayām āsa viduro dharmarājasya śāsanāt
+11026044a kārayitvā kriyās teṣāṁ kururājo yudhiṣṭhiraḥ
+11026044c dhr̥tarāṣṭraṁ puraskr̥tya gaṅgām abhimukho ’gamat
+11027001  vaiśaṁpāyana uvāca
+11027001a te samāsādya gaṅgāṁ tu śivāṁ puṇyajanocitām
+11027001c hradinīṁ vaprasaṁpannāṁ mahānūpāṁ mahāvanām
+11027002a bhūṣaṇāny uttarīyāṇi veṣṭanāny avamucya ca
+11027002c tataḥ pitr̥̄ṇāṁ pautrāṇāṁ bhrātr̥̄ṇāṁ svajanasya ca
+11027003a putrāṇām āryakāṇāṁ ca patīnāṁ ca kurustriyaḥ
+11027003c udakaṁ cakrire sarvā rudantyo bhr̥śaduḥkhitāḥ
+11027003e suhr̥dāṁ cāpi dharmajñāḥ pracakruḥ salilakriyāḥ
+11027004a udake kriyamāṇe tu vīrāṇāṁ vīrapatnibhiḥ
+11027004c sūpatīrthābhavad gaṅgā bhūyo viprasasāra ca
+11027005a tan mahodadhisaṁkāśaṁ nirānandam anutsavam
+11027005c vīrapatnībhir ākīrṇaṁ gaṅgātīram aśobhata
+11027006a tataḥ kuntī mahārāja sahasā śokakarśitā
+11027006c rudatī mandayā vācā putrān vacanam abravīt
+11027007a yaḥ sa śūro maheṣvāso rathayūthapayūthapaḥ
+11027007c arjunena hataḥ saṁkhye vīralakṣaṇalakṣitaḥ
+11027008a yaṁ sūtaputraṁ manyadhvaṁ rādheyam iti pāṇḍavāḥ
+11027008c yo vyarājac camūmadhye divākara iva prabhuḥ
+11027009a pratyayudhyata yaḥ sarvān purā vaḥ sapadānugān
+11027009c duryodhanabalaṁ sarvaṁ yaḥ prakarṣan vyarocata
+11027010a yasya nāsti samo vīrye pr̥thivyām api kaś cana
+11027010c satyasaṁdhasya śūrasya saṁgrāmeṣv apalāyinaḥ
+11027011a kurudhvam udakaṁ tasya bhrātur akliṣṭakarmaṇaḥ
+11027011c sa hi vaḥ pūrvajo bhrātā bhāskarān mayy ajāyata
+11027011e kuṇḍalī kavacī śūro divākarasamaprabhaḥ
+11027012a śrutvā tu pāṇḍavāḥ sarve mātur vacanam apriyam
+11027012c karṇam evānuśocanta bhūyaś cārtatarābhavan
+11027013a tataḥ sa puruṣavyāghraḥ kuntīputro yudhiṣṭhiraḥ
+11027013c uvāca mātaraṁ vīro niḥśvasann iva pannagaḥ
+11027014a yasyeṣupātam āsādya nānyas tiṣṭhed dhanaṁjayāt
+11027014c kathaṁ putro bhavatyāṁ sa devagarbhaḥ purābhavat
+11027015a yasya bāhupratāpena tāpitāḥ sarvato vayam
+11027015c tam agnim iva vastreṇa kathaṁ chāditavaty asi
+11027015e yasya bāhubalaṁ ghoraṁ dhārtarāṣṭrair upāsitam
+11027016a nānyaḥ kuntīsutāt karṇād agr̥hṇād rathināṁ rathī
+11027016c sa naḥ prathamajo bhrātā sarvaśastrabhr̥tāṁ varaḥ
+11027016e asūta taṁ bhavaty agre katham adbhutavikramam
+11027017a aho bhavatyā mantrasya pidhānena vayaṁ hatāḥ
+11027017c nidhanena hi karṇasya pīḍitāḥ sma sabāndhavāḥ
+11027018a abhimanyor vināśena draupadeyavadhena ca
+11027018c pāñcālānāṁ ca nāśena kurūṇāṁ patanena ca
+11027019a tataḥ śataguṇaṁ duḥkham idaṁ mām aspr̥śad bhr̥śam
+11027019c karṇam evānuśocan hi dahyāmy agnāv ivāhitaḥ
+11027020a na hi sma kiṁ cid aprāpyaṁ bhaved api divi sthitam
+11027020c na ca sma vaiśasaṁ ghoraṁ kauravāntakaraṁ bhavet
+11027021a evaṁ vilapya bahulaṁ dharmarājo yudhiṣṭhiraḥ
+11027021c vinadañ śanakai rājaṁś cakārāsyodakaṁ prabhuḥ
+11027022a tato vineduḥ sahasā strīpuṁsās tatra sarvaśaḥ
+11027022c abhito ye sthitās tatra tasminn udakakarmaṇi
+11027023a tata ānāyayām āsa karṇasya saparicchadam
+11027023c striyaḥ kurupatir dhīmān bhrātuḥ premṇā yudhiṣṭhiraḥ
+11027024a sa tābhiḥ saha dharmātmā pretakr̥tyam anantaram
+11027024c kr̥tvottatāra gaṅgāyāḥ salilād ākulendriyaḥ

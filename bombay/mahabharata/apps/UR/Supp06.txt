@@ -1,0 +1,3468 @@
+% Mahābhārata: supplementary passages - Bhīṣmaparvan
+% Last updated: Tue Mar 13 2001
+% Encoding: Unicode Roman
+% Electronic text (C) Bhandarkar Oriental Research Institute,
+% Pune, India, 2001
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+% Book 06, star passages
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+% 6.1.1
+% The introductory mantra:
+06*0001_01 nārāyaṇaṁ namaskr̥tya naraṁ caiva narottamam
+06*0001_02 devīṁ sarasvatīṁ caiva tato jayam udīrayet
+% K3 B2 T1 G2.4 M, which like T2 G1.3 om. the
+% introductory mantra, begin as follows: K3 begins
+% with oṁ namo bhagavate vāsudevāya; B2 oṁ gaṇeśāya namaḥ; T1
+% bhīṣmaparva | hariḥ oṁ śubham astu | śrīnivāsagurave namaḥ. G2
+% reads hariḥ oṁ śubham astu bhīṣmaparva (in marg.), and ins.:
+06*0002_01 vyāsaṁ vasiṣṭhanaptāraṁ śakteḥ pautram akalmaṣam
+06*0002_02 parāśarātmajaṁ vande śukatātaṁ taponidhim
+06*0002_03 vyāsāya viṣṇurūpāya vyāsarūpāya viṣṇave
+06*0002_04 namo vai brahmanidhaye vāsiṣṭhāya namo namaḥ
+% After 1, K2 D7 ins.:
+06*0003_01 pratyayudhyanta samare bhīṣmeṇāmitrakarṣiṇā
+06*0003_02 kathaṁ vā kauravāḥ sarve bhīmasene camūpatau
+% while T1 G2.4 ins.:
+06*0004_01 niveśaṁ cakrire yoddhuṁ tan me śaṁsa mahāmate
+
+% 6.1.4
+% After 4, K3 D2.3 ins.:
+06*0005_01 pūrvabhāge tu kṣetrasya sthitāḥ pratyaṅmukhā yudhi
+
+% 6.1.15
+% After 15a, D1 ins.:
+06*0006_01                   prahr̥ṣṭavadanaṁ tataḥ
+06*0006_02 āyodhanaṁ praviviśuḥ
+
+% 6.1.25
+% After 25, K3 ins. (cf. 26a and 27b):
+06*0007_01 tatas te samayaṁ yuddhe syāt prītiś ca parasparam
+% while D3 ins.:
+06*0008_01 samantān nagakalpena garjamānena *rvataḥ
+
+% 6.2.20
+% After 20a, D1 ins.:
+06*0009_01                     rajoyukte ca bhārata
+06*0009_02 durnimittāni sarvāṇi
+
+% 6.3.16
+% After 16ab, K2.4 B Da Dn D4.5.7.8 Ca ins.:
+06*0010_01 rohiṇīṁ pīḍayaty evam ubhau ca śaśibhāskarau
+
+% 6.3.21
+% After
+% 21, K4 B Da Dn D4.5.7.8 Ca.c ins.:
+06*0011_01 pr̥thivī śoṇitāvartā dhvajoḍupasamākulā
+06*0011_02 kurūṇāṁ vaiśase rājan pāṇḍavaiḥ saha bhārata
+
+% 6.3.26
+% After 26, K4 B Da Dn
+% D4.5.8 ins.:
+06*0012_01 viṣamaṁ vedayanty eta ākrandajananaṁ mahat
+
+% 6.3.37
+% After 37ab, B Da Dn
+% D4.5.8 ins.:
+06*0013_01 ābhagnāḥ sumahāvātair aśanībhiḥ samāhatāḥ
+
+% 6.3.42
+% After 42, D3 ins.:
+06*0014_01 gr̥hakṣa[?kṣe]trakhalādyeṣu valmīkā madhukāni ca
+06*0014_02 hastyaśvarathaśālās tu [?su] kapotāś cāśritās tathā
+06*0014_03 ete cānye ca bahava utpātā ghoradarśanāḥ
+06*0014_04 pr̥thivīpālalokānāṁ sarve vai nāśakārakāḥ
+% while T1 G4 M2 ins.:
+06*0015_01 evaṁvidhaṁ durnimittaṁ kṣayāya pr̥thivīkṣitām
+06*0015_02 bhaumaṁ divyaṁ cāntarikṣaṁ trividhaṁ jāyate ’niśam
+
+% 6.4.9
+% After 9, D3 ins.:
+06*0016_01 yudhiṣṭhiraṁ ca bhīmaṁ ca vārayiṣyāmi saṁyuge
+
+% 6.4.13
+% After 13, D3 ins.:
+06*0017_01 kuruṣva kāryaṁ yat satyaṁ tvatto mānyo na vidyate
+
+% 6.4.31
+% After 31ab, T1 G2.4
+% ins.:
+06*0018_01 śaknoti na samādhātuṁ dīrṇām indrasamo yudhi
+
+% 6.4.32
+% For 32ef,
+% D6 subst. (cf. 30):
+06*0019_01 paraspareṇa saṁdr̥ṣṭā surair api mahācamūḥ
+06*0019_02 naiva sthāpayituṁ śakyā prabhagnā bhayavihvalā
+
+% 6.6.5
+% After 5, K3.5
+% D3.7 ins.:
+06*0020_01 śabdaḥ sparśaś ca rūpaṁ ca rasaś cāpi prakīrtitāḥ
+
+% 6.6.8
+% After 8, D6 ins.:
+06*0021_01 bhāvaṁ na ca bhajantas te nāśaṁ gacchanti nānyathā
+
+% 6.6.16
+% After 16, Ś1 reads 6.7.1; while K2 B2 Dn
+% D4.8 ins.:
+06*0022_01 tato ’nya ucyate cāyam enaṁ saṁkṣepataḥ śr̥ṇu
+
+% 6.7.1
+% After 1a, B Da
+% Dn D4.5.8 ins.:
+06*0023_01                     vidhivad buddhimaṁs tvayā
+06*0023_02 tattvajñaś cāsi sarvasya
+
+% 6.7.2
+% After 2cd, D6 ins.:
+06*0024_01 sthitā samudram ākramya avarūḍhā bhavaṁs tataḥ
+
+% 6.7.5
+% After 5, Ś1 K0-2 ins.:
+06*0025_01 gandharvādyā vasanti sma hy apsarogaṇasevitāḥ
+
+% 6.7.6
+% After 6ab, T G M2.4 ins.:
+06*0026_01 tataḥ kiṁpuruṣāvāsaṁ varṣaṁ himavataḥ param
+
+% 6.7.8
+% After 8ab, D3 ins.:
+06*0027_01 tenaiva kramayogena parvato gandhamādanaḥ
+
+% 6.7.11
+% After 11cd, D1 ins.:
+06*0028_01 ketumālaś caturthaś ca meroḥ paścimataḥ sthitaḥ
+
+% 6.7.31
+% After 31, D3 ins.:
+06*0029_01 pūrveṇa yasya vikhyātaḥ parvato gandhamādanaḥ
+
+% 6.7.35
+% After 35ab, T1
+% G4 ins.:
+06*0030_01 hiraṇmayaṁ ca śvetādreḥ paraṁ varṣaṁ narādhipa
+06*0030_02 kuruvarṣaṁ tato rājañ śr̥ṅgavat parvatāt param
+
+% 6.7.39
+% After 39, S ins.:
+06*0031_01 tatra devo mahādevo nityam āste sahomayā
+06*0031_02 citre śilātale ramye devarṣigaṇapūjitaḥ
+
+% 6.7.52
+% After 52ab, K2 D3 ins.:
+06*0032_01 jambūdvīpasya sarvasya ākr̥tiṁ candramaṇḍale
+% while T1 G4 ins.:
+06*0033_01 sa vai sudarśanadvīpo dr̥śyate śaśavadvidhau
+% After 52cd, T1 G4 ins.:
+06*0034_01 anyāni pañca varṣāṇi galāntaṁ kalpitāni ca
+
+% 6.8.6
+% After 6ab, Ś1 K0-2 ins.:
+06*0035_01 maṇiratnanibhaṁ ramyaṁ vajravaiḍūryasaṁnibham
+06*0035_02 bhūbhāgo dr̥śyate tatra padmarāgasamaprabham
+% After 6, Ś1
+% K0-2 M5 ins.:
+06*0036_01 puṣkariṇyaḥ śubhās tatra sukhasparśā manoharāḥ
+
+% 6.8.9
+% After 9, D3 ins.:
+06*0037_01 mr̥tyuś ca samakālaṁ ca tayor mithunayugmayoḥ
+
+% 6.8.12
+% T1 G4 ins.
+% after 12: M2, after 13ab:
+06*0038_01 bhadrāśvaṁ nāma varṣaṁ tu puro vai gandhamādanāt
+
+% 6.8.25
+% After 25ab,
+% K4 B Da Dn D4.5.7.8 ins.:
+06*0039_01 indragopakasaṁkāśaṁ jāyate bhāsvaraṁ tu tat
+
+% 6.9.5
+% After 5, K2.4 B Da2 Dn D4.5.7.8
+% ins.:
+06*0040_01 yatra cāyaṁ mahārāja pakṣirāṭ patagottamaḥ
+
+% 6.9.6
+% After 6, D1 ins.:
+06*0041_01 yakṣaḥ so ’pi mahārāja yakṣarājānugauta[? -gotta]maḥ
+
+% 6.9.18
+% After 18, D3 (marg. sec.
+% m.) ins.:
+06*0042_01 sthitaḥ sthānasahasreṣu vyāpya vai sa carācaram
+
+% 6.10.7
+% After 7, K2.4 B Da Dn D4.5.7.8
+% ins.:
+06*0043_01 kuśikasya ca durdharṣa gādheś caiva mahātmanaḥ
+06*0043_02 somakasya ca durdharṣa dilīpasya tathaiva ca
+
+% 6.10.31
+% K4 B Da Dn D4.5.8 ins. after 31a:
+06*0044_01                      brahmamedhyāṁ br̥hadvatīm
+06*0044_02 etāś cānyāś ca bahudhā
+
+% 6.10.35
+% After 35ab, T2 ins. (cf.
+% 32ab):
+06*0045_01 brahmāṇīṁ ca mahāgaurīṁ suvaśyām api bhārata
+% while T1 G1-3 ins.:
+06*0046_01 mānavīṁ vr̥ṣabhāṁ caiva mahānadyo janādhipa
+
+% 6.10.37
+% After 37, G2
+% ins. (cf. v.l. 44ab):
+06*0047_01 videhā māgadhāḥ siṁhā mahadāyatayas tathā
+
+% 6.10.47
+% After
+% 47, T1 G1.2.4 ins.:
+06*0048_01 kaṭyāś ca pātavaibodhā yākāḥ sāmudraniṣkadāḥ
+
+% 6.10.48
+% For 48, D6
+% subst.:
+06*0049_01 antargiryās tathā caiva bahirgiryās tathaiva ca
+
+% 6.10.67
+% After 67, S
+% ins.:
+06*0050_01 kāraskarāś ca vaṁśāś ca āndhrāś ca dramiḍās tathā
+06*0050_02 colāś caiva tathā pāṇḍyāś cerāś caiva susiṁhalāḥ
+
+% 6.10.68
+% After
+% 68ab, K2.4 B D (except D1-3.6) ins.:
+06*0051_01 ete cānye janapadāḥ prācyodīcyās tathaiva ca
+
+% 6.11.8
+% After 8ab, K4 B1.2.4 Da Dn D4.5.7.8
+% ins.:
+06*0052_01 prajāyante ca jātāś ca śataśo ’tha sahasraśaḥ
+
+% 6.11.10
+% After 10ab,
+% K1 B Da Dn D4.5.8 ins.:
+06*0053_01 varārhā yudhi jāyante kṣatriyāḥ śūrasattamāḥ
+
+% 6.12.9
+% After 9cd, T1 G4 M2 (om. line 2) ins.:
+06*0054_01 śalmaliś ca kuśa[ḥ] krauñco dviguṇo hy uttarottaram
+06*0054_02 yathāsaṁkhyaṁ parivr̥ttaḥ surāsarpiḥpayodhibhiḥ
+
+% 6.12.17
+% After
+% 17ab, K2.4 B Da Dn D4-6.8 ins.:
+06*0055_01 navameghaprabhaḥ prāṁśuḥ śrīmān ujjvalavigrahaḥ
+
+% 6.13.1
+% After 1,
+% M1-3 ins.:
+06*0056_01 dugdhodakasamudro ’nyaḥ punar ikṣurasodakaḥ
+
+% 6.13.2
+% For 2,
+% T1 G4 subst.:
+06*0057_01 ikṣūdaś ca surodaś ca sarpiḥkṣīrodadhis tadā
+06*0057_02 dadhimaṇḍodadhiś cānyaḥ śuddhodadhir atho mahān
+
+% 6.13.6
+% After
+% 6ab, T1 G4 M2 ins.:
+06*0058_01 saṁpūjyate hi plakṣaś ca svadī[?dvī]pakhyātikr̥d yathā
+
+% 6.14.1
+% After the
+% ref., Da D5 ins.:
+06*0059_01 vacanād dhr̥tarāṣṭrasya kurukṣetraṁ jagāma ha
+06*0059_02 vyāsasya varadānena tvaramāṇas tu saṁjayaḥ
+06*0059_03 dr̥ṣṭvā tu samare rājan kṣaṇenaiva samāgataḥ
+
+% 6.15.26
+% After 26,
+% B2-4 D (except D2.6) S ins.:
+06*0060_01 padātimatsyakalilaṁ śaṅkhadundubhinisvanam
+
+% 6.15.45
+% B Da Dn D4.5.7.8 S ins. after 45:
+% K4, after 51:
+06*0061_01 na hato yo mahābuddhiḥ sa hato ’dya śikhaṇḍinā
+
+% 6.15.71
+% After 71ab, K5 ins. (= 36cd):
+06*0062_01 taṁ vimagnaṁ naravyāghraṁ bhīṣmaṁ śaṁsasi saṁjaya
+
+% 6.15.75
+% After
+% 75, K3.5 D2 ins. (cf. 75cd):
+06*0063_01 yac ca yasmiṁś ca kāle ca vr̥ttaṁ yac ca yathā ca tat
+
+% 6.16.24
+% After 24, K3-5 B D S ins.:
+06*0064_01 duṣpradhr̥ṣyāṇi cāstrāṇi saśastrakavacāni ca
+06*0064_02 tataḥ prakāśe sainyāni samadr̥śyanta bhārata
+06*0064_03 tvadīyānāṁ pareṣāṁ ca śastravanti mahānti ca
+
+% 6.16.25
+% After
+% 25, D7 ins. (cf. 37ab):
+06*0065_01 saṁnāhāḥ samadr̥śyanta sveṣv anīkeṣv avasthitāḥ
+
+% 6.16.33
+% For 33cd,
+% M4 subst.:
+06*0066_01 bhagadatto mahāvīryaḥ kausalyaś ca br̥hadrathaḥ
+
+% 6.17.1
+% Before 1, Ś1 K0.1 ins.:
+06*0067=00 dhr̥tarāṣṭraḥ
+06*0067_01 ubhayoḥ senayos tatra dr̥ṣṭvā ca kurupāṇḍavān
+06*0067_02 animittāny atho brūhi kuśalo hy asi saṁjaya
+
+% 6.17.10
+% After 10ab,
+% D3 ins.:
+06*0068_01 arjunaḥ sagaro vainyo ye cānye kṣatriyottamāḥ
+
+% 6.17.19
+% After 19ab, Ś1
+% K0-2 ins. (K0.2 om. post. half; see below):
+06*0069_01 putrāś ca tava rājendra sārohā sarathā gajaiḥ
+
+% 6.18.8
+% K4
+% B1.2.4 Da Dn D4.5.7.8 ins. after 8cd: B3 (which
+% om. 8cd) S ins. after 8ab:
+06*0070_01 kuruyodhavarā rājan vicitrāyudhakārmukāḥ
+
+% 6.19.8
+% For 8cd, S
+% subst.:
+06*0071_01 dhr̥ṣṭadyumno ’grato yātu ripusainyāni bhīṣayan
+
+% 6.19.9
+% After
+% 9, S (except M3) ins.:
+06*0072_01 senāpraṇetā yogyo ’yaṁ devānām iva pāvakiḥ
+
+% 6.19.14
+% After 14, K3 B Da1
+% (marg.) Dn D4.7.8 ins.:
+06*0073_01 bhīmasenaṁ tadā rājan darśayan sa mahābalam
+
+% 6.19.28
+% After 28, D3 ins.:
+06*0074_01 dhvajāgre ruvato bhīmaṁ kapes tasya punaḥ punaḥ
+06*0074_02 śrūyate bhīmaninado nādayāno diśo daśa
+06*0074_03 dr̥ṣṭvā ca bhīṣayām āsa virāvair vānareśvaraḥ
+06*0074_04 bhrūkṣepotkṣepavikṣepair lāṅgūlena punaḥ kapiḥ
+06*0074_05 ākāśe darśayām āsa pratiśabde mahāsvanam
+
+% 6.19.30
+% After 30, T1 G4 ins.:
+06*0075_01 saghaṇṭā hemakakṣyābhiḥ patākābhir alaṁkr̥tāḥ
+
+% 6.20.17
+% After
+% 17, D3 ins.:
+06*0076_01 devair api na śakyeta balaṁ kṣobhayituṁ nr̥pa
+
+% 6.21.12
+% D3 subst. for 12cd: D6
+% ins. after 12:
+06*0077_01 yatra kr̥ṣṇaś ca vedātmā sarvasarveśvaro hariḥ
+06*0077_02 jayas tatra mahābāho yathā me prāha nāradaḥ
+
+% 6.22.3
+% T G M4.5 ins. after 3ab: M1-3 ins.
+% after inserting 79*:
+06*0078_01 bhīmasenamukhaṁ sainyaṁ dhr̥ṣṭadyumnena pālitam
+% while M1-3 ins. after 3ab: M5 ins. after
+% 78*:
+06*0079_01 bhīmasenādibhir yasya pr̥tanā dikṣu pālitā
+
+% 6.22.7
+% After 7d, D3
+% ins.:
+06*0080_01 japan hi vedādhyayanaṁ mahāntaṁ
+06*0080_02 jayāya dhaumyo ’pi jayāya mantrān
+% while M2 ins.:
+06*0081_01 yudhiṣṭhiraṁ parivavruḥ sametāḥ
+
+% 6.22.8
+% For 8cd, D1 subst.:
+06*0082_01 tathaiva vipreṣu mahārhajātaṁ
+06*0082_02 rukmamaṇimauktikahemaraupyam
+
+% 6.22.13
+% After 13, S (except M3) ins.:
+06*0083_01 viṣaṇṇarūpāḥ kurusainyamukhyā
+06*0083_02 babhūvire śuṣkakaṇṭhā virūpāḥ
+
+% 6.22.22
+% After 22ab,
+% K4 B Da Dn D4.7.8 ins.:
+06*0084_01 śūrāṇāṁ raṇaśūrāṇāṁ garjatām itaretaram
+06*0084_02 ubhayoḥ senayo rājan mahān vyatikaro ’bhavat
+06*0084_03 anyonyaṁ vīkṣyamāṇānāṁ yodhānāṁ bharatarṣabha
+
+% 6.23.1
+% Before the ref. of 6.23.1, K0-2 ins. a passage
+% given in App. I (No. 2); while Ś1 ins. atha
+% gītā likhyate | śrīgaṇeśāya namaḥ |; K5 ataḥ paraṁ gītā
+% likhyate; D1 atha gītā; D2 ataḥ paraṁ gītā bhaviṣyati |
+% oṁ namo nārāyaṇāya | śrīkr̥ṣṇāya namaḥ |; G2 śrīkr̥ṣṇāya
+% namaḥ | śrīmate rāmānujāya namaḥ | hariḥ oṁ śubham astu |
+% followed by:
+06*0085_01 kr̥ṣṇaṁ kamalapatrākṣaṁ puṇyaśravaṇakīrtanam
+06*0085_02 vāsudevaṁ jagadyoniṁ naumi nārāyaṇaṁ harim
+
+% 6.23.7
+% After 7, Ś3 D6 ins.:
+06*0086_01 sainye mahati ye sarve netāraḥ śūrasaṁmatāḥ
+
+% 6.24.11
+% After the ref., Ś K6 Cā.b.g.k ins.:
+06*0087_01 tvaṁ mānuṣyeṇopahatāntarātmā
+06*0087_02 viṣādamohābhibhavād visaṁjñaḥ
+06*0087_03 kr̥pāgr̥hītaḥ samavekṣya bandhūn
+06*0087_04 abhiprapannān mukham antakasya
+
+% 6.24.48
+% After 48, Ś K6
+% Cā.g.k. ins.:
+06*0088_01 yasya sarve samārambhā nirāśīrbandhanās tv iha
+06*0088_02 tyāge yasya hutaṁ sarvaṁ sa tyāgī sa ca buddhimān
+
+% 6.25.37
+% Ś K6 D3 (marg. sec. m.) Cā.b.k ins. after 37
+% (K6 ins. lines 1-2 after 36):
+06*0089=00 arjuna uvāca
+06*0089_01 bhavaty eṣa kathaṁ kr̥ṣṇa kathaṁ caiva vivardhate
+06*0089_02 kim ātmakaḥ kim ācāras tan mamācakṣva pr̥cchataḥ
+06*0089=02 śrībhagavān uvāca
+06*0089_03 eṣa sūkṣmaḥ paraḥ śatrur dehinām indriyaiḥ saha
+06*0089_04 sukhatantra ivāsīno mohayan pārtha tiṣṭhati
+06*0089_05 kāmakrodhamayo ghoraḥ stambhaharṣasamudbhavaḥ
+06*0089_06 ahaṁkāro ’bhimānātmā dustaraḥ pāpakarmabhiḥ
+06*0089_07 harṣam asya nivartyaiṣa śokam asya dadāti ca
+06*0089_08 bhayaṁ cāsya karoty eṣa mohayaṁs tu muhur muhuḥ
+06*0089_09 sa eṣa kaluṣaḥ kṣudraś chidraprekṣī dhanaṁjaya
+06*0089_10 rajaḥpravr̥tto mohātmā manuṣyāṇām upadravaḥ
+
+% 6.27.17
+% After
+% 17, Ś2.3 K6 ins.:
+06*0090_01 smaranto ’pi muhus tv etat spr̥śanto ’pi svakarmaṇi
+06*0090_02 saktā api na sajjanti paṅke ravikarā iva
+
+% 6.28.37
+% After 37ab, Ś K6 Cā.b.k ins.:
+06*0091_01 lipsamānaḥ satāṁ mārgaṁ pramūḍho brahmaṇaḥ pathi
+06*0091_02 anekacitto vibhrānto mohasyaiva vaśaṁ gataḥ
+
+% 6.28.47
+% After 47, Ś1 ins.:
+06*0092_01 bhagavannāmasaṁprāptimātrāt sarvam avāpyate
+06*0092_02 phalitāḥ śālayaḥ samyag vr̥ṣṭimātre ’valokite
+
+% 6.29.23
+% After 23abc, Ś2 K6 Cā ins.:
+06*0093_01                   siddhān yānti siddhavratāḥ
+06*0093_02 bhūtān bhūtayajo yānti
+% while Ś6 Cā ins. (= Gītā 9.25bc):
+06*0094_01               pitr̥̄n yānti pitr̥vratāḥ
+06*0094_02 bhūtāni yānti bhūtejyā
+
+% 6.29.30
+% After 30, Ś1 ins.:
+06*0095_01 sphuṭaṁ bhagavato bhaktir vihitā kalpamañjarī
+06*0095_02 sādhanecchāsamucitāṁ yenāśāṁ paripūrayet
+
+% 6.30.11
+% After 11,
+% D1 ins. (= Kaṭhopaniṣad 1.2.15; cf. 11cd above):
+06*0096_01 sarve vedā yat padam āmananti
+06*0096_02 tapāṁsi sarvāṇi ca yad vadanti
+06*0096_03 yad icchanto brahmacaryaṁ caranti
+06*0096_04 tat te padaṁ saṁgraheṇa bravīmi
+
+% 6.30.22
+% After 22ab, Ś3-6 K6 Ck ins.:
+06*0097_01 yaṁ prāpya na punarjanma labhante yogino ’rjuna
+
+% 6.30.28
+% After 28, Ś1 ins.:
+06*0098_01 sarvatattvagatatvena vijñāte parameśvare
+06*0098_02 antar bahir na sāvasthā na yasyāṁ bhāsate vibhuḥ
+
+% 6.31.5
+% After 5, D3 ins.:
+06*0099_01 sarvagaḥ sarvavaś cādyaḥ sarvakr̥t sarvadarśanaḥ
+06*0099_02 sarvajñaḥ sarvadarśī ca sarvātmā sarvatomukhaḥ
+
+% 6.31.6
+% After 6, Ś3-6 K6 Ñ1 (marg.) D3
+% Cā.g.k ins.:
+06*0100_01 evaṁ hi sarvabhūteṣu carāmy anabhilakṣitaḥ
+06*0100_02 bhūtaprakr̥tim āsthāya sahaiva ca vinaiva ca
+
+% 6.32.35
+% Ñ1 (sec. m. within parenthesis;
+% om. line 2) ins. after 35: K5 D3 (marg. sec.
+% m.; om. line 2, with the remark "tyaktaṁ ca")
+% ins. after 38:
+06*0101_01 oṣadhīnāṁ yavaś cāsmi dhātūnām asmi kāñcanam
+06*0101_02 saurabheyo gavām asmi snehānāṁ sarpir apy aham
+06*0101_03 sarvāsāṁ tr̥ṇajātīnāṁ darbho ’haṁ pāṇḍunandana
+
+% 6.33.27
+% After 27ab,
+% Ś1 ins.:
+06*0102_01 sahasrasūryāta*saṁnibhāni
+06*0102_02 tathā jagadgrāsakr̥takṣaṇāni
+% After 27, Ś1.3-5 K6 D3 Ck ins.:
+06*0103_01 nānārūpaiḥ puruṣair vadhyamānā
+06*0103_02 viśanti te vaktram acintyarūpam
+06*0103_03 yaudhiṣṭhirā dhārtarāṣṭrāś ca yodhāḥ
+06*0103_04 śastraiḥ kr̥ttā vividhaiḥ sarva eva
+06*0103_05 tvattejasā nihatā nūnam ete
+06*0103_06 tathā hīme tvaccharīraṁ praviṣṭāḥ
+
+% 6.33.39
+% After 39ab, Ś1.3-6 K6 D3 Cā ins.:
+06*0104_01 anādimān apratimaprabhāvaḥ
+06*0104_02 sarveśvaraḥ sarvamahāvibhūte
+
+% 6.33.40
+% After 40ab, Ś1.3-6 K6 D3 Ck ins.:
+06*0105_01 na hi tvad anyaḥ kaś cid apīha deva
+06*0105_02 lokatraye dr̥śyate ’cintyakarmā
+
+% 6.33.44
+% After 44,
+% Ś1.3-6 K6 D3 Cā.k ins.:
+06*0106_01 divyāni karmāṇi tavādbhutāni
+06*0106_02 pūrvāṇi pūrve ’py r̥ṣayaḥ smaranti
+06*0106_03 nānyo ’sti kartā jagatas tvam eko
+06*0106_04 dhātā vidhātā ca vibhur bhavaś ca
+06*0106_05 tavādbhutaṁ kiṁ nu bhaved asahyaṁ
+06*0106_06 kiṁ vāśakyaṁ parataḥ kīrtayiṣye
+06*0106_07 kartāsi sarvasya yataḥ svayaṁ vai
+06*0106_08 vibho tataḥ sarvam idaṁ tvam eva
+06*0106_09 aty adbhutaṁ karma na duṣkaraṁ te
+06*0106_10 karmopamānaṁ na hi vidyate te
+06*0106_11 na te guṇānāṁ parimāṇam asti
+06*0106_12 na tejaso nāpi balasya narddheḥ
+% On the other hand, Ñ1 ins. after 44:
+06*0107_01 imāni karmāṇi tavādbhutāni
+06*0107_02 kr̥tāni pūrve munayo vadanti
+06*0107_03 na te guṇānāṁ parimāṇam asti
+06*0107_04 na tejasaś cāpi balasya viṣṇo
+
+% 6.35.1
+% Before 6.35.1, Ś1.3 K0-3.5.6 Ñ1 B1.3.4 Da1
+% Dn1 D1-4.6 T G M2 Cg.v ins. (cf. 109*):
+06*0108=00 arjuna uvāca
+06*0108_01 prakr̥tiṁ puruṣaṁ caiva kṣetraṁ kṣetrajñam eva ca
+06*0108_02 etad veditum icchāmi jñānaṁ jñeyaṁ ca keśava
+% After the ref., K6 ins. (cf. 108*):
+06*0109_01 prakr̥tiṁ puruṣaṁ caiva kṣetraṁ kṣetrajñam eva ca
+06*0109_02 etat te kathayiṣyāmi jñānaṁ jñeyaṁ ca bhārata
+
+% 6.40.47
+% After 47ab, Ś4.5 K0.6 D3 ins. (cf. Gītā 3.35cd
+% with v.l.):
+06*0110_01 svadharme nidhanaṁ śreyaḥ paradharmodayād api
+
+% 6.40.78
+% After
+% 78, Ñ1 ins.:
+06*0111_01 bhagavadbhaktiyuktasya tatprasādātmabodhataḥ
+06*0111_02 sukhaṁ bandhavimuktiḥ syād iti gītārthasaṁgrahaḥ
+% Ś1 K0.1 ins. after adhy. 40: K2 B2-4 Dn D4.8
+% cont. after 113*:
+06*0112_01 ṣaṭ śatāni saviṁśāni ślokānāṁ prāha keśavaḥ
+06*0112_02 arjunaḥ saptapañcāśat saptaṣaṣṭis tu saṁjayaḥ
+06*0112_03 dhr̥tarāṣṭraḥ ślokam ekaṁ gītāyā mānam ucyate
+% K2 B2-4 Dn D3 (om. lines 3-6).4.8 ins. after
+% adhy. 40:
+06*0113=00 vaiśaṁpāyana uvāca
+06*0113_01 gītā sugītā kartavyā kim anyaiḥ śāstravistaraiḥ
+06*0113_02 yā ceyaṁ padmanābhasya mukhapadmād viniḥsr̥tā
+06*0113_03 sarvaśāstramayī gītā sarvadevamayo hariḥ
+06*0113_04 sarvatīrthamayī gaṅgā sarvavedamayo manuḥ
+06*0113_05 gaṅgā gītā ca gāyatrī govindeti hr̥di sthite
+06*0113_06 caturgakārasaṁyukte punarjanma na vidyate
+% B2-4 Dn D4.8 ins. after 112*:
+06*0114_01 bhāratāmr̥tasarvasvagītāyā mathitasya ca
+06*0114_02 sāram uddhr̥tya kr̥ṣṇena arjunasya mukhe hutam
+
+% 6.41.1
+% After the ref., D6 ins.:
+06*0115_01 prabodhitaḥ sa tu tadā viṣṇunā viśvamūrtinā
+06*0115_02 avināśisvarūpaṁ ca dr̥ṣṭvā tattvena phālgunaḥ
+06*0115_03 kr̥trimaṁ tu jagadrūpaṁ jñātvā yuddhodyato ’bhavat
+06*0115_04 devadattaṁ samāyujya śastrāṇi jagr̥he punaḥ
+
+% 6.41.5
+% After 5,
+% S ins.:
+06*0116_01 te sene stimite cāstāṁ vīkṣamāṇe parasparam
+06*0116_02 gaṅgāyamunayor vegau yathaivaitya parasparam
+06*0116_03 evaṁ pravr̥tte te sene niḥśabde janasaṁsadi
+06*0116_04 citre iva paṭālekhye darśanīyatare śubhe
+
+% 6.41.9
+% After 9, S ins.:
+06*0117_01 bhītaṁ yudhiṣṭhiraṁ matvā bhīmasenaḥ pratāpavān
+
+% 6.41.10
+% After 10ab, S ins.:
+06*0118_01 sātyakiś cārjunaś caiva abhimanyuś ca vīryavān
+
+% 6.41.13
+% For 13, S subst.:
+06*0119_01 kvaivaṁ gamiṣyasi śreṣṭha tyaktvāsmān durbalo yathā
+06*0119_02 rājā hi tvaṁ mahābāho vāgyato manyumān iva
+
+% 6.41.18
+% For 18cd, S subst.:
+06*0120_01 yuddhāyāvataraty eva tasya nāsti jayo raṇe
+06*0120_02 yas tu yuddhe samutpanne gurūn dr̥ṣṭvātha daṁśitān
+
+% 6.41.20
+% After 20ab,
+% S ins.:
+06*0121_01 netrair animiṣaiḥ sarve prekṣante sma yudhiṣṭhiram
+
+% 6.41.28
+% For 28ab, S (T1 om.) subst.:
+06*0122_01 kiṁ nu vakṣyati rājāsau dharmaputro yudhiṣṭhiraḥ
+06*0122_02 kiṁ nu vakṣyati bhīṣmo ’sau bharatānāṁ dhuraṁdharaḥ
+
+% 6.41.32
+% After
+% 32, S (T1 om.) ins.:
+06*0123_01 jayeyaṁ ca ripūn sarvān anujñātas tvayānagha
+06*0123_02 yudhyantaṁ māṁ raṇe vīra tvam anujñātum arhasi
+
+% 6.41.39
+% For 39ab, S subst.:
+06*0124_01 mantrayiṣyāmy ahaṁ rājan yac ca te hitam uttamam
+
+% 6.41.43
+% After 43ab, S ins. (for lines 2-6
+% cf. 6.103.71c-73d):
+06*0125_01 ayudhyamānaṁ saṁhatya sauhr̥dena pariplutam
+06*0125_02 nyastaśastraṁ nirudyogaṁ hanyur mā śatravo yudhi
+06*0125_03 nikṣiptaśastre patite vimuktakavace tathā
+06*0125_04 dravamāṇe ca bhīte ca tavāsmīti ca yo vadet
+06*0125_05 striyāṁ strīnāmadheye ca vikale caikaputrake
+06*0125_06 aprasūte ca hīne ca na yuddhaṁ rocayāmy aham
+06*0125_07 idaṁ ca gaditaṁ pārtha paramaṁ vratam āhave
+
+% 6.41.65
+% After 65, S ins. (cf. 50):
+06*0126_01 kiṁ te karomi vai kāmaṁ brūhi pāṇḍavanandana
+06*0126_02 evaṁ gate mahārāja yuddhād anyat kim icchasi
+
+% 6.41.68
+% After 68, K4 B3 ins. (= var. 42cd):
+06*0127_01 vadhopāyaṁ bravīhi tvam ātmanaḥ samare paraiḥ
+
+% 6.41.77
+% After 77, S ins.:
+06*0128_01 teṣām arthe mahārāja yoddhavyam iti me matiḥ
+
+% 6.41.81
+% After 81, S ins.:
+06*0129_01 tvāṁ hi yokṣyati sūtatve sūtaputrasya mātula
+06*0129_02 duryodhano raṇe śūram iti me naiṣṭhikī matiḥ
+
+% 6.41.92
+% After 92, S ins.:
+06*0130_01 na bhaviṣyanti te bālā dhārtarāṣṭrā na saṁśayaḥ
+
+% 6.41.93
+% After
+% 93, S ins.:
+06*0131_01 tato jalakriyā caiva tvayā kāryā tathaiva ca
+
+% 6.41.95
+% After 95ab, S ins.:
+06*0132_01 sa satyam iti manvāno yudhiṣṭhiravacas tadā
+% After 95, S ins.:
+06*0133_01 sabalo dhārtarāṣṭrasya kutsayan karma duṣkr̥tam
+
+% 6.42.1
+% Before 6.42.1, T1 G4 ins. (= 85*):
+06*0134=00 bhagavān uvāca (sic)
+06*0134_01 kr̥ṣṇaṁ kamalapatrākṣaṁ puṇyaśravaṇakīrtanam
+06*0134_02 vāsudevaṁ jagadyoniṁ naumi nārāyaṇaṁ harim
+
+% 6.42.26
+% After 26, K4 D4.7.8 ins.:
+06*0135_01 teṣām ādhāvatāṁ tatra gajāśvakalilo mahān
+06*0135_02 siṁhanādaravonmiśraḥ śaṅkhabherīsamākulaḥ
+06*0135_03 sa ghoṣavāñ śaragrāho dhanurnāgo ’sikacchapaḥ
+06*0135_04 vyāvalgitapurovāta āsīt kṣubdhābdhivat svanaḥ
+
+% 6.43.18
+% After 18, D3 ins.:
+06*0136_01 tau vīrāv atisaṁrabdhau kr̥tinau viṣame sthitau
+
+% 6.43.26
+% After 26ab,
+% D1 ins.:
+06*0137_01 śalyam abhyardayām āsa mahābalaparākramam
+
+% 6.43.74
+% S ins. after 74cd (M2, after 74):
+06*0138_01 ulūkaṁ tu śatānīkaḥ śarair bahubhir āvr̥ṇot
+
+% 6.43.75
+% After 75ab, B1.2.4 Dn ins.:
+06*0139_01 tathaiva śaravarṣeṇa ulūkaṁ samavidhyata
+
+% 6.43.76
+% After
+% 76, Ś1 K0.1.3-5 D1-3.6 ins.:
+06*0140_01 tathaiva cedirājo ’pi ulūkaṁ pratyavidhyata
+
+% 6.44.28
+% After 28, Ś1
+% K0-3.5 Da2 D2.4-6 ins.:
+06*0141_01 aśvārohaiś ca samare hastisādibhir eva ca
+
+% 6.44.29
+% K4 B2.4 Da2 Dn D3-5.7.8 ins. (cf.
+% 25ab) after 29: B1, after 28: D1, after 29ab:
+06*0142_01 pratimāneṣu gātreṣu pārśveṣv abhi ca vāraṇān
+% On the other hand, S ins. after 29:
+06*0143_01 muktās tu rathibhir bāṇā rukmapuṅkhāḥ sutejanāḥ
+06*0143_02 te nipetur akuṇṭhāgrā nāgeṣu ca hayeṣu ca
+
+% 6.44.41
+% After 41, S ins.:
+06*0144_01 tarjayitvā susaṁhr̥ṣṭā yāvat prāṇasya dhāraṇam
+
+% 6.45.5
+% For 5ab, S subst.:
+06*0145_01 dhanūṁṣi rathināṁ bhīṣmaḥ sotsedhāni śirāṁsi ca
+06*0145_02 bāhūn api tathā corūn rathāṁś ca vipuladhvajān
+% After 5, S ins.:
+06*0146_01 ekaikena tu mātaṅgā nārācena mahātmanā
+06*0146_02 tāḍitāḥ sahasā jagmuḥ pr̥thivīṁ parvatopamāḥ
+
+% 6.45.6
+% After 6ab, S ins.:
+06*0147_01 durādharṣas tu śatrūṇāṁ manāṁsi samakampayat
+06*0147_02 hayāṁś ca sahayārohān pātayām āsa sāyakaiḥ
+06*0147_03 sa rathena maheṣvāso vicaran bahudhā balī
+06*0147_04 maṇḍalāni ca vīthīś ca gomūtrāṇi ca bhārata
+06*0147_05 anyāṁś ca subahūn mārgān rathena rathakovidaḥ
+06*0147_06 vismāpayañ śatrusaṁghān vyacaraj jāhnavīsutaḥ
+
+% 6.45.8
+% After 8ab, G2 ins.:
+06*0148_01 abhyavarṣac chalyamukhān rathān satālaketunā
+
+% 6.45.12
+% After 12, S ins.:
+06*0149_01 viviṁśatis tribhir bāṇaiḥ sarvāvaraṇabhedibhiḥ
+
+% 6.45.19
+% After
+% 19ab, S ins.:
+06*0150_01 viviṁśatis tathā rājan sarve viddhvā mahārathāḥ
+
+% 6.45.53
+% After 53, Ś1 ins. (cf. 54a, 55b):
+06*0151_01 pāñcālān atha matsyaṁ ca drupadaṁ senayā vr̥tam
+
+% 6.45.58
+% After 58, Dn2 D4 ins.:
+06*0152_01 sā tu yaudhiṣṭhirī senā gāṅgeyaśarapīḍitā
+06*0152_02 siṁheneva vinirbhinnā śuklā gaur iva gopateḥ
+
+% 6.46.4
+% After 4cd, D1 ins.:
+06*0153_01 yudhiṣṭhiro mahārāja dr̥ṣṭvā kr̥ṣṇam athābravīt
+
+% 6.46.30
+% After 30, M3-5 ins.:
+06*0154_01 sa tvaṁ puruṣaśārdūla śārdūlasamavikrama
+06*0154_02 senāpatyena rājendra dhr̥ṣṭadyumnaṁ niyojaya
+
+% 6.46.35
+% After 35, M3-5 ins.:
+06*0155_01 etāvad uktvā nr̥patiḥ sahadevam abhāṣata
+06*0155_02 abhiṣekasya saṁbhārān kṣipram ānaya vai javāt
+06*0155_03 prādurāsīt tato dhaumyaḥ saṁbhārān gr̥hya bhārata
+06*0155_04 sahadevena sahitaḥ pāṇḍavāya nyavedayat
+06*0155_05 tatas taṁ puruṣavyāghraṁ drupadasyātmajaṁ yudhi
+06*0155_06 bhadrapīṭhe sukhaṁ nyasya abhiṣecayad acyutaḥ
+06*0155_07 aśobhatābhiṣikto hi drupadasyātmajo balī
+06*0155_08 yathā devāsure yuddhe kārttikeyo hy aśobhata
+
+% 6.46.38
+% For 38ab, S subst.:
+06*0156_01 tac chrutvā jahr̥ṣuḥ pārthāḥ pārthivāś ca mahārathāḥ
+
+% 6.47.26
+% For 26, D1 S subst.:
+06*0157_01 yudhiṣṭhiraś ca dharmātmā mādrīputrau ca pāṇḍavau
+06*0157_02 abhimanyuś ca vikrānta uttamaujāś ca vīryavān
+
+% 6.48.2
+% After 2ab, S ins.:
+06*0158_01 tāvakāḥ pāṇḍavaiḥ sārdhaṁ yathāyudhyanta tac chr̥ṇu
+
+% 6.48.18
+% After
+% 18cd, D1 ins.:
+06*0159_01 lāṅgūlāsphoṭaśabdena svanayāno nabhastalam
+06*0159_02 piṅgākṣair dr̥ṣṭipātaiś ca bhīṣayann arisainikān
+
+% 6.48.24
+% B3 Dn2 D4.7.8 ins. after 24:
+% B2, after 25ab:
+06*0160_01 drauṇiḥ ṣaṣṭyā naravyāghro vikarṇaś ca tribhiḥ śaraiḥ
+
+% 6.48.27
+% After 27, D2 ins.:
+06*0161_01 śalyaṁ ca daśabhir bāṇais tāvadbhiś ca jayadratham
+
+% 6.48.33
+% After 33, S ins.:
+06*0162_01 kṣatriyāṇāṁ śirāṁsy ugraiḥ kr̥ntañ śastrair mahārathaḥ
+06*0162_02 śūnyān kr̥tvā rathopasthān vyacarat phalgunas tadā
+
+% 6.48.66
+% After 66, N
+% ins.:
+06*0163_01 ālokād api yuddhaṁ tu samam etad bhaviṣyati
+
+% 6.49.25
+% After 25, D6 ins.:
+06*0164_01 tad apy asya raṇe droṇaś ciccheda saśaraṁ dhanuḥ
+
+% 6.50.9
+% After 9ab, M1-3.5 ins.
+% (cf. 16):
+06*0165_01 sarve kaliṅgakāś caiva saṁnivr̥tteṣu cediṣu
+06*0165_02 svabāhubalam āsthāya abhyavartanta pāṇḍavam
+
+% 6.50.20
+% After 20cd, N ins.:
+06*0166_01 taṁ dr̥ṣṭvā virathaṁ tatra bhīmasenam ariṁdamam
+06*0166_02 śakradevo ’bhidudrāva śitair avakirañ śaraiḥ
+06*0166_03 bhīmasyopari rājendra śakradevo mahābalaḥ
+
+% 6.50.23
+% After 23, S ins.
+% (cf. 7cd):
+06*0167_01 ayutena gajānāṁ ca niṣādaiḥ parivāritaḥ
+
+% 6.50.35
+% After 35ab, Dn2 D4 ins.:
+06*0168_01 tato mumoca kāliṅgaḥ śaktiṁ tām akarod dvidhā
+
+% 6.50.42
+% After
+% 42, T1 G4 ins.:
+06*0169_01 padātibhiḥ padātīṁś ca aśvān aśvair gajān gajaiḥ
+06*0169_02 rathān rathaiś ca bahudhā jaghāna samare balī
+
+% 6.50.43
+% After
+% 43ab, D1 ins.:
+06*0170_01 vibhujya kṣudhitā nādaṁ vidravanti diśo daśa
+06*0170_02 bhramantaṁ kālarūpeṇa bhīmasenaṁ mahābalam
+
+% 6.50.47
+% After 47, S ins.:
+06*0171_01 gajāṁś ca gajayantr̥̄ṁś ca gajahastāṁś ca bhārata
+
+% 6.50.56
+% After 56a, G3 ins.:
+06*0172_01                    ākṣipyānyāny apātayat
+06*0172_02 khaḍgenānyāṁś ca ciccheda
+
+% 6.50.73
+% After 73cd,
+% D1 ins.:
+06*0173_01 papāta śatrusainyeṣu kesarīva mahābalaḥ
+
+% 6.50.74
+% After 74, D1 ins.:
+06*0174_01 gadayā muktayā rājan pātayām āsa dantinaḥ
+06*0174_02 tathā gajaṁ gajenaiva prāhiṇod yamasādanam
+06*0174_03 rathaṁ rathena saṁcūrṇya turaṅgaṁ turageṇa tu
+06*0174_04 padātinaṁ padātena preṣayām āsa mr̥tyave
+06*0174_05 punar aśveṣu patati gajeṣu ca punaḥ punaḥ
+06*0174_06 ratheṣu sa padāteṣu vāyuneva mahānalaḥ
+06*0174_07 yathā mr̥gāṇāṁ madhye tu kesarīva nakhagrahaḥ
+06*0174_08 evaṁ bhramati sainyeṣu bhīmakarmā vr̥kodaraḥ
+
+% 6.50.76
+% After 76, D1 ins.:
+06*0175_01 bhramanti tatra tatraiva kālyamānā mahātmanā
+
+% 6.50.77
+% After
+% 77a, N (K2 om.) ins.:
+06*0176_01                      khaḍgāsaktamahābhujaḥ
+06*0176_02 saṁprahr̥ṣṭo mahāghoṣaṁ
+% After 77, D1 ins.:
+06*0177_01 bhīmena sahasā rājan bhramamāṇena saṁyuge
+
+% 6.50.79
+% For 79ef,
+% D1 subst.:
+06*0178_01 dhāvatā hastimārgeṣu muhur āpatatā punaḥ
+06*0178_02 kaliṅgānāṁ sasainyānāṁ saṁmohaḥ samajāyata
+
+% 6.50.92
+% After 92, D1 ins.:
+06*0179_01 etac caturdaśe varṣe bhīmo dr̥ṣṭvā raṇājiram
+06*0179_02 viśeṣeṇa gajān rājan paraṁ toṣam upāgamat
+
+% 6.50.104
+% After 104, Da D4.5.8 read 109 (Da D5
+% repeating it in its proper place); while S ins.:
+06*0180_01 bhīṣmam evābhyayāt tūrṇaṁ jighāṁsuḥ pāṇḍavarṣabhaḥ
+
+% 6.50.105
+% After 105ab, D1 ins.:
+06*0181_01 āplutyāplutya vegena carma bhrāmya punaḥ punaḥ
+06*0181_02 asinā tīkṣṇadhāreṇa yodhāñ chittvā mahāhave
+
+% 6.50.113
+% After 113ab, Ś1 K0-4 B3 D2.6 ins.:
+06*0182_01 mahāpuruṣabhūyiṣṭho vīrayodhaniṣevitaḥ
+
+% 6.50.114
+% After 114, D1 ins.:
+06*0183_01 bhīmaś ca punar āviṣṭaḥ sātvatena narottama
+06*0183_02 praharṣam atulaṁ lebhe bhīmaḥ sātyakinā saha
+
+% 6.51.35
+% After 35, D1 ins.:
+06*0184_01 rorūyamāṇo dr̥śyeta dhvajāgre vānareśvaraḥ
+06*0184_02 dr̥ṣṭyā bhīṣayate śatrūn stabdhakarṇo mahākapiḥ
+
+% 6.51.39
+% After 39, D1 ins.:
+06*0185_01 vayaṁ ca śastribhir bhinnā nr̥pair indrasamair yudhi
+06*0185_02 bhīto vyūhasya sarvatra na sthātuṁ kaś cid icchati
+06*0185_03 śaravrātāḥ pradr̥śyanta pannagābhāḥ samantataḥ
+06*0185_04 diśaś ca vidiśaś caiva vyāptā hy ārjunasāyakaiḥ
+
+% 6.51.42
+% After 42, S ins.:
+06*0186_01 tataḥ sarathanāgāśvā jayaṁ prāpya sasomakāḥ
+06*0186_02 pāñcālāḥ pāṇḍavāś caiva praṇeduś ca punaḥ punaḥ
+06*0186_03 prayayuḥ śibirāyaiva dhanaṁjayapuraskr̥tāḥ
+06*0186_04 vāditraghoṣaiḥ saṁhr̥ṣṭāḥ pranr̥tyanto mahārathāḥ
+
+% 6.52.10
+% After 10cd, K2.4 B1.2.4 Da Dn D1 (hapl.
+% om. the post. half).3-5.7.8 M ins.:
+06*0187_01 tāvakānāṁ tu taṁ vyūhaṁ pratyavyūhanta pāṇḍavāḥ
+
+% 6.52.17
+% After
+% 17, S ins.:
+06*0188_01 tatrānu rathināṁ śreṣṭho vāmaśr̥ṅge vyavasthitaḥ
+
+% 6.52.22
+% After 22, D1 ins.:
+06*0189_01 prāvartata nadī ghorā paralokāya bhārata
+
+% 6.53.12
+% After 12, Da Dn1 D5 ins.:
+06*0190_01 kaś cid utpatya samare varavāraṇam āsthitaḥ
+06*0190_02 keśapakṣe parāmr̥śya jahāra samare śiraḥ
+06*0190_03 anye dviradadantāgranirbhinnahr̥dayā raṇe
+06*0190_04 vemuś ca rudhiraṁ vīrā niḥśvasantaḥ samantataḥ
+06*0190_05 kaś cit kariviṣāṇastho vīro raṇaviśāradaḥ
+06*0190_06 prāvepac chaktinirbhinno gajaśikṣāstravedinā
+
+% 6.53.13
+% After 13, N (except B1; K5 om.) ins.:
+06*0191_01 rathī ca samare rājann āsādya gajayodhinam
+06*0191_02 sagajaṁ pātayām āsa gajī ca rathinaṁ rathāt
+06*0191_03 rathinaṁ ca hayārohaḥ prāsena bharatarṣabha
+06*0191_04 pātayām āsa samare rathī ca hayasādinam
+
+% 6.53.15
+% After 15c, S
+% (T2 om.) ins.:
+06*0192_01                             āplutyāplutya saṁyuge
+06*0192_02 nistriṁśair niśitais tīkṣṇaiḥ
+
+% 6.54.13
+% For 13ab, S subst.:
+06*0193_01 pitā putraś ca samare kurvāṇau karma duṣkaram
+06*0193_02 rājānaṁ pratyudīyetāṁ bhīmasenaghaṭotkacau
+
+% 6.54.25
+% After 25, D3 ins.:
+06*0194_01 vāryamāṇaṁ mahārāja bhīṣmadroṇakr̥pādibhiḥ
+
+% 6.55.1
+% After
+% 1ab, S ins.:
+06*0195_01 pāṇḍūn āvārayiṣyeti kathaṁ yuyudhire nr̥pāḥ
+
+% 6.55.3
+% After 3ab, N ins.:
+06*0196_01 paścimāṁ diśam āsthāya sthite cāpi divākare
+
+% 6.55.46
+% After 46, N (except
+% B1-3 D1) ins.:
+06*0197_01 pātayiṣyāmi durdharṣaṁ kuruvr̥ddhaṁ pitāmaham
+
+% 6.55.61
+% After 61, T G ins.:
+06*0198_01 pārtho ’pi samare kruddho bhīṣmasyāvārayad diśaḥ
+% T2 cont.:
+06*0199_01 bhīṣmo ’pi rathināṁ śreṣṭhaḥ pārthasyāvārayad diśaḥ
+
+% 6.55.74
+% After 75, D1 ins.:
+06*0200_01 tavāpi putrasya tu kopanasya
+
+% 6.55.85
+% After 85, T2
+% ins. an addl. colophon (adhy. no. 55). T
+% (T2 after the addl. colophon) G ins. after 85:
+06*0201_01 itīdam uktvā sa mahānubhāvaḥ
+06*0201_02 sasmāra cakraṁ niśitaṁ purāṇam
+06*0201_03 sudarśanaṁ cintitamātram eva
+06*0201_04 tasyāgrahastaṁ svayam āruroha
+
+% 6.55.93
+% For 93cd,
+% Ś1 K0-3.5 D1-3.6 subst.:
+06*0202_01 asaṁbhramaṁ tad vicakarṣa dorbhyāṁ
+06*0202_02 mahādhanur gāṇḍivatulyaghoṣam
+06*0202_03 uvāca bhīṣmas tam anantapauruṣaṁ
+06*0202_04 govindam ājāv avimūḍhacetāḥ
+
+% 6.55.94
+% After
+% 94, D1 ins.:
+06*0203_01 mamogracakreṇa nikr̥nta dehaṁ
+
+% 6.55.95
+% After 95, Ś1 K0-2 ins.:
+06*0204_01 śrutvā vacaḥ śāṁtanavasya kr̥ṣṇo
+06*0204_02 vegena dhāvaṁs tam athābhyuvāca
+06*0204_03 tvaṁ mūlam asyeha bhuvi kṣayasya
+06*0204_04 duryodhanaṁ cādya samuddhariṣyasi
+06*0204_05 durdyūtadevī nr̥patir nivāryaḥ
+06*0204_06 sumantriṇā dharmapathi sthitena
+06*0204_07 tyājyo ’tha vā kālaparītabuddhir
+06*0204_08 dharmātigo yaḥ kulapāṁsanaḥ syāt
+06*0204_09 bhīṣmas tad ākarṇya yadupravīraṁ
+06*0204_10 rājā paraṁ daivatam ity uvāca
+06*0204_11 tyaktas tu kaṁso yadubhir hitārthe
+06*0204_12 dharmāt kurūṇām adhipas tadānīm
+06*0204_13 saṁbodhyamāno na bubodha rājā
+06*0204_14 kleśāya daivād viparītabuddhiḥ
+06*0204_15 śrotā hitaṁ yasya na kaś cid asti
+06*0204_16 vaktā bhr̥śaṁ syāt sa tu kiṁ bravītu
+
+% 6.55.101
+% After 101, T1 G ins.:
+06*0205_01 tataḥ pratijñāṁ samavāpya bhīṣmaḥ
+06*0205_02 kr̥tāñjaliḥ stutyam athākarod vai
+06*0205_03 traivikrame yasya vapur babhāse
+06*0205_04 tathaiva dr̥ṣṭvā tu samujjvalantam
+
+% 6.55.111
+% After 111,
+% S ins.:
+06*0206_01 bhīṣmaṁ śaraiḥ saṁparivārya saṁkhye
+06*0206_02 ciccheda bhūriśravasaś ca cāpam
+06*0206_03 śalyaṁ ca viddhvā navabhiḥ pr̥ṣatkair
+06*0206_04 duryodhanaṁ vakṣasi nirbibheda
+
+% 6.55.116
+% After 116c, S ins.:
+06*0207_01 punaḥ punar dhārtarāṣṭrāḥ samagrāḥ
+
+% 6.55.121
+% For 121-122, S subst.:
+06*0208_01 tataḥ śaraughair niśitaiḥ kirīṭī
+06*0208_02 pravartayām āsa nadīṁ sughorām
+06*0208_03 nr̥nāgavājikṣatalohitodāṁ
+06*0208_04 narendramajjāsthikamāṁsaphenām
+
+% 6.55.125
+% After 125, N ins.:
+06*0209_01 hatapravīrāṁ ca tathaiva dr̥ṣṭvā
+06*0209_02 senāṁ kurūṇām atha phalgunena
+
+% 6.55.126
+% After 126ab,
+% N (except D2) ins.:
+06*0210_01 jayapragalbhāḥ puruṣapravīrāḥ
+06*0210_02 saṁtāpayantaḥ kuruyodhavīrān
+% K4 B Da Dn D4.5.7.8 cont.: S ins. after
+% 126ab:
+06*0211_01 hatapravīrāṇi balāni dr̥ṣṭvā
+06*0211_02 kirīṭinā śatrubhayāvahena
+% After 126cd, S ins.:
+06*0212_01 hatadrutāṁ tava putrasya senāṁ
+06*0212_02 dr̥ṣṭvā tadā bhāratavr̥ṣṇisiṁhau
+
+% 6.55.128
+% After 128,
+% Da Dn1 D5 ins.:
+06*0213_01 rarāja cāraktadigantarālaṁ
+06*0213_02 saśoṇam atyartharathāṅganāmnaḥ
+06*0213_03 hr̥daḥ prabhinnād iva śoṇitaughair
+06*0213_04 viliptavantaḥ sakalaṁ viyogāt
+
+% 6.55.129
+% After 129cd, D1 ins.:
+06*0214_01 duryodhanaḥ pravyathitāntarātmā
+06*0214_02 yayau tadā prekṣya tadājimadhye
+
+% 6.55.131
+% After 131cd, N ins.:
+06*0215_01 anye ca yodhāḥ śataśaḥ sametāḥ
+06*0215_02 kruddhena pārthena raṇasya madhye
+% After 131ef, Da2 D5.7 ins.:
+06*0216_01 aho prayāty eṣa gajendravr̥ndaiḥ
+06*0216_02 saṁveṣṭitaḥ pāṇḍavabāṇabhinnaḥ
+06*0216_03 duryodhanaś candrasamānaśobhinā
+06*0216_04 tiryag dhr̥tenātapatreṇa mandaḥ
+
+% 6.55.132
+% After 132, D1 ins.:
+06*0217_01 bhagnena darpeṇa mahārathānāṁ
+06*0217_02 vidhvastavaktrāś ca mahārathadvipāḥ
+
+% 6.56.6
+% After 6, M4 ins.:
+06*0218_01 ataḥ paraṁ vyūham acintyarūpaṁ
+06*0218_02 niveśayām āsa mahādhanuṣmān
+
+% 6.56.8
+% After 8, T1 G ins.:
+06*0219_01 nārāyaṇenendra ivābhiguptaḥ
+06*0219_02 śaśīva sūryeṇa sameyivān yathā
+06*0219_03 tathā mahātmā saha keśavena
+06*0219_04 varūthinīnāṁ pramukhe rarāja
+% On the other hand, T2 M ins. after 8:
+06*0220_01 yathā mahendro ’suravāhinīnāṁ
+06*0220_02 nārāyaṇenendra ivābhiguptaḥ
+06*0220_03 śaśīva sūryeṇa sameyivān yathā
+06*0220_04 tathā mahātmā saha keśavena
+
+% 6.56.11
+% K4 D1
+% ins. after 11cd: B Da Dn D4.5.7.8 S subst. for
+% 11cd:
+06*0221_01 tathā na bhūto bhuvi mānuṣeṣu
+06*0221_02 na dr̥ṣṭapūrvo na ca saṁśrutaś ca
+
+% 6.56.27
+% After 27, K B Da Dn
+% D1.3-8 ins.:
+06*0222_01 tathaiva bhīṣmāhatam antarikṣe
+06*0222_02 mahāstrajālaṁ kapirājaketoḥ
+06*0222_03 viśīryamāṇaṁ dadr̥śus tvadīyā
+06*0222_04 divākareṇeva tamobhibhūtam
+
+% 6.57.5
+% T G M1.2 subst. for 5cd:
+% M3-5 ins. after 5 (cf. 14cd):
+06*0223_01 dadarśa rājan pāñcālyaḥ senāpatir ariṁdamaḥ
+
+% 6.57.10
+% After 10ab, T1 G4 M2 ins.:
+06*0224_01 dhanuś ciccheda bhallena tīvravegena phālguniḥ
+
+% 6.57.15
+% For 15, S subst.:
+06*0225_01 pārāvatāśvaṁ sa ratham āsthāya paravīrahā
+
+% 6.58.2
+% After
+% 2, S ins.:
+06*0226_01 vibhagnāṁś ca praṇaṣṭāṁś ca nityaṁ śaṁsasi māmakān
+
+% 6.58.18
+% After 18, N ins.:
+06*0227_01 dhārtarāṣṭrān daśa rathān daśaiva pratyavārayan
+
+% 6.58.22
+% After 22ab, K4 B Da Dn1 D4.5.7 ins.:
+06*0228_01 anyonyam abhinardantaḥ spardhamānāḥ parasparam
+% K4 B Da Dn1 D4.5.7 cont.: Ś1 K0-3.5 D1.3.
+% 6.7 ins. after 22ab: Dn2 after 21ab: D8 after
+% 21c:
+06*0229_01 anyonyaspardhayā rājañ jñātayaḥ saṁgatā mithaḥ
+% D1.3 cont.:
+06*0230_01 samāgatā mahārāja jñātayaḥ śastrapāṇayaḥ
+
+% 6.58.24
+% After 24, D2 (marg. sec. m.)
+% ins.:
+06*0231_01 vikarṇo daśabhir bāṇaiḥ purumitraś ca pañcabhiḥ
+06*0231_02 satyavrataḥ saptabhiś ca pārṣataṁ samare ’hanat
+% while D1 ins.:
+06*0232_01 madrādhipas tribhiś caiva vikarṇaḥ pañcabhiḥ śaraiḥ
+
+% 6.58.31
+% After 31cd, N ins.:
+06*0233_01 gajānīkena sahitas tena rājā suyodhanaḥ
+
+% 6.58.32
+% After 32, K5
+% ins.:
+06*0234_01 ghoraḥ pratibhayaś cāsīt pinākīva pinākadhr̥k
+06*0234_02 nirmathyamānāṁ kruddhena pragr̥hya mahatīṁ gadām
+
+% 6.58.35
+% After 35ab,
+% D1 ins.:
+06*0235_01 vipradhvastā gajā rājan madaṁ tyaktvā bhayaṁ gatāḥ
+
+% 6.58.37
+% After 37, S ins.:
+06*0236_01 nākulis tu śatānīkaḥ samare śatrupūgahā
+
+% 6.58.50
+% After 50,
+% D1 ins.:
+06*0237_01 mārgeṇa gacchamānasya bhīmasyobhayapārśvataḥ
+06*0237_02 dr̥śyante patitā nāgā vajreṇeva śiloccayāḥ
+
+% 6.58.58
+% For
+% 58, S subst.:
+06*0238_01 keśamajjāsr̥gabhyakto raudraṁ bibhrat tadā vapuḥ
+06*0238_02 mārutiḥ śūlahastasya purevābhighnataḥ paśūn
+
+% 6.59.14
+% Ś1 K0-4 B Da Dn2 D1.3.5-8
+% ins. after 14: D2 (om. lines 1-3).4, after 14ab:
+06*0239_01 gadayā vyadhamat sarvān vāto vr̥kṣān ivaujasā
+06*0239_02 bhīmaseno mahābāhus tava putrasya vai bale
+06*0239_03 sā vai majjāvasāmāṁsaiḥ pradigdhā rudhireṇa ca
+06*0239_04 adr̥śyata mahāraudrā gadā nāgāśvaghātinī
+
+% 6.59.17
+% After 17ab,
+% D3 S ins.:
+06*0240_01 gadāmārutavego ’bhūd viṣphūrjitam ivāśaneḥ
+
+% 6.59.27
+% N (K5 Dn1 om.) ins.
+% after 27 (D2, after 25cd):
+06*0241_01 yodhās tvadīyāḥ śaravarṣair avarṣan
+06*0241_02 meghā yathā bhūdharam ambuvegaiḥ
+
+% 6.59.29
+% After 29ab, K2 ins. (cf. 6.
+% 60.1ab):
+06*0242_01 tato bhūriśravā rājan somadattasya putrakam
+
+% 6.60.5
+% After 5,
+% D1.3.7 ins.:
+06*0243_01 tathaiva ca sutās tubhyaṁ bhīmasenaṁ mahāratham
+06*0243_02 duryodhanamukhāḥ sarve samantāt paryavārayan
+
+% 6.60.9
+% After 9,
+% Da D5 ins.:
+06*0244_01 manorathadrumo ’smākaṁ cintito bahuvārṣikaḥ
+06*0244_02 saphalaḥ sūta adyeha yo ’haṁ paśyāmi sodarān
+06*0244_03 yatrāśoka samutkṣiptā reṇavo rathanemibhiḥ
+06*0244_04 na prayāsya[?ntya]ntarikṣaṁ hi śaravr̥ndair digantare
+06*0244_05 tatra tiṣṭhati saṁnaddhaḥ svayaṁ rājā suyodhanaḥ
+06*0244_06 bhrātaraś cāsya saṁnaddhāḥ kulaputrā madotkaṭāḥ
+
+% 6.60.13
+% After
+% 13, D1 ins.:
+06*0245_01 ākarṇapūrṇaiḥ putras te prahasann iva bhārata
+
+% 6.60.27
+% After 27cd, N (K5 Dn1 om.)
+% M2 ins.:
+06*0246_01 abhipatya mahābāhur garutmān iva vegitaḥ
+% After
+% 27, N (K5 Dn1 om.) ins.:
+06*0247_01 saṁprahr̥ṣya ca hr̥ṣṭātmā tribhir bāṇair mahābhujaḥ
+
+% 6.60.28
+% After
+% 28, T1 G4 ins.:
+06*0248_01 vicitraṁ ca tathā hatvā preṣayām āsa mr̥tyave
+
+% 6.60.47
+% After 47, D1 ins.:
+06*0249_01 bhīmo ’pi labdhasaṁjñas tu adravat sa tato raṇe
+
+% 6.60.50
+% After 50ab, S ins.:
+06*0250_01 kailāsagirisaṁkāśaṁ vajrapāṇir ivābhyayāt
+
+% 6.60.51
+% After 51, Da Dn1 D5 ins. (cf. 1.143.32-34,
+% 38):
+06*0251_01 madhye trigartā(sic)n rākṣasyo labhante prasravanti ca
+06*0251_02 kāmarūpadharāś caiva bhavanti bahurūpakāḥ
+06*0251_03 praṇamya vikacaḥ pādāv agr̥hṇāt pitaraṁ tadā
+06*0251_04 mātuś ca parameṣvāsas tau ca nāmāsya cakratuḥ
+06*0251_05 ghaṭotkacasyoktapūrvaṁ mātā taṁ pratyabhāṣata
+06*0251_06 abravīt tena nāmāsya ghaṭotkaca iti sma ha
+06*0251_07 sa hi sr̥ṣṭo maghavatā karṇahetor mahātmanā
+06*0251_08 karṇasyāprativīryasya pratiyoddhā mahārathaḥ
+
+% 6.60.52
+% After 52, S ins.:
+06*0252_01 preṣitāś ca mahārāja rākṣasaiś ca caturdiśam
+
+% 6.60.55
+% After 55, T G M2-5 ins.:
+06*0253_01 nyavartata mahāghoṣo bhīmasenaśarārditaḥ
+06*0253_02 mr̥ditvā sarvasainyāni tava putrasya bhārata
+
+% 6.60.68
+% T1 G4 ins. after 68: M2 (om. line 1),
+% after 69ab:
+06*0254_01 idānīṁ yudhi nirjetuṁ na śakyo ’sau sa rākṣasaḥ
+06*0254_02 astam abhyeti savitā rātrau yoddhuṁ na śakyate
+
+% 6.60.77
+% For 77cd, S subst.:
+06*0255_01 kampayantaś ca putrāṇāṁ tava cetāṁsi bhūmipa
+06*0255_02 putrāś ca tava rājendra tathaiva śaravikṣatāḥ
+
+% 6.61.13
+% After 13, D1 ins.:
+06*0256_01 yad vr̥ttaṁ tatra saṁgrāme tad bhavān vaktum arhati
+
+% 6.61.42
+% For 42, D1 subst.:
+06*0257_01 viśvāvāso viśvamūrtir viṣvakseno janārdanaḥ
+06*0257_02 viśvakartā viśvapatir devadeva jagatpate
+06*0257_03 yogeśvara namaste ’stu saṁsārārṇavatāraṇa
+
+% 6.61.67
+% After
+% 67ab, S ins.:
+06*0258_01 vāsudeveti taṁ vidyād yenāhaṁ nirmitaḥ prabho
+06*0258_02 tasmād yācāmi lokeśa caturātmānam ātmanā
+
+% 6.61.69
+% After 69, S ins.:
+06*0259_01 sarvabhūteśvaraṁ devaṁ yogaṁ yogeśvaraṁ prabhum
+
+% 6.62.8
+% After 8c, K0.1 ins. (L.1=8b):
+06*0260_01                 vāsudeva iti śrutaḥ
+06*0260_02 vāsudevagr̥he sākṣāt
+
+% 6.62.12
+% After 12, D1 ins.:
+06*0261_01 jagataś cāgrajau vidmas tato devau surarṣabhāḥ
+
+% 6.62.14
+% After 14, S
+% (T2 om.) ins.:
+06*0262_01 etat puruṣasaṁjñaṁ vai purāṇaṁ rūpam uttamam
+
+% 6.63.2
+% After 2cd, D4 S ins.:
+06*0263_01 śrutaṁ me tāta rāmasya jāmadagnyasya jalpataḥ
+06*0263_02 nāradasya ca devarṣeḥ kr̥ṣṇadvaipāyanasya ca
+06*0263_03 asito devalaś cāpi vālakhilyās tapodhanāḥ
+
+% 6.63.10
+% After 10ab, K3.5
+% D2 T2 (om. lines 2-3) ins.:
+06*0264_01 tasmān nārāyaṇo jajñe devadevaḥ sanātanaḥ
+06*0264_02 nābhau padmaṁ babhūvāsya sarvalokasya saṁbhavaḥ
+06*0264_03 tasmāt pitāmaho jātas tasmāj jātās tv imāḥ prajāḥ
+
+% 6.63.12
+% After
+% 12cd, T1 G4 ins.:
+06*0265_01 harantaṁ brahmaṇo vedāñ jaghāna brahmaṇaḥ pitā
+
+% 6.64.9
+% After 9, K4 B2.3 Dn2 D4.8 T2 ins.:
+06*0266_01 iti nityaṁ yogavidbhir bhagavān puruṣottamaḥ
+06*0266_02 sanatkumārapramukhaiḥ stūyate ’bhyarcyate hariḥ
+% while T1 G M ins.:
+06*0267_01 etad dvaipāyanaḥ prāha stutvā vai puruṣottamam
+
+% 6.64.10
+% After 10, D1
+% reads 13cd. K5 D2 ins. after 10:
+06*0268_01 purāṇapuruṣasyeha yadarthaṁ nr̥ṣu saṁbhavaḥ
+
+% 6.64.12
+% After 12, D1 ins.:
+06*0269_01 arjunasya māhātmyaṁ hi kathitaṁ tattvato mayā
+06*0269_02 na jeṣyāmi mahāyuddhe vicarantaṁ naraṁ kva cit
+06*0269_03 nārāyaṇaṁ ca saṁgrāme avadhyau tau yataḥ smr̥tau
+06*0269_04 dharmarājaś ca bhīmaś ca mādrīputraś ca pāṁḍavau
+06*0269_05 ete ’py avadhyāḥ kathitāḥ purāṇe paramarṣiṇā
+
+% 6.64.16
+% After 16, D1 ins.:
+06*0270_01 na cet kartāsi vacanaṁ saṁdigdhaṁ na tariṣyasi
+
+% 6.65.1
+% For 1, T1 G M
+% subst.:
+06*0271_01 tasyāṁ rātryāṁ vyatītāyāṁ niryayuḥ kurupuṁgavāḥ
+06*0271_02 puraskr̥tya mahātmānaṁ bhīṣmaṁ śāṁtanavaṁ yudhi
+
+% 6.65.4
+% After 4, D4 S ins.:
+06*0272_01 ajātaśatruḥ śatrūṇāṁ manāṁsi samakampayat
+06*0272_02 śyenavad vyūhya taṁ vyūhaṁ dhaumyasya vacanāt svayam
+06*0272_03 sa hi tasya suvijñāta agnicityeṣu bhārata
+06*0272_04 makaras tu mahāvyūhas tava putrasya dhīmataḥ
+06*0272_05 svayaṁ sarveṇa sainyena droṇenānumatas tadā
+06*0272_06 yathāvyūhaṁ śāṁtanavaḥ so ’nvavartata tat punaḥ
+
+% 6.65.19
+% After 19, N ins.:
+06*0273_01 sa tathā kuru bhadraṁ te yathā vadhyanti pāṇḍavāḥ
+
+% 6.65.20
+% After 20ab,
+% S ins.:
+06*0274_01 uvāca tatra rājānaṁ saṁkruddha iva niḥśvasan
+06*0274_02 bāliśas tvaṁ na jānīṣe pāṇḍavānāṁ parākramam
+06*0274_03 na śakyā hi yathā jetuṁ pāṇḍavā hi mahābalāḥ
+06*0274_04 yathābalaṁ yathāvīryaṁ karma kuryām ahaṁ hi te
+06*0274_05 ity uktvā te sutaṁ rājann abhyapadyata vāhinīm
+
+% 6.66.14
+% After 14cd, N
+% ins. (K0-2 om. from post. half of line 2 up to
+% prior half of line 4):
+06*0275_01 saṁrabdhānāṁ ca vīrāṇāṁ dhīrāṇām amitaujasām
+06*0275_02 dhanurjyātalaśabdena na prājñāyata kiṁ cana
+06*0275_03 utthiteṣu kabandheṣu sarvataḥ śoṇitodake
+06*0275_04 samare paryadhāvanta nr̥pā ripuvadhodyatāḥ
+06*0275_05 śaraśaktigadābhis te khaḍgaiś cāmitatejasaḥ
+06*0275_06 nijaghnuḥ samare śūrās te ’nyonyaṁ ca paraṁtapa
+06*0275_07 babhramuḥ kuñjarāś cātra śarair viddhā niraṅkuśāḥ
+
+% 6.66.15
+% After 15, N ins.:
+06*0276_01 bahūnām uttamāṅgānāṁ kārmukāṇāṁ tathaiva ca
+06*0276_02 gadānāṁ parighāṇāṁ ca hastānāṁ corubhiḥ saha
+06*0276_03 pādānāṁ bhūṣaṇānāṁ ca keyūrāṇāṁ ca saṁghaśaḥ
+06*0276_04 rāśayaḥ sma pradr̥śyante bhīṣmabhīmaparākrame
+
+% 6.66.19
+% After
+% 19, N ins.:
+06*0277_01 patitaiḥ pātyamānaiś ca viceṣṭadbhiś ca bhūtale
+06*0277_02 ghoram āyodhanaṁ jajñe tatra tatra janeśvara
+% On the other hand, S ins. after 19:
+06*0278_01 duryodhanamate ghore akṣadyūtābhidevane
+06*0278_02 bhīṣme yudhi parākrānte bhīmasenena bhārata
+06*0278_03 prāvartata nadī ghorā śoṇitaughataraṅgiṇī
+06*0278_04 madhye ca mahatī senā keśaśaivalaśādvalā
+06*0278_05 hatārohā hayā rājan rathino virathā api
+06*0278_06 vicerus tatra saṁgrāme nistriṁśavaradhāriṇaḥ
+
+% 6.67.2
+% After
+% 2, N ins.:
+06*0279_01 siṁhalāṅgūlam ākāśe jvalantam iva parvatam
+
+% 6.67.10
+% After 11, K3 ins.:
+06*0280_01 gajebhyo gajayodhāś ca vitrastā bhayamohitāḥ
+06*0280_02 vihvalāḥ pratyadr̥śyanta na jānanti diśo nr̥pa
+
+% 6.67.12
+% For 12, S subst.:
+06*0281_01 tataḥ kāmbojamukhyāś ca te haṁsapathakarṇikāḥ
+06*0281_02 gopāsanabalaughāś ca gopāsanapatis tathā
+
+% 6.67.16
+% After 16, D4 S (M2 om.) ins.:
+06*0282_01 cedikāśipadātaiś ca rathaiḥ pāñcālasr̥ñjayaiḥ
+06*0282_02 pāṇḍavāḥ sahitāḥ sarve dhr̥ṣṭadyumnapurogamāḥ
+06*0282_03 tāvakān samare jagmur dharmaputreṇa coditāḥ
+
+% 6.67.25
+% After 25ab, D1 ins. (cf.
+% 27ab):
+06*0283_01 prakāśaṁ cakrur ākāśa udyatāsibhir uttamaiḥ
+
+% 6.68.8
+% After 8ab, S ins.:
+06*0284_01 nākuliś ca śatānīkaḥ samare rathapuṁgavaḥ
+
+% 6.68.18
+% After 18cd, N T2 ins.:
+06*0285_01 vapurbhiś ca narendrāṇāṁ candrasūryasamaprabhaiḥ
+
+% 6.68.24
+% After 24, D4 (marg. sec. m.) S ins.:
+06*0286_01 apāsya tu dhanuś chinnaṁ bhīmaseno mahābalaḥ
+06*0286_02 śarair bahubhir ānarchad bhīṣmaṁ śāṁtanavaṁ yudhi
+
+% 6.68.25
+% After 25ab, Ś1
+% K B3 D2 M5 ins.:
+06*0287_01 ākarṇaprahitais tīkṣṇair niśitais tigmatejanaiḥ
+
+% 6.69.11
+% After 11, D1 ins.:
+06*0288_01 sa viddhaḥ phālgunenājau na papāta mahītale
+
+% 6.69.37
+% After 37ab, S ins.:
+06*0289_01 hayo hayaṁ gajo nāgaṁ vīro vīraṁ viśāṁ pate
+
+% 6.70.1
+% After
+% 1, S ins.:
+06*0290_01 yat tat sakhyus tu pūrveṇa arjunād upaśikṣitam
+
+% 6.70.12
+% After 12, D1 ins.:
+06*0291_01 yudhyasva samare cādya paśyāmas tava pauruṣam
+
+% 6.70.27
+% After 27, S ins.:
+06*0292_01 asahyam asiyuddhāya bhūriśravasam āhave
+06*0292_02 matvā vr̥kodaras tūrṇam abhiplutya mahārathaḥ
+
+% 6.71.18
+% After 18, S ins.:
+06*0293_01 pr̥ṣṭhe cāstāṁ maheṣvāsāv āvantyau sapadānugau
+
+% 6.73.9
+% For 9ab, K4 (first time)
+% B Da Dn D4.5.7.8 subst.:
+06*0294_01 athālokya praviṣṭaṁ tam ūcus te sarva eva tu
+
+% 6.73.15
+% After
+% 15ab, D4 (marg. sec. m.) S ins.:
+06*0295_01 uvāca sārathiṁ bhīmaḥ sthīyatām iti bhārata
+06*0295_02 yāvad enān haniṣyāmi dhārtarāṣṭrān sahānugān
+06*0295_03 ity uktvā bhīmasenas tu praviśya mahatīṁ camūm
+% After
+% 15, D4 S ins.:
+06*0296_01 gadayā bhīmasenena tāḍitā vāraṇottamāḥ
+06*0296_02 bhinnakumbhā mahākāyā bhinnapr̥ṣṭhās tathaiva ca
+06*0296_03 bhinnagātrāḥ sahārohāḥ śerate parvatā iva
+06*0296_04 rathāś ca bhagnās tilaśaḥ sayodhāḥ śataśo raṇe
+06*0296_05 aśvāś ca sādinaś caiva pādātaiḥ saha bhārata
+06*0296_06 tatrādbhutam apaśyāma bhīmasenasya vikramam
+06*0296_07 yad ekaḥ samare rājan bahubhiḥ samayodhayat
+06*0296_08 antakāle prajāḥ sarvā daṇḍapāṇir ivāntakaḥ
+
+% 6.73.17
+% After 17, D1 ins.:
+06*0297_01 rathaṁ ca śūnyaṁ saṁprekṣya bhīmaṁ prati vicetanaḥ
+
+% 6.73.22
+% After 22, S ins.:
+06*0298_01 abhyadhāvad gadāpāṇis tad balaṁ sa mahābalaḥ
+
+% 6.73.28
+% After 28,
+% D1 ins.:
+06*0299_01 dhikkr̥tasya ca kṣatreṇa nirarthaṁ jīvitaṁ bhavet
+% while S ins.:
+06*0300_01 raurave narake majjed aplave dustare nr̥bhiḥ
+
+% 6.73.36
+% For 36ab, B3 subst.:
+06*0301_01 abhidrutaṁ śastrabhr̥tāṁ variṣṭhaṁ ca samantataḥ
+06*0301_02 lokapālasamaṁ vīra lokavīraiś ca pāṇḍavam
+
+% 6.73.38
+% After 38, T G ins.:
+06*0302_01 tathā tasmin vartamāne ’tivegaṁ
+% T2 cont.:
+06*0303_01 bhīmo tatho pretya ca yājñasenam (sic)
+
+% 6.73.39
+% After 39b, T1 G ins.:
+06*0304_01 dr̥ṣṭvā raṇe vākyam idaṁ babhāṣe
+% After 39, D1 ins.:
+06*0305_01 ārchann etaṁ kṣudrakarmātihīnaṁ
+06*0305_02 sainyaṁ ca vidhvaṁsayate pr̥ṣatkaiḥ
+
+% 6.73.42
+% After 42, S ins.:
+06*0306_01 sa vai tato ’straṁ sumahāprabhāvaṁ
+06*0306_02 pramohanaṁ droṇadattaṁ mahātmā
+06*0306_03 prayojayām āsa udārakarmā
+06*0306_04 tasmin raṇe tava sainyasya rājan
+
+% 6.73.43
+% After 43, S ins.:
+06*0307_01 etasminn eva kāle tu bhīmaḥ praharatāṁ varaḥ
+06*0307_02 viśramya ca tadā rājan pītvāmr̥tarasaṁ jalam
+06*0307_03 punaḥ saṁnahya sahasā yodhayām āsa saṁyuge
+06*0307_04 dhr̥ṣṭadyumnena sahitaḥ kālayām āsa bhārata
+
+% 6.73.52
+% After 52, T G M4 ins.:
+06*0308_01 pravr̥ttiṁ bhīmasenasya pārṣatasya ca saṁyuge
+06*0308_02 vijñāya samare śīghraṁ praviśadhvaṁ rathārṇavam
+06*0308_03 gacchantu parayā śaktyā bhavanta iti me matiḥ
+
+% 6.73.59
+% After 59, S ins.:
+06*0309_01 droṇam iṣvastrakuśalaṁ sarvavidyāsu pāragam
+
+% 6.73.66
+% After 66, D1 ins.:
+06*0310_01 dharmarājapuraṁ rājan preṣayām āsa vai dvijaḥ
+
+% 6.74.18
+% After 18abc, S ins.:
+06*0311_01                 kekayā draupadīsutāḥ
+06*0311_02 tān dr̥ṣṭvā samare kruddhās
+
+% 6.75.13
+% After
+% 13ab, Ś1 K0-2 ins.:
+06*0312_01 tribhir anyair maheṣvāsaś cicchedāsya dhvajaṁ tathā
+
+% 6.75.16
+% After 16, D3 ins.:
+06*0313_01 sa tathābhihato rājā smayann iva mahārathaḥ
+
+% 6.75.27
+% After 27d, N ins.:
+06*0314_01 sa tair vikarṇasya rathāt pātayām āsa vīryavān
+
+% 6.75.36
+% After 36, S ins.:
+06*0315_01 durmukho vihvalas tatra niṣasāda rathe vibho
+06*0315_02 visaṁjñaṁ prekṣya te sarve bhrātaraḥ paryavārayan
+
+% 6.75.41
+% Ś1 K0-2.4 B3 S (T2 om.) ins. after 41: K5 (om.
+% 41cd) ins. after 41ab:
+06*0316_01 nanāda sumahānādaṁ prabhinna iva vāraṇaḥ
+
+% 6.75.43
+% After 43ab, S ins.:
+06*0317_01 mumocāsmai śitān bāṇāṁs tīkṣṇān āśīviṣopamān
+
+% 6.75.48
+% After 48, K4 B
+% Da Dn D4-8 ins.:
+06*0318_01 sa papāta tato bhūmau vajrarugṇa iva drumaḥ
+% On the other hand, S ins. after 48:
+06*0319_01 sa vihvalo rathopasthe niṣasāda sutas tava
+
+% 6.75.58
+% After 58, S ins.:
+06*0320_01 nāśayām āsatur vīrau dhr̥ṣṭadyumnavr̥kodarau
+06*0320_02 kauravāṇām anīkāni śaraiḥ saṁnataparvabhiḥ
+
+% 6.75.59
+% After 59, B3 reads
+% 6.76.1. On the other hand, S ins. after 59:
+06*0321_01 arjuno vāsudevaś ca kauravāṇām anīkinīm
+06*0321_02 hatvā vidrāvya ca śaraiḥ śibirāyaiva jagmatuḥ
+
+% 6.77.4
+% After 4ab,
+% S ins.:
+06*0322_01 kr̥paś ca saha sodaryais tava rājan padānugaiḥ
+
+% 6.78.37
+% After 37, D1 ins.:
+06*0323_01 athānyad dhanur ādāya bhārasādhanam uttamam
+
+% 6.79.30
+% After 30ab, D1
+% ins.:
+06*0324_01 naiṣṭhikīṁ buddhim āsthāya svargāya bharatottamāḥ
+
+% 6.79.45
+% After 45ab, S ins.:
+06*0325_01 dhvajaṁ ciccheda bāṇena dhanuś caikena māriṣa
+06*0325_02 athainaṁ chinnadhanvānaṁ chādayann iva bhārata
+06*0325_03 nijaghāna raṇe taṁ tu sūtaṁ cāsya nyapātayat
+
+% 6.79.48
+% For 48ef, S subst.:
+06*0326_01 pr̥ṣatkānāṁ sahasrāṇi prahasann iva tāv api
+06*0326_02 sr̥jan rurodha samare megho vr̥ṣṭyā yathācalam
+
+% 6.80.44
+% After 44ab, G1.3
+% ins.:
+06*0327_01 satvaraṁ bālarakṣārthaṁ gacchāv eti dhanaṁjayaḥ
+
+% 6.80.47
+% After 47ab, K3 D2 ins.:
+06*0328_01 tatas tvaṁ samare yoddhuṁ rājabhir bahubhir vr̥taḥ
+
+% 6.81.11
+% After 11,
+% T1 G ins.:
+06*0329_01 bhīṣmo ’pi dr̥ṣṭvā samare kr̥tāstrān
+06*0329_02 sa pāṇḍavānāṁ rathino ’bhyudārān
+06*0329_03 vihāya saṁgrāmamukhe dhanaṁjayaṁ
+06*0329_04 javena pārthaṁ punar ājagāma
+
+% 6.81.16
+% After 16ab, D1 ins.:
+06*0330_01 te vāridhārāś ca yathādrirājaṁ
+06*0330_02 tathā ca varṣanti mahānubhāvāḥ
+
+% 6.81.32
+% After 32,
+% D1 T G M1.2 ins.:
+06*0331_01 jayadratho bhagnavāhaṁ rathaṁ taṁ
+06*0331_02 tyaktvā yayau yatra rājā kurūṇām
+06*0331_03 bhayena bhīmasya sa mūḍhacetāḥ
+06*0331_04 sasaubalas tatra yuddhasya bhītaḥ
+
+% 6.82.11
+% After
+% 11, S ins.:
+06*0332_01 hatāśve tu rathe tiṣṭhañ śaktiṁ cikṣepa dharmarāṭ
+06*0332_02 tām āpatantīṁ sahasā kālapāśopamāṁ śitām
+06*0332_03 ciccheda samare bhīṣmaḥ śaraiḥ saṁnataparvabhiḥ
+
+% 6.82.13
+% After 13, D1 ins.:
+06*0333_01 bhīṣmo ’pi rathināṁ śreṣṭho vivyādha niśitaiḥ śaraiḥ
+06*0333_02 bhrātarau tau mahāvīryau śatrusainyabhayaṁkarau
+
+% 6.82.44
+% After 44, D1 ins.:
+06*0334_01 mattā rudhiragandhena piśitena ca te nr̥pāḥ
+06*0334_02 āsvādyāsvādya nr̥tyante nādaṁ muñcanti bhīṣaṇam
+06*0334_03 kabandhāni ca nr̥tyanti dhanur hastāni saṁyuge
+06*0334_04 prāsam ālambya niśitaṁ nistriṁśaṁ nirmalaṁ mahat
+
+% 6.83.30
+% After
+% 30, D1 ins.:
+06*0335_01 meghāntare yathā vidyuj jvalamāneva dr̥śyate
+
+% 6.84.20
+% After 20ab, S ins.:
+06*0336_01 aparājitasya rājendra bhīmaseno mahābalaḥ
+
+% 6.84.31
+% After 31ab, D1 ins. (cf. 36ab below):
+06*0337_01 nihatā bhīmasenena mahāvīryeṇa saṁyuge
+
+% 6.85.16
+% Ś1 K2-5 B1.2.4
+% D (except Da1) ins. after 16: B3 ins. line 3
+% only after 16ab:
+06*0338_01 virāṭo drupadaś caiva sahitāḥ sarvasomakaiḥ
+06*0338_02 abhyadravanta saṁgrāme bhīṣmam eva mahārathāḥ
+06*0338_03 kekayā dhr̥ṣṭaketuś ca kuntibhojaś ca daṁśitaḥ
+06*0338_04 yuktānīkā mahārāja bhīṣmam eva samabhyayuḥ
+
+% 6.85.33
+% After 33ab, Ś1 K B Da Dn1
+% D1-3.5-7.8 (marg. sec. m.) ins.:
+06*0339_01 cāmaravyajanaiś chinnair nikr̥ttaiś ca mahāyudhaiḥ
+% K5 D6 cont.:
+06*0340_01 pratodaiś ca tathā chinnair vikr̥taiś ca mahāyudhaiḥ
+
+% 6.86.4
+% After 4ab, Ś1 K1.2 B1.2.4 Da Dn
+% D4.5.7.8 G1 ins.:
+06*0341_01 vājināṁ bahubhiḥ saṁkhye samantāt paryavārayan
+
+% 6.86.11
+% K0.2 ins. after 11ab: K1
+% (om. 10c-11d) ins. after 10ab:
+06*0342_01 uvāca vacanaṁ rājann ulūpītanayas tadā
+% After 11cd,
+% K3-5 B D ins.:
+06*0343_01 nyavedayata cātmānam arjunasya mahātmanaḥ
+
+% 6.86.14
+% After 14cd, S ins.:
+06*0344_01 sa cāpi naraśārdūlaḥ śārdūlasamavikramaḥ
+06*0344_02 abravīc ca tadā pārtham ayam asmi tadā vibho
+06*0344_03 sthitaḥ preṣyaś ca putraś ca sarvathā hy anuśādhi mām
+06*0344_04 kiṁ karomi ca te kāmaṁ kaṁ vā kāmaṁ tvam icchasi
+06*0344_05 pariṣvajya sutaṁ premṇā vāsaviḥ pratyuvāca tam
+06*0344_06 prītipūrvaṁ ca kāryaṁ ca kāryaṁ prati ca mānada
+
+% 6.86.49
+% After 49cd, N ins.:
+06*0345_01 hataśeṣair mahārāja dvisāhasrair hayottamaiḥ
+
+% 6.86.64
+% After 64cd, N (B1 Dn1
+% om.) ins.:
+06*0346_01 arjunasya sutaṁ vīram irāvantaṁ yaśasvinam
+
+% 6.87.3
+% After 3, S ins.:
+06*0347_01 celuś ca sahasā tatra tena nādena nāditāḥ
+
+% 6.87.25
+% After 25ab, N ins.:
+06*0348_01 adyānr̥ṇyaṁ gamiṣyāmi pitr̥̄ṇāṁ mātur eva ca
+
+% 6.87.26
+% After 26, S ins.:
+06*0349_01 asya pāpasya durbuddhe phalaṁ prāpnuhi durmate
+
+% 6.88.11
+% After 11, S ins.:
+06*0350_01 aśaktaḥ pratiyoddhuṁ vai dr̥ṣṭvā tasya parākramam
+
+% 6.88.38
+% After 38, T1 G4 ins.:
+06*0351_01 prāviśan bhūtalaṁ rājan valmīkam iva pannagāḥ
+
+% 6.89.20
+% After 20ab, S ins.:
+06*0352_01 rathā rathaiḥ samāgacchan nāgā nāgaiś ca saṁyuge
+
+% 6.90.29
+% After 29,
+% T1 G M4 ins.:
+06*0353_01 sa rudreṇa jitaḥ pūrvaṁ nihato mātariśvanā
+
+% 6.90.32
+% After 32, K3 ins.:
+06*0354_01 tataḥ ṣaṣṭhena bhallena rathāt sūtam apātayat
+% while S (T2 om.) ins.:
+06*0355_01 sūtaṁ caikena bhallena rathanīḍād apāharat
+
+% 6.90.35
+% After 35, Ś1 erroneously reads 37bc,
+% repeating it in its proper place. S ins. after 35:
+06*0356_01 bhīmaseno ’pi samare nīlaṁ nīlāñjanaprabham
+06*0356_02 āropya svarathaṁ vīro duryodhanam upādravat
+
+% 6.91.1
+% After 1ab, S ins.:
+06*0357_01 parājayaṁ rākṣasena nāmr̥ṣyata paraṁtapa
+
+% 6.91.12
+% After 12ab, S (G1
+% damaged) ins.:
+06*0358_01 na tu kāryas tvayā rājan haiḍimbena durātmanā
+
+% 6.91.43
+% After 43,
+% D1 ins.:
+06*0359_01 dadhāra supratīkaṁ taṁ kṣatradharmā gajena tu
+
+% 6.92.13
+% After 13, D1 ins.:
+06*0360_01 rathaṁ saṁprerayām āsa vegena tvaritojjvalam
+
+% 6.92.22
+% After 22c, S ins.:
+06*0361_01                  sumuktena mahāraṇe
+06*0361_02 tāḍayām āsa saṁkruddhaḥ
+
+% 6.92.24
+% After 24ab, T2 M ins.:
+06*0362_01 subahūn preṣayām āsa kopayāno mahābalaḥ
+% M4.5 cont.:
+06*0363_01 tatas tu samare kruddho bhīmasenaḥ śilīmukhān
+
+% 6.92.29
+% After 29ab, K0.1 ins.:
+06*0364_01 saṁdadhāra mahābāhur bhīmasenaṁ mahābalam
+
+% 6.92.31
+% For
+% 31cd, T G subst.:
+06*0365_01 nimīlya netre gr̥hṇīyāt tathā jagrāha pāṇḍavaḥ
+06*0365_02 droṇacāpasamudbhūtaṁ śaravarṣaṁ durāsadam
+% On the other hand, M subst. for 31cd:
+06*0366_01 nimīlya nayane ’gr̥hṇāt tathā bāṇān vr̥kodaraḥ
+
+% 6.92.41
+% After 41, D1 ins.:
+06*0367_01 nirāyudham athātmānaṁ sa saṁvīkṣya janādhipa
+
+% 6.92.43
+% After 43, D1 ins.:
+06*0368_01 pravartam iva hārdikyaṁ ghoraṁ yuddham abhūt tataḥ
+
+% 6.92.59
+% After 59ab, T2 ins.:
+06*0369_01 sudhr̥tair lakuṭaiś caiva saṁvr̥tā tatra medinī
+% After
+% 59, T2 ins.:
+06*0370_01 sāṅgadaiś ca bhujaiś caiva vipraviddhair alaṁkr̥taiḥ
+
+% 6.92.65
+% After 65ab, T G ins.:
+06*0371_01 śuśubhe dharaṇī rājan pradīptair iva parvataiḥ
+06*0371_02 srastair ābharaṇaiś caiva vibabhau tu tadā mahī
+
+% 6.92.67
+% After 67ab,
+% T2 ins. (cf. 68cd):
+06*0372_01 vivāritavicitrābhiḥ kuthābhiś ca samantataḥ
+
+% 6.92.69
+% After
+% 69, T G ins.:
+06*0373_01 rarāja subhr̥śaṁ bhūmis tatra viśāṁ pate
+
+% 6.93.5
+% After 5, S ins.:
+06*0374_01 droṇasya pramukhe vīrā hatās te bhrātaro mama
+06*0374_02 bhīmasenena rādheya mama caiva ca paśyataḥ
+
+% 6.93.6
+% After 6,
+% D6 ins.:
+06*0375_01 mahābala mahāprājña sarvaśāstraviśārada
+06*0375_02 mantrajño mantravān dakṣo nītimān nītikovidaḥ
+06*0375_03 sa śūraḥ sa ca vikrāntaḥ sūryaputraḥ pratāpavān
+06*0375_04 etan mahābhītikaraṁ pratariṣye raṇaṁ katham
+
+% 6.93.24
+% After 24, T G M2 ins.:
+06*0376_01 padātayaś ca tvaritā nakharaprāsayodhinaḥ
+06*0376_02 parivavrur maheṣvāsaṁ dhārtarāṣṭraṁ mahāratham
+
+% 6.93.30
+% After 30, D6 ins.:
+06*0377_01 devāsure yathendro ’sau saṁgrāme ca bhayaṁkare
+
+% 6.94.9
+% N (D3 om.
+% [hapl.] lines 1-2) ins. after 9 (K0.1, after 8):
+06*0378_01 tathā drauṇiṁ maheṣvāsaṁ śāradvatam athāpi ca
+06*0378_02 gograhe jitavān pūrvaṁ paryāptaṁ tan nidarśanam
+06*0378_03 vijitya ca yadā karṇaṁ sadā puruṣamāninam
+06*0378_04 uttarāyai dadau vastraṁ paryāptaṁ tan nidarśanam
+
+% 6.94.10
+% After 10, K5 ins.:
+06*0379_01 avaśyaṁ hitakāmena pārṣatena ca dhīmatā
+
+% 6.94.11
+% Ś1 K B3 Da Dn D2.4.6 T1 G ins.
+% after 11ab: D5, after 11: D8 (marg. sec. m.),
+% after 10:
+06*0380_01 yasya goptā jagadgoptā śaṅkhacakragadādharaḥ
+06*0380_02 vāsudevo ’nantaśaktiḥ sr̥ṣṭisaṁhārakārakaḥ
+06*0380_03 sarveśvaro devadevaḥ paramātmā sanātanaḥ
+06*0380_04 ukto ’si bahuśo rājan nāradādyair maharṣibhiḥ
+
+% 6.94.13
+% After 13, S ins.:
+06*0381_01 aśakyāḥ pāṇḍavā jetuṁ devair api savāsavaiḥ
+
+% 6.95.15
+% For 15cd, S subst.:
+06*0382_01 mā siṁham iva kākena hataṁ bhīṣmaṁ śikhaṇḍinā
+06*0382_02 paśyema puruṣavyāghra tathā nītir vidhīyatām
+
+% 6.95.35
+% After 35, D6 ins.:
+06*0383_01 anye ca bahavaḥ śūrāḥ śataśo ’tha sahasraśaḥ
+06*0383_02 nānāvidhāyudhā vīrā nānāśastropaśobhitāḥ
+
+% 6.95.37
+% After
+% 37ab, D4 M4 ins.:
+06*0384_01 yuyudhāno maheṣvāso yudhāmanyuś ca vīryavān
+
+% 6.96.30
+% After 30ab, D1 ins.:
+06*0385_01 nādhyagacchata vai trāṇaṁ pīḍyamānā durātmanā
+
+% 6.96.41
+% S ins. after 41 (T1 G4,
+% after 40):
+06*0386_01 nirbhiṇṇas tu śarair ghorair dīpyamānaḥ samantataḥ
+06*0386_02 alaṁbuso bhr̥śaṁ bhāti ulkābhir iva kuñjaraḥ
+
+% 6.96.50
+% After 50ab,
+% T G M2 ins.:
+06*0387_01 udvr̥tya cakṣuṣī rājan krodhāt prasphuritādharau
+% After 50, T1 G ins.:
+06*0388_01 āśīviṣāv iva kruddhau netrābhyām itaretaram
+
+% 6.97.28
+% After
+% 28ab, D6 ins.:
+06*0389_01 saubhadraś ca mahābāhuḥ samare ca jitaśramaḥ
+06*0389_02 parākramī mahātejāḥ pitus tulyaparākramaḥ
+
+% 6.98.4
+% After
+% 4, T2 M ins.:
+06*0390_01 tathaiva pāṇḍavo droṇaṁ vetty eva priyam ātmanaḥ
+06*0390_02 kṣatradharmarato nityaṁ kṣatradharmeṇa yudhyate
+
+% 6.98.29
+% After 29c, S (except M3-5) ins.:
+06*0391_01                       giryagrād iva kesarī
+06*0391_02 tasthau sa sagado bhīmaḥ saśr̥ṅga iva parvataḥ
+06*0391_03 siṁho dr̥ṣṭvā mr̥gaṁ yadvat
+
+% 6.98.34
+% After
+% 34, S ins.:
+06*0392_01 sādināṁ śastravr̥ṣṭiṁ ca vyadhamad gadayā tataḥ
+06*0392_02 vāyuvegasamāyukto vyacarat pāṇḍavo yudhi
+06*0392_03 viṣāṇollikhitair gātrair viṣāṇābhihato bhr̥śam
+
+% 6.99.29
+% After 29, D6 ins.:
+06*0393_01 tato ’ntare mahārāja bhīmasenaḥ pratāpavān
+06*0393_02 cakāra sumahad yuddhaṁ mahāghoraṁ bhayānakam
+
+% 6.99.30
+% After 30, D6
+% ins.:
+06*0394_01 aśvān aśvaiś ca saṁmardya rathaiś ca rathinas tathā
+
+% 6.99.32
+% After 32, T G M1 ins.:
+06*0395_01 dr̥śyante sma mahābāho tatra tatra mahābalāḥ
+
+% 6.99.35
+% After 35, S ins.:
+06*0396_01 śaṅkhacakraughasaṁpūrṇā chatrakūrmā rathoḍupā
+
+% 6.99.43
+% After 43, S ins.:
+06*0397_01 iti duryodhanotsr̥ṣṭāḥ sarve yuyudhire nr̥pāḥ
+
+% 6.99.46
+% After
+% 46ab, T2 ins.:
+06*0398_01 ayudhyanta mahāraṅge madhyaṁ prāpte divākare
+06*0398_02 sātyakiḥ kr̥tavarmāṇaṁ viddhvā pañcabhir āyasaiḥ
+06*0398_03 nākampayata śaineyo satyavān satyakovidaḥ
+
+% 6.100.6
+% After 6, S (T2 om. lines
+% 2-5) ins.:
+06*0399_01 kaśābhis tāḍayām āsuḥ pārṣṇibhiś ca mahur muhuḥ
+06*0399_02 hayārohā dravanty eva codayanto hayottamān
+06*0399_03 tathā tottranipātaiś ca aṅkuśānāṁ ca vibhramaiḥ
+06*0399_04 gajārohā gajāṁs tūrṇaṁ tvarayantaḥ pradudruvuḥ
+06*0399_05 rathinaś ca pratodaiś ca vāgbhiś caiva punaḥ punaḥ
+06*0399_06 bhartsayanto hayān rājan prādravanti diśo daśa
+
+% 6.100.8
+% After 8, S ins.:
+06*0400_01 putrāṁś ca patitān bhūmau mātulāṁś ca pitr̥̄ṁs tathā
+06*0400_02 sodarāṁś cāvamardantaḥ pradrutās tatra tatra vai
+
+% 6.101.9
+% After 9,
+% T G M2 ins.:
+06*0401_01 nānāśastrasamākīrṇo yuddhāyaivābhidaṁśitaḥ
+
+% 6.101.15
+% After 15, T G ins.:
+06*0402_01 antardadhe mahāñ śabdas tena śabdena mohitaḥ
+
+% 6.101.23
+% After 23, D8 ins.:
+06*0403_01 evaṁ tu saubalaṁ sainyaṁ prabhagnaṁ sarvatodiśam
+
+% 6.101.25
+% For 25,
+% D2 subst.:
+06*0404_01 uvāca madrādhipatiṁ rājā duryodhanas tadā
+
+% 6.101.32
+% After 32, S ins.:
+06*0405_01 āpatann eva bhīmas tu madrarājam atāḍayat
+06*0405_02 sarvapāraśavais tīkṣṇair nārācair marmabhedibhiḥ
+06*0405_03 tato bhīṣmaś ca droṇaś ca sainyena mahatā vr̥tau
+06*0405_04 rājānam abhyapadyetām añjasā śaravarṣiṇau
+% After line 3, G3 ins.:
+06*0406_01 dhr̥ṣṭadyumnas tribhir viddhvā rājānam abhyapadyata
+
+% 6.102.4
+% After 4ab, K4 D1.3 M ins.:
+06*0407_01 sahadevaś ca saptatyā pārthaś ca navabhiḥ śaraiḥ
+
+% 6.102.5
+% After 5a, Da Dn1 D5 ins.:
+06*0408_01                    niśitair navabhiḥ śaraiḥ
+06*0408_02 nakulaṁ ca tribhir viddhvā
+
+% 6.102.10
+% After 10, S
+% ins.:
+06*0409_01 yathā hi sumahān agniḥ kakṣe carati sānilaḥ
+06*0409_02 tathā bhīṣmo mahārāja divyam astram udīrayan
+
+% 6.102.16
+% After 16, D1
+% ins.:
+06*0410_01 matsyapāñcālakaikeyān pātayām āsa saṁyuge
+
+% 6.102.49
+% After 49, D3.6
+% (om. lines 8-9) ins.:
+06*0411_01 tataḥ pravavr̥te raudraḥ saṁgrāmo lomaharṣaṇaḥ
+06*0411_02 pāṇḍavānāṁ ca mukhyasya kurūṇāṁ pravarasya ca
+06*0411_03 tālamātre vikarṣantau tāv ubhau raṇakarkaśau
+06*0411_04 dhanuṣī dr̥ḍhamuṣṭī tāv ubhau pautrapitāmahau
+06*0411_05 śyāmasya palitenāsau saṁgamaḥ pratyaśobhata
+06*0411_06 gaṅgāyamunayor yadvaj jalayoḥ pratisaṁcaraḥ
+06*0411_07 pārthanāmāṅkitā bāṇāḥ petur bhīṣmasya vakṣasi
+06*0411_08 nirguṇānāṁ kr̥taghnānāṁ manāṁsīva hi sādhuṣu
+06*0411_09 bhīṣmasyāpi tato bāṇāḥ petur arjunavakṣasi
+06*0411_10 mahādevapariprāptadhanurvidyāṁ jigīṣavaḥ
+
+% 6.102.52
+% After 51, D6
+% T G M1.2 ins.:
+06*0412_01 vāsudevas tu saṁkruddho roṣāj jajvāla saṁyuge
+
+% 6.102.58
+% After 58, D3.6 ins.:
+06*0413_01 pratodapāṇir bhagavāñ śuśubhe yādavarṣabhaḥ
+06*0413_02 yathāṁśunārdayac candram amāvāsyāṁ divākaraḥ
+
+% 6.102.61
+% After 61, B Da Dn
+% D5.8 (marg. sec. m.) ins.:
+06*0414_01 praharasva yatheṣṭaṁ vai dāso ’smi tava cānagha
+% On the other hand, D3.6 ins.:
+06*0415_01 nirguṇenāpi tottreṇa vāsudeva kr̥taṁ mama
+06*0415_02 yo yogibhiś ca duṣprāpyaḥ sa ghātārtham ihāgataḥ
+
+% 6.102.70
+% After 70ab, T G ins.:
+06*0416_01 abhavat paramaprīto jñātvā pārthasya vikramam
+
+% 6.102.74
+% Ś1 K1.2 ins.
+% after 74cd: D6 ins. after 75ab:
+06*0417_01 kurvāṇaṁ samare karmāṇy atimānuṣavikramam
+
+% 6.102.75
+% After 75, K2 B Dn2 D4.6-8 ins.:
+06*0418_01 tathā pāṇḍavasainyāni drāvyamāṇāni bhārata
+% On the other hand, T2 M4 ins. after 75:
+06*0419_01 vadhyamānā raṇe cāpi bhīṣmeṇāmitrakarśinā
+
+% 6.102.76
+% After 76, T G ins.:
+06*0420_01 tathaiva yodhā rājendra bhīṣmeṇāmitraghātinā
+06*0420_02 samare mr̥ditāḥ sarve pāṇḍavāḥ saha sr̥ñjayaiḥ
+
+% 6.102.78
+% After
+% 78ab, T G M1 ins.:
+06*0421_01 tato ’pi bhīṣmaḥ sabalaḥ sasainyān
+06*0421_02 nyavārayat pāṇḍusutāñ śaraughaiḥ
+06*0421_03 jaghāna caitān subhr̥śaṁ mahābalo
+06*0421_04 mahāvrataḥ pāṇḍusutān mahātmā
+06*0421_05 raṇe karūśādhipacedipair balair
+06*0421_06 vr̥tān sadā cakradharasya paśyataḥ
+% After 78, D3.6 ins.:
+06*0422_01 udayagiritaṭasthaḥ padminīṁ bodhayitvā
+06*0422_02 mr̥dutarakiraṇāgrais tāḥ svayaṁ copabhujya
+06*0422_03 malinamadhupasaṅgāt tāsu saṁjātakopaḥ
+06*0422_04 kr̥taruciravirocir bhānum astaṁ prayātaḥ
+
+% 6.103.4
+% After 4ab,
+% T G ins.:
+06*0423_01 niśāmukhaṁ ca saṁprekṣya ghorarūpaṁ bhayānakam
+
+% 6.103.49
+% After 49ab, D1
+% ins.:
+06*0424_01 yasyāṅge krīḍitaṁ nityaṁ bālye ca parivardhitāḥ
+06*0424_02 astrāṇi vidhivac caiva śikṣitāni janārdana
+06*0424_03 taṁ hantum udyatāḥ kr̥ṣṇa rājyahetor vayaṁ yudhi
+% After
+% 49, D1 ins.:
+06*0425_01 satyaṁ br̥haspater vākyaṁ devānām agrataḥ kila
+06*0425_02 bhāṣitaṁ guruṇā pūrvaṁ tan nibodha janārdana
+06*0425_03 putraḥ pitaram āsādya pitā putraṁ ca mānada
+06*0425_04 rājyārthe ghātayed evaṁ kṣatradharmaḥ sanātanaḥ
+
+% 6.103.54
+% After 54, D1.6 ins.:
+06*0426_01 caraṇopagatān gr̥hya pariṣvajya ca pāṇḍavān
+06*0426_02 mūrdhni caitān upāghrāya aṅkam āropayat tadā
+06*0426_03 bāṣpaparyākulamukhaḥ smr̥tvā pāṇḍuṁ punaḥ punaḥ
+
+% 6.103.56
+% After
+% 56ab, G2 ins.:
+06*0427_01 yuddhād anyatra he vatsāḥ prīyantāṁ mā viśaṅkatha
+
+% 6.103.57
+% After 57, K4
+% ins.:
+06*0428_01 yathā pr̥cchasi mām adya kathaṁ tan me ca vā vibho
+
+% 6.103.72
+% After 72, G2.3
+% ins.:
+06*0429_01 strījite strīpradhāne ca strīpradhāyini dharmaja
+
+% 6.103.75
+% After
+% 75ab, D1 ins.:
+06*0430_01 apumāṁs tasya putras tu pūrvam āsīd viśāṁ pate
+
+% 6.103.89
+% After 89, T G M1 ins.:
+06*0431_01 katham asmadvidhaḥ kr̥ṣṇa jānan dharmaṁ sanātanam
+06*0431_02 nyastaśastre ca vr̥ddhe ca prahared dhi pitāmahe
+
+% 6.103.100
+% After 100, S ins.:
+06*0432=00 saṁjaya uvāca
+06*0432_01 arjunasya vacaḥ śrutvā bhīṣmasya vadhasaṁyutam
+06*0432_02 jahr̥ṣur hr̥ṣṭaromāṇaḥ sakr̥ṣṇāḥ pāṇḍavās tadā
+
+% 6.103.101
+% After 101ab, N T G ins.:
+06*0433_01 anumānya mahātmānaṁ prayayur hr̥ṣṭamānasāḥ
+% On the other hand, M ins. after 101ab: T2 subst.
+% for 101cd:
+06*0434_01 svān svān gr̥hān abhigatās tāṁ rātrim avasan sukham
+
+% 6.104.30
+% After 30ab, D1 ins.:
+06*0435_01 bhīṣmaḥ paramasaṁkruddhaḥ śaraiḥ saṁnataparvabhiḥ
+% After
+% 30, B Da Dn D4-8 ins.:
+06*0436_01 nānāśastrāstravarṣais tān vīryāmarṣapraveritaiḥ
+
+% 6.104.42
+% After 42,
+% D1 ins.:
+06*0437_01 sarvam eva mahāyuddhaṁ śrutavantaṁ mahāraṇe
+
+% 6.105.23
+% After 23cd, S ins.:
+06*0438_01 pātayiṣye ripūn anyān pāṇḍavān pratipālayan
+06*0438_02 pratijñāto jayo hy adya pāṇḍavānāṁ mahātmanām
+
+% 6.105.26
+% After 26, S ins.:
+06*0439_01 aśakyāḥ pāṇḍavā jetuṁ devair api savāsavaiḥ
+06*0439_02 kiṁ punar martyadharmeṇa kṣatriyeṇa mahābala
+
+% 6.106.9
+% After 9, T1 G4 M5
+% ins.:
+06*0440_01 tvaramāṇaṁ raṇe yattaṁ saumadattir avārayat
+
+% 6.106.14
+% After 14ab, T G
+% ins.:
+06*0441_01 bhīṣmasya vadham icchantaṁ pāṇḍavaprītikāmyayā
+
+% 6.106.25
+% For 25, S subst.:
+06*0442_01 ayodhayac ca samare tava putro mahārathaḥ
+
+% 6.106.31
+% After 31, S ins.:
+06*0443_01 yathaiva pannagā rājaṁs taṭākaṁ tr̥ṣitā yathā
+
+% 6.107.12
+% After 12cd, T G ins.:
+06*0444_01 sā hemavikr̥tā śaktir mādhavasya bhujacyutaiḥ
+
+% 6.107.23
+% For 23abc, G2 subst.:
+06*0445_01 tato droṇasutaṁ yodhān dravamāṇaṁ mahāraṇe
+06*0445_02 visr̥jantaṁ śarān dr̥ṣṭvā
+
+% 6.107.33
+% After 33ab, G2 ins.:
+06*0446_01 tayoḥ samabhavad yuddhaṁ tumulaṁ romaharṣaṇam
+
+% 6.107.39
+% For
+% 39d, K4 B Da Dn D4-8 subst.:
+06*0447_01                tiṣṭha tiṣṭheti cābravīt
+06*0447_02 ājaghāna mahābāhuḥ pārṣataṁ taṁ mahāratham
+
+% 6.107.46
+% After 46cd, T1 G M2 ins.:
+06*0448_01 ayodhayetāṁ samare tulyavegau narottamau
+
+% 6.107.47
+% After 47, T G M2 ins.:
+06*0449_01 tatra yuddham abhūd ghoraṁ tayoḥ puruṣasiṁhayoḥ
+
+% 6.108.2
+% For 2cd, D1 subst.:
+06*0450_01 yuktaḥ prītyā pāṇḍavānāṁ gāhamāno mahācamūm
+
+% 6.108.14
+% After 14, D1 ins.:
+06*0451_01 tathā kilakilāśabdaḥ śrūyate vānarasya ca
+06*0451_02 yasya lāṅgūlaśabdena sphuṭatīva nabhastalaṁ
+
+% 6.108.20
+% M ins. after 20ab:
+% T1 G4, after 24ab: G1-3, after 22:
+06*0452_01 abhyudyataṁ raṇe dr̥ṣṭvā bhairavāstraṁ ca pāṇḍavam
+
+% 6.108.29
+% After 29, D1 ins.:
+06*0453_01 pūrvaṁ caiva mayāśrāvi tapasā ghorarūpiṇā
+06*0453_02 brahmacaryeṇa mahatā phālgunaś carate tapaḥ
+06*0453_03 tat tapaḥ saphalaṁ ceha kairāte savyasācinā
+
+% 6.108.41
+% After 41, T1 G M2 ins.:
+06*0454=00 saṁjayaḥ
+06*0454_01 putraṁ samanuśāsyaiva bhāradvājaḥ pratāpavān
+06*0454_02 mahāraṇe mahārājaṁ dharmarājam ayodhayat
+
+% 6.109.1
+% After the ref., Ś1 K0-2
+% ins.:
+06*0455_01 etac chrutvā vacas tasya droṇasya ca mahātmanaḥ
+
+% 6.109.10
+% After 10, G3 ins.:
+06*0456_01 droṇasya ca dhanur bhīmas tribhir bāṇair acicchide
+
+% 6.109.26
+% After 26, K4 B Da Dn D4.5.7.8 ins.:
+06*0457_01 sa tu krodhasamāviṣṭo bhīmaseno mahābalaḥ
+06*0457_02 madreśvaraṁ tribhir bāṇair bhr̥śaṁ viddhvā mahāyaśāḥ
+
+% 6.109.29
+% After 29, S ins.:
+06*0458_01 virarāja mahābāhur lalāṭasthena patriṇā
+06*0458_02 ekaśr̥ṅgo mahārāja yathā parvatasattamaḥ
+06*0458_03 atha bhīmo mahābāhuḥ kruddhaḥ sarvān mahārathān
+06*0458_04 vimukhīkr̥tya bāṇaughais tasthau girir ivācalaḥ
+
+% 6.109.36
+% After 36, M ins.:
+06*0459_01 tataḥ kruddho mahābāhur bhīmo bhīmaparākramaḥ
+06*0459_02 vivyādha samare vīras tribhis tribhir ajihmagaiḥ
+06*0459_03 gautamapreritaṁ cāpi tomaraṁ tv anilātmajaḥ
+06*0459_04 kṣurapreṇa dvidhā cakre prahasann iva bhārata
+06*0459_05 hārdikyaprahitaṁ cāpi paṭṭasaṁ tilakāṇḍavat
+06*0459_06 ciccheda samare vīro hy asaṁbhrāntarathaḥ śaraiḥ
+06*0459_07 sa ciccheda śataghnīṁ ca saindhaveneritāṁ bhr̥śam
+06*0459_08 bhīmaseno raṇaślāghī navabhiḥ kaṅkapatribhiḥ
+
+% 6.110.16
+% After
+% 16ab, T1 G ins.:
+06*0460_01 cāmarair hemadaṇḍaiś ca samāstīryata medinī
+% After 16, T1 G ins.:
+06*0461_01 ghaṇṭābhiś ca kaśābhiś ca samāstīryata medinī
+
+% 6.110.17
+% After 17ab, T1 G ins.:
+06*0462_01 kuṇḍalair maṇicitraiś ca samāstīryata medinī
+
+% 6.111.20
+% After 20, T2 M1.4 ins.:
+06*0463_01 te tatheti pratijñāya puraskr̥tya śikhaṇḍinam
+
+% 6.111.28
+% After
+% 28, Da2 Dn1 D5 ins.:
+06*0464_01 citrasenas tava sutaṁ vicitraśarakārmukam
+
+% 6.112.30
+% After 30ab, K3-5 B D T G ins.:
+06*0465_01 pārthahetoḥ parākrānto bhīṣmasyāyodhanaṁ prati
+
+% 6.112.99
+% After 99ab, D3 (marg. sec. m.) ins.:
+06*0466_01 jaghāna bāṇān gāṅgeyas tathā muktāñ śikhaṇḍinaḥ
+
+% 6.112.110
+% After 110, K4 B
+% D (except D2) M ins.:
+06*0467_01 śalabhā iva rājendra pārtham apratimaṁ raṇe
+
+% 6.112.135
+% For
+% 135cd, M1.3.4 subst.:
+06*0468_01 samadr̥śyanta samare dhāvamānāḥ samantataḥ
+
+% 6.113.3
+% After 3ab, K2.4 B D (except D1-3) ins.:
+06*0469_01 unmattavan mahārāja yudhyante tatra bhārata
+
+% 6.113.7
+% T1 G1.3.4 ins. after 7:
+06*0470_01 somakāḥ sr̥ñjayaiḥ sārdhaṁ sarve te yuddhadurmadāḥ
+
+% 6.113.13
+% For
+% 13cd, D3 subst.:
+06*0471_01 pāṇḍavānāṁ yayuḥ senām ātmano jayagr̥ddhinaḥ
+
+% 6.113.25
+% After 25, K4 B1.2.4 Da Dn1
+% D5 M4 ins.:
+06*0472_01 udvignāḥ samare yodhā vikrośanti dhanaṁjaya
+
+% 6.113.28
+% After 28ab, T1 G4 (both in marg.) ins.:
+06*0473_01 yāvāyavābhyāṁ śuciśukrayoge
+06*0473_02 ātānataptā iva bāṇasaṁghāḥ
+06*0473_03 bhīṣmasya cāpacyutabāṇasaṁghaiḥ
+06*0473_04 pārthasya senā kr̥śatām avāpa
+
+% 6.114.23
+% After 23, G3 ins.:
+06*0474_01 dhanuś caikena bāṇena cicchide samare tadā
+
+% 6.114.26
+% After 26, D6 ins.:
+06*0474A_01 preṣayām āsa śaktiṁ ca yamadaṁṣṭropamāṁ dr̥ḍhām
+
+% 6.114.31
+% After 31, S ins.:
+06*0475_01 ajayyaś caiva sarveṣāṁ lokānām iti me matiḥ
+
+% 6.114.45
+% After 45ab, T1 G read 42cd.
+% N ins. after 45ab: T1 G (all om. lines 1-3)
+% ins. after 42ab:
+06*0476_01 tān apy āśu śarair bhīṣmaḥ pravivyādha mahārathaḥ
+06*0476_02 taiś ca muktāñ śarān bhīṣmo yudhi satyaparākramaḥ
+06*0476_03 nivārayām āsa śaraiḥ samaṁ saṁnataparvabhiḥ
+06*0476_04 śikhaṇḍī tu raṇe bāṇān yān mumoca mahārathaḥ
+
+% 6.114.50
+% After
+% 50ab, D1 ins.:
+06*0477_01 paśyatāṁ kuruvīrāṇāṁ sarveṣāṁ tatra bhārata
+
+% 6.114.52
+% After 52, S (G1-3 om. line 1) ins.:
+06*0478_01 na cāham api śaktas tu sarvair api mahārathaiḥ
+06*0478_02 r̥te ’rjunaṁ susaṁkruddhair etat satyaṁ bravīmi te
+
+% 6.114.74
+% After 74, S ins.:
+06*0479_01 tatrādbhutam apaśyāma pāṇḍavānāṁ parākramam
+06*0479_02 drāvayām āsur iṣubhiḥ sarvān bhīṣmapadānugān
+
+% 6.114.76
+% T2
+% G1-3 (G1.3 om. from the post. half of line 4 up to
+% 77a) M1.4 ins. after 76ab: T1 G4 (both om. 75cd
+% and lines 1-2) ins. after 75ab:
+06*0480_01 pāṇḍavaiḥ pañcabhiḥ sārdhaṁ sātyakena ca dhanvinā
+06*0480_02 dhr̥ṣṭadyumnamukhaiḥ sarvaiḥ pāñcālaiś ca samantataḥ
+06*0480_03 bhidyamānāḥ śarais tīkṣṇaiḥ sarve kārṣṇipurogamaiḥ
+06*0480_04 droṇadrauṇikr̥paiḥ sārdhaṁ sarve śalyakr̥pādayaḥ
+06*0480_05 tāvakāḥ samare rājañ jahur bhīṣmaṁ mahāmr̥dhe
+
+% 6.114.105
+% After 105ab, T1 G ins.:
+06*0481_01 duḥkhārtās te tadā rājan kurūṇāṁ patayo ’bhavan
+
+% 6.115.5
+% After 5, Ś1
+% K0-2 read 4cd; while K4 B Da Dn D4-8 ins.:
+06*0482_01 sa hato draupadeyena pāñcālyena śikhaṇḍinā
+
+% 6.115.11
+% After 11ab,
+% D2 ins.:
+06*0483_01 kurupāṇḍavayoś chatre ādhāre ca dhanuṣmatām
+
+% 6.115.21
+% After 21,
+% D1 ins.:
+06*0484_01 āgatas tvaramāṇas tu balena mahatā vr̥taḥ
+06*0484_02 sametya puruṣavyāghra tvaramāṇo mahārathaḥ
+% while D2 ins.:
+06*0485_01 duḥśāsanaṁ drutataraṁ droṇavijñāpanāya tat
+
+% 6.115.32
+% After 32ab, B2 Da Dn1
+% D5 S ins.:
+06*0486_01 paripārśve tava sutān sthitān udvīkṣya bhārata
+% After 32, B2 D8 ins.:
+06*0487_01 etac chrutvā tu vacanaṁ bhīṣmād bhāgīrathīsutāt
+
+% 6.115.43
+% For 43, D1 subst.:
+06*0488_01 upadhāne tathā datte bhīṣmasya savyasācinā
+06*0488_02 bhīṣmo ’pi bharatāṁ śreṣṭhaḥ sarvadharmārthatattvavit
+
+% 6.115.44
+% After 44ab,
+% K2 Dn2 D4.8 ins.:
+06*0489_01 prāha sarvān samudvīkṣya bharatān bhārataṁ prati
+
+% 6.115.47
+% After 47, K4 B Da Dn D4.5.7.8 ins.:
+06*0490_01 paśyadhvam upadhānaṁ me pāṇḍavenābhisaṁdhitam
+
+% 6.115.52
+% For 52cd
+% and 53ab, D1 subst.:
+06*0491_01 bhavantaḥ kuśalā nityaṁ bhiṣajo vedanāharāḥ
+06*0491_02 uvāca putro gaṁgāyā na vaidyaiḥ kāryam asti me
+
+% 6.115.54
+% For 54ab, D1 subst.:
+06*0492_01 etān pūjaya rājendra vastrālaṁkaraṇādibhiḥ
+% After 54, Da Dn D5 ins.:
+06*0493_01 vidyās tiṣṭhanti kuśalāḥ sadā vyādhicikitsane
+
+% 6.116.3
+% After 3ab, all MSS. (except Ś1
+% K1 G1-3) ins.:
+06*0494_01 avākirañ śāṁtanavaṁ tatra gatvā sahasraśaḥ
+
+% 6.116.7
+% After 7, D1 ins.:
+06*0495_01 upāsāṁ cakrire sarve kurupāṇḍavasainikāḥ
+
+% 6.116.9
+% After 9ab, D1 ins.:
+06*0496_01 nānāpraharaṇair viddhaḥ śaratalpagatas tathā
+
+% 6.116.12
+% For 12cd, D1 subst.:
+06*0497_01 nedaṁ mama jalaṁ yogyaṁ pātuṁ naiva kṣamo hy aham
+
+% 6.116.13
+% After 13, S ins.:
+06*0498_01 evam uktvā tatovāca bhīṣmaḥ śaraśataiś citaḥ
+06*0498_02 payaḥ pāsyāmi gopālā gomayaṁ na tu gomayam
+06*0498_03 gomayenāgnivarṇena gomayaṁ na tu gomayam
+
+% 6.116.18
+% After 18ab, K3 ins.:
+06*0499_01 gomukhaiḥ pīḍyamānasya gaur naṣṭo mama gopate
+06*0499_02 gorasaṁ pātum icchāmi gobhir yac ca na dūṣitam
+
+% 6.116.45
+% After 45ab, S ins.:
+06*0500_01 yāvat kṣatraṁ na nighnanti tāvat saṁdhir vidhīyatām
+
+% 6.116.50
+% After 50ab, Da Dn1 D5 ins.:
+06*0501_01 tapsyasyante lobhabhāvāt tvam evaṁ
+06*0501_02 ye cāpy anye bhūmipālāḥ sametāḥ
+% For 50c, S subst.:
+06*0502_01 diṣṭaṁ gantā tyaktadharmārthakāmaḥ
+06*0502_02 putrabhrātr̥jñātisaṁbandhihīnaḥ
+06*0502_03 evaṁ vo ’stu viditaṁ kauraveyāḥ
+
+% 6.116.51
+% K4 B Dn2 D4.6-8 ins. after 51: Da
+% Dn1 D5, after the ref. of 6.117.1:
+06*0503_01 dharmārthasahitaṁ vākyaṁ śrutvā hitam anāmayam
+06*0503_02 nārocayata putras te mumūrṣur iva bheṣajam
+
+% 6.117.4
+% After
+% 4ab, K2 B1.2 Da Dn1 D5 ins.: B4 Dn2 D4.7.8
+% subst. for 4ab:
+06*0504_01 bhīṣma bhīṣma mahābāho ity uvāca mahādyutiḥ
+
+% 6.117.9
+% After 9a, all MSS. (except M) ins.:
+06*0505_01                   na tavādhirathaḥ pitā
+06*0505_02 sūryajas tvaṁ mahābāho
+
+% 6.117.11
+% After 11, Dn2 D4.6.8
+% ins.:
+06*0506_01 jāto ’si dharmalopena tatas te buddhir īdr̥śī
+06*0506_02 nīcāśrayān matsareṇa dveṣiṇī guṇinām api
+06*0506_03 tenāsi bahuśo rūkṣaṁ śrāvitaḥ kurusaṁsadi
+
+% 6.117.22
+% After 22, K4 B Da Dn D4-8 ins.:
+06*0507_01 vasudevasuto yadvat pāṇḍavāya dr̥ḍhavrataḥ
+
+% 6.117.23
+% Ś1 K0-2 D3.6 ins. after 23cd; D1
+% after 23:
+06*0508_01 tathā duryodhanasyārthe vīramārganiṣeviṇā
+% On the other hand, K4 B Da Dn D5.7.8 ins.
+% after 23cd; D6, after 508*:
+06*0509_01 mā caitad vyādhimaraṇaṁ kṣatraṁ syād iti kaurava
+
+% 6.117.26
+% After 26,
+% K4 B2.4 Da Dn D4-8 ins.:
+06*0510_01 vijayiṣye raṇe pāṇḍūn iti me niścitaṁ matam
+06*0510_02 na cec chakyam avasraṣṭuṁ vairam etat sudāruṇam
+06*0510_03 dhanaṁjayena yotsye ’haṁ svadharmaprītamānasaḥ
+% On the other hand, T1 G1.2.4 ins. after 26:
+06*0511_01 adharmaṁ vyādhimaraṇaṁ kṣatriyasya pitāmaha
+
+% 6.117.34
+% Before the last colophon (i. e. after 6.117.
+% 34), K3 ins.:
+06*0512_01 ya idaṁ śr̥ṇuyād bhaktyā bhīṣmaparva mahādbhutam
+06*0512_02 ājanmasaṁcitāt pāpān mucyate nātra saṁśayaḥ
+06*0512_03 bhīṣmaparva idaṁ śrutvā śatabhojyaṁ tu dāpayet
+06*0512_04 sarvatīrthaphalaṁ caiva sarvayajñaphalaṁ labhet
+06*0512_05 etad vai parvadānaṁ ca dattvā svarṇādidakṣiṇām
+06*0512_06 samāhitaphalāvāptir jāyate nātra saṁśayaḥ
+06*0512_07 aśvamedhasahasrasya rājasūyaśatasya ca
+06*0512_08 gavāṁ koṭipradānasya phalaṁ syād bhīṣmaparvaṇi
+06*0512_09 bhīṣmaparva idaṁ śrutvā pūjayed yas tu vācakam
+06*0512_10 tena brahmā ca rudraś ca viṣṇuś ca vasavas tathā
+06*0512_11 pūjitā r̥ṣayaḥ sarve pitaraś ca sahāgnibhiḥ
+06*0512_12 prasanne vācake vipre prasannāḥ sarvadevatāḥ
+06*0512_13 dharmārthakāmamokṣāṇāṁ sa phalaṁ prāpnuyān naraḥ
+06*0512_14 pañca ślokasahasrāṇi tathā hy aṣṭau śatāni ca
+06*0512_15 ślokāś ca caturāśītiḥ proktā vyāsena dhīmatā
+% Before the last colophon (i. e. after 6.117.
+% 34), D1 ins.:
+06*0513_01 śraddhayā parayā yukto bhīṣmaparva śr̥ṇoti yaḥ
+06*0513_02 mucyate brahmahatyāyā jayaṁ vai labhate dhruvam
+06*0513_03 brāhmaṇān bhojayet samyag vastrālaṁkāragodhanaiḥ
+06*0513_04 pūjayec caiva vaktāraṁ bhīṣmaparvaṇi vai gr̥hī
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Book 06, Appendix I passages
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% After 6.22.16, K2.4 B Da Dn D2 (lines 1-7
+% only).4.7.8 ins.:
+06_001=0000 saṁjaya uvāca
+06_001_0001 dhārtarāṣṭrabalaṁ dr̥ṣṭvā yuddhāya samupasthitam
+06_001_0002 arjunasya hitārthāya kr̥ṣṇo vacanam abravīt
+06_001=0002 śrībhagavān uvāca
+06_001_0003 śucir bhūtvā mahābāho saṁgrāmābhimukhe sthitaḥ
+06_001_0004 parājayāya śatrūṇāṁ durgāstotram udīraya
+06_001=0004 saṁjaya uvāca
+06_001_0005 evam ukto ’rjunaḥ saṁkhye vāsudevena dhīmatā
+06_001_0006 avatīrya rathāt pārthaḥ stotram āha kr̥tāñjaliḥ
+06_001=0006 arjuna uvāca
+06_001_0007 oṁ namas te siddhasenāni ārye mandaravāsini
+06_001_0008 kumāri kāli kāpāli kapile kr̥ṣṇapiṅgale
+06_001_0009 bhadrakāli namas tubhyaṁ mahākāli namo ’stu te
+06_001_0010 caṇḍi caṇḍe namas tubhyaṁ tāriṇi varavarṇini
+06_001_0011 kātyāyani mahābhāge karāli vijaye jaye
+06_001_0012 śikhipicchadhvajadhare nānābharaṇabhūṣite
+06_001_0013 aṭṭaśūlapraharaṇe khaḍgakheṭakadhāriṇi
+06_001_0014 gopendrasyānuje jyeṣṭhe nandagopakulodbhave
+06_001_0015 mahiṣāsr̥kpriye nityaṁ kauśiki pītavāsini
+06_001_0016 aṭṭahāse kokamukhe namas te ’stu raṇapriye
+06_001_0017 ume śākaṁbhari śvete kr̥ṣṇe kaiṭabhanāśini
+06_001_0018 hiraṇyākṣi virūpākṣi sudhūmrākṣi namo ’stu te
+06_001_0019 vedaśruti mahāpuṇye brahmaṇye jātavedasi
+06_001_0020 jambūkaṭakacaityeṣu nityaṁ saṁnihitālaye
+06_001_0021 tvaṁ brahmavidyā vidyānāṁ mahānidrā ca dehinām
+06_001_0022 skandamātar bhagavati durge kāntāravāsini
+06_001_0023 svāhākāraḥ svadhā caiva kalā kāṣṭhā sarasvatī
+06_001_0024 sāvitri vedamātā ca tathā vedānta ucyate
+06_001_0025 stutāsi tvaṁ mahādevi viśuddhenāntarātmanā
+06_001_0026 jayo bhavatu me nityaṁ tvatprasādād raṇe raṇe
+06_001_0027 kāntārabhayadurgeṣu bhaktānāṁ cālayeṣu ca
+06_001_0028 nityaṁ vasasi pātāle yuddhe jayasi dānavān
+06_001_0029 tvaṁ jambhanī mohinī ca māyā hrīḥ śrīs tathaiva ca
+06_001_0030 saṁdhyā prabhāvatī caiva sāvitrī jananī tathā
+06_001_0031 tuṣṭiḥ puṣṭir dhr̥tir dīptiś candrādityavivardhinī
+06_001_0032 bhūtir bhūtimatāṁ saṁkhye vīkṣyase siddhacāraṇaiḥ
+06_001=0032 saṁjaya uvāca
+06_001_0033 tataḥ pārthasya vijñāya bhaktiṁ mānavavatsalā
+06_001_0034 antarikṣagatovāca govindasyāgrataḥ sthitā
+06_001=0034 devy uvāca
+06_001_0035 svalpenaiva tu kālena śatrūñ jeṣyasi pāṇḍava
+06_001_0036 naras tvam asi durdharṣa nārāyaṇasahāyavān
+06_001_0037 ajeyas tvaṁ raṇe ’rīṇām api vajrabhr̥taḥ svayam
+06_001_0038 ity evam uktvā varadā kṣaṇenāntaradhīyata
+06_001_0039 labdhvā varaṁ tu kaunteyo mene vijayam ātmanaḥ
+06_001_0040 āruroha tataḥ pārtho rathaṁ paramasaṁgatam
+06_001_0041 kr̥ṣṇārjunāv ekarathau divyau śaṅkhau pradadhmatuḥ
+06_001_0042 ya idaṁ paṭhate stotraṁ kalya utthāya mānavaḥ
+06_001_0043 yakṣarakṣaḥpiśācebhyo na bhayaṁ vidyate sadā
+06_001_0044 na cāpi ripavas tebhyaḥ sarpādyā ye ca daṁṣṭriṇaḥ
+06_001_0045 na bhayaṁ vidyate tasya sadā rājakulād api
+06_001_0046 vivāde jayam āpnoti baddho mucyati bandhanāt
+06_001_0047 durgaṁ tarati cāvaśyaṁ tathā corair vimucyate
+06_001_0048 saṁgrāme vijayen nityaṁ lakṣmīṁ prāpnoti kevalām
+06_001_0049 ārogyabalasaṁpanno jīved varṣaśataṁ tathā
+06_001_0050 etad dr̥ṣṭaṁ prasādāt tu mayā vyāsasya dhīmataḥ
+06_001_0051 mohād etau na jānanti naranārāyaṇāv r̥ṣī
+06_001_0052 tava putrā durātmānaḥ sarve manyuvaśānugāḥ
+06_001_0053 prāptakālam idaṁ vākyaṁ kālapāśena guṇṭhitāḥ
+06_001_0054 dvaipāyano nāradaś ca kaṇvo rāmas tathānaghaḥ
+06_001_0055 avārayaṁs tava sutaṁ na cāsau tad gr̥hītavān
+06_001_0056 yatra dharmo dyutiḥ kāntir yatra hrīḥ śrīs tathā matiḥ
+06_001_0057 yato dharmas tataḥ kr̥ṣṇo yataḥ kr̥ṣṇas tato jayaḥ
+06_001=0057 Colophon.
+
+% Before 6.23.1, K0-2 (as also K7) ins.:
+06_002_0001 śrīrāmacandrāya namaḥ | śrīkr̥ṣṇāya namaḥ | oṁ namaḥ |
+06_002_0002 asya śrībhagavadgītāmālāmantrasya bhagavān vedavyāsa
+06_002_0003 r̥ṣiḥ | anuṣṭup chandaḥ | śrīkr̥ṣṇaparamātmā devatā |
+06_002_0004 aśocyān anvaśocas tvaṁ prajñāvādāṁś ca bhāṣase (Gītā 2.
+06_002_0005 11ab) iti bījam | sarvadharmān parityajya mām ekaṁ
+06_002_0006 śaraṇaṁ vraja (Gītā 18.66ab) iti śaktiḥ | ahaṁ
+06_002_0007 tvāṁ sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ (Gītā
+06_002_0008 18.66cd) iti kīlakam | śrīkr̥ṣṇaprītyarthaṁ dharmārthakāmamokṣārthe
+06_002_0009 jape viniyogaḥ || nainaṁ chindanti śastrāṇi
+06_002_0010 nainaṁ dahati pāvakaḥ (Gītā 2.23ab) iti aṅguṣṭhābhyāṁ
+06_002_0011 namaḥ | na cainaṁ kledayanty āpo na śoṣayati mārutaḥ
+06_002_0012 (Gītā 2.23cd) iti tarjanībhyāṁ namaḥ | acchedyo ’yam
+06_002_0013 adāhyo ’yam akledyo ’śoṣya eva ca (Gītā 2.24ab)
+06_002_0014 iti madhyamābhyāṁ namaḥ | nityaḥ sarvagataḥ sthāṇur acalo ’yaṁ
+06_002_0015 sanātanaḥ (Gītā 2.24cd) ity anāmikābhyāṁ namaḥ |
+06_002_0016 paśya me pārtha rūpāṇi śataśo ’tha sahasraśaḥ (Gītā
+06_002_0017 11.5ab) iti kaniṣṭhikābhyāṁ namaḥ | nānāvidhāni
+06_002_0018 divyāni nānāvarṇākr̥tīni ca (Gītā 11.5cd) iti
+06_002_0019 karatalakarapr̥ṣṭhābhyāṁ namaḥ | iti karanyāsaḥ || aṅganyāsaḥ |
+06_002_0020 nainaṁ chindanti śastrāṇi nainaṁ dahati pāvakaḥ
+06_002_0021 (Gītā 2.23ab) iti hr̥dayāya namaḥ | na cainaṁ
+06_002_0022 kledayanty āpo na śoṣayati mārutaḥ (Gītā 2.23cd)
+06_002_0023 iti śirase svāhā | acchedyo ’yam adāhyo ’yam akledyo ’śoṣya
+06_002_0024 eva ca (Gītā 2.24ab) iti śikhāyai
+06_002_0025 vauṣaṭ | nānāvidhāni divyāni nānāvarṇākr̥tīni ca
+06_002_0026 (Gītā 11.5cd) ity astrāya phaṭ | ity aṅganyāsaḥ ||
+06_002_0027 atha dhyānaṁ |
+06_002_0028 oṁ pārthāya pratibodhitāṁ bhagavatā nārāyaṇena svayaṁ
+06_002_0029 vyāsena grathitāṁ purāṇamuninā madhye mahābhārate |
+06_002_0030 advaitāmr̥tavarṣiṇīṁ bhagavatīm aṣṭādaśādhyāyinīm
+06_002_0031 āvarttair anusaṁdadhāmi bhagavadgītāṁ bhavonmocinīm || (1)
+06_002_0032 oṁ hr̥di vikasitapadmaṁ sūryasomāgnibimbaṁ
+06_002_0033 praṇavamayavikāsaṁ yasya vai nirvikalpam |
+06_002_0034 acalaparamaśāntaṁ jyotir ākāśasāraṁ
+06_002_0035 sa bhavatu śubhado me vāsudevaḥ pratiṣṭhaḥ || (2)
+06_002_0036 sarvopaniṣado gāvo dogdhā gopālanandanaḥ |
+06_002_0037 pārtho vatsaḥ sudhīr bhoktā dugdhaṁ gītāmr̥taṁ mahat || (3)
+06_002_0038 oṁ namo ’stu te vyāsa viśālabuddhe
+06_002_0039 phullāravindāyatapadmanetra |
+06_002_0040 yena tvayā bhāratatailapūrṇaḥ
+06_002_0041 prajvālito jñānamayaḥ pradīpaḥ || (4)
+06_002_0042 prapannapārijātāya totravetraikapāṇaye |
+06_002_0043 jñānamudrāya kr̥ṣṇāya gītāmr̥taduhe namaḥ || (5)
+
+%% As described in the introductory note to this passage (reproduced
+%% below), it is attested in a longer and a shorter version. In the
+%% printed edition the passage appears as a single entry in Appendix
+%% 1 (passage no. 3); where the two versions diverge significantly
+%% they are reproduced in two columns, the shorter on the left and the
+%% longer on the right. This is not a practical solution for the
+%% electronic text, and instead the entire passage is reproduced
+%% twice, once in the shorter version (06_003A), once in the longer
+%% (06_003B).
+%%
+% For the MSS. Ś7.8 K9 (used in constituting
+% the text of this Appendix passage known as the
+% Gītāsāra), see detailed description of the Critical
+% Apparatus. In what follows, the shorter version is
+% generally adopted; but where quite unavoidable,
+% alternative versions are given opposite each other
+% (the shorter on the left side, the longer on the
+% right) suspending the column division, and mark-
+% ed by a vertical wavy line in the margin.
+% K0-2 ins. after 112*:
+06_003A=0000 arjuna uvāca
+06_003A_0001 yad etan niṣkalaṁ brahma vyomātītaṁ nirañjanam |
+06_003A_0002 kaivalyaṁ kevalaṁ śāntaṁ śuddham atyantanirmalam || (1)
+06_003A_0003 apratarkyam avijñeyaṁ vināśotpattivarjitam |
+06_003A_0004 jñānayogavinirmuktaṁ taj jñānaṁ brūhi keśava || (2)
+06_003A=0004 śrībhagavān uvāca
+06_003A_0005 sarvatojyotir ākāśaṁ sarvabhūtaguṇānvitam |
+06_003A_0006 sarvataḥparamātmānam akṣayaṁ paramaṁ padam || (3)
+06_003A_0007 anādinidhanaṁ devaṁ mahājyotir atidhruvam |
+06_003A_0008 atyantaparamaṁ sthānaṁ śabdādiguṇavarjitam || (4)
+06_003A_0009 yat tat parataraṁ jyotir dhruvāt parataraṁ sthitam |
+06_003A_0010 ācaturyugam adyāpi kathitaṁ na hi kasya cit || (5)
+06_003A_0011 ātmadehe mayā sr̥ṣṭā prakr̥tiḥ kṣetram eva ca |
+06_003A_0012 sakalaṁ tu bhavet kṣetraṁ niṣkalaṁ paramaṁ padam || (6)
+06_003A_0013 arjuna tvatprasādena śr̥ṇvantu munisattamāḥ |
+06_003A_0014 adya muktā mahābāho tvatprasādād dhanaṁjaya || (7)
+06_003A_0015 pramāṇaṁ vedatattvānāṁ sāṁkhyādīny abhiyoginām |
+06_003A_0016 teṣāṁ na vidyate niṣṭhā sarvaiḥ pāṣaṇḍibhiḥ saha || (8)
+06_003A_0017 kathitaṁ ca mayā jñānaṁ devānām api durlabham |
+06_003A_0018 viśvarūpamayaṁ divyaṁ bhairavagranthibindunā || (9)
+06_003A_0019 suṣumṇā dakṣiṇe mārge darśitā viśvarūpiṇā |
+06_003A_0020 aprakāśam idaṁ praśnaṁ yan mayā kathitaṁ tava || (10)
+06_003A_0021 nāgnir vāyur na cākāśaṁ na kṣitir nāpi vā jalam |
+06_003A_0022 na manobuddhyahaṁkāraṁ gūḍhārthaṁ kathitaṁ tava || (11)
+06_003A_0023 anityo nityatāṁ yāti yadā bhāvaṁ na paśyati |
+06_003A_0024 śūnyaṁ nirañjanākāraṁ nirvāṇaṁ dhruvam avyayam || (12)
+06_003A_0025 puruṣaṁ nirguṇaṁ sākṣāt sarvataś caiva tiṣṭhati |
+06_003A_0026 sarvaṁ tat syāt paraṁ brahma buddhiś cāsya na budhyati || (13)
+06_003A_0027 pratibhāvaprayatnena hariṁ trailokyabāndhavam |
+06_003A_0028 daśamaṁ cāṅgulaṁ vyāpya cāśābāhyaṁ vyavasthitam || (14)
+06_003A_0029 jīvo yatra pralīyeta sā kalā ṣoḍaśī smr̥tā |
+06_003A_0030 tayā sarvam idaṁ vyāptaṁ trailokyaṁ sacarācaram || (15)
+06_003A_0031 tac cintyaṁ tena vai jñānaṁ tad atrādyā upāsate |
+06_003A_0032 brahmaṇaiva hi vikhyātaṁ vedānteṣu prakāśitam || (16)
+06_003A_0033 vedeṣu vedam ity āhur vedadhāma paraṁ matam |
+06_003A_0034 tat paraṁ viditaṁ yasya sa vipro vedapāragaḥ || (17)
+06_003A_0035 āhutiḥ sā parā jñeyā sā ca saṁdhyā pratiṣṭhitā |
+06_003A_0036 gāyatrī sā parā jñeyā ajapā nāma viśrutā || (18)
+06_003A_0037 tapasy atha tathā vede munibhiḥ samupāsyate |
+06_003A_0038 tāṁ kalāṁ yo ’bhijānāti sa kalājño ’bhidhīyate || (19)
+06_003A_0039 yāṁ jñātvā mucyate jantur garbhajanmajarādibhiḥ |
+06_003A_0040 parijñānena mucyante narāḥ pātakakilbiṣaiḥ || (20)
+06_003A_0041 iḍā bhagavatī gaṅgā piṅgalā yamunā nadī |
+06_003A_0042 tayor madhye tr̥tīyā tu tat prayāgam anusmaret || (21)
+06_003A_0043 iḍā vai vaiṣṇavī nāḍī brahmanāḍī tu piṅgalā |
+06_003A_0044 suṣumṇā caiśvarī nāḍī tridhā prāṇavahā smr̥tā |
+06_003A_0045 brahmā viṣṇur mahādevo recakaḥ pūrakumbhakaḥ || (22)
+06_003A_0046 sakrāntiviṣuvac caiva yo ’bhijānāti vigraham |
+06_003A_0047 nityayuktaḥ sa yogīśo brahmavidyāṁ prapadyate || (23)
+06_003A_0048 iḍā vai gārhapatyas tu piṅgalāhavanīyakaḥ |
+06_003A_0049 suṣumṇā dakṣiṇāgnis tu hy etad agnitrayaṁ smr̥tam || (24)
+06_003A_0050 tasya madhye sthitaṁ jyotiḥ somamaṇḍalam eva ca |
+06_003A_0051 somamaṇḍalamadhyasthaṁ tanmadhye sūryamaṇḍalam || (25)
+06_003A_0052 sūryamaṇḍalamadhyastho jvalat tejo hutāśanaḥ |
+06_003A_0053 hutāśanasya madhye tu nirdhūmāṅgāravarcasam || (26)
+06_003A_0054 tatrāsthito mahātmāsau yogibhis tu pragīyate |
+06_003A_0055 sugītaṁ caiva kartavyaṁ mana ekāgracetasā || (27)
+06_003A_0056 śivo binduḥ śivo devo ghargharāmr̥tavarcasā |
+06_003A_0057 nikhilaṁ pūrayed dehaṁ viṣadāhajvarāpaham || (28)
+06_003A_0058 sarpavatkuṭilākārasuṣumṇāveṣṭitāṁ tanum |
+06_003A_0059 makāraveṣṭitāṁ kr̥tvā mātr̥vat pariyojayet || (29)
+06_003A_0060 tristhānaṁ ca trimātraṁ ca tribrahma ca trirakṣaram |
+06_003A_0061 ardhamātraṁ ca yo vetti sa bhaved vedapāragaḥ || (30)
+06_003A_0062 sarvataḥpāṇipādaṁ tat sarvatokṣiśiromukham |
+06_003A_0063 nirmalaṁ vimalākāraṁ śuddhasphaṭikasaṁnibham || (31)
+06_003A=0063 arjuna uvāca
+06_003A_0064 jīvo jīvati jīvena nāsti jīvam ajīvitam |
+06_003A_0065 nirgataḥ saha saṅgena sa jīvaḥ kena jīvati || (32)
+06_003A=0065 śrībhagavān uvāca
+06_003A_0066 mukhanāsikayor madhye prāṇaḥ saṁcarate sadā |
+06_003A_0067 ākāśaṁ pibate nityaṁ sa jīvas tena jīvati || (33)
+06_003A_0068 kākīmukhaṁ kakārāntaṁ makāraṁ cetanānugam |
+06_003A_0069 akārasya tu luptasya ko ’rthaḥ saṁpratipadyate || (34)
+06_003A_0070 tāvat paśyet khagākāraṁ khakāraṁ tu vicintayet |
+06_003A_0071 khamadhye kuru cātmānam ātmamadhyaṁ ca khaṁ kuru || (35)
+06_003A_0072 khamadhye ca praveṣṭavyaṁ khaṁ ca brahma sanātanam |
+06_003A_0073 ātmānaṁ khamayaṁ kr̥tvā na kiṁ cid api cintayet || (36)
+06_003A_0074 ūrdhvaśūnyam adhaḥśūnyaṁ madhyeśūnyaṁ nirāmayam |
+06_003A_0075 triśūnyaṁ yo ’bhijānāti sa bhavet kulanandanaḥ || (37)
+06_003A_0076 tasya bhāvasya bhāvātmā bhāvanā naiva yujyate |
+06_003A_0077 anāvr̥ttasya śabdasya tasya śabdasya yo gatiḥ || (38)
+06_003A_0078 tat padaṁ viditaṁ yena sa yogī chinnasaṁśayaḥ |
+06_003A_0079 puṇyapāpaharāś caiva ye cānye pañcadaivatāḥ || (39)
+06_003A_0080 jīvinaḥ saha gacchanti yāvat tattvaṁ na vindati |
+06_003A_0081 pāpaṁ dahati jñānāgniḥ puṇyena somasūryayoḥ || (40)
+06_003A_0082 puṇyapāpavinirmuktir eṣa yogo ’bhidhīyate |
+06_003A_0083 dhr̥tirodhi manodhīti saṁtoṣaṁ samidhāmr̥tam || (41)
+06_003A_0084 indriyāṇi paśuṁ kr̥tvā yo yajeta sa dīkṣitaḥ |
+06_003A_0085 paraṁ brahmādhigacchanti śabdabrahmavicintanāt || (42)
+06_003A_0086 sakale dr̥ṣṭapāro ’pi bhāvaṁ yuñjati yuñjati |
+06_003A_0087 niṣkale darśanaṁ nāsti svabhāvo bhāvaṁ yuñjati || (43)
+06_003A_0088 tālumūle ca lampāyāṁ trikūṭaṁ tripathāntaram |
+06_003A_0089 ekaṁ tattvaṁ vijānīyād vighnasyāyatanaṁ mahat || (44)
+06_003A_0090
+06_003A_0091
+06_003A_0092
+06_003A_0093
+06_003A_0094
+06_003A_0095
+06_003A_0096
+06_003A_0097
+06_003A_0098
+06_003A_0099
+06_003A_0100
+06_003A_0101
+06_003A_0102 chinnamūlasya vr̥kṣasya yathā janma na vidyate |
+06_003A_0103 jñānadagdhaśarīrasya punar deho na vidyate || (45)
+06_003A_0104 gītāḥ sugītāḥ kartavyāḥ kim anyaiḥ śāstrasaṁgrahaiḥ |
+06_003A_0105 yāḥ purā padmanābhasya mukhapadmād viniḥsr̥tāḥ || (46)
+06_003A_0106 gītāgāṅgodakaṁ pītvā punarjanma na vidyate |
+06_003A_0107 sarvaśāstramayī gītā sarvadharmamayo hariḥ || (47)
+06_003A_0108 sarvatīrthamayī gaṅgā sarvapāpakṣayaṁkarī |
+06_003A_0109 sarvabhogamayaś cāyaṁ sarvamokṣamayo hy ayam || (48)
+06_003A_0110 gītā gaṅgā ca gāyatrī govindo hr̥di saṁsthitāḥ |
+06_003A_0111 caturgakārasmaraṇāt punarjanma na vidyate || (49)
+06_003A_0112 gītāsāraṁ paṭhed yas tu hy acyutasya ca saṁnidhau |
+06_003A_0113 tasmād guṇasahasreṇa viṣṇor nirvacanaṁ yathā || (50)
+06_003A_0114
+06_003A_0115
+06_003A_0116 etat puṇyaṁ pāpaharaṁ dhanyaṁ duḥsvapnanāśanam |
+06_003A_0117 paṭhatāṁ śr̥ṇvatāṁ caiva viṣṇor māhātmyam uttamam || (51)
+
+%% As described in the introductory note to this passage (reproduced
+%% below), it is attested in a longer and a shorter version. In the
+%% printed edition the passage appears as a single entry in Appendix
+%% 1 (passage no. 3); where the two versions diverge significantly
+%% they are reproduced in two columns, the shorter on the left and the
+%% longer on the right. This is not a practical solution for the
+%% electronic text, and instead the entire passage is reproduced
+%% twice, once in the shorter version (06_003A), once in the longer
+%% (06_003B).
+%%
+% For the MSS. Ś7.8 K9 (used in constituting
+% the text of this Appendix passage known as the
+% Gītāsāra), see detailed description of the Critical
+% Apparatus. In what follows, the shorter version is
+% generally adopted; but where quite unavoidable,
+% alternative versions are given opposite each other
+% (the shorter on the left side, the longer on the
+% right) suspending the column division, and mark-
+% ed by a vertical wavy line in the margin.
+% K0-2 ins. after 112*:
+06_003B=0000 arjuna uvāca
+06_003B_0001 yad etan niṣkalaṁ brahma vyomātītaṁ nirañjanam |
+06_003B_0002 kaivalyaṁ kevalaṁ śāntaṁ śuddham atyantanirmalam || (1)
+06_003B_0003 apratarkyam avijñeyaṁ vināśotpattivarjitam |
+06_003B_0004 jñānayogavinirmuktaṁ taj jñānaṁ brūhi keśava || (2)
+06_003B=0004 śrībhagavān uvāca
+06_003B_0005 sarvatojyotir ākāśaṁ sarvabhūtaguṇānvitam |
+06_003B_0006 sarvataḥparamātmānam akṣayaṁ paramaṁ padam || (3)
+06_003B_0007 anādinidhanaṁ devaṁ mahājyotir atidhruvam |
+06_003B_0008 atyantaparamaṁ sthānaṁ śabdādiguṇavarjitam || (4)
+06_003B_0009 yat tat parataraṁ jyotir dhruvāt parataraṁ sthitam |
+06_003B_0010 ācaturyugam adyāpi kathitaṁ na hi kasya cit || (5)
+06_003B_0011 ātmadehe mayā sr̥ṣṭā prakr̥tiḥ kṣetram eva ca |
+06_003B_0012 sakalaṁ tu bhavet kṣetraṁ niṣkalaṁ paramaṁ padam || (6)
+06_003B_0013 arjuna tvatprasādena śr̥ṇvantu munisattamāḥ |
+06_003B_0014 adya muktā mahābāho tvatprasādād dhanaṁjaya || (7)
+06_003B_0015 pramāṇaṁ vedatattvānāṁ sāṁkhyādīny abhiyoginām |
+06_003B_0016 teṣāṁ na vidyate niṣṭhā sarvaiḥ pāṣaṇḍibhiḥ saha || (8)
+06_003B_0017 kathitaṁ ca mayā jñānaṁ devānām api durlabham |
+06_003B_0018 viśvarūpamayaṁ divyaṁ bhairavagranthibindunā || (9)
+06_003B_0019 aprakāśam idaṁ praśnaṁ yan mayā kathitaṁ tava |
+06_003B_0020 vāṅmayaṁ sarvaśāstrāṇām atisūkṣmaṁ carācaram || (10)
+06_003B_0021 nāgnir vāyur na cākāśaṁ na kṣitir nāpi vā jalam |
+06_003B_0022 na manobuddhyahaṁkāraṁ gūḍhārthaṁ kathitaṁ tava || (11)
+06_003B_0023 anityo nityatāṁ yāti yadā bhāvaṁ na paśyati |
+06_003B_0024 śūnyaṁ nirañjanākāraṁ nirvāṇaṁ dhruvam avyayam || (12)
+06_003B_0025 puruṣaṁ nirguṇaṁ sākṣāt sarvataś caiva tiṣṭhati |
+06_003B_0026 sarvaṁ tat syāt paraṁ brahma buddhiś cāsya na budhyati || (13)
+06_003B_0027 pratibhāvaprayatnena hariṁ trailokyabāndhavam |
+06_003B_0028 daśamaṁ cāṅgulaṁ vyāpya cāśābāhyaṁ vyavasthitam || (14)
+06_003B_0029 jīvo yatra pralīyeta sā kalā ṣoḍaśī smr̥tā |
+06_003B_0030 tayā sarvam idaṁ vyāptaṁ trailokyaṁ sacarācaram || (15)
+06_003B_0031 tac cintyaṁ tena vai jñānaṁ tad atrādyā upāsate |
+06_003B_0032 brahmaṇaiva hi vikhyātaṁ vedānteṣu prakāśitam || (16)
+06_003B_0033 vedeṣu vedam ity āhur vedadhāma paraṁ matam |
+06_003B_0034 tat paraṁ viditaṁ yasya sa vipro vedapāragaḥ || (17)
+06_003B_0035 āhutiḥ sā parā jñeyā sā ca saṁdhyā pratiṣṭhitā |
+06_003B_0036 gāyatrī sā parā jñeyā ajapā nāma viśrutā || (18)
+06_003B_0037 tapasy atha tathā vede munibhiḥ samupāsyate |
+06_003B_0038 tāṁ kalāṁ yo ’bhijānāti sa kalājño ’bhidhīyate || (19)
+06_003B_0039 yāṁ jñātvā mucyate jantur garbhajanmajarādibhiḥ |
+06_003B_0040 parijñānena mucyante narāḥ pātakakilbiṣaiḥ || (20)
+06_003B_0041 iḍā bhagavatī gaṅgā piṅgalā yamunā nadī |
+06_003B_0042 tayor madhye tr̥tīyā tu tat prayāgam anusmaret || (21)
+06_003B_0043 iḍā vai vaiṣṇavī nāḍī brahmanāḍī tu piṅgalā |
+06_003B_0044 suṣumṇā caiśvarī nāḍī tridhā prāṇavahā smr̥tā |
+06_003B_0045 brahmā viṣṇur mahādevo recakaḥ pūrakumbhakaḥ || (22)
+06_003B_0046 sakrāntiviṣuvac caiva yo ’bhijānāti vigraham |
+06_003B_0047 nityayuktaḥ sa yogīśo brahmavidyāṁ prapadyate || (23)
+06_003B_0048 iḍā vai gārhapatyas tu piṅgalāhavanīyakaḥ |
+06_003B_0049 suṣumṇā dakṣiṇāgnis tu hy etad agnitrayaṁ smr̥tam || (24)
+06_003B_0050 tasya madhye sthitaṁ jyotiḥ somamaṇḍalam eva ca |
+06_003B_0051 somamaṇḍalamadhyasthaṁ tanmadhye sūryamaṇḍalam || (25)
+06_003B_0052 sūryamaṇḍalamadhyastho jvalat tejo hutāśanaḥ |
+06_003B_0053 hutāśanasya madhye tu nirdhūmāṅgāravarcasam || (26)
+06_003B_0054 tatrāsthito mahātmāsau yogibhis tu pragīyate |
+06_003B_0055 sugītaṁ caiva kartavyaṁ mana ekāgracetasā || (27)
+06_003B_0056 śivo binduḥ śivo devo ghargharāmr̥tavarcasā |
+06_003B_0057 nikhilaṁ pūrayed dehaṁ viṣadāhajvarāpaham || (28)
+06_003B_0058 sarpavatkuṭilākārasuṣumṇāveṣṭitāṁ tanum |
+06_003B_0059 makāraveṣṭitāṁ kr̥tvā mātr̥vat pariyojayet || (29)
+06_003B_0060 tristhānaṁ ca trimātraṁ ca tribrahma ca trirakṣaram |
+06_003B_0061 ardhamātraṁ ca yo vetti sa bhaved vedapāragaḥ || (30)
+06_003B_0062 sarvataḥpāṇipādaṁ tat sarvatokṣiśiromukham |
+06_003B_0063 nirmalaṁ vimalākāraṁ śuddhasphaṭikasaṁnibham || (31)
+06_003B=0063 arjuna uvāca
+06_003B_0064 sthāvaraṁ jaṁgamaṁ caiva yat kiṁ cit sacarācaram |
+06_003B_0065 jīvo jīvati jīvena sa jīvaḥ kena jīvati || (32)
+06_003B=0065 śrībhagavān uvāca
+06_003B_0066 mukhanāsikayor madhye prāṇaḥ saṁcarate sadā |
+06_003B_0067 ākāśaṁ pibate nityaṁ sa jīvas tena jīvati || (33)
+06_003B_0068 kākīmukhaṁ kakārāntaṁ makāraṁ cetanānugam |
+06_003B_0069 akārasya tu luptasya ko ’rthaḥ saṁpratipadyate || (34)
+06_003B_0070 tāvat paśyet khagākāraṁ khakāraṁ tu vicintayet |
+06_003B_0071 khamadhye kuru cātmānam ātmamadhyaṁ ca khaṁ kuru || (35)
+06_003B_0072 khamadhye ca praveṣṭavyaṁ khaṁ ca brahma sanātanam |
+06_003B_0073 ātmānaṁ khamayaṁ kr̥tvā na kiṁ cid api cintayet || (36)
+06_003B_0074 ūrdhvaśūnyam adhaḥśūnyaṁ madhyeśūnyaṁ nirāmayam |
+06_003B_0075 triśūnyaṁ yo ’bhijānāti sa bhavet kulanandanaḥ || (37)
+06_003B_0076 amātraśabdarahitaṁ svaravyañjanavarjitam |
+06_003B_0077 bindunādakalātītaṁ yas taṁ veda sa vedavit || (38)
+06_003B_0078 saṁprāpte jñānavijñāne jñeye ca hr̥di saṁsthite |
+06_003B_0079 labdhaśāntapade bhāve na yogo na ca dhāraṇā || (39)
+06_003B_0080 vedādau yaḥ suraḥ prokto vedānte ca pratiṣṭhitaḥ |
+06_003B_0081 tasya prakr̥tilīnasya yaḥ paraḥ sa maheśvaraḥ || (40)
+06_003B_0082 nā nāvārthī bhavet tāvad yāvat pāraṁ na gacchati |
+06_003B_0083 uttīrṇe tu pare pāre kiṁ nāvā vai prayojanam || (41)
+06_003B_0084 dūrastho nāpi dūrasthaḥ piṇḍasthaḥ piṇḍavarjitaḥ |
+06_003B_0085 amalo nirmalaḥ sūkṣmaḥ sarvavyāpī nirañjanaḥ || (42)
+06_003B=0085 arjuna uvāca
+06_003B_0086 akṣarāṇi samātrāṇi sarve bindusamāśritāḥ |
+06_003B_0087 bindur bhidyati nādena sa nādaḥ kena bhidyate || (43)
+06_003B=0087 śrībhagavān uvāca
+06_003B_0088 oṁkāradhvaninādena vāyuḥ saṁharaṇāntikam |
+06_003B_0089 nirālambhas tu nirdeho yatra nādo layaṁ gataḥ || (44)
+06_003B=0089 arjuna uvāca
+06_003B_0090 bāhyena vyāpitaṁ vyoma vyoma cānanunāsikam |
+06_003B_0091 adhaś cordhvaṁ kathaṁ caiva kaṇṭhe caiva nirañjanaḥ || (45)
+06_003B=0091 śrībhagavān uvāca
+06_003B_0092 anūṣmam avyañjakam asvaraṁ yat
+06_003B_0093 tat tālukaṇṭheṣv anunāsikaṁ ca |
+06_003B_0094 arephajātaṁ śubham ūṣmavarjitaṁ
+06_003B_0095 na duṣkarāṇāṁ kurute kadā cit || (46)
+06_003B_0096 ākāśam apy anākāśaṁ puruṣatve pratiṣṭhitam |
+06_003B_0097 śabdaṁ guṇam ivākāśaṁ niḥśabdaṁ brahma cocyate || (47)
+06_003B_0098 sarvagaṁ sarvabodhādi vāsanājālavarjitam |
+06_003B_0099 indriyāṇāṁ nirodhena dehe paśyanti mānavāḥ || (48)
+06_003B_0100 dehe naṣṭe kuto buddhir jñānaṁ vijñānam eva ca |
+06_003B_0101 jñānaṁ vijñānayuktaṁ ca rakṣaṇīyaṁ prayatnataḥ | (49)
+06_003B_0102 chinnamūlasya vr̥kṣasya yathā janma na vidyate |
+06_003B_0103 jñānadagdhaśarīrasya punar deho na vidyate || (50)
+06_003B_0104 gītāḥ sugītāḥ kartavyāḥ kim anyaiḥ śāstrasaṁgrahaiḥ |
+06_003B_0105 yāḥ purā padmanābhasya mukhapadmaviniḥsr̥tāḥ || (51)
+06_003B_0106 gītāgaṅgodakaṁ pītvā punarjanma na vidyate |
+06_003B_0107 sarvaśāstramayī gītā sarvadharmamayo hariḥ || (52)
+06_003B_0108 sarvatīrthamayī gaṅgā sarvapāpakṣayaṁkarī |
+06_003B_0109 sarvabhogamayaś cāyaṁ sarvamokṣamayo hy ayam || (53)
+06_003B_0110 gakārapūrvāś catvāro rakṣanti mahato bhayāt |
+06_003B_0111 gītā gaṅgā ca gāyatrī govindo hr̥di saṁsthitāḥ || (54)
+06_003B_0112 snāto vā yadi vāsnātaḥ śucir vā yadi vāśuciḥ |
+06_003B_0113 yaḥ smaret puṇḍarīkākṣaṁ sa bāhyābhyantare śuciḥ || (55)
+06_003B_0114 sa gacchet tatkṣaṇāt prāyo brahmamūrte namo ’stu te |
+06_003B_0115 gītāsāraṁ paṭhed yas tu viṣṇuloke mahīyate || (56)
+06_003B_0116 etat puṇyaṁ pāpaharaṁ dhanyaṁ duḥsvapnanāśanam |
+06_003B_0117 paṭhatāṁ śr̥ṇvatāṁ caiva viṣṇor māhātmyam uttamam || (57)
+
+% B3.4 Da D4.5 ins. after 6.45.43cd: Dn (transp.
+% lines 9-18 after line 46) ins. after 6.45.43ab:
+% M3-5 (all om. lines 1-6, and 288-399) ins. after
+% 6.45.46:
+06_004_0001 śvetaḥ krodhāt prajajvāla haviṣā havyavāḍ iva
+06_004_0002 sa visphārya mahac cāpaṁ śakracāpopamaṁ balī
+06_004_0003 abhyadhāvaj jighāṁsan vai śalyaṁ madrādhipaṁ balī
+06_004_0004 mahatā rathavaṁśena samantāt parivāritaḥ
+06_004_0005 muñcan bāṇamayaṁ varṣaṁ prāyāc chalyarathaṁ prati
+06_004_0006 tam āpatantaṁ saṁprekṣya mattavāraṇavikramam
+06_004_0007 tāvakānāṁ rathāḥ sapta samantāt paryavārayan
+06_004_0008 madrarājam abhīpsanto mr̥tyor daṁṣṭrāntaraṁ gatam
+06_004_0009 br̥hadbalaś ca kausalyo jayatsenaś ca māgadhaḥ
+06_004_0010 tathā rukmaratho rājañ śalyaputraḥ pratāpavān
+06_004_0011 vindānuvindāv āvantyau kāmbojaś ca sudakṣiṇaḥ
+06_004_0012 br̥hatkṣatrasya dāyādaḥ saindhavaś ca jayadrathaḥ
+06_004_0013 nānāvarṇavicitrāṇi dhanūṁṣi ca mahātmanām
+06_004_0014 visphāritāni dr̥śyante toyadeṣv iva vidyutaḥ
+06_004_0015 te tu bāṇamayaṁ varṣaṁ śvetamūrdhany apātayan
+06_004_0016 nidāghānte ’niloddhūtā meghā iva nage jalam
+06_004_0017 tataḥ kruddho maheṣvāsaḥ saptabhallaiḥ sutejanaiḥ
+06_004_0018 dhanūṁṣi teṣām ācchidya mamarda pr̥tanāpatiḥ
+06_004_0019 nikr̥ttāny eva tāni sma samadr̥śyanta bhārata
+06_004_0020 tatas te tu nimeṣārdhāt pratyapadyan dhanūṁṣi ca
+06_004_0021 sapta caiva pr̥ṣatkāṁś ca śvetasyoparyapātayan
+06_004_0022 tataḥ punar ameyātmā bhallaiḥ saptabhir āśugaiḥ
+06_004_0023 nicakarta mahābāhus teṣāṁ cāpāni dhanvinām
+06_004_0024 te nikr̥ttamahācāpās tvaramāṇā mahārathāḥ
+06_004_0025 rathaśaktīḥ parāmr̥śya vinedur bhairavān ravān
+06_004_0026 anvayur bharataśreṣṭha sapta śvetarathaṁ prati
+06_004_0027 tatas tā jvalitāḥ sapta mahendrāśaninisvanāḥ
+06_004_0028 aprāptāḥ saptabhir bhallaiś ciccheda paramāstravit
+06_004_0029 tataḥ samādāya śaraṁ sarvakāyavidāraṇam
+06_004_0030 prāhiṇod bharataśreṣṭha śveto rukmarathaṁ prati
+06_004_0031 tasya dehe nipatito bāṇo vajrātigo mahān
+06_004_0032 tato rukmaratho rājan sāyakena dr̥ḍhāhataḥ
+06_004_0033 niṣasāda rathopasthe kaśmalaṁ cāviśan mahat
+06_004_0034 taṁ visaṁjñaṁ vimanasaṁ tvaramāṇas tu sārathiḥ
+06_004_0035 apovāha susaṁbhrāntaḥ sarvalokasya paśyataḥ
+06_004_0036 tato ’nyān ṣaṭ samādāya śveto hemavibhūṣitān
+06_004_0037 teṣāṁ ṣaṇṇāṁ mahābāhur dhvajaśīrṣāṇy apātayat
+06_004_0038 hayāṁś ca teṣāṁ nirbhidya sārathīṁś ca paraṁtapa
+06_004_0039 śaraiś caitān samākīrya prāyāc chalyarathaṁ prati
+06_004_0040 tato halahalāśabdas tava sainyeṣu bhārata
+06_004_0041 dr̥ṣṭvā senāpatiṁ tūrṇaṁ yāntaṁ śalyarathaṁ prati
+06_004_0042 tato bhīṣmaṁ puraskr̥tya tava putro mahābalaḥ
+06_004_0043 vr̥tas tu sarvasainyena prāyāc chvetarathaṁ prati
+06_004_0044 mr̥tyor āsyam anuprāptaṁ madrarājam amocayat
+06_004_0045 tato yuddhaṁ samabhavat tumulaṁ lomaharṣaṇam
+06_004_0046 tāvakānāṁ pareṣāṁ ca vyatiṣiktarathadvipam
+06_004_0047 saubhadre bhīmasene ca sātyakau ca mahārathe
+06_004_0048 kaikeye ca virāṭe ca dhr̥ṣṭadyumne ca pārṣate
+06_004_0049 eteṣu narasiṁheṣu cedimatsyeṣu caiva ha
+06_004_0050 vavarṣa śaravarṣāṇi vr̥ddhaḥ kurupitāmahaḥ
+06_004=0050 Colophon.
+06_004=0050 dhr̥tarāṣṭra uvāca
+06_004_0051 evaṁ śvete maheṣvāse prāpte śalyarathaṁ prati
+06_004_0052 kuravaḥ pāṇḍaveyāś ca kim akurvata saṁjaya
+06_004_0053 bhīṣmaḥ śāṁtanavaḥ kiṁ vā tan mamācakṣva pr̥cchataḥ
+06_004=0053 saṁjaya uvāca
+06_004_0054 rājañ śatasahasrāṇi tataḥ kṣatriyapuṁgavāḥ
+06_004_0055 śvetaṁ senāpatiṁ śūraṁ puraskr̥tya mahārathāḥ
+06_004_0056 rājño balaṁ darśayantas tava putrasya bhārata
+06_004_0057 śikhaṇḍinaṁ puraskr̥tya trātum aicchan mahārathāḥ
+06_004_0058 abhyavartanta bhīṣmasya rathaṁ hemapariṣkr̥tam
+06_004_0059 jighāṁsantaṁ yudhāṁ śreṣṭhaṁ tadāsīt tumulaṁ mahat
+06_004_0060 tat te ’haṁ saṁpravakṣyāmi mahāvaiśasam acyuta
+06_004_0061 tāvakānāṁ pareṣāṁ ca yathā yuddham avartata
+06_004_0062 tatrākarod rathopasthāñ śūnyāñ śāṁtanavo bahūn
+06_004_0063 prākr̥ntad uttamāṅgāni śarair ārchad rathottamān
+06_004_0064 samāvr̥ṇoc charair arkam arkatulyapratāpavān
+06_004_0065 nudan samantāt samare ravir udyan yathā tamaḥ
+06_004_0066 tenājau preṣitā rājañ śarāḥ śatasahasraśaḥ
+06_004_0067 kṣatriyāntakarāḥ saṁkhye mahāvegā mahābalāḥ
+06_004_0068 śirāṁsi pātayām āsur vīrāṇāṁ śataśo raṇe
+06_004_0069 gajān kaṇṭakasaṁnāhān vajreṇeva śiloccayān
+06_004_0070 rathā ratheṣu saṁsaktā vyadr̥śanta viśāṁ pate
+06_004_0071 eke rathaṁ paryavahaṁs turagāḥ saturaṁgamam
+06_004_0072 yuvānaṁ nihataṁ vīraṁ lambamānaṁ sakārmukam
+06_004_0073 udīrṇāś ca hayā rājan vahantas tatra tatra ha
+06_004_0074 baddhakhaḍganiṣaṅgāś ca vidhvastaśiraso hatāḥ
+06_004_0075 śataśaḥ patitā bhūmau vīraśayyāsu śerate
+06_004_0076 paraspareṇa dhāvantaḥ patitāḥ punar utthitāḥ
+06_004_0077 utthāya ca pradhāvanto dvaṁdvayuddham avāpnuvan
+06_004_0078 pīḍitāḥ punar anyonyaṁ luṭhanto raṇamūrdhani
+06_004_0079 sacāpān saniṣaṅgāṁś ca jātarūpapariṣkr̥tān
+06_004_0080 visrabdhahatavīrāś ca śataśaḥ paripīḍitāḥ
+06_004_0081 tena tenābhyadhāvanta visr̥jantaś ca bhārata
+06_004_0082 matto gajaḥ paryavartad dhayāṁś ca hatasādinaḥ
+06_004_0083 sarathā rathinaś cāpi vimr̥dnantaḥ samantataḥ
+06_004_0084 syandanād apatat kaś cin nihato ’nyena sāyakaiḥ
+06_004_0085 hatasārathir apy uccaiḥ papāta kāṣṭhavad rathaḥ
+06_004_0086 yudhyamānasya saṁgrāme vyūḍhe rajasi cotthite
+06_004_0087 dhanuḥkūjitavijñānaṁ tatrāsīt pratiyudhyataḥ
+06_004_0088 gātrasparśena yodhānāṁ vyajñāsta paripanthinam
+06_004_0089 yudhyamānaṁ śarai rājan siñjinī dhvajinī ravāt
+06_004_0090 anyonyaṁ vīrasaṁśabdo nāśrūyata bhaṭaiḥ kr̥taḥ
+06_004_0091 śabdāyamāne saṁgrāme paṭahe karṇadāriṇi
+06_004_0092 yudhyamānasya saṁgrāme kurvataḥ pauruṣaṁ svakam
+06_004_0093 nāśrauṣīn nāmagotroktiṁ kīrtanaṁ ca parasparam
+06_004_0094 bhīṣmacāpacyutair bāṇair ārtānāṁ yudhyatāṁ mr̥dhe
+06_004_0095 paraspareṣāṁ vīrāṇāṁ manāṁsi samakampayan
+06_004_0096 tasminn atyākule yuddhe dāruṇe lomaharṣaṇe
+06_004_0097 pitā putraṁ ca samare nābhijānāti kaś cana
+06_004_0098 cakre bhagne yuge chinne eko dhuryo hayo hataḥ
+06_004_0099 ākṣiptaḥ syandanād vīraḥ sasārathir ajihmagaiḥ
+06_004_0100 evaṁ ca samare sarve vīrāś ca virathīkr̥tāḥ
+06_004_0101 tena tena sma dr̥śyante dhāvamānāḥ samantataḥ
+06_004_0102 gajo hataḥ śiraś chinnaṁ marma bhinnaṁ hayo hataḥ
+06_004_0103 ahataḥ ko ’pi naivāsīd bhīṣme nighnati śātravān
+06_004_0104 śvetaḥ kurūṇām akarot svayaṁ tasmin mahāhave
+06_004_0105 rājaputrān rathodārān avadhīc chatasaṁghaśaḥ
+06_004_0106 ciccheda rathināṁ bāṇaiḥ śirāṁsi bharatarṣabha
+06_004_0107 sāṅgadā bāhavaś caiva dhanūṁṣi ca samantataḥ
+06_004_0108 ratheṣāṁ rathacakrāṇi tūṇīrāṇi yugāni ca
+06_004_0109 chatrāṇi ca mahārhāṇi patākāś ca viśāṁ pate
+06_004_0110 hayaughāś ca rathaughāś ca naraughāś caiva bhārata
+06_004_0111 vāraṇāḥ śataśaś caiva hatāḥ śvetena bhārata
+06_004_0112 vayaṁ śvetabhayād bhītā vihāya rathasattamam
+06_004_0113 avaśiṣṭās tathā paścād vibhuṁ paśyāma dhr̥ṣṇavaḥ
+06_004_0114 śarapātam apakramya kuravaḥ kurunandana
+06_004_0115 bhīṣmaṁ śāṁtanavaṁ yuddhe sthitāḥ paśyāma sarvaśaḥ
+06_004_0116 adīno dīnasamaye bhīṣmo ’smākaṁ mahāhave
+06_004_0117 ekas tasthau naravyāghro girir merur ivācalaḥ
+06_004_0118 ādadāna iva prāṇān savitā śiśirātyaye
+06_004_0119 gabhastibhir ivādityas tasthau śaramarīcimān
+06_004_0120 sa mumoca maheṣvāsaḥ śarasaṁghān anekaśaḥ
+06_004_0121 nighnann amitrān samare vajrapāṇir ivāsurān
+06_004_0122 te vadhyamānā bhīṣmeṇa prajahus taṁ mahābalam
+06_004_0123 svayūthād iva te yūthān muktaṁ bhūmiṣu dāruṇam
+06_004_0124 tam ekam upalabhyaiko hr̥ṣṭaḥ puṣṭaḥ paraṁtapa
+06_004_0125 duryodhanapriye yuktaḥ pāṇḍavān pariśocayan
+06_004_0126 jīvitaṁ dustyajaṁ tyaktvā bhayaṁ ca sumahāhave
+06_004_0127 pātayām āsa sainyāni pāṇḍavānāṁ viśāṁ pate
+06_004_0128 praharantam anīkāni pitā devavratas tava
+06_004_0129 dr̥ṣṭvā senāpatiṁ bhīṣmas tvaritaḥ śvetam abhyayāt
+06_004_0130 sa bhīṣmaṁ śarajālena mahatā samavākirat
+06_004_0131 śvetaṁ cāpi tathā bhīṣmaḥ śaraughaiḥ samavākirat
+06_004_0132 tau vr̥ṣāv iva nardantau mattāv iva mahādvipau
+06_004_0133 vyāghrāv iva susaṁrabdhāv anyonyam abhijaghnatuḥ
+06_004_0134 astrair astrāṇi saṁvārya tatas tau puruṣarṣabhau
+06_004_0135 bhīṣmaḥ śvetaś ca yuyudhe parasparavadhaiṣiṇau
+06_004_0136 ekāhnā nirdahed bhīṣmaḥ pāṇḍavānām anīkinīm
+06_004_0137 śaraiḥ paramasaṁkruddho yadi śveto na pālayet
+06_004_0138 pitāmahaṁ tato dr̥ṣṭvā śvetena vimukhīkr̥tam
+06_004_0139 praharṣaṁ pāṇḍavā jagmuḥ putras te vimanābhavat
+06_004_0140 tato duryodhanaḥ kruddhaḥ pārthivaiḥ parivāritaḥ
+06_004_0141 sasainyaḥ pāṇḍavānīkam abhyadravata saṁyuge
+06_004_0142 durmukhaḥ kr̥tavarmā ca kr̥paḥ śalyo viśāṁ pate
+06_004_0143 bhīṣmaṁ jugupur āsādya tava putreṇa coditāḥ
+06_004_0144 dr̥ṣṭvā tu pārthivaiḥ sarvair duryodhanapurogamaiḥ
+06_004_0145 pāṇḍavānām anīkāni vadhyamānāni saṁyuge
+06_004_0146 śveto gāṅgeyam utsr̥jya tava putrasya vāhinīm
+06_004_0147 nāśayām āsa vegena vāyur vr̥kṣān ivaujasā
+06_004_0148 drāvayitvā camūṁ rājan vairāṭiḥ krodhamūrchitaḥ
+06_004_0149 āpatat sahasā bhūyo yatra bhīṣmo vyavasthitaḥ
+06_004_0150 tau tatropagatau rājañ śaradīptau mahābalau
+06_004_0151 ayudhyetāṁ mahātmānau yathobhau vr̥travāsavau
+06_004_0152 anyonyaṁ tu mahārāja parasparavadhaiṣiṇau
+06_004_0153 nigr̥hya kārmukaṁ śveto bhīṣmaṁ vivyādha saptabhiḥ
+06_004_0154 parākramaṁ tatas tasya parākramya parākramī
+06_004_0155 tarasā vārayām āsa matto mattam iva dvipam
+06_004_0156 śvetaḥ śāṁtanavaṁ bhūyaḥ śaraiḥ saṁnataparvabhiḥ
+06_004_0157 vivyādha pañcaviṁśatyā tad adbhutam ivābhavat
+06_004_0158 taṁ pratyavidhyad daśabhir bhīṣmaḥ śāṁtanavas tadā
+06_004_0159 sa viddhas tena balavān nākampata yathācalaḥ
+06_004_0160 vairāṭiḥ samare kruddho bhr̥śam āyamya kārmukam
+06_004_0161 ājaghāna tato bhīṣmaṁ śvetaḥ kṣatriyanandanaḥ
+06_004_0162 saṁprahasya tataḥ śvetaḥ sr̥kkiṇī parisaṁlihan
+06_004_0163 dhanuś ciccheda bhīṣmasya navabhir daśadhā śaraiḥ
+06_004_0164 saṁdhāya viśikhaṁ caiva śaraṁ lomapravāhinam
+06_004_0165 unmamātha tatas tālaṁ dhvajaśīrṣaṁ mahātmanaḥ
+06_004_0166 ketuṁ nipatitaṁ dr̥ṣṭvā bhīṣmasya tanayās tava
+06_004_0167 hataṁ bhīṣmam amanyanta śvetasya vaśam āgatam
+06_004_0168 pāṇḍavāś cāpi saṁhr̥ṣṭā dadhmuḥ śaṅkhān mudā yutāḥ
+06_004_0169 bhīṣmasya patitaṁ ketuṁ dr̥ṣṭvā tālaṁ mahātmanaḥ
+06_004_0170 tato duryodhanaḥ krodhāt svam anīkam acodayat
+06_004_0171 yatnād bhīṣmaṁ parīpsadhvaṁ rakṣamāṇāḥ samantataḥ
+06_004_0172 mā naḥ prapaśyamānānāṁ śvetān mr̥tyum avāpsyati
+06_004_0173 bhīṣmaḥ śāṁtanavaḥ śūras tathā satyaṁ bravīmi vaḥ
+06_004_0174 rājñas tu vacanaṁ śrutvā tvaramāṇā mahārathāḥ
+06_004_0175 balena caturaṅgeṇa gāṅgeyam anvapālayan
+06_004_0176 bāhlīkaḥ kr̥tavarmā ca śalaḥ śalyaś ca bhārata
+06_004_0177 jalasaṁdho vikarṇaś ca citraseno viviṁśatiḥ
+06_004_0178 tvaramāṇās tvarākāle parivārya samantataḥ
+06_004_0179 śastravr̥ṣṭiṁ sutumulāṁ śvetasyopary apātayan
+06_004_0180 tān kruddho niśitair bāṇais tvaramāṇo mahārathaḥ
+06_004_0181 avārayad ameyātmā darśayan pāṇilāghavam
+06_004_0182 sa nivārya tu tān sarvān kesarī kuñjarān iva
+06_004_0183 mahatā śaravarṣeṇa bhīṣmasya dhanur ācchinat
+06_004_0184 tato ’nyad dhanur ādāya bhīṣmaḥ śāṁtanavo yudhi
+06_004_0185 śvetaṁ vivyādha rājendra kaṅkapatraiḥ śitaiḥ śaraiḥ
+06_004_0186 tataḥ senāpatiḥ kruddho bhīṣmaṁ bahubhir āyasaiḥ
+06_004_0187 vivyādha samare rājan sarvalokasya paśyataḥ
+06_004_0188 tataḥ pravyathito rājā bhīṣmaṁ dr̥ṣṭvā nivāritam
+06_004_0189 pravīraṁ sarvalokasya śvetena yudhi vai tadā
+06_004_0190 niṣṭhānakaś ca sumahāṁs tava sainyasya cābhavat
+06_004_0191 taṁ vīraṁ vāritaṁ dr̥ṣṭvā śvetena śaravikṣatam
+06_004_0192 hataṁ śvetena manyante śvetasya vaśam āgatam
+06_004_0193 tataḥ krodhavaśaṁ prāptaḥ pitā devavratas tava
+06_004_0194 dhvajam unmathitaṁ dr̥ṣṭvā tāṁ ca senāṁ nivāritām
+06_004_0195 śvetaṁ prati mahārāja vyasr̥jat sāyakān bahūn
+06_004_0196 tān āvārya raṇe śveto bhīṣmasya rathināṁ varaḥ
+06_004_0197 dhanuś ciccheda bhallena punar eva pitus tava
+06_004_0198 utsr̥jya kārmukaṁ rājan gāṅgeyaḥ krodhamūrchitaḥ
+06_004_0199 anyat kārmukam ādāya vipulaṁ balavattaram
+06_004_0200 tatra saṁdhāya vipulān bhallān sapta śilāśitān
+06_004_0201 caturbhiś ca jaghānāśvāñ śvetasya pr̥tanāpateḥ
+06_004_0202 dhvajaṁ dvābhyāṁ tu ciccheda saptamena ca sāratheḥ
+06_004_0203 śiraś ciccheda bhallena saṁkruddho laghuvikramaḥ
+06_004_0204 hatāśvasūtāt sa rathād avaplutya mahābalaḥ
+06_004_0205 amarṣavaśam āpanno vyākulaḥ samapadyata
+06_004_0206 virathaṁ rathināṁ śreṣṭhaṁ śvetaṁ dr̥ṣṭvā pitāmahaḥ
+06_004_0207 tāḍayām āsa niśitaiḥ śarasaṁghaiḥ samantataḥ
+06_004_0208 sa tāḍyamānaḥ samare bhīṣmacāpacyutaiḥ śaraiḥ
+06_004_0209 svarathe dhanur utsr̥jya śaktiṁ jagrāha kāñcanīm
+06_004_0210 tataḥ śaktiṁ raṇe śveto jagrāhogrāṁ mahābhayām
+06_004_0211 kāladaṇḍopamāṁ ghorāṁ mr̥tyor iva svasāṁ śvasan
+06_004_0212 abravīc ca tadā śveto bhīṣmaṁ śāṁtanavaṁ raṇe
+06_004_0213 tiṣṭhedānīṁ susaṁrabdhaḥ paśya māṁ puruṣo bhava
+06_004_0214 evam uktvā maheṣvāso bhīṣmaṁ yudhi parākramī
+06_004_0215 tataḥ śaktim ameyātmā cikṣepa bhujagopamām
+06_004_0216 pāṇḍavārthe parākrāntas tavānarthaṁ cikīrṣati
+06_004_0217 hāhākāro mahān āsīt putrāṇāṁ te viśāṁ pate
+06_004_0218 dr̥ṣṭvā śaktiṁ mahāghorāṁ mr̥tyor daṇḍasamaprabhām
+06_004_0219 śvetasya karanirmuktāṁ nirmuktoragasaṁnibhām
+06_004_0220 apatat sahasā rājan maholkeva nabhastalāt
+06_004_0221 jvalantīm antarikṣe tāṁ jvālābhir iva saṁvr̥tām
+06_004_0222 asaṁbhrāntas tadā rājan pitā devavratas tava
+06_004_0223 aṣṭabhir navabhir bhīṣmaḥ śaktiṁ ciccheda patribhiḥ
+06_004_0224 utkr̥ṣṭahemavikr̥tāṁ nikr̥ttāṁ niśitaiḥ śaraiḥ
+06_004_0225 uccukruśus tataḥ sarve tāvakā bharatarṣabha
+06_004_0226 śaktiṁ vinihatāṁ dr̥ṣṭvā vairāṭiḥ krodhamūrchitaḥ
+06_004_0227 kālopahatacetās tu kartavyaṁ nābhyajānata
+06_004_0228 krodhasaṁmūrchito rājan vairāṭiḥ prahasann iva
+06_004_0229 gadāṁ jagrāha saṁhr̥ṣṭo bhīṣmasya nidhanaṁ prati
+06_004_0230 krodhena raktanayano daṇḍapāṇir ivāntakaḥ
+06_004_0231 bhīṣmaṁ samabhidudrāva jalaugha iva parvatam
+06_004_0232 tasya vegam asaṁvārya matvā bhīṣmaḥ pratāpavān
+06_004_0233 prahāravipramokṣārthaṁ sahasā dharaṇīṁ gataḥ
+06_004_0234 śvetaḥ krodhasamāviṣṭo bhrāmayitvā tu tāṁ gadām
+06_004_0235 rathe bhīṣmasya cikṣepa yathā devo dhaneśvaraḥ
+06_004_0236 tayā bhīṣmanipātinyā sa ratho bhasmasāt kr̥taḥ
+06_004_0237 sadhvajaḥ saha sūtena sāśvaḥ sayugabandhuraḥ
+06_004_0238 virathaṁ rathināṁ śreṣṭhaṁ bhīṣmaṁ dr̥ṣṭvā rathottamāḥ
+06_004_0239 abhyadhāvanta sahitāḥ śalyaprabhr̥tayo rathāḥ
+06_004_0240 tato ’nyaṁ ratham āsthāya dhanur visphārya durmanāḥ
+06_004_0241 śanakair abhyayāc chvetaṁ gāṅgeyaḥ prahasann iva
+06_004_0242 etasminn antare bhīṣmaḥ śuśrāva vipulāṁ giram
+06_004_0243 ākāśād īritāṁ divyām ātmano hitasaṁbhavām
+06_004_0244 bhīṣma bhīṣma mahābāho śīghraṁ yatnaṁ kuruṣva vai
+06_004_0245 eṣa hy asya jaye kālo nirdiṣṭo viśvayoninā
+06_004_0246 etac chrutvā tu vacanaṁ devadūtena bhāṣitam
+06_004_0247 saṁprahr̥ṣṭamanā bhūtvā vadhe tasya mano dadhe
+06_004_0248 virathaṁ rathināṁ śreṣṭhaṁ śvetaṁ dr̥ṣṭvā padātinam
+06_004_0249 sahitās tv abhyavartanta parīpsanto mahārathāḥ
+06_004_0250 sātyakir bhīmasenaś ca dhr̥ṣṭadyumnaś ca pārṣataḥ
+06_004_0251 kaikeyo dhr̥ṣṭaketuś ca abhimanyuś ca vīryavān
+06_004_0252 etān āpatataḥ sarvān droṇaśalyakr̥paiḥ saha
+06_004_0253 avārayad ameyātmā vārivegān ivācalaḥ
+06_004_0254 sa niruddheṣu sarveṣu pāṇḍaveṣu mahātmasu
+06_004_0255 śvetaḥ khaḍgam athākr̥ṣya bhīṣmasya dhanur ācchinat
+06_004_0256 tad apāsya dhanuś chinnaṁ tvaramāṇaḥ pitāmahaḥ
+06_004_0257 devadūtavacaḥ śrutvā vadhe tasya mano dadhe
+06_004_0258 tataḥ pracāramāṇas tu pitā devavratas tava
+06_004_0259 anyat kārmukam ādāya tvaramāṇo mahārathaḥ
+06_004_0260 kṣaṇena sajyam akaroc chakracāpasamaprabham
+06_004_0261 pitā te bharataśreṣṭha śvetaṁ dr̥ṣṭvā mahārathaiḥ
+06_004_0262 vr̥taṁ taṁ manujavyāghrair bhīmasenapurogamaiḥ
+06_004_0263 abhyavartata gāṅgeyaḥ śvetaṁ senāpatiṁ drutam
+06_004_0264 āpatantaṁ tato bhīṣmo bhīmasenaṁ pratāpavān
+06_004_0265 ājaghne viśikhaiḥ ṣaṣṭyā senānyaṁ sa mahārathaḥ
+06_004_0266 abhimanyuṁ ca samare pitā devavratas tava
+06_004_0267 ājaghne bharataśreṣṭhas tribhiḥ saṁnataparvabhiḥ
+06_004_0268 sātyakiṁ ca śatenājau bharatānāṁ pitāmahaḥ
+06_004_0269 dhr̥ṣṭadyumnaṁ ca viṁśatyā kaikeyaṁ cāpi pañcabhiḥ
+06_004_0270 tāṁś ca sarvān maheṣvāsān pitā devavratas tava
+06_004_0271 vārayitvā śarair ghoraiḥ śvetam evābhidudruve
+06_004_0272 tataḥ śaraṁ mr̥tyusamaṁ bhārasādhanam uttamam
+06_004_0273 vikr̥ṣya balavān bhīṣmaḥ samādhatta durāsadam
+06_004_0274 brahmāstreṇa susaṁyuktaṁ taṁ śaraṁ lomavāhinam
+06_004_0275 dadr̥śur devagandharvāḥ piśācoragarākṣasāḥ
+06_004_0276 sa tasya kavacaṁ bhittvā hr̥dayaṁ cāmitaujasaḥ
+06_004_0277 jagāma dharaṇīṁ bāṇo mahāśanir iva jvalan
+06_004_0278 astaṁ gacchan yathādityaḥ prabhām ādāya satvaraḥ
+06_004_0279 evaṁ jīvitam ādāya śvetadehāj jagāma ha
+06_004_0280 taṁ bhīṣmeṇa naravyāghraṁ tathā vinihataṁ yudhi
+06_004_0281 prapatantam apaśyāma gireḥ śr̥ṅgam iva cyutam
+06_004_0282 aśocan pāṇḍavās tatra kṣatriyāś ca mahārathāḥ
+06_004_0283 prahr̥ṣṭāś ca sutās tubhyaṁ kuravaś cāpi sarvaśaḥ
+06_004_0284 tato duḥśāsano rājañ śvetaṁ dr̥ṣṭvā nipātitam
+06_004_0285 vāditraninadair ghorair nr̥tyati sma samantataḥ
+06_004_0286 tasmin hate maheṣvāse bhīṣmeṇāhavaśobhinā
+06_004_0287 prāvepanta maheṣvāsāḥ śikhaṇḍipramukhā rathāḥ
+06_004_0288 tato dhanaṁjayo rājan vārṣṇeyaś cāpi sarvaśaḥ
+06_004_0289 avahāraṁ śanaiś cakrur nihate vāhinīpatau
+06_004_0290 tato ’vahāraḥ sainyānāṁ tava teṣāṁ ca bhārata
+06_004_0291 tāvakānāṁ pareṣāṁ ca nardatāṁ ca muhur muhuḥ
+06_004_0292 pārthā vimanaso bhūtvā nyaviśanta mahārathāḥ
+06_004_0293 cintayanto vadhaṁ ghoraṁ dvairathena paraṁtapāḥ
+06_004=0293 Colophon.
+06_004=0293 dhr̥tarāṣṭra uvāca
+06_004_0294 śvete senāpatau tāta saṁgrāme nihate paraiḥ
+06_004_0295 kim akurvan maheṣvāsāḥ pāñcālāḥ pāṇḍavaiḥ saha
+06_004_0296 senāpatiṁ samākarṇya śvetaṁ yudhi nipātitam
+06_004_0297 tadarthaṁ yatatāṁ cāpi pareṣāṁ prapalāyinām
+06_004_0298 manaḥ prīṇāti me vākyaṁ jayaṁ saṁjaya śr̥ṇvataḥ
+06_004_0299 pratyupāyaṁ cintayantaḥ sajjanāḥ prasravanti me
+06_004_0300 sa hi vīro ’nuraktaś ca vr̥ddhaḥ kurupatis tadā
+06_004_0301 kr̥taṁ vairaṁ sadā tena pituḥ putreṇa dhīmatā
+06_004_0302 tasyodvegabhayāc cāpi saṁśritaḥ pāṇḍavān purā
+06_004_0303 sarvaṁ balaṁ parityajya durgaṁ saṁśritya tiṣṭhati
+06_004_0304 pāṇḍavānāṁ pratāpena durgaṁ deśaṁ niveśya ca
+06_004_0305 sapatnān satataṁ bādhann āryavr̥ttim anuṣṭhitaḥ
+06_004_0306 āścaryaṁ vai sadā teṣāṁ purā rājñāṁ sudurmatiḥ
+06_004_0307 tato yudhiṣṭhire bhaktaḥ kathaṁ saṁjaya sūditaḥ
+06_004_0308 prakṣiptaḥ saṁmataḥ kṣudraḥ putro me puruṣādhamaḥ
+06_004_0309 na yuddhaṁ rocayed bhīṣmo na cācāryaḥ kathaṁ cana
+06_004_0310 na kr̥po na ca gāndhārī nāhaṁ saṁjaya rocaye
+06_004_0311 na vāsudevo vārṣṇeyo dharmarājaś ca pāṇḍavaḥ
+06_004_0312 na bhīmo nārjunaś caiva na yamau puruṣarṣabhau
+06_004_0313 vāryamāṇo mayā nityaṁ gāndhāryā vidureṇa ca
+06_004_0314 jāmadagnyena rāmeṇa vyāsena ca mahātmanā
+06_004_0315 duryodhano yudhyamāno nityam eva hi saṁjaya
+06_004_0316 karṇasya matam āsthāya saubalasya ca pāpakr̥t
+06_004_0317 duḥśāsanasya ca tathā pāṇḍavān anvasūyata
+06_004_0318 tasyāhaṁ vyasanaṁ ghoraṁ manye prāptaṁ tu saṁjaya
+06_004_0319 śvetasya ca vināśena bhīṣmasya vijayena ca
+06_004_0320 saṁkruddhaḥ kr̥ṣṇasahitaḥ pārthaḥ kim akarod yudhi
+06_004_0321 arjunād dhi bhayaṁ bhūyas tan me tāta na śāmyati
+06_004_0322 sa hi śūraś ca kaunteyaḥ kṣiprakārī ca pāṇḍavaḥ
+06_004_0323 manye śaraiḥ śarīrāṇi pramathiṣyati vidviṣām
+06_004_0324 aindrir indrānujasamo mahendrasadr̥śo bale
+06_004_0325 amoghakrodhasaṁkalpaṁ dr̥ṣṭvā vaḥ kim abhūn manaḥ
+06_004_0326 tathaiva vedavic chūro jvalanārkasamadyutiḥ
+06_004_0327 aindrāstravid ameyātmā prapatan samitiṁjayaḥ
+06_004_0328 vajrasaṁsparśarūpāṇām astrāṇāṁ nyāsakāritā
+06_004_0329 sa khaḍgākṣepahastas tu ghoṣaṁ cakre mahārathaḥ
+06_004_0330 sa saṁjaya mahāprājño drupadasyātmajo balī
+06_004_0331 dhr̥ṣṭadyumnaḥ kim akaroc chvete yudhi nipātite
+06_004_0332 purā caivāparādhena vadhena ca camūpateḥ
+06_004_0333 manye manaḥ prajajvāla pāṇḍavānāṁ mahātmanām
+06_004_0334 teṣāṁ krodhaṁ cintayaṁs tu ahaḥsu ca niśāsu ca
+06_004_0335 na śāntim adhigacchāmi sarvam ācakṣva saṁjaya
+06_004=0335 saṁjaya uvāca
+06_004_0336 gatapūrvāhṇabhūyiṣṭhe tasminn ahani dāruṇe
+06_004_0337 tāvakānāṁ pareṣāṁ ca punar yuddham avartata
+06_004_0338 śvetaṁ tu nihataṁ dr̥ṣṭvā virāṭasya camūpatim
+06_004_0339 kr̥tavarmaṇā ca sahitaṁ dr̥ṣṭvā śalyam avasthitam
+
+% After 6.46.55, D1 ins. (= repetition, with v.
+% l., of 6.19.43ab to 6.20.10ab):
+06_005_0001 śabdaś ca sumahāṁs tatra divaspr̥g bharatottama
+06_005_0002 evaṁ te puruṣavyāghrāḥ pāṇḍavā yuddhadurmadāḥ
+06_005_0003 vyavasthitāḥ prativyūhya tava putrasya vāhinīm
+06_005_0004 trasantīva hi cetāṁsi yodhānāṁ bharatarṣabha
+06_005_0005 dr̥ṣṭvāgrato bhīmasenaṁ gadāpāṇim avasthitam
+06_005=0005 dhr̥tarāṣṭra uvāca
+06_005_0006 sūryodaye saṁjaya ke tu pūrvaṁ
+06_005_0007 yuyutsavo hr̥ṣṭarūpās tathāsan
+06_005_0008 kiṁ māmakā bhīṣmanetrāḥ samīyuḥ
+06_005_0009 kiṁ pāṇḍavā bhīmanetrās tadānīm
+06_005_0010 keṣāṁ jaghanyau somasūryau suvāyuḥ
+06_005_0011 keṣāṁ senāṁ śvāpadā vyāhareyuḥ
+06_005_0012 keṣāṁ yūnāṁ mukhavarṇāḥ prasannāḥ
+06_005_0013 sarvaṁ hy etad brūhi tattvaṁ yathāvat
+06_005=0013 saṁjaya uvāca
+06_005_0014 ubhe sene tulyam evopapanne
+06_005_0015 ubhe sene harṣarūpe tathaiva
+06_005_0016 ubhe citre vanarājīprakāśe
+06_005_0017 ubhe sene nāgarathāśvapūrṇe
+06_005_0018 ubhe sene bhīmarūpe narendra
+06_005_0019 tathā cobhe bhārata durviṣahye
+06_005_0020 tathā cobhe svargajayāya tuṣṭe
+06_005_0021 tathā cobhe satpuruṣopajuṣṭe
+06_005_0022 paścānmukhāḥ kauravā dhārtarāṣṭrās
+06_005_0023 tathā pāṇḍavāḥ prāṅmukhā yotsyamānāḥ
+06_005_0024 daityendraseneva ca kauravāṇāṁ
+06_005_0025 surendraseneva ca pāṇḍavānām
+06_005_0026 vavau vāyuḥ pr̥ṣṭhataḥ pāṇḍavānāṁ
+06_005_0027 tathā vāyuḥ sanmukhas tāvakānām
+06_005_0028 gajendrāṇāṁ madagandhā * * *
+06_005_0029 nna sehire tava putrasya nāgāḥ
+06_005_0030 duryodhano dantivaraṁ padmavarṇaṁ
+06_005_0031 suvarṇakakṣaṁ jātabalaṁ prabhinnam
+06_005_0032 samāsthito madhyagataḥ kurūṇāṁ
+06_005_0033 saṁstūyamāno rathibhir māgadhaiś ca
+06_005_0034 candraprabhaṁ śvetam asyātapatraṁ
+06_005_0035 tathā sauvarṇā srag bhrājate cottamāṅge
+06_005_0036 taṁ sarvataḥ śakuniḥ pārvatīyaḥ
+06_005_0037 sārdhaṁ gāndhāraiḥ pāti gāndhārarājaḥ
+06_005_0038 bhīṣmo ’grataḥ sarvasainyasya vr̥ddhaḥ
+06_005_0039 śvetacchatraḥ śvetakacaḥ saśaṅkhaḥ
+06_005_0040 śvetoṣṇīṣaḥ pāṇḍureṇa dhvajena
+06_005_0041 śveto rathaḥ śailasamaprakāśaḥ
+06_005_0042 tadvat sainyaṁ dhārtarāṣṭrasya sarve
+06_005_0043 bāhlikānāṁ cātiratho mahātmā
+06_005_0044 maheṣvāsā mahābhāgāḥ sthitā yuddhāya daṁśitāḥ

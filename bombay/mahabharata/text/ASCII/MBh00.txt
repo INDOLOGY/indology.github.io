@@ -1,0 +1,481 @@
+% Mahabharata: General information
+% Last updated: Fri Sep 25 2020
+% Encoding: ASCII
+% Electronic text (C) Bhandarkar Oriental Research Institute,
+% Pune, India, 1999
+%
+
+==================================
+Electronic text of the Mahabharata
+==================================
+
+This file contains information about the electronic text of the
+Mahabharata. Anyone who intends to make use of the text is asked to
+read it carefully. It is divided into four sections:
+
+  * The status of the electronic text
+  * The history of the electronic text
+  * The format of the electronic text
+  * Notes on the electronic text
+
+                                                          John D. Smith
+                                                University of Cambridge
+------------------------------------------------------------------------
+
+The status of the electronic text
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The electronic text of the Mahabharata is Copyright (C) The Bhandarkar
+Oriental Research Institute (BORI), Pune. This authorised and regularly
+updated text is available only via the web page
+https://indology.github.io/bombay/mahabharata/statement.html. Please do not provide
+copies of the text to others.
+
+The text is as accurate as possible, but errors may well still appear. If you
+believe you have found an error, please report it by email to Suvarna
+Deshpande (suvarnad09 [at] gmail.com) or Pranav Gokhale (pranavpg88 [at]
+gmail.com). Before reporting any error, please read the rest of this document!
+
+Corrections will be made to errors remaining in the text as they come to
+light. Check the “Last updated” date at the head of each parvan against the
+current dates listed on the distribution website (URL
+https://indology.github.io/bombay/mahabharata/welcome.html) to see whether you need
+to download newer versions.
+
+------------------------------------------------------------------------
+
+The history of the electronic text
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This text has its origins in the work of Prof. Muneo Tokunaga of the
+University of Kyoto. During the late 1980s and early 1990s, Prof. Tokunaga
+typed the entire text of the Critical Edition of the Mahabharata (BORI,
+1933-66) into a computer, and in 1994 he placed the electronic text he had
+thus created on the Internet. The enormity of the labour involved in the
+creation of the text is matched only by Prof. Tokunaga's generosity in making
+it so freely available to the scholarly world. This version of the text
+derives ultimately from that first version, and I am deeply grateful to Prof.
+Tokunaga for permitting this use of the products of his labour.
+
+In transcribing the Mahabharata, Prof. Tokunaga took a number of policy
+decisions which can cause difficulties for would-be users whose requirements
+differ from his. Most of these -- for example, his use of “m” for both m and
+anusvara, and “n” for the dental, palatal and velar nasals -- can be overcome
+with a little effort. Much the most serious problem is caused by his use of a
+single separator to divide word from word and compound-member from
+compound-member (something he did not do in his transcription of the
+Ramayana). The result is that, for example, the Gita begins dharma kSetre
+kuru kSetre, not dharmakSetre kurukSetre.
+
+In 1995 I devised a method which I believed would allow me to rejoin a
+significant percentage of these “split” compounds. It involved using a
+computer to analyse differences between substantial passages of
+Mahabharata text before and after full “correction” by hand. In this
+way the computer could learn to recognise large numbers of typical
+split compounds, and could therefore be used to correct them wherever
+they occurred in the text as a whole.
+
+Applying this method over a period of months led to the elimination of perhaps
+75% of the split compounds occurring in the electronic text; I also made large
+numbers of corrections of other kinds. Then, like Prof. Tokunaga before me, I
+made the resulting text available via the Internet; I also began to make use
+of it in my own scholarly work. However, this kept its remaining deficiencies
+all too permanently before my eyes, and I determined to find a way of bringing
+the text to (notional) perfection.
+
+With the aid of generous funding from the Humanities Research Board of the
+British Academy, the Society for South Asian Studies and the Smuts Memorial
+Fund (University of Cambridge), I was able to set up a project at BORI to
+achieve this goal. A team of five assistants -- Indu Deshpande, Kirti Sharad
+Thakar, Pradnya Anant Rayrikar, Samita Vasant Shinde and Shilpa Mulay -- were
+employed to work through the entire text correcting any split compounds or
+other errors they encountered. The task was done throughout in duplicate, so
+that slips made by one assistant would show up through comparison with the
+work of another. I was responsible for collating the results, which form the
+basis of this electronic text.
+
+For their dedicated work, and the levels of accuracy that they have brought to
+a long and demanding task, the members of the team, like Prof. Tokunaga
+himself, have earned the gratitude of all those who make use of the electronic
+Mahabharata. My own gratitude goes in addition to Prof. Saroja Bhate, without
+whose help the project would never have reached such successful results.
+
+------------------------------------------------------------------------
+
+The format of the electronic text
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Line-numbers
+---------------
+
+The text is divided into eighteen files, one per main book (parvan) of the
+Mahabharata. However, the format of each line is such as to identify it
+uniquely, whichever file it happens to come from. At the start of every line
+appears a nine-character line-number specifying the book or parvan (two
+digits), the chapter or adhyAya (three digits), the verse or zloka (three
+digits), and the quarter-verse or pAda (one letter, specifying the first of
+the two pAdas that form each line). Thus the first line of the Gita appears
+as:
+
+06023001a dharmakSetre kurukSetre samavetA yuyutsavaH
+
+indicating that it represents pAdas a and b of the first verse of book 6,
+chapter 23.
+
+If the line is part of a verse in triSTubh or other longer metre, the
+division between the pAdas is marked with a semicolon:
+
+01001065a duryodhano manyumayo mahAdrumaH; skandhaH karNaH zakunis tasya zAkhAH
+
+If the line is part of a passage in prose, the final letter of the line-number
+(which normally indicates the pAda) is capitalised:
+
+01003001A janamejayaH pArikSitaH saha bhrAtRbhiH kurukSetre dIrghasatram upAste
+
+If the line is a header such as janamejaya uvAca, the final letter of the
+line-number is replaced by a space:
+
+01045003  janamejaya uvAca
+
+2. Encodings
+------------
+
+The text is available in three encodings (character sets) commonly used for
+Sanskrit and other Indian languages: Unicode Devanagari, Unicode Roman (using
+the conventions defined in ISO 15919), and ASCII (using the Harvard/Kyoto
+conventions).
+
+3. Spelling conventions
+-----------------------
+
+It is impossible to achieve complete consistency in a text as large and
+diverse as the Mahabharata, especially when it was edited over 33 years by
+several different scholars from a vast range of manuscript sources. So, for
+example, the spellings dvaMdva and dvandva both appear in several books.
+No serious attempt at normalisation of spelling has been made in the
+electronic text, but some consistency in purely editorial matters is clearly
+desirable, especially given that people will wish to search the entire text
+for words and phrases. The following rules have been applied, which may
+introduce minor changes from the text as printed; the words chatra etc.
+raise a particular problem which is addressed in some detail below.
+
+  General rules
+  +++++++++++++
+
+  Forms such as kiM cit (/cana/api) are everywhere spelt as two words in
+  Roman representations of the electronic text (assuming that sandhi does not
+  prevent this, as in kApi), whatever the usage in the printed text;
+  similarly kiM svit, etc. The word kaccit of course is unchanged, as are
+  compounded forms such as kiMciccheSa “having little left remaining”.
+
+  In the Devanagari versions of the text, forms such as kiMcit are spelt as
+  single words to respect normal usage in Indian scripts.
+
+  The phrase atha vA is always written as two words. The same applies to
+  periphrastic perfects: kathayAM babhUva, etc.
+
+  Use of the word-internal avagraha in forms such as yazo'rtha is not
+  entirely consistent in the printed text (e.g. yazo'rthaM 7.86.20c but
+  yazortham 8.29.25b). The Errata to Book 1 contain five such cases, in all
+  of which Sukthankar requests the deletion of the avagraha (he missed a
+  single further case at 1.115.11d). Arguments could be mounted against this
+  practice, but the editorial intention is very clear, and the internal
+  avagraha has been removed in the few cases where it does appear.
+
+  An effort has been made to standardise the use of double avagraha in cases
+  where the elided vowel is not a but A. This is the normal usage in the
+  printed text, but there are a few cases where single avagraha appears
+  instead; the electronic text corrects these.
+
+  The words kArttika, kArttikeya, etc., are for the most part spelt with
+  double “t” in the Critical Edition, but there are some occurrences of
+  “kArtika” and “kArtikeya”. These have been silently normalised in the
+  electronic text. Similarly, the absolutive chittvA is occasionally spelt
+  with a single “t”: such occurrences have been normalised to the correct
+  form.
+
+
+  The words chatra, satra and patra
+  +++++++++++++++++++++++++++++++++
+
+  The words chatra, satra and patra are spelt inconsistently in the
+  Critical Edition: some editors favoured the spelling with single “t”, others
+  that with double “tt”. It appeared undesirable to leave such inconsistency
+  in place, and all three words are uniformly spelt with single “t” in the
+  electronic text. This applies also to derivative forms in -in, etc. The
+  choice of single over double “t” reflects the overall weight of opinion
+  amongst the editors: this appeared a more important criterion than any
+  questions of etymological “correctness”.
+
+  Note, however, that the word tottra is spelt with double “t”, since the
+  Critical Edition is entirely consistent in spelling it thus at every
+  occurrence.
+
+------------------------------------------------------------------------
+
+Notes on the electronic text
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Occasionally the electronic text corrects an error in the printed edition. The
+following is a complete list of such corrections: each line is quoted as it is
+actually printed, followed by a comment explaining the correction. (In a few
+cases a possible correction is noted that has not in fact been implemented.)
+Note that changes made purely to adhere to the spelling conventions listed
+above are not included. Note also that all corrections included in the printed
+edition's various lists of errata, etc., have been applied to the electronic
+text: they too are not referred to here.
+
+In these notes, “PAE” refers to Phillip Ernest, who has spent many hours
+checking problematical readings in manuscripts used in the preparation of the
+Critical Edition and still available for consultation at BORI. Thanks to his
+efforts it has been possible to establish beyond doubt that certain puzzling
+readings found in the printed edition are simple typographic errors.
+
+01001046a bhUtasthAnAni sarvANi rahasyaM vividhaM ca yat
+  The first printing of Book 1 (in separate fascicules) has trividhaM here,
+  but in the second printing (in bound form) this has been replaced by
+  vividhaM. Since vividhaM is also quoted as a variant reading, it is
+  clear that it is the latter form which is a typographic error. I am grateful
+  to James L. Fitzgerald for drawing my attention to this problem.
+
+01001174c ajeyaH parazuH puNDraH zambhur devAvRdho 'naghaH
+  This is the only occurrence of the word zambhu- spelt with nasal
+  “m” rather than anusvAra. The spelling with anusvAra occurs
+  seventeen times, including an occurrence later in Book 1 (01058043c).
+  It is clear that this was the spelling preferred by Sukthankar and the
+  other editors, and I have restored it in this one discrepant instance.
+  I am grateful to James L. Fitzgerald for drawing my attention to this
+  problem.
+  
+01058043a tam uvAca mahArAja bhUmiM bhUmipatir vibhuH
+  It is certain that tam is a typographic error for tAm. The editor
+  records no variant readings for the word, and yet the Bombay Edition and
+  manuscripts K0, Da1 and D1 all have tAm (PAE).
+
+01179009a kejid Ahur yuvA zrImAn nAgarAjakaropamaH
+
+02024018c uragAvAsinaM caiva rocamAnaM raNe 'jayat
+  See the Supplementary Addenda, p. 515.
+
+05032014c virocate 'hAryavRttena vIro; yudhiSThiras tvayi pApaM visRjya
+  See the note on p. 726 of the edition.
+
+05070042c prazAntAH samabhUtAz ca zriyaM tAn aznuvImahi
+  It is certain that tAn is a typographic error for tAm. The editor
+  records no variant readings for the word, and yet the Bombay Edition and
+  manuscripts K1, Ds1 and D5 all have tAm (PAE).
+
+07005034c traiyyambakam atheSvastram astrANi vividhAni ca
+  traiyyaMbakam is also quoted as a variant reading.
+
+07035011a tam udIkSya tathA yAntaM sarve droNapurogamAH
+  “Coming” rather than “going” is necessary for the sense here.
+
+07053014c utsahante 'nyathAkartuM pratijJAM savyasAcinaH
+  Monier Williams allows anyathA-kR- as a compound verb, but all the other
+  ten occurrences of anyathA + verbal form of kR- in the Mahabharata
+  (01003133B, 01091013c, 03131015c, 03205010a, 05081053a, 07052011c,
+  07172048a, 13043025a, 13047036a, 16009027c) are printed as non-compounds. Of
+  these, seven consist of anyathA kartum, including two further occurrences
+  of the pAda-phrase utsahante 'nyathA kartum, one in the previous
+  chapter (07052011c), the other later in the same parvan (07172048a). I am
+  therefore preferring the non-compounded form.
+
+07054005c pratisrotaHpravRttAz ca tathA gantuM samudragAH
+  Clearly a typographic error (cf. the almost identical 07167002c:
+  pratisrotaH pravRttAz ca gantuM tatra samudragAH).
+
+07054010a snuSA zvazvrAnaghAyaste vizoke kuru mAdhava
+
+07070037c sahasenaH sahAmAtyo drApadeyAn avArayat
+
+07076029a iti kRSNA maheSvAsau yazasA lokavizrutau
+
+07079025c bhUrizravAs tribhir bANair hemapuGkhaH zilAzitaiH
+
+07085021c abhyavarSaJ zarais tIkSNaiH kaGkabarhiNavAjitaH
+
+07120069e adRzyau ca zaroghais tau nighnatAm itaretaram
+
+07164037a taM sAtyakiH pratyaviddhat tathaiva dazabhiH zaraiH
+  It is certain that pratyaviddhat is a typographic error for
+  pratyavidhyat. The editor records no variant readings for the word, and
+  yet the Bombay Edition and manuscripts Dc1 and D6 both have pratyavidhyat
+  (PAE).
+
+07165044c mahimAnaM mahArAja yogamuktasya gacchataH
+  It is certain that yogamuktasya is a typographic error for yogayuktasya.
+  The editor records no variant readings for the word, and yet the Bombay
+  Edition, P. S. S. Sastri's edition of the southern recension and manuscripts
+  Dc1, D5 and D7 all have yogayuktasya (PAE).
+
+07165055c palAyanakRtotsAhA dudruvuH sarvato dizam
+
+08031004c yudhiSThiraM cAbhibhavann asapavyaM cakAra ha
+  It is certain that asapavyaM is a typographic error for apasavyaM. The
+  editor records no significant variant readings for the word, and yet the
+  Bombay Edition and manuscripts K1, D4 and D8 all have apasavyaM (PAE).
+
+08062047c sa vAjisUteSvasanas tathApatad; yathA mahAvAtahato mahAdrumaH
+  The line is unconstruable unless the initial sa is taken as part of the
+  following compound.
+
+08065014c athAbravIt pANinA pANim Aghnan; saMdaSTASTho nRtyati vAdayann iva
+
+08069017a yaH sa dyUtajitAM kRSNAM prAha satpuruSAdhamaH
+  I believe this is a rather celebrated case, and I am grateful to Saroja
+  Bhate for directing my attention to it.
+
+09001052c samAzvAsayata kSattA vacasA madhureNa ha
+  See Critical Notes.
+
+09006023a etac chrutvA yathAbhUtaM kuru mAdhava yat kSamam
+  See Critical Notes.
+
+09016058e saMnyastakavacA dehair vipatrAyudhajIvitAH
+  This line has been reproduced unchanged as it appears in the printed
+  edition; however, it seems likely that vipatrAyudhajIvitAH is a
+  typographic error for vipannAyudhajIvitAH, the reading found in the Bombay
+  Edition and the manuscript D10. This reading is not recorded by the editor
+  (though he does record other variants beginning with vipannA-). However,
+  manuscript K2 does read vipatrAyudhajIvitAH, so I do not feel justified in
+  modifying the printed text. Manuscript information from PAE.
+
+09018062c punar evAnvartanta pANDavAn AtatAyinaH
+
+10001050c zlaukau nyAyam avekSadbhis tattvArthaM tattvadarzibhiH
+
+11008039a bhavAn karmaparo yatra buddhizreSThaz ca bhArata
+  It is certain that karmaparo is a typographic error for dharmaparo, as
+  suggested by James L. Fitzgerald (The Mahabharata translated, vol. 7,
+  Chicago and London, 2004, pp. 666-7). The editor records no variant readings
+  for the word, and yet the Bombay Edition and manuscripts K1, K2 and D3 all
+  have dharmaparo (PAE).
+
+12047006a etaiz cAnyair munigaNar mahAbhAgair mahAtmabhiH
+
+12089018a sthAnAny etAni saMgamya prasaGge bhUtinAzanaH
+  This line has been reproduced unchanged as it appears in the printed
+  edition; however, James L. Fitzgerald (The Mahabharata translated, vol. 7,
+  Chicago and London, 2004, p. 740) suggests that prasaGge is an error for
+  prasaGgo. noting that this is the reading of the CitrazAlA edition, but
+  that no variants are recorded by the editor. It is also the reading of the
+  Bombay Edition and manuscripts Da1 and Da2; however, manuscript K1 does read
+  prasaGge, so I do not feel justified in modifying the printed text.
+  Manuscript information from PAE.
+
+12155004c tapasaiva hi sidhyanti tapo mUlaM hi sAdhanam
+  I am grateful to James L. Fitzgerald for pointing out this error
+  (tapomUlaM must be a bahuvrIhi compound meaning “having asceticism for
+  its basis”).
+
+12244011a vyavasAyAtmikA buddhir manovyAkaraNAtmakam
+  I am grateful to Kirti Sharad Thakar for pointing out this error.
+
+12291043c yo 'haM soha 'm iti hy uktvA guNAn anu nivartate
+
+12292027c divasAnte guNAn etAn abhyetyaikovatiSThati
+
+12309024c RtvAsyaH samabalazuklakRSNanetro; mAMsAGgo dravati vayohayo narANAm
+  It is certain that mAMsAGgo is a typographic error for mAsAGgo. The
+  editor records no variant readings for the word, and yet the Bombay and
+  Kumbakonam editions and manuscripts K1 and D4 all have mAsAGgo (PAE). I am
+  grateful to James L. Fitzgerald for pointing out this error.
+
+12319002c pAdAt prabhRtigAtreSu krameNa kramayogavit
+  I am grateful to James L. Fitzgerald for pointing out this error (prabhRti
+  when governed by the ablative pAdAt must be an independent word).
+
+12323057e parAM gatim anuprApta iti naiSThikam ajjasA
+
+12324024c na kSutpipAse rAjendra bhUmez cchidre bhaviSyataH
+
+12331030a zvetadIpe mayA dRSTAs tAdRzAv RSisattamau
+
+12331035c zvetadIpe tvayA dRSTa AvayoH prakRtiH parA
+  I am grateful to James L. Fitzgerald for pointing out this error.
+
+12334014c ekAntinAM zaraNado 'bhayado gatido 'stu vaH; sa makhabhAgaharas triguNAtigaH
+12334015a catuSpaJcadharaH pUrte;STayoz ca phalabhAgaharaH
+  I am grateful to Kirti Sharad Thakar and Samita Vasant Shinde for correcting
+  what must be an editorial slip in the division of the text into pAdas. The
+  critical note says, “Very probably ekAntinAM is a marginalia for vaH and
+  should not be regarded as part of the line”; however, the version adopted in
+  the electronic text is clearly preferable.
+
+12338005a idaM puruSasuktaM hi sarvavedeSu pArthiva
+
+12342008c provAca vacanaM zlaSNaM prAjJo madhurayA girA
+
+13016013a sa dRSTvavAn mahAdevam astauSIc ca stavair vibhum
+
+13023006a na brAhmaNaH sAdhayate havyaM daivAt prasiddhyati
+
+13027098c bhajed vAcA manasA karmaNA ca; bhaktyA yuktaH parayA zraddhadhAnaH
+
+13028022a tataH saMtApayAm Asa bibudhAMs tapasAnvitaH
+
+13059005a mriyate yAcamAno vai tam anu mriyate dadat
+  This line has been reproduced unchanged as it appears in the printed text;
+  however, it seems likely that the final word should appear as 'dadat.
+
+13061025a pitRMz ca pitRlokasthAn devaloke ca devatAH
+
+13076007c klaizair vipraM yo 'phalaiH saMyunakti; tasyAvIryAz cAphalAz caiva lokAH
+
+13091001c bhRgvaGgarasake kAle muninA katareNa vA
+
+13101024c pitqNAM mAnuSANAM ca kAntAyAs tv anupUrvazaH
+
+13110062a kalahaMsavinirghoSair nUpUrANAM ca nisvanaiH
+
+13125022c na bhAti kAle 'bhihitaM tenAsi hariNa kRzaH
+
+13134027c pravaktqn pRcchate yo 'nyAn sa vai nA padam arcchati
+  This line has been reproduced unchanged as it appears in the printed text;
+  however, as the editor's critical note observes, “nApadam, that is na
+  Apadam (for nA padam) is certainly more natural”.
+
+14011010a vyAptAsv athAsu vRtreNa rase ca viSaye hRte
+
+14017035e tac chrutvA naiSThikIM buddhiM buddhyethAH karmanizcayAt
+
+15005006a yac cAhaM pANDuputreNa guNavatsu mahAtmasu
+  It is certain that pANDuputreNa is a typographic error for pANDuputreSu.
+  The editor records no variant readings for the word, and yet the Bombay
+  Edition, P. S. S. Sastri's edition of the southern recension and manuscripts
+  K3, K4 and D9 all have pANDuputreSu (PAE).
+
+15033012a iyaM ca mAtA jyeSThA me vItavAtAdhvakarzitA
+  It is certain that vItavAtAdhvakarzitA is a typographic error for
+  zItavAtAdhvakarzitA. The editor records no variant readings for
+  vIta-, and yet the Bombay Edition, P. S. S. Sastri's edition of
+  the southern recension and manuscripts K3, K4 and D9 all have
+  zItavAtAdhvakarzitA (PAE).
+
+15044008a mA sma zoke manaH kArSIr diSTena vyathate budhaH
+  The sense demands diSTe na.
+
+15044039c gamyatAM putra maiva tvaM vocaH kuru vaco mama
+  It is certain that maiva is a typographic error for maivaM. The editor
+  records no significant variant readings for the word, and yet the Bombay
+  Edition and manuscripts K3, K4 and D9 all have maivaM (PAE).
+
+16004004c te sAgarasyopariSThAd avartan; manojavAz caturo vAjimukhyAH
+
+16008039a tat sAgarasamaprakhyaM vRSNicakraM mahardhimat
+
+16009012a punaH punar na mRzyAmi vinAzam amitaujasAm
+  It is certain that mRzyAmi is a typographic error for mRSyAmi. The
+  editor records no significant variant readings for the word, and yet the
+  Bombay Edition and manuscripts K3, K4 and D9 all have mRSyAmi (PAE).
+
+17001011a mAtRbhiH saha dharmAtmA kRtvodakam atandritaH
+  It is certain that mAtRbhiH is a typographic error for bhrAtRbhiH. The
+  editor records no variant readings for the word, and yet the Bombay Edition
+  and manuscripts K3, K4 and D9 all have bhrAtRbhiH (PAE).
+
+18001016c draupadyAz ca pariklezaM na cintayatum arhasi
+  It is certain that cintayatum is a typographic error for cintayitum. The
+  editor records no variant readings for the word, and yet the Bombay Edition
+  and manuscripts K3, K4 and D8 all have cintayitum (PAE).

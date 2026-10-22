@@ -6,9 +6,9 @@ layout: page
 ## Hosted by INDOLOGY
 
 * [SARIT: Search and Retrieval of Indic Texts](https://sarit.indology.info) 
-* [Scanned Indian manuscript catalogues](https://indology.info/scanned-catalogues/) 
-* [Bombay: John Smith’s Indic home page](https://bombay.indology.info/) 
-* [Sanskrit publishers’ vocabulary](https://indology.info/sanskrit-publishers-vocabulary/) 
+* [Scanned Indian manuscript catalogues](/scanned-catalogues/) 
+* [Bombay: John Smith’s Indic home page](/bombay/) 
+* [Sanskrit publishers’ vocabulary](/sanskrit-publishers-vocabulary/) 
 * [The old INDOLOGY website (archived)](https://web.archive.org/web/20230000000000*/indology.info) 
 * [Online issues of Indological journals](https://cikitsa.blogspot.com/2018/04/online-issues-of-indological-journals.html)
 
@@ -20,7 +20,7 @@ layout: page
 * [Who was Who in Indology](https://whowaswho-indology.info/) 
 * [Pañcāṅga by Prof. M. Yano](http://www.cc.kyoto-su.ac.jp/~yanom/pancanga/index.html) 	
 * [Hindu Calendar application by J.C. Eade & L. Gislén](https://hic.efeo.fr/)  
-* [Funding sources](https://indology.info/funding-sources/) 
+* [Funding sources](/funding-sources/) 
 * [Online Aṣṭādhyāyī](https://ashtadhyayi.com) 
 * [Sanskrit Studies Podcast](https://www.sanskritstudiespodcast.com/) 
 * [Look up inflected forms](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-inflect/web/index.php) 

@@ -1,0 +1,533 @@
+% Mahābhārata: supplementary passages - Āśramavāsikaparvan
+% Last updated: Tue Mar 13 2001
+% Encoding: Unicode Roman
+% Electronic text (C) Bhandarkar Oriental Research Institute,
+% Pune, India, 2001
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+% Book 15, star passages
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+% The introductory mantra:
+15*0001_01 nārāyaṇaṁ namaskr̥tya naraṁ caiva narottamam
+15*0001_02 devīṁ sarasvatīṁ caiva tato jayam udīrayet
+% Before the introductory mantra, ...
+% K4 [ins.]
+15*0002_01 jayati parāśarasūnuḥ satyavatīhr̥dayanandano vyāsaḥ
+15*0002_02 yasyāsyakamalagalitaṁ vāṅmayam amr̥taṁ jagat pibati
+% Of the MSS. which om. the introductory mantra, ...
+% D5 [begins] with
+15*0003_01 kastūrinikarākāraṁ vastūtīkr̥tarakṣaṇam (sic)
+15*0003_02 astu bhūr dadhidugdhābhyām astu muktyaiva muktaye
+
+% 15.1.7
+% After
+% 7, K3 ins.:
+15*0004_01 rājann etāni sarvāṇi sa ca tān anvavartata
+% while, G2 ins. after 7:
+15*0005_01 tathāvidhāṁś ca tān dr̥ṣṭvā dhr̥tarāṣṭro ’bhyanandata
+
+% 15.1.22
+% After 22ab, K4
+% (marg. sec. m.) B Dn D1-3.7.9 ins.:
+15*0006_01 etāś cānyāś ca bahvyo vai yoṣito bharatarṣabha
+
+% 15.4.3
+% D4.6.8 T2 G1.2.5 M1-3 subst. for 3: D5 T3 G3.4
+% (last two second time) ins. after 3:
+15*0007_01 kauravaś caiva bhīmaś ca hr̥dānyonyam amr̥ṣyatām
+15*0007_02 dhyāyantau ślakṣṇayā vācā anyonyām abhitiṣṭhatām
+
+% 15.4.4
+% After 4,
+% K ins.:
+15*0008_01 saṁvatsarāṇy athaivaṁ te vr̥ttavantaś ca kāni cit
+% while K4 (marg.; partly corrupt) B Dn D1-3.7.9
+% ins. after 4:
+15*0009_01 smaran durmantritaṁ tasya vr̥ttāny apy asya kāni cit
+% On the other hand, D4-6.8 S ins. after 4:
+15*0010_01 asakr̥c cāpy uvācedaṁ hatās te mandacetasaḥ
+
+% 15.4.7
+% For 7cd, D4-6.8 T2.4 G2-4
+% subst.:
+15*0011_01 asakr̥c cāpy uvācedaṁ hatās te mandacetasaḥ
+
+% 15.4.8
+% K1.
+% 3-5 B1.3.6 D9 T3.4 G2-5 M2-5 ins. after 8: D1.4
+% 6.8 T2 M1 subst. for 8:
+15*0012_01 imau pīnau suvr̥ttau me nāgarājakaropamau
+15*0012_02 yāv āsādya raṇe mūḍhā dhārtarāṣṭrāḥ kṣayaṁ gatāḥ
+
+% 15.4.10
+% For
+% 10cd, D4.6.8 T2.3 G2 M2 subst.:
+15*0013_01 śrutvā nirvedam āpede bhīmavāgbāṇacoditaḥ
+
+% 15.4.11
+% After 11, K3-5 D3 G1 ins.:
+15*0014_01 kuntyāḥ saparyāṁ saṁvīkṣya śāpe nāsyākaron matim
+
+% 15.4.12
+% D4.
+% 6.8 subst. for 12: D5 T2.3 G2.4 M3 ins. after 12:
+15*0015_01 sukhāsaktaṁ kr̥cchraparaṁ jñātvā caiva yudhiṣṭhiram
+15*0015_02 tapoyogāt tapas taptuṁ manaś cakre mahāmatiḥ
+
+% 15.4.15
+% After 15, K3
+% ins.:
+15*0016_01 sa bhīmavākyāgnividīpitāṅgo
+15*0016_02 nirviṇṇacetā nr̥patiḥ saśokaḥ
+15*0016_03 sapaurabhr̥tyaṁ janam ānināya
+15*0016_04 vanaṁ yiyāsur vacanaṁ babhāṣe
+
+% 15.5.1
+% After the ref.
+% D6 ins.:
+15*0017_01 vartamāneṣu sadvr̥ttiṁ pāṇḍaveṣu mahātmasu
+15*0017_02 prītimānam abhavad rājā kuntīputro yudhiṣṭhiraḥ
+
+% 15.5.7
+% After
+% 7, M (except M3) ins. (cf. 5.122.60-61):
+15*0018_01 tasya trailokyanāthasya samupetyābhiyācataḥ
+15*0018_02 akr̥tvā vacanaṁ paścāt tapsyāmy adya sudurmatiḥ
+
+% 15.5.13
+% For 13ab, B2-4 Dn D1.2.7.9
+% subst.:
+15*0019_01 hataṁ śataṁ tu putrāṇāṁ yayor yuddhe ’palāyinām
+
+% 15.6.1
+% K5 om. 1 (cf. v.l. 15.5.12). Before the
+% ref., K4 ins.:
+15*0021=00 vaiśaṁpāyanaḥ
+15*0021_01 tarasā manasā dhyātvā gamanaṁ sa vanaṁ prati
+15*0021_02 tasya rājñas tadā rājā provācedaṁ vacaḥ śubham
+
+% 15.7.1
+% After 1ab, G1 ins.:
+15*0022_01 uvāca rājadharmajño dhr̥tarāṣṭraḥ śubhaṁ vacaḥ
+
+% 15.8.4
+% After 4, D4-6.8 S ins.:
+15*0023_01 svastho bhavatv ayaṁ dhīmān vaneṣu madhugandhiṣu
+
+% 15.10.1
+% After 1, M1 ins.:
+15*0024_01 alubdhaiś cāsya vyasanibhiḥ snigdhair ātmasamaiḥ sadā
+
+% 15.10.4
+% After 4, K3.5 G1 ins.:
+15*0025_01 avarodhabhūmau bhr̥tyais tu saha pānaṁ vivarjayet
+15*0025_02 ākrośanty anumattās te kalatraṁ cāpi gr̥hṇate
+15*0025_03 jighāṁsanty api śastreṇa naṣṭāḥ krīḍanti cotkaṭāḥ
+15*0025_04 nānākṣepā vyāharanti gamyāgamyaṁ na jānate
+15*0025_05 atipānena rājāpi sarvakośaṁ vināśayet
+15*0025_06 vitared gāyakebhyaś ca pradhānadravyasaṁcayam
+15*0025_07 buddhvemān pānadoṣāṁs tu pibed ekaḥ svajāyayā
+15*0025_08 yuktyā prakāśaṁ matimān svavīryasyābhivr̥ddhaye
+
+% 15.10.8
+% After 8cd, K3-5 G1 ins.:
+15*0026_01 na vr̥thā vyavatiṣṭheta pārihāryādibhūṣaṇam
+15*0026_02 prayojyaṁ sarvadeveha māṅgalyaṁ pāpanāśanam
+
+% 15.11.7
+% After 7e, K4 B
+% Dn D1-3.7.9 ins.:
+15*0027_01                         svapakṣaś caiva durbalaḥ
+15*0027_02 sārdhaṁ vidvāṁs tadā kṣīṇaḥ
+
+% 15.13.9
+% After 9, K1.2 ins.:
+15*0028_01 dhr̥tarāṣṭraḥ sa tān sarvān pretakāryārtham abravīt
+% while, K3-5 ins. after 9:
+15*0029_01 āpr̥ṣṭvā gantum icchāmi vanaṁ subalanandini
+
+% 15.13.11
+% B3
+% Dn D1-3.7 ins. after 11: B1.2.4.5 D9 after 11cd:
+15*0030_01 tān āgatān abhiprekṣya samastaṁ ca suhr̥jjanam
+
+% 15.14.1
+% For 1ef, T1 subst.:
+15*0031_01 anantaraṁ sa pāṇḍuś ca pālayām āsa medinīm
+
+% 15.14.2
+% D4.6.8 T2.3 G1.5 M1-3
+% ins. after 2: D5 T4 G2-4 M4.5 after 3: T1 after
+% 1:
+15*0032_01 anantaraṁ hi pitaram anujāto yudhiṣṭhiraḥ
+15*0032_02 nātra kiṁ cin mr̥ṣā jātu bhaviteti matir mama
+
+% 15.14.5
+% D4-6.8 T2-4 G
+% M ins. after 5: T1 after 5ab:
+15*0033_01 ghātitāḥ kuravo yac ca pr̥thivī ca vināśitā
+
+% 15.14.11
+% After 11, D4-6.8
+% S ins.:
+15*0034_01 caturṇāṁ lokapālānāṁ madhye viparivartate
+
+% 15.14.12
+% After 12ab, D4-6.8 S ins.:
+15*0035_01 evam eṣa mahābāhur bhīmārjunayamair vr̥taḥ
+
+% 15.14.17
+% For
+% 17ab, K3 subst.:
+15*0036_01 ity evaṁ bruvatas tasya dhr̥tarāṣṭrasya dhīmataḥ
+
+% 15.15.16
+% After 16, D4-6.8 T2-4 G1.2 M ins.:
+15*0037_01 priyāṇi kurvan sarveṣām anuvr̥ttyartham udyataḥ
+
+% 15.16.8
+% For 8ab, B Dn D1-3.7.9 subst.:
+15*0038_01 na sa rājñāṁ vadhe sūnuḥ kāraṇaṁ te mahātmanām
+
+% 15.16.12
+% After 12ab, K3 ins.:
+15*0039_01 tad eva puṇyaṁ dharme ca dharme ca paramāṁ gatim
+% For 12cd, D4-6.8 S
+% subst.:
+15*0040_01 veda dharmaṁ mahābāho laukyaṁ vaidikam eva ca
+
+% 15.16.13
+% For 13ab, B1.2 (first time).3-6
+% Dn D1-3.7.9 (first time) subst.:
+15*0041_01 dr̥ṣṭipradānam api te pāṇḍavān prati no vr̥thā
+
+% 15.16.27
+% For 27cd, D4-6.8 S subst.:
+15*0042_01 āgatāyāṁ ca śarvaryāṁ sukhaṁ śete narādhipaḥ
+
+% 15.18.2
+% After 2, K3 Dn D2.7 ins.:
+15*0043_01 iti tasya vacaḥ śrutvā phalgunasya mahātmanaḥ
+15*0043_02 viduraṁ prāha dharmātmā kuntīputro yudhiṣṭhiraḥ
+
+% 15.19.4
+% After 4, D3 ins.:
+15*0044_01 nakulaḥ sahadevaś ca tad anujñātavān vibho
+
+% 15.19.15
+% After 15, K3 ins.:
+15*0045_01 itīdam ukto vidureṇa rājā
+15*0045_02 tasyābhinandyātha vaco vicintya
+15*0045_03 gantuṁ sa cakre vanam eva vegāt
+15*0045_04 tadā manaḥ kārtikapaurṇamāsyām
+
+% 15.26.7
+% For 7cd, K3.5 D4-6.8 S (M4 om.) subst.:
+15*0046_01 vanaṁ viveśa dharmātmā śatacityo mahīpatiḥ
+
+% 15.27.8
+% After 8, K3.4 ins.:
+15*0047_01 mādryā saha mahātmānam indrārdhāsanasaṁsthitam
+15*0047_02 yudhiṣṭhirādisatputrakr̥tapuṇyopabr̥ṁhitam
+
+% 15.28.2
+% For 2cd, D4.6.8 T2 G1.2.5 M1-4 subst.:
+15*0048_01 tatra tatra kathā hy āsan dvijānāṁ kauravān prati
+
+% 15.28.16
+% After 16, K3 ins.:
+15*0049_01 te śokavegābhihatā vicetaso
+15*0049_02 dine dine taiḥ puravāsibhiḥ saha
+15*0049_03 vihāya bhogān pararāṣṭramardanāḥ
+15*0049_04 pratyaktakāmās tv avatasthur ādr̥tāḥ
+
+% 15.31.12
+% D4.6.8 T2.3 ins. after
+% 12: G5 M2-4 after 11:
+15*0050_01 tayos tu pādayo rājan nyapatan hataputrayoḥ
+
+% 15.32.10
+% After 10, N (B3
+% missing) T G1-4 M5 ins.:
+15*0051_01 iyaṁ ca jāmbūnadaśuddhagaurī
+15*0051_02 pārthasya bhāryā bhujagendrakanyā
+15*0051_03 citrāṅgadā caiva narendrakanyā
+15*0051_04 yaiṣā savarṇāgryamadhūkapuṣpaiḥ
+
+% 15.33.2
+% After 2, Dn ins.:
+15*0052_01 kaccit te ’pi nirātaṅkā vasanti viṣaye tava
+
+% 15.33.7
+% K3.4 ins after 7:
+% K5 after 6:
+15*0053_01 sarve te āśramā varṇā dharmasthā ye ca vittamāḥ
+
+% 15.33.17
+% After 17a,
+% K ins.:
+15*0054_01                      dhr̥tarāṣṭrasya dhīmataḥ
+15*0054_02 jagāma sa vanaṁ rājā dharmarājo yudhiṣṭhiraḥ
+15*0054_03 dr̥śyate viduras tatra
+
+% 15.33.18
+% After 18ab,
+% D4.6.8 T2 G1.2 ins.:
+15*0055_01 viduras tv eṣa dharmātmā janaṁ dr̥ṣṭvā nivartate
+% On the other hand, T3 ins. after 18ab:
+15*0056_01 tūṣṇīṁ gacchantam ekāgre viduraṁ samudaikṣata
+
+% 15.33.31
+% After 31, K ins.:
+15*0057_01 na dagdhavyo na dagdhavya eṣa rājan mahātapāḥ
+15*0057_02 jñānadagdhasya dehasya punardāho na vidyate
+
+% 15.33.35
+% For
+% 35ab, G5 M1-4 subst.:
+15*0058_01 atha rājābravīd vr̥ddhaḥ kururājo yudhiṣṭhiram
+
+% 15.34.14
+% After 14, K1 ins.:
+15*0059_01 tat sarvaṁ pradadau rājā kuntīputro yudhiṣṭhiraḥ
+
+% 15.35.18
+% After
+% 18, G5 M1 ins.:
+15*0060_01 pratyakṣaṁ pūjito yena cittasthaś cinmayo hariḥ
+15*0060_02 śuddhāśayasya bhaktyā ca saṁbhramārādhitaḥ purā
+
+% 15.36.6
+% After the ref., D4-6.8 S ins.:
+15*0061_01 vanavāsagataṁ rājan dhr̥tarāṣṭraṁ mahīpatim
+15*0061_02 yudhiṣṭhiro ’bhyayād draṣṭuṁ sasainyo bhrātr̥bhiḥ saha
+15*0061_03 prathame divase caiṣām āpo mūlaṁ phalaṁ tathā
+15*0061_04 bhojanaṁ bhūmiśayyā ca tatrāsīd bharatarṣabha
+
+% 15.36.19
+% For 19cd,
+% G5 M1-4 subst.:
+15*0062_01 prāpto ’smi kuruśārdūla saṁśayacchedanāya vaḥ
+
+% 15.36.29
+% After the second occurrence of
+% 29ab, D4-6.8 T G1-4 M5 ins.:
+15*0063_01 bhogāṁś ca vividhāṁs tāta iṣṭāpūrtāṁs tathaiva ca
+
+% 15.37.3
+% After 3,
+% D4-6.8 S ins.:
+15*0064_01 lokāntaragatān putrān ayaṁ kāṅkṣati mānada
+15*0064_02 tac cāsya mānasaṁ jñātaṁ bhagavaṁs tapasā tvayā
+
+% 15.38.4
+% For 4ab, B1.4-6 Dn D1-3.7.9 subst.:
+15*0065_01 sa prīto varado me ’bhūt kr̥takr̥tyo mahāmuniḥ
+% After 4, K1.2 ins.:
+15*0066_01 tam ahaṁ bhayasaṁvignā yāce sānunayaṁ dvijam
+
+% 15.38.19
+% After
+% 19, M1 ins.:
+15*0067_01 sthityarthaṁ tena devena buddhis te parivartitā
+
+% 15.39.12
+% After 12,
+% D4-6.8 S ins.:
+15*0068_01 taṁ karṇaṁ viddhi kalyāṇi bhāskaraṁ śubhadarśane
+
+% 15.39.15
+% For
+% 15cd, D4-6.8 T G1-4 M5 subst.:
+15*0069_01 gāṅgeyo vasuvīryeṇa devo mānuṣatāṁ gataḥ
+
+% 15.40.5
+% After 5, D5 ins.:
+15*0070_01 pratīkṣya tasthus te sarve teṣām āgamanaṁ prati
+
+% 15.40.14
+% For 14cd, D4-6.8 S subst.:
+15*0071_01 yad varma yat praharaṇaṁ tena tena sa dr̥śyate
+
+% 15.41.4
+% After 4,
+% M1 ins.:
+15*0072_01 duryodhano dharmarājam abhivādyāpatad bhuvi
+15*0072_02 gāḍhaṁ pariṣvajya suyodhanaṁ taṁ
+15*0072_03 sabhrātr̥kaṁ sahitaḥ sodaraiḥ svaiḥ
+15*0072_04 karṇaḥ pādāv abhivādya pūrvaṁ
+15*0072_05 bhīṣmaṁ ca sarvān abhipūjya tasthau
+15*0072_06 dharmarājaṁ samāśliṣya bhīmaṁ ca yamajāv api
+15*0072_07 pr̥ṣataṁ sodaraṁ jiṣṇuṁ sugāḍhaṁ pariṣasvaje
+15*0072_08 draupadīṁ ca subhadrāṁ ca saubhadro mahiṣīṁ svakām
+15*0072_09 samāśvāsya sthito vīraḥ paśyan putraṁ parikṣitam
+
+% 15.41.5
+% After 5, B1.2.4-6 Dn D1-3.7.9 ins.:
+15*0073_01 parasparaṁ samāgamya yodhās te bharatarṣabha
+
+% 15.41.10
+% After
+% 10, D4-6.8 S ins. (cf. St. 14-16):
+15*0074_01 devalokaṁ gatā ye ca ye ca brahmasado gatāḥ
+15*0074_02 ye cāpi vāruṇaṁ lokaṁ ye ca golokam āśritāḥ
+15*0074_03 tathā vaivasvataṁ lokaṁ ye ca yakṣān upāgatāḥ
+15*0074_04 rākṣasāṁś ca piśācāṁś ca kurūṁś cāpi tathottarān
+15*0074_05 vicitrāś ca gati[tī]r anye ye prāptāḥ karmanirbharāḥ
+15*0074_06 sarve te tadvayorūpaveṣās tatra samabhyayuḥ
+% After the prior half, G3 ins.:
+15*0075_01 ye ca gāndharvam āśritāḥ
+% After line 3, G3.4 ins.:
+15*0076_01 rājānaḥ puṇyakarmibhiḥ
+
+% 15.41.19
+% After 19, M1.3 ins.:
+15*0077_01 uttarādyāḥ pradāyātha putrān svān anumānya ca
+15*0077_02 ta * * bhūriśravaso droṇādīn anumānya ca
+
+% 15.41.21
+% After 21a, T1 ins.:
+15*0078_01               gacchadhvaṁ patibhiḥ sadā
+15*0078_02 tatas tāḥ kṣatriyā rājan yā yā vinihateśvarāḥ
+
+% 15.41.25
+% After
+% 25, D4-6.8 S ins.:
+15*0079_01 te naṣṭabhayasaṁkalpā narā vigatakalmaṣāḥ
+15*0079_02 babhūvuḥ pauravāḥ sarve tad dr̥ṣṭvāścaryam uttamam
+
+% 15.41.27
+% After
+% 27, K1 B1.2.4-6 Dn D1-3.7.9 ins.:
+15*0080_01 sa yaśaḥ prāpnuyāl loke paratra ca śubhāṁ gatim
+
+% 15.41.28
+% After
+% 28ab, K1.4 (marg.) B1.2.4-6 Dn D1-3.7.9 ins.:
+15*0081_01 sādhvācārā damopetā dānanirdhūtakalmaṣāḥ
+15*0081_02 r̥javaḥ śucayaḥ śāntā hiṁsānr̥tavivarjitāḥ
+% D4 ins. after 28ab: D5.6.8
+% S after 28cd:
+15*0082_01 punas te darśanaṁ prāptāḥ punaś ca parikīrtitāḥ
+15*0082_02 punaḥ punaḥ prayacchanti śr̥ṇvatām abhayaṁ sadā
+
+% 15.43.17
+% After 17ab, T1 ins.:
+15*0084_01 dr̥ṣṭvā ca pitaraṁ vr̥ttaṁ pūjayām āsa taṁ munim
+15*0084=01 vaiśaṁpāyana uvāca
+15*0084_02 dhr̥tarāṣṭro mahārāja prasādāt tasya vai muneḥ
+% After 17, D5 ins.:
+15*0085_01 parikṣid api tatraiva babhūva ca tirohitaḥ
+
+% 15.44.5
+% For
+% 5cd, D4-6.8 S subst.:
+15*0086_01 dvaipāyana upāgamya rājānam idam abravīt
+
+% 15.44.7
+% After 7, M3
+% ins.:
+15*0087_01 yathāyaṁ vāsudevas tu dhr̥tarāṣṭra balena vai
+15*0087_02 jagatpati yathā dharmo loke tiṣṭhan kalāv api
+15*0087_03 tatprasādena rājāsau mahān dharmam avāpnuyāt
+15*0087_04 tatpādakamalaspr̥ṣṭāṁ kalir neyān mahīm imām
+
+% 15.44.23
+% After 23ab,
+% K3 ins.:
+15*0088_01 tatkālayuktaṁ tathyaṁ ca buddhimān sa yudhiṣṭhiraḥ
+
+% 15.44.28
+% After 28ab, M3 ins.:
+15*0089_01 śuśrūṣātikr̥śā tvaṁ ca nātaḥ puṇyaṁ paraṁ mama
+15*0089=01 kuntī uvāca
+15*0089_02 na yuktaṁ tapaso vighnaṁ kartuṁ dīkṣākr̥śā vayam
+15*0089_03 antakāle na yuktaṁ hi apatyādiparigraham
+
+% 15.44.34
+% After 34cd, M5 ins.:
+15*0090_01 sa vr̥ddhaṁ prīyate nityaṁ sa ca devaḥ parātmabhūḥ
+
+% 15.44.44
+% For 44ab, K2-5 subst.:
+15*0091_01 ājñāpaya mahābāho sarve tvacchāsanānugāḥ
+
+% 15.45.1
+% After 1ab, T3 ins.:
+15*0092_01 kadā cin nagare nāgasāhvaye ca yadr̥cchayā
+
+% 15.45.2
+% For 2cd, D1 subst.:
+15*0093_01 uvāca vacanaṁ vāgmī praśrayāvanataḥ sudhīḥ
+
+% 15.45.3
+% After 3, T2 ins.:
+15*0094_01 abhivādyābravīd rājan bhrātr̥bhiḥ saha pāṇḍavaḥ
+
+% 15.45.6
+% For 6, G4 subst.:
+15*0095_01 vadanti pitaraṁ jyeṣṭham āsthitaṁ paramaṁ tapaḥ
+15*0095_02 taṁ draṣṭuṁ tatra gatvāham āgato nr̥pasattamam
+
+% 15.45.12
+% For 12ab, D4-6.8 S subst.:
+15*0096_01 tatrograṁ tapa āsthāya dhr̥tarāṣṭro mahāmanāḥ
+
+% 15.45.41
+% After 41, D4-6.8 S (T4
+% om.) ins.:
+15*0097_01 rurudur duḥkhasaṁtaptā varṇayantaḥ pr̥thāṁ tadā
+
+% 15.45.42
+% For 42ab, D4-6.8 S (T4 om.) subst.:
+15*0098_01 antaḥpureṣu sumahāṁs tato ruditanisvanaḥ
+
+% 15.46.12
+% After 12, D1.3 ins.:
+15*0099_01 dahate mātaraṁ mahyaṁ yasya te gatir īdr̥śī
+
+% 15.46.17
+% For 17ab, D3
+% subst.:
+15*0100_01 bhīma māṁ trāhi dāvāgner bhayād ity abhiyācatī
+
+% 15.46.20
+% After 20, G1.5 M1-4 ins.:
+15*0101_01 anyonyaṁ vīkṣya vīkṣyaivaṁ smr̥tvā mātur upaplavam
+15*0101_02 sehire na mahīpālā nipetuḥ pr̥thivītale
+15*0101_03 punar utthāya cāliṅgya rudanto viṣamasvanāḥ
+15*0101_04 nipetuḥ pāṇḍavāḥ śokād dharmarājasya pādayoḥ
+
+% 15.47.18
+% After 18ab, M1 ins.:
+15*0102_01 bahūni caiva ratnāni vāsāṁsi vividhāni ca
+15*0102_02 mahārhāṇi vicitrāṇi dadau kauravanandanaḥ
+% For 18cd, K2.5 subst.:
+15*0103_01 saṁkīrtya nāmāni dadau rājan dānāni pārthivaḥ
+
+% 15.47.19
+% For 19ab, T1 subst.:
+15*0104_01 yāvad icchanti viprās tu tāvanti prāpnuyur dvijāḥ
+
+% 15.47.21
+% After 21, G1.5 M1-4 ins.:
+15*0105_01 siktasaṁmārjitapathaṁ patākātoraṇocchritam
+15*0105_02 hr̥ṣṭapuṣṭajanākīrṇaṁ puraṁ teṣāṁ praveśane
+
+% 15.47.22
+% After 22ab, G1.5 M1-4 ins.:
+15*0106_01 dhr̥tarāṣṭrasya gāndhāryāḥ kuntyāś cakruś ca saṁghaśaḥ
+15*0106_02 gaṅgādvāre śubhe puṇye yathoddiṣṭaṁ mahātmanā
+
+% 15.47.24
+% After 24, K2.3.5 ins.:
+15*0107_01 dvārakāyāṁ tataḥ kr̥ṣṇaṁ vāsudevaṁ janārdanam
+15*0107_02 anādinidhanaṁ viṣṇuṁ śaṅkhacakragadādharam
+15*0107_03 rahasyakathane yuktaṁ nārāyaṇam anāmayam
+
+% 15.47.27
+% After 27, D2.7 Cal. ed.
+% ins.:
+15*0108_01 tathāśramavāsike tu parvaṇy api samāhitaḥ
+15*0108_02 gandhamālyādiyuktaṁ ca haviṣyaṁ bhojayed dvijān

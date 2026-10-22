@@ -1,0 +1,89 @@
+% Mahabharata: supplementary passages - Mahaprasthanikaparvan
+% Last updated: Tue Mar 13 2001
+% Encoding: ASCII
+% Electronic text (C) Bhandarkar Oriental Research Institute,
+% Pune, India, 2001
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+% Book 17, star passages
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+% The introductory mantra:
+17*0001_01 nArAyaNaM namaskRtya naraM caiva narottamam
+17*0001_02 devIM sarasvatIM caiva tato jayam udIrayet
+% Of the MSS. which om. the introductroy mantra,
+% K2 begins with sriganesaya namah |
+17*0002_01 * * * * * * * satyavatIhRdayanandano vyAsaH
+17*0002_02 yasyAsyakamalagalitaM vAGmadhupuNyaM jagat pibati
+
+% 17.1.11
+% After 11,
+% K2-5 Dn D2-4.7 T2.3 ins.:
+17*0003_01 dvaipAyanaM nAradaM ca mArkaNDeyaM tapodhanam
+17*0003_02 bhAradvAjaM yAjJavalkyaM harim uddizya yatnavAn
+17*0003_03 abhojayat svAdu bhojyaM kIrtayitvA ca zArGgiNam
+
+% 17.1.13
+% After 13ab, D5.6 T4 G1.2.4
+% ins.:
+17*0004_01 AhUya bharatazreSTha saMnivezyAsane tadA
+
+% 17.1.17
+% After 17, D5.6
+% S ins.:
+17*0005_01 vartamAne vivAde tu vAstuvikrayaNaM prati
+17*0005_02 dhanecchA yugapat prAptA kSetrataH svAmibhUbhRtAm
+17*0005_03 prAptaM kaliyugaM jJAtvA sahadevo hasann iva
+17*0005_04 rAjJas tu kathayAm Asa dharmo naSTas tu bhArata
+17*0005_05 rAjA ca durmanA rAjan paryAptaM jIvitaM mama
+% M1 cont.:
+17*0006_01 iti cintya gate rAjan govinde dharmadhAraNe
+
+% 17.1.40
+% After 40, K2.3 D4.7 T2.3 ins.:
+17*0007_01 yathA ghanasya gagane zabdo bhavati bhArata
+17*0007_02 salile kSipyamANasya gANDIvasya tathA hy abhUt
+
+% 17.1.42
+% For 42, T1 subst.:
+17*0008_01 jagmur bharatazArdUla tIreNa lavaNAmbhasaH
+17*0008_02 tataH punaH samAvRttA jagmur dakSiNapazcimAm
+
+% 17.1.43
+% After
+% 43, K2.4 D3.4 T3 ins.:
+17*0009_01 haripAdAGkavinyAsatIrthIkRtamahAbhuvam
+17*0009_02 manobhiH pUjayantaz ca janArdanam aninditAH
+
+% 17.2.1
+% After 1ab, K2.3 ins.:
+17*0010_01 tatas te brAhmaNIM snAtvA dRSTvA devaM jale sthitam
+17*0010_02 madhyamAMzaM zivaM gatvA dRSTvA rudraM mahAbalam
+17*0010_03 prayAgapaJcake snAtvA gatvA himagiriM zubham
+17*0010_04 IzAnaM tu namaskRtya snAtvA haMsodake zubhe
+17*0010_05 devadevaM tu kedAraM dRSTvA spRSTvA prayatnataH
+17*0010_06 piNDaM dattvA vidhAnena pitqn devAMz ca tarpya vai
+17*0010_07 udakaM vidhivat pItvA tato nandAM jagAma vai
+17*0010_08 mahApanthAnam AvRtya himavantaM jagAma ha
+
+% 17.2.10
+% After the ref., G3 ins.:
+17*0011_01 sahadevo 'pi dharmAtmA sarvabuddhimatAM varaH
+% After 10ab,
+% K3 ins.:
+17*0012_01 kAlatrayavidaz cApi na me guhyaM prakAzitam
+17*0012_02 saMpratijJAgataz cAhaM nAkariSyaM janakSayam
+
+% 17.3.11
+% After 11, N (D6 om.) T3
+% ins.:
+17*0013_01 bhItaM bhaktaM nAnyad astIti cArtaM
+17*0013_02 prAptaM kSINaM rakSaNe prANalipsum
+17*0013_03 prANatyAgAd apy ahaM nota moktuM
+17*0013_04 yateyaM vai nityam etad vrataM me
+
+% 17.3.27
+% After 27, K2.3 D2
+% T2.3 ins.:
+17*0014_01 tejAMsi yAni dRSTAni bhUmiSThena tvayA vibho
+17*0014_02 vezmAni karmadevAnAM pazyAmUni sahasrazaH

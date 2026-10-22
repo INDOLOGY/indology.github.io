@@ -1,0 +1,1556 @@
+% Mahabharata: Striparvan
+% Last updated: Mon Apr 17 2017
+% Encoding: ASCII
+% Electronic text (C) Bhandarkar Oriental Research Institute,
+% Pune, India, 1999
+%
+11001001  janamejaya uvAca
+11001001a hate duryodhane caiva hate sainye ca sarvazaH
+11001001c dhRtarASTro mahArAjaH zrutvA kim akaron mune
+11001002a tathaiva kauravo rAjA dharmaputro mahAmanAH
+11001002c kRpaprabhRtayaz caiva kim akurvata te trayaH
+11001003a azvatthAmnaH zrutaM karma zApaz cAnyonyakAritaH
+11001003c vRttAntam uttaraM brUhi yad abhASata saMjayaH
+11001004  vaizaMpAyana uvAca
+11001004a hate putrazate dInaM chinnazAkham iva drumam
+11001004c putrazokAbhisaMtaptaM dhRtarASTraM mahIpatim
+11001005a dhyAnamUkatvam ApannaM cintayA samabhiplutam
+11001005c abhigamya mahAprAjJaH saMjayo vAkyam abravIt
+11001006a kiM zocasi mahArAja nAsti zoke sahAyatA
+11001006c akSauhiNyo hatAz cASTau daza caiva vizAM pate
+11001006e nirjaneyaM vasumatI zUnyA saMprati kevalA
+11001007a nAnAdigbhyaH samAgamya nAnAdezyA narAdhipAH
+11001007c sahitAs tava putreNa sarve vai nidhanaM gatAH
+11001008a pitqNAM putrapautrANAM jJAtInAM suhRdAM tathA
+11001008c gurUNAM cAnupUrvyeNa pretakAryANi kAraya
+11001009  vaizaMpAyana uvAca
+11001009a tac chrutvA karuNaM vAkyaM putrapautravadhArditaH
+11001009c papAta bhuvi durdharSo vAtAhata iva drumaH
+11001010  dhRtarASTra uvAca
+11001010a hataputro hatAmAtyo hatasarvasuhRjjanaH
+11001010c duHkhaM nUnaM bhaviSyAmi vicaran pRthivIm imAm
+11001011a kiM nu bandhuvihInasya jIvitena mamAdya vai
+11001011c lUnapakSasya iva me jarAjIrNasya pakSiNaH
+11001012a hRtarAjyo hatasuhRd dhatacakSuz ca vai tathA
+11001012c na bhrAjiSye mahAprAjJa kSINarazmir ivAMzumAn
+11001013a na kRtaM suhRdAM vAkyaM jAmadagnyasya jalpataH
+11001013c nAradasya ca devarSeH kRSNadvaipAyanasya ca
+11001014a sabhAmadhye tu kRSNena yac chreyo 'bhihitaM mama
+11001014c alaM vaireNa te rAjan putraH saMgRhyatAm iti
+11001015a tac ca vAkyam akRtvAhaM bhRzaM tapyAmi durmatiH
+11001015c na hi zrotAsmi bhISmasya dharmayuktaM prabhASitam
+11001016a duryodhanasya ca tathA vRSabhasyeva nardataH
+11001016c duHzAsanavadhaM zrutvA karNasya ca viparyayam
+11001016e droNasUryoparAgaM ca hRdayaM me vidIryate
+11001017a na smarAmy AtmanaH kiM cit purA saMjaya duSkRtam
+11001017c yasyedaM phalam adyeha mayA mUDhena bhujyate
+11001018a nUnaM hy apakRtaM kiM cin mayA pUrveSu janmasu
+11001018c yena mAM duHkhabhAgeSu dhAtA karmasu yuktavAn
+11001019a pariNAmaz ca vayasaH sarvabandhukSayaz ca me
+11001019c suhRnmitravinAzaz ca daivayogAd upAgataH
+11001019e ko 'nyo 'sti duHkhitataro mayA loke pumAn iha
+11001020a tan mAm adyaiva pazyantu pANDavAH saMzitavratam
+11001020c vivRtaM brahmalokasya dIrgham adhvAnam Asthitam
+11001021  vaizaMpAyana uvAca
+11001021a tasya lAlapyamAnasya bahuzokaM vicinvataH
+11001021c zokApahaM narendrasya saMjayo vAkyam abravIt
+11001022a zokaM rAjan vyapanuda zrutAs te vedanizcayAH
+11001022c zAstrAgamAz ca vividhA vRddhebhyo nRpasattama
+11001022e sRJjaye putrazokArte yad Ucur munayaH purA
+11001023a tathA yauvanajaM darpam Asthite te sute nRpa
+11001023c na tvayA suhRdAM vAkyaM bruvatAm avadhAritam
+11001023e svArthaz ca na kRtaH kaz cil lubdhena phalagRddhinA
+11001024a tava duHzAsano mantrI rAdheyaz ca durAtmavAn
+11001024c zakuniz caiva duSTAtmA citrasenaz ca durmatiH
+11001024e zalyaz ca yena vai sarvaM zalyabhUtaM kRtaM jagat
+11001025a kuruvRddhasya bhISmasya gAndhAryA vidurasya ca
+11001025c na kRtaM vacanaM tena tava putreNa bhArata
+11001026a na dharmaH satkRtaH kaz cin nityaM yuddham iti bruvan
+11001026c kSapitAH kSatriyAH sarve zatrUNAM vardhitaM yazaH
+11001027a madhyastho hi tvam apy AsIr na kSamaM kiM cid uktavAn
+11001027c dhUr dhareNa tvayA bhAras tulayA na samaM dhRtaH
+11001028a AdAv eva manuSyeNa vartitavyaM yathA kSamam
+11001028c yathA nAtItam arthaM vai pazcAttApena yujyate
+11001029a putragRddhyA tvayA rAjan priyaM tasya cikIrSatA
+11001029c pazcAttApam idaM prAptaM na tvaM zocitum arhasi
+11001030a madhu yaH kevalaM dRSTvA prapAtaM nAnupazyati
+11001030c sa bhraSTo madhulobhena zocaty eva yathA bhavAn
+11001031a arthAn na zocan prApnoti na zocan vindate sukham
+11001031c na zocaJ zriyam Apnoti na zocan vindate param
+11001032a svayam utpAdayitvAgniM vastreNa pariveSTayet
+11001032c dahyamAno manastApaM bhajate na sa paNDitaH
+11001033a tvayaiva sasutenAyaM vAkyavAyusamIritaH
+11001033c lobhAjyena ca saMsikto jvalitaH pArthapAvakaH
+11001034a tasmin samiddhe patitAH zalabhA iva te sutAH
+11001034c tAn kezavArcir nirdagdhAn na tvaM zocitum arhasi
+11001035a yac cAzrupAtakalilaM vadanaM vahase nRpa
+11001035c azAstradRSTam etad dhi na prazaMsanti paNDitAH
+11001036a visphuliGgA iva hy etAn dahanti kila mAnavAn
+11001036c jahIhi manyuM buddhyA vai dhArayAtmAnam AtmanA
+11001037a evam AzvAsitas tena saMjayena mahAtmanA
+11001037c viduro bhUya evAha buddhipUrvaM paraMtapa
+11002001  vaizaMpAyana uvAca
+11002001a tato 'mRtasamair vAkyair hlAdayan puruSarSabham
+11002001c vaicitravIryaM viduro yad uvAca nibodha tat
+11002002  vidura uvAca
+11002002a uttiSTha rAjan kiM zeSe dhArayAtmAnam AtmanA
+11002002c sthirajaGgamamartyAnAM sarveSAm eSa nirNayaH
+11002003a sarve kSayAntA nicayAH patanAntAH samucchrayAH
+11002003c saMyogA viprayogAntA maraNAntaM hi jIvitam
+11002004a yadA zUraM ca bhIruM ca yamaH karSati bhArata
+11002004c tat kiM na yotsyanti hi te kSatriyAH kSatriyarSabha
+11002005a ayudhyamAno mriyate yudhyamAnaz ca jIvati
+11002005c kAlaM prApya mahArAja na kaz cid ativartate
+11002006a na cApy etAn hatAn yuddhe rAjaJ zocitum arhasi
+11002006c pramANaM yadi zAstrANi gatAs te paramAM gatim
+11002007a sarve svAdhyAyavanto hi sarve ca caritavratAH
+11002007c sarve cAbhimukhAH kSINAs tatra kA paridevanA
+11002008a adarzanAd ApatitAH punaz cAdarzanaM gatAH
+11002008c na te tava na teSAM tvaM tatra kA paridevanA
+11002009a hato 'pi labhate svargaM hatvA ca labhate yazaH
+11002009c ubhayaM no bahuguNaM nAsti niSphalatA raNe
+11002010a teSAM kAmadughA&l lokAn indraH saMkalpayiSyati
+11002010c indrasyAtithayo hy ete bhavanti puruSarSabha
+11002011a na yajJair dakSiNAvadbhir na tapobhir na vidyayA
+11002011c svargaM yAnti tathA martyA yathA zUrA raNe hatAH
+11002012a mAtApitRsahasrANi putradArazatAni ca
+11002012c saMsAreSv anubhUtAni kasya te kasya vA vayam
+11002013a zokasthAnasahasrANi bhayasthAnazatAni ca
+11002013c divase divase mUDham Avizanti na paNDitam
+11002014a na kAlasya priyaH kaz cin na dveSyaH kurusattama
+11002014c na madhyasthaH kva cit kAlaH sarvaM kAlaH prakarSati
+11002015a anityaM jIvitaM rUpaM yauvanaM dravyasaMcayaH
+11002015c ArogyaM priyasaMvAso gRdhyed eSu na paNDitaH
+11002016a na jAnapadikaM duHkham ekaH zocitum arhasi
+11002016c apy abhAvena yujyeta tac cAsya na nivartate
+11002017a azocan pratikurvIta yadi pazyet parAkramam
+11002017c bhaiSajyam etad duHkhasya yad etan nAnucintayet
+11002017e cintyamAnaM hi na vyeti bhUyaz cApi vivardhate
+11002018a aniSTasaMprayogAc ca viprayogAt priyasya ca
+11002018c manuSyA mAnasair duHkhair yujyante ye 'lpabuddhayaH
+11002019a nArtho na dharmo na sukhaM yad etad anuzocasi
+11002019c na ca nApaiti kAryArthAt trivargAc caiva bhrazyate
+11002020a anyAm anyAM dhanAvasthAM prApya vaizeSikIM narAH
+11002020c asaMtuSTAH pramuhyanti saMtoSaM yAnti paNDitAH
+11002021a prajJayA mAnasaM duHkhaM hanyAc chArIram auSadhaiH
+11002021c etaj jJAnasya sAmarthyaM na bAlaiH samatAm iyAt
+11002022a zayAnaM cAnuzayati tiSThantaM cAnutiSThati
+11002022c anudhAvati dhAvantaM karma pUrvakRtaM naram
+11002023a yasyAM yasyAm avasthAyAM yat karoti zubhAzubham
+11002023c tasyAM tasyAm avasthAyAM tat tat phalam upAznute
+11003001  dhRtarASTra uvAca
+11003001a subhASitair mahAprAjJa zoko 'yaM vigato mama
+11003001c bhuya eva tu vAkyAni zrotum icchAmi tattvataH
+11003002a aniSTAnAM ca saMsargAd iSTAnAM ca vivarjanAt
+11003002c kathaM hi mAnasair duHkhaiH pramucyante 'tra paNDitAH
+11003003  vidura uvAca
+11003003a yato yato mano duHkhAt sukhAd vApi pramucyate
+11003003c tatas tataH zamaM labdhvA sugatiM vindate budhaH
+11003004a azAzvatam idaM sarvaM cintyamAnaM nararSabha
+11003004c kadalIsaMnibho lokaH sAro hy asya na vidyate
+11003005a gRhANy eva hi martyAnAm Ahur dehAni paNDitAH
+11003005c kAlena viniyujyante sattvam ekaM tu zobhanam
+11003006a yathA jIrNam ajIrNaM vA vastraM tyaktvA tu vai naraH
+11003006c anyad rocayate vastram evaM dehAH zarIriNAm
+11003007a vaicitravIrya vAsaM hi duHkhaM vA yadi vA sukham
+11003007c prApnuvantIha bhUtAni svakRtenaiva karmaNA
+11003008a karmaNA prApyate svargaM sukhaM duHkhaM ca bhArata
+11003008c tato vahati taM bhAram avazaH svavazo 'pi vA
+11003009a yathA ca mRnmayaM bhANDaM cakrArUDhaM vipadyate
+11003009c kiM cit prakriyamANaM vA kRtamAtram athApi vA
+11003010a chinnaM vApy avaropyantam avatIrNam athApi vA
+11003010c ArdraM vApy atha vA zuSkaM pacyamAnam athApi vA
+11003011a avatAryamANam ApAkAd uddhRtaM vApi bhArata
+11003011c atha vA paribhujyantam evaM dehAH zarIriNAm
+11003012a garbhastho vA prasUto vApy atha vA divasAntaraH
+11003012c ardhamAsagato vApi mAsamAtragato 'pi vA
+11003013a saMvatsaragato vApi dvisaMvatsara eva vA
+11003013c yauvanastho 'pi madhyastho vRddho vApi vipadyate
+11003014a prAkkarmabhis tu bhUtAni bhavanti na bhavanti ca
+11003014c evaM sAMsiddhike loke kimartham anutapyase
+11003015a yathA ca salile rAjan krIDArtham anusaMcaran
+11003015c unmajjec ca nimajjec ca kiM cit sattvaM narAdhipa
+11003016a evaM saMsAragahanAd unmajjananimajjanAt
+11003016c karmabhogena badhyantaH klizyante ye 'lpabuddhayaH
+11003017a ye tu prAjJAH sthitAH satye saMsArAntagaveSiNaH
+11003017c samAgamajJA bhUtAnAM te yAnti paramAM gatim
+11004001  dhRtarASTra uvAca
+11004001a kathaM saMsAragahanaM vijJeyaM vadatAM vara
+11004001c etad icchAmy ahaM zrotuM tattvam AkhyAhi pRcchataH
+11004002  vidura uvAca
+11004002a janmaprabhRti bhUtAnAM kriyAH sarvAH zRNu prabho
+11004002c pUrvam eveha kalale vasate kiM cid antaram
+11004003a tataH sa paJcame 'tIte mAse mAMsaM prakalpayet
+11004003c tataH sarvAGgasaMpUrNo garbho mAse prajAyate
+11004004a amedhyamadhye vasati mAMsazoNitalepane
+11004004c tatas tu vAyuvegena UrdhvapAdo hy adhaHzirAH
+11004005a yonidvAram upAgamya bahUn klezAn samRcchati
+11004005c yonisaMpIDanAc caiva pUrvakarmabhir anvitaH
+11004006a tasmAn muktaH sa saMsArAd anyAn pazyaty upadravAn
+11004006c grahAs tam upasarpanti sArameyA ivAmiSam
+11004007a tataH prAptottare kAle vyAdhayaz cApi taM tathA
+11004007c upasarpanti jIvantaM badhyamAnaM svakarmabhiH
+11004008a baddham indriyapAzais taM saGgasvAdubhir Aturam
+11004008c vyasanAny upavartante vividhAni narAdhipa
+11004008e badhyamAnaz ca tair bhUyo naiva tRptim upaiti saH
+11004009a ayaM na budhyate tAvad yamalokam athAgatam
+11004009c yamadUtair vikRSyaMz ca mRtyuM kAlena gacchati
+11004010a vAgghInasya ca yanmAtram iSTAniSTaM kRtaM mukhe
+11004010c bhUya evAtmanAtmAnaM badhyamAnam upekSate
+11004011a aho vinikRto loko lobhena ca vazIkRtaH
+11004011c lobhakrodhamadonmatto nAtmAnam avabudhyate
+11004012a kulInatvena ramate duSkulInAn vikutsayan
+11004012c dhanadarpeNa dRptaz ca daridrAn parikutsayan
+11004013a mUrkhAn iti parAn Aha nAtmAnaM samavekSate
+11004013c zikSAM kSipati cAnyeSAM nAtmAnaM zAstum icchati
+11004014a adhruve jIvaloke 'smin yo dharmam anupAlayan
+11004014c janmaprabhRti varteta prApnuyAt paramAM gatim
+11004015a evaM sarvaM viditvA vai yas tattvam anuvartate
+11004015c sa pramokSAya labhate panthAnaM manujAdhipa
+11005001  dhRtarASTra uvAca
+11005001a yad idaM dharmagahanaM buddhyA samanugamyate
+11005001c etad vistarazaH sarvaM buddhimArgaM prazaMsa me
+11005002  vidura uvAca
+11005002a atra te vartayiSyAmi namaskRtvA svayaMbhuve
+11005002c yathA saMsAragahanaM vadanti paramarSayaH
+11005003a kaz cin mahati saMsAre vartamAno dvijaH kila
+11005003c vanaM durgam anuprApto mahat kravyAdasaMkulam
+11005004a siMhavyAghragajAkArair atighorair mahAzanaiH
+11005004c samantAt saMparikSiptaM mRtyor api bhayapradam
+11005005a tad asya dRSTvA hRdayam udvegam agamat param
+11005005c abhyucchrayaz ca romNAM vai vikriyAz ca paraMtapa
+11005006a sa tad vanaM vyanusaran vipradhAvan itas tataH
+11005006c vIkSamANo dizaH sarvAH zaraNaM kva bhaved iti
+11005007a sa teSAM chidram anvicchan pradruto bhayapIDitaH
+11005007c na ca niryAti vai dUraM na ca tair viprayujyate
+11005008a athApazyad vanaM ghoraM samantAd vAgurAvRtam
+11005008c bAhubhyAM saMpariSvaktaM striyA paramaghorayA
+11005009a paJcazIrSadharair nAgaiH zailair iva samunnataiH
+11005009c nabhaHspRzair mahAvRkSaiH parikSiptaM mahAvanam
+11005010a vanamadhye ca tatrAbhUd udapAnaH samAvRtaH
+11005010c vallIbhis tRNachannAbhir gUDhAbhir abhisaMvRtaH
+11005011a papAta sa dvijas tatra nigUDhe salilAzaye
+11005011c vilagnaz cAbhavat tasmi&l latAsaMtAnasaMkaTe
+11005012a panasasya yathA jAtaM vRntabaddhaM mahAphalam
+11005012c sa tathA lambate tatra UrdhvapAdo hy adhaHzirAH
+11005013a atha tatrApi cAnyo 'sya bhUyo jAta upadravaH
+11005013c kUpavInAhavelAyAm apazyata mahAgajam
+11005014a SaDvaktraM kRSNazabalaM dviSaTkapadacAriNam
+11005014c krameNa parisarpantaM vallIvRkSasamAvRtam
+11005015a tasya cApi prazAkhAsu vRkSazAkhAvalambinaH
+11005015c nAnArUpA madhukarA ghorarUpA bhayAvahAH
+11005015e Asate madhu saMbhRtya pUrvam eva niketajAH
+11005016a bhUyo bhUyaH samIhante madhUni bharatarSabha
+11005016c svAdanIyAni bhUtAnAM na yair bAlo 'pi tRpyate
+11005017a teSAM madhUnAM bahudhA dhArA prasravate sadA
+11005017c tAM lambamAnaH sa pumAn dhArAM pibati sarvadA
+11005017e na cAsya tRSNA viratA pibamAnasya saMkaTe
+11005018a abhIpsati ca tAM nityam atRptaH sa punaH punaH
+11005018c na cAsya jIvite rAjan nirvedaH samajAyata
+11005019a tatraiva ca manuSyasya jIvitAzA pratiSThitA
+11005019c kRSNAH zvetAz ca taM vRkSaM kuTTayanti sma mUSakAH
+11005020a vyAlaiz ca vanadurgAnte striyA ca paramograyA
+11005020c kUpAdhastAc ca nAgena vInAhe kuJjareNa ca
+11005021a vRkSaprapAtAc ca bhayaM mUSakebhyaz ca paJcamam
+11005021c madhulobhAn madhukaraiH SaSTham Ahur mahad bhayam
+11005022a evaM sa vasate tatra kSiptaH saMsArasAgare
+11005022c na caiva jIvitAzAyAM nirvedam upagacchati
+11006001  dhRtarASTra uvAca
+11006001a aho khalu mahad duHkhaM kRcchravAsaM vasaty asau
+11006001c kathaM tasya ratis tatra tuSTir vA vadatAM vara
+11006002a sa dezaH kva nu yatrAsau vasate dharmasaMkaTe
+11006002c kathaM vA sa vimucyeta naras tasmAn mahAbhayAt
+11006003a etan me sarvam AcakSva sAdhu ceSTAmahe tathA
+11006003c kRpA me mahatI jAtA tasyAbhyuddharaNena hi
+11006004  vidura uvAca
+11006004a upamAnam idaM rAjan mokSavidbhir udAhRtam
+11006004c sugatiM vindate yena paralokeSu mAnavaH
+11006005a yat tad ucyati kAntAraM mahat saMsAra eva saH
+11006005c vanaM durgaM hi yat tv etat saMsAragahanaM hi tat
+11006006a ye ca te kathitA vyAlA vyAdhayas te prakIrtitAH
+11006006c yA sA nArI bRhatkAyA adhitiSThati tatra vai
+11006006e tAm Ahus tu jarAM prAjJA varNarUpavinAzinIm
+11006007a yas tatra kUpo nRpate sa tu dehaH zarIriNAm
+11006007c yas tatra vasate 'dhastAn mahAhiH kAla eva saH
+11006007e antakaH sarvabhUtAnAM dehinAM sarvahAry asau
+11006008a kUpamadhye ca yA jAtA vallI yatra sa mAnavaH
+11006008c pratAne lambate sA tu jIvitAzA zarIriNAm
+11006009a sa yas tu kUpavInAhe taM vRkSaM parisarpati
+11006009c SaDvaktraH kuJjaro rAjan sa tu saMvatsaraH smRtaH
+11006009e mukhAni Rtavo mAsAH pAdA dvAdaza kIrtitAH
+11006010a ye tu vRkSaM nikRntanti mUSakAH satatotthitAH
+11006010c rAtryahAni tu tAny Ahur bhUtAnAM paricintakAH
+11006010e ye te madhukarAs tatra kAmAs te parikIrtitAH
+11006011a yAs tu tA bahuzo dhArAH sravanti madhunisravam
+11006011c tAMs tu kAmarasAn vidyAd yatra majjanti mAnavAH
+11006012a evaM saMsAracakrasya parivRttiM sma ye viduH
+11006012c te vai saMsAracakrasya pAzAMz chindanti vai budhAH
+11007001  dhRtarASTra uvAca
+11007001a aho 'bhihitam AkhyAnaM bhavatA tattvadarzinA
+11007001c bhUya eva tu me harSaH zrotuM vAgamRtaM tava
+11007002  vidura uvAca
+11007002a zRNu bhUyaH pravakSyAmi mArgasyaitasya vistaram
+11007002c yac chrutvA vipramucyante saMsArebhyo vicakSaNAH
+11007003a yathA tu puruSo rAjan dIrgham adhvAnam AsthitaH
+11007003c kva cit kva cic chramAt sthAtA kurute vAsam eva vA
+11007004a evaM saMsAraparyAye garbhavAseSu bhArata
+11007004c kurvanti durbudhA vAsaM mucyante tatra paNDitAH
+11007005a tasmAd adhvAnam evaitam AhuH zAstravido janAH
+11007005c yat tu saMsAragahanaM vanam Ahur manISiNaH
+11007006a so 'yaM lokasamAvarto martyAnAM bharatarSabha
+11007006c carANAM sthAvarANAM ca gRdhyet tatra na paNDitaH
+11007007a zArIrA mAnasAz caiva martyAnAM ye tu vyAdhayaH
+11007007c pratyakSAz ca parokSAz ca te vyAlAH kathitA budhaiH
+11007008a klizyamAnAz ca tair nityaM hanyamAnAz ca bhArata
+11007008c svakarmabhir mahAvyAlair nodvijanty alpabuddhayaH
+11007009a athApi tair vimucyeta vyAdhibhiH puruSo nRpa
+11007009c AvRNoty eva taM pazcAj jarA rUpavinAzinI
+11007010a zabdarUparasasparzair gandhaiz ca vividhair api
+11007010c majjamAnaM mahApaGke nirAlambe samantataH
+11007011a saMvatsarartavo mAsAH pakSAhorAtrasaMdhayaH
+11007011c krameNAsya pralumpanti rUpam Ayus tathaiva ca
+11007012a ete kAlasya nidhayo naitAJ jAnanti durbudhAH
+11007012c atrAbhilikhitAny AhuH sarvabhUtAni karmaNA
+11007013a rathaM zarIraM bhUtAnAM sattvam Ahus tu sArathim
+11007013c indriyANi hayAn AhuH karma buddhiz ca razmayaH
+11007014a teSAM hayAnAM yo vegaM dhAvatAm anudhAvati
+11007014c sa tu saMsAracakre 'smiMz cakravat parivartate
+11007015a yas tAn yamayate buddhyA sa yantA na nivartate
+11007015c yAmyam AhU rathaM hy enaM muhyante yena durbudhAH
+11007016a sa caitat prApnute rAjan yat tvaM prApto narAdhipa
+11007016c rAjyanAzaM suhRnnAzaM sutanAzaM ca bhArata
+11007017a anutarSulam evaitad duHkhaM bhavati bhArata
+11007017c sAdhuH paramaduHkhAnAM duHkhabhaiSajyam Acaret
+11007018a na vikramo na cApy artho na mitraM na suhRjjanaH
+11007018c tathonmocayate duHkhAd yathAtmA sthirasaMyamaH
+11007019a tasmAn maitraM samAsthAya zIlam Apadya bhArata
+11007019c damas tyAgo 'pramAdaz ca te trayo brahmaNo hayAH
+11007020a zIlarazmisamAyukte sthito yo mAnase rathe
+11007020c tyaktvA mRtyubhayaM rAjan brahmalokaM sa gacchati
+11008001  vaizaMpAyana uvAca
+11008001a vidurasya tu tad vAkyaM nizamya kurusattamaH
+11008001c putrazokAbhisaMtaptaH papAta bhuvi mUrchitaH
+11008002a taM tathA patitaM bhUmau niHsaMjJaM prekSya bAndhavAH
+11008002c kRSNadvaipAyanaz caiva kSattA ca viduras tathA
+11008003a saMjayaH suhRdaz cAnye dvAHsthA ye cAsya saMmatAH
+11008003c jalena sukhazItena tAlavRntaiz ca bhArata
+11008004a paspRzuz ca karair gAtraM vIjamAnAz ca yatnataH
+11008004c anvAsan suciraM kAlaM dhRtarASTraM tathAgatam
+11008005a atha dIrghasya kAlasya labdhasaMjJo mahIpatiH
+11008005c vilalApa ciraM kAlaM putrAdhibhir abhiplutaH
+11008006a dhig astu khalu mAnuSyaM mAnuSye ca parigraham
+11008006c yatomUlAni duHkhAni saMbhavanti muhur muhuH
+11008007a putranAze 'rthanAze ca jJAtisaMbandhinAm api
+11008007c prApyate sumahad duHkhaM viSAgnipratimaM vibho
+11008008a yena dahyanti gAtrANi yena prajJA vinazyati
+11008008c yenAbhibhUtaH puruSo maraNaM bahu manyate
+11008009a tad idaM vyasanaM prAptaM mayA bhAgyaviparyayAt
+11008009c tac caivAhaM kariSyAmi adyaiva dvijasattama
+11008010a ity uktvA tu mahAtmAnaM pitaraM brahmavittamam
+11008010c dhRtarASTro 'bhavan mUDhaH zokaM ca paramaM gataH
+11008010e abhUc ca tUSNIM rAjAsau dhyAyamAno mahIpate
+11008011a tasya tad vacanaM zrutvA kRSNadvaipAyanaH prabhuH
+11008011c putrazokAbhisaMtaptaM putraM vacanam abravIt
+11008012a dhRtarASTra mahAbAho yat tvAM vakSyAmi tac chRNu
+11008012c zrutavAn asi medhAvI dharmArthakuzalas tathA
+11008013a na te 'sty aviditaM kiM cid veditavyaM paraMtapa
+11008013c anityatAM hi martyAnAM vijAnAsi na saMzayaH
+11008014a adhruve jIvaloke ca sthAne vAzAzvate sati
+11008014c jIvite maraNAnte ca kasmAc chocasi bhArata
+11008015a pratyakSaM tava rAjendra vairasyAsya samudbhavaH
+11008015c putraM te kAraNaM kRtvA kAlayogena kAritaH
+11008016a avazyaM bhavitavye ca kurUNAM vaizase nRpa
+11008016c kasmAc chocasi tAJ zUrAn gatAn paramikAM gatim
+11008017a jAnatA ca mahAbAho vidureNa mahAtmanA
+11008017c yatitaM sarvayatnena zamaM prati janezvara
+11008018a na ca daivakRto mArgaH zakyo bhUtena kena cit
+11008018c ghaTatApi ciraM kAlaM niyantum iti me matiH
+11008019a devatAnAM hi yat kAryaM mayA pratyakSataH zrutam
+11008019c tat te 'haM saMpravakSyAmi kathaM sthairyaM bhavet tava
+11008020a purAhaM tvarito yAtaH sabhAm aindrIM jitaklamaH
+11008020c apazyaM tatra ca tadA samavetAn divaukasaH
+11008020e nAradapramukhAMz cApi sarvAn devaRSIMs tathA
+11008021a tatra cApi mayA dRSTA pRthivI pRthivIpate
+11008021c kAryArtham upasaMprAptA devatAnAM samIpataH
+11008022a upagamya tadA dhAtrI devAn Aha samAgatAn
+11008022c yat kAryaM mama yuSmAbhir brahmaNaH sadane tadA
+11008022e pratijJAtaM mahAbhAgAs tac chIghraM saMvidhIyatAm
+11008023a tasyAs tad vacanaM zrutvA viSNur lokanamaskRtaH
+11008023c uvAca prahasan vAkyaM pRthivIM devasaMsadi
+11008024a dhRtarASTrasya putrANAM yas tu jyeSThaH zatasya vai
+11008024c duryodhana iti khyAtaH sa te kAryaM kariSyati
+11008024e taM ca prApya mahIpAlaM kRtakRtyA bhaviSyasi
+11008025a tasyArthe pRthivIpAlAH kurukSetre samAgatAH
+11008025c anyonyaM ghAtayiSyanti dRDhaiH zastraiH prahAriNaH
+11008026a tatas te bhavitA devi bhArasya yudhi nAzanam
+11008026c gaccha zIghraM svakaM sthAnaM lokAn dhAraya zobhane
+11008027a sa eSa te suto rAja&l lokasaMhArakAraNAt
+11008027c kaler aMzaH samutpanno gAndhAryA jaThare nRpa
+11008028a amarSI capalaz cApi krodhano duSprasAdhanaH
+11008028c daivayogAt samutpannA bhrAtaraz cAsya tAdRzAH
+11008029a zakunir mAtulaz caiva karNaz ca paramaH sakhA
+11008029c samutpannA vinAzArthaM pRthivyAM sahitA nRpAH
+11008029e etam arthaM mahAbAho nArado veda tattvataH
+11008030a AtmAparAdhAt putrAs te vinaSTAH pRthivIpate
+11008030c mA tAJ zocasva rAjendra na hi zoke 'sti kAraNam
+11008031a na hi te pANDavAH svalpam aparAdhyanti bhArata
+11008031c putrAs tava durAtmAno yair iyaM ghAtitA mahI
+11008032a nAradena ca bhadraM te pUrvam eva na saMzayaH
+11008032c yudhiSThirasya samitau rAjasUye niveditam
+11008033a pANDavAH kauravAz caiva samAsAdya parasparam
+11008033c na bhaviSyanti kaunteya yat te kRtyaM tad Acara
+11008034a nAradasya vacaH zrutvA tadAzocanta pANDavAH
+11008034c etat te sarvam AkhyAtaM devaguhyaM sanAtanam
+11008035a kathaM te zokanAzaH syAt prANeSu ca dayA prabho
+11008035c snehaz ca pANDuputreSu jJAtvA daivakRtaM vidhim
+11008036a eSa cArtho mahAbAho pUrvam eva mayA zrutaH
+11008036c kathito dharmarAjasya rAjasUye kratUttame
+11008037a yatitaM dharmaputreNa mayA guhye nivedite
+11008037c avigrahe kauravANAM daivaM tu balavattaram
+11008038a anatikramaNIyo hi vidhI rAjan kathaM cana
+11008038c kRtAntasya hi bhUtena sthAvareNa trasena ca
+11008039a bhavAn dharmaparo yatra buddhizreSThaz ca bhArata
+11008039c muhyate prANinAM jJAtvA gatiM cAgatim eva ca
+11008040a tvAM tu zokena saMtaptaM muhyamAnaM muhur muhuH
+11008040c jJAtvA yudhiSThiro rAjA prANAn api parityajet
+11008041a kRpAlur nityazo vIras tiryagyonigateSv api
+11008041c sa kathaM tvayi rAjendra kRpAM vai na kariSyati
+11008042a mama caiva niyogena vidhez cApy anivartanAt
+11008042c pANDavAnAM ca kAruNyAt prANAn dhAraya bhArata
+11008043a evaM te vartamAnasya loke kIrtir bhaviSyati
+11008043c dharmaz ca sumahAMs tAta taptaM syAc ca tapaz cirAt
+11008044a putrazokasamutpannaM hutAzaM jvalitaM yathA
+11008044c prajJAmbhasA mahArAja nirvApaya sadA sadA
+11008045a etac chrutvA tu vacanaM vyAsasyAmitatejasaH
+11008045c muhUrtaM samanudhyAya dhRtarASTro 'bhyabhASata
+11008046a mahatA zokajAlena praNunno 'smi dvijottama
+11008046c nAtmAnam avabudhyAmi muhyamAno muhur muhuH
+11008047a idaM tu vacanaM zrutvA tava daivaniyogajam
+11008047c dhArayiSyAmy ahaM prANAn yatiSye ca nazocitum
+11008048a etac chrutvA tu vacanaM vyAsaH satyavatIsutaH
+11008048c dhRtarASTrasya rAjendra tatraivAntaradhIyata
+11009001  janamejaya uvAca
+11009001a gate bhagavati vyAse dhRtarASTro mahIpatiH
+11009001c kim aceSTata viprarSe tan me vyAkhyAtum arhasi
+11009002  vaizaMpAyana uvAca
+11009002a etac chrutvA narazreSTha ciraM dhyAtvA tv acetanaH
+11009002c saMjayaM yojayety uktvA viduraM pratyabhASata
+11009003a kSipram Anaya gAndhArIM sarvAz ca bharatastriyaH
+11009003c vadhUM kuntIm upAdAya yAz cAnyAs tatra yoSitaH
+11009004a evam uktvA sa dharmAtmA viduraM dharmavittamam
+11009004c zokaviprahatajJAno yAnam evAnvapadyata
+11009005a gAndhArI caiva zokArtA bhartur vacanacoditA
+11009005c saha kuntyA yato rAjA saha strIbhir upAdravat
+11009006a tAH samAsAdya rAjAnaM bhRzaM zokasamanvitAH
+11009006c AmantryAnyonyam IyuH sma bhRzam uccukruzus tataH
+11009007a tAH samAzvAsayat kSattA tAbhyaz cArtataraH svayam
+11009007c azrukaNThIH samAropya tato 'sau niryayau purAt
+11009008a tataH praNAdaH saMjajJe sarveSu kuruvezmasu
+11009008c AkumAraM puraM sarvam abhavac chokakarzitam
+11009009a adRSTapUrvA yA nAryaH purA devagaNair api
+11009009c pRthagjanena dRzyanta tAs tadA nihatezvarAH
+11009010a prakIrya kezAn suzubhAn bhUSaNAny avamucya ca
+11009010c ekavastradharA nAryaH paripetur anAthavat
+11009011a zvetaparvatarUpebhyo gRhebhyas tAs tv apAkraman
+11009011c guhAbhya iva zailAnAM pRSatyo hatayUthapAH
+11009012a tAny udIrNAni nArINAM tadA vRndAny anekazaH
+11009012c zokArtAny adravan rAjan kizorINAm ivAGgane
+11009013a pragRhya bAhUn krozantyaH putrAn bhrAtqn pitqn api
+11009013c darzayantIva tA ha sma yugAnte lokasaMkSayam
+11009014a vilapantyo rudantyaz ca dhAvamAnAs tatas tataH
+11009014c zokenAbhyAhatajJAnAH kartavyaM na prajajJire
+11009015a vrIDAM jagmuH purA yAH sma sakhInAm api yoSitaH
+11009015c tA ekavastrA nirlajjAH zvazrUNAM purato 'bhavan
+11009016a parasparaM susUkSmeSu zokeSv AzvAsayan sma yAH
+11009016c tAH zokavihvalA rAjann upaikSanta parasparam
+11009017a tAbhiH parivRto rAjA rudatIbhiH sahasrazaH
+11009017c niryayau nagarAd dInas tUrNam AyodhanaM prati
+11009018a zilpino vaNijo vaizyAH sarvakarmopajIvinaH
+11009018c te pArthivaM puraskRtya niryayur nagarAd bahiH
+11009019a tAsAM vikrozamAnAnAm ArtAnAM kurusaMkSaye
+11009019c prAdurAsIn mahAJ zabdo vyathayan bhuvanAny uta
+11009020a yugAntakAle saMprApte bhUtAnAM dahyatAm iva
+11009020c abhAvaH syAd ayaM prApta iti bhUtAni menire
+11009021a bhRzam udvignamanasas te paurAH kurusaMkSaye
+11009021c prAkrozanta mahArAja svanuraktAs tadA bhRzam
+11010001  vaizaMpAyana uvAca
+11010001a krozamAtraM tato gatvA dadRzus tAn mahArathAn
+11010001c zAradvataM kRpaM drauNiM kRtavarmANam eva ca
+11010002a te tu dRSTvaiva rAjAnaM prajJAcakSuSam Izvaram
+11010002c azrukaNThA viniHzvasya rudantam idam abruvan
+11010003a putras tava mahArAja kRtvA karma suduSkaram
+11010003c gataH sAnucaro rAjaJ zakralokaM mahIpatiH
+11010004a duryodhanabalAn muktA vayam eva trayo rathAH
+11010004c sarvam anyat parikSINaM sainyaM te bharatarSabha
+11010005a ity evam uktvA rAjAnaM kRpaH zAradvatas tadA
+11010005c gAndhArIM putrazokArtAm idaM vacanam abravIt
+11010006a abhItA yudhyamAnAs te ghnantaH zatrugaNAn bahUn
+11010006c vIrakarmANi kurvANAH putrAs te nidhanaM gatAH
+11010007a dhruvaM saMprApya lokAMs te nirmalAJ zastranirjitAn
+11010007c bhAsvaraM deham AsthAya viharanty amarA iva
+11010008a na hi kaz cid dhi zUrANAM yudhyamAnaH parAGmukhaH
+11010008c zastreNa nidhanaM prApto na ca kaz cit kRtAJjaliH
+11010009a etAM tAM kSatriyasyAhuH purANAM paramAM gatim
+11010009c zastreNa nidhanaM saMkhye tAn na zocitum arhasi
+11010010a na cApi zatravas teSAm Rdhyante rAjJi pANDavAH
+11010010c zRNu yat kRtam asmAbhir azvatthAmapurogamaiH
+11010011a adharmeNa hataM zrutvA bhImasenena te sutam
+11010011c suptaM zibiram Avizya pANDUnAM kadanaM kRtam
+11010012a pAJcAlA nihatAH sarve dhRSTadyumnapurogamAH
+11010012c drupadasyAtmajAz caiva draupadeyAz ca pAtitAH
+11010013a tathA vizasanaM kRtvA putrazatrugaNasya te
+11010013c prAdravAma raNe sthAtuM na hi zakyAmahe trayaH
+11010014a te hi zUrA maheSvAsAH kSipram eSyanti pANDavAH
+11010014c amarSavazam ApannA vairaM pratijihIrSavaH
+11010015a nihatAn AtmajAJ zrutvA pramattAn puruSarSabhAH
+11010015c ninISantaH padaM zUrAH kSipram eva yazasvini
+11010016a pANDUnAM kilbiSaM kRtvA saMsthAtuM notsahAmahe
+11010016c anujAnIhi no rAjJi mA ca zoke manaH kRthAH
+11010017a rAjaMs tvam anujAnIhi dhairyam AtiSTha cottamam
+11010017c niSThAntaM pazya cApi tvaM kSatradharmaM ca kevalam
+11010018a ity evam uktvA rAjAnaM kRtvA cAbhipradakSiNam
+11010018c kRpaz ca kRtavarmA ca droNaputraz ca bhArata
+11010019a avekSamANA rAjAnaM dhRtarASTraM manISiNam
+11010019c gaGgAm anu mahAtmAnas tUrNam azvAn acodayan
+11010020a apakramya tu te rAjan sarva eva mahArathAH
+11010020c AmantryAnyonyam udvignAs tridhA te prayayus tataH
+11010021a jagAma hAstinapuraM kRpaH zAradvatas tadA
+11010021c svam eva rASTraM hArdikyo drauNir vyAsAzramaM yayau
+11010022a evaM te prayayur vIrA vIkSamANAH parasparam
+11010022c bhayArtAH pANDuputrANAm AgaskRtvA mahAtmanAm
+11010023a sametya vIrA rAjAnaM tadA tv anudite ravau
+11010023c viprajagmur mahArAja yathecchakam ariMdamAH
+11011001  vaizaMpAyana uvAca
+11011001a hateSu sarvasainyeSu dharmarAjo yudhiSThiraH
+11011001c zuzruve pitaraM vRddhaM niryAtaM gajasAhvayAt
+11011002a so 'bhyayAt putrazokArtaH putrazokapariplutam
+11011002c zocamAno mahArAja bhrAtRbhiH sahitas tadA
+11011003a anvIyamAno vIreNa dAzArheNa mahAtmanA
+11011003c yuyudhAnena ca tathA tathaiva ca yuyutsunA
+11011004a tam anvagAt suduHkhArtA draupadI zokakarzitA
+11011004c saha pAJcAlayoSidbhir yAs tatrAsan samAgatAH
+11011005a sa gaGgAm anu vRndAni strINAM bharatasattama
+11011005c kurarINAm ivArtAnAM krozantInAM dadarza ha
+11011006a tAbhiH parivRto rAjA rudatIbhiH sahasrazaH
+11011006c UrdhvabAhubhir ArtAbhir bruvatIbhiH priyApriye
+11011007a kva nu dharmajJatA rAjJaH kva nu sAdyAnRzaMsatA
+11011007c yadAvadhIt pitqn bhrAtqn gurUn putrAn sakhIn api
+11011008a ghAtayitvA kathaM droNaM bhISmaM cApi pitAmaham
+11011008c manas te 'bhUn mahAbAho hatvA cApi jayadratham
+11011009a kiM nu rAjyena te kAryaM pitqn bhrAtqn apazyataH
+11011009c abhimanyuM ca durdharSaM draupadeyAMz ca bhArata
+11011010a atItya tA mahAbAhuH krozantIH kurarIr iva
+11011010c vavande pitaraM jyeSThaM dharmarAjo yudhiSThiraH
+11011011a tato 'bhivAdya pitaraM dharmeNAmitrakarzanAH
+11011011c nyavedayanta nAmAni pANDavAs te 'pi sarvazaH
+11011012a tam AtmajAntakaraNaM pitA putravadhArditaH
+11011012c aprIyamANaH zokArtaH pANDavaM pariSasvaje
+11011013a dharmarAjaM pariSvajya sAntvayitvA ca bhArata
+11011013c duSTAtmA bhImam anvaicchad didhakSur iva pAvakaH
+11011014a sa kopapAvakas tasya zokavAyusamIritaH
+11011014c bhImasenamayaM dAvaM didhakSur iva dRzyate
+11011015a tasya saMkalpam AjJAya bhImaM praty azubhaM hariH
+11011015c bhImam AkSipya pANibhyAM pradadau bhImam Ayasam
+11011016a prAg eva tu mahAbuddhir buddhvA tasyeGgitaM hariH
+11011016c saMvidhAnaM mahAprAjJas tatra cakre janArdanaH
+11011017a taM tu gRhyaiva pANibhyAM bhImasenam ayasmayam
+11011017c babhaJja balavAn rAjA manyamAno vRkodaram
+11011018a nAgAyutabalaprANaH sa rAjA bhImam Ayasam
+11011018c bhaGktvA vimathitoraskaH susrAva rudhiraM mukhAt
+11011019a tataH papAta medinyAM tathaiva rudhirokSitaH
+11011019c prapuSpitAgrazikharaH pArijAta iva drumaH
+11011020a paryagRhNata taM vidvAn sUto gAvalgaNis tadA
+11011020c maivam ity abravIc cainaM zamayan sAntvayann iva
+11011021a sa tu kopaM samutsRjya gatamanyur mahAmanAH
+11011021c hA hA bhImeti cukroza bhUyaH zokasamanvitaH
+11011022a taM viditvA gatakrodhaM bhImasenavadhArditam
+11011022c vAsudevo varaH puMsAm idaM vacanam abravIt
+11011023a mA zuco dhRtarASTra tvaM naiSa bhImas tvayA hataH
+11011023c AyasI pratimA hy eSA tvayA rAjan nipAtitA
+11011024a tvAM krodhavazam ApannaM viditvA bharatarSabha
+11011024c mayApakRSTaH kaunteyo mRtyor daMSTrAntaraM gataH
+11011025a na hi te rAjazArdUla bale tulyo 'sti kaz cana
+11011025c kaH saheta mahAbAho bAhvor nigrahaNaM naraH
+11011026a yathAntakam anuprApya jIvan kaz cin na mucyate
+11011026c evaM bAhvantaraM prApya tava jIven na kaz cana
+11011027a tasmAt putreNa yA sA te pratimA kAritAyasI
+11011027c bhImasya seyaM kauravya tavaivopahRtA mayA
+11011028a putrazokAbhisaMtApAd dharmAd apahRtaM manaH
+11011028c tava rAjendra tena tvaM bhImasenaM jighAMsasi
+11011029a na ca te tat kSamaM rAjan hanyAs tvaM yad vRkodaram
+11011029c na hi putrA mahArAja jIveyus te kathaM cana
+11011030a tasmAd yat kRtam asmAbhir manyamAnaiH kSamaM prati
+11011030c anumanyasva tat sarvaM mA ca zoke manaH kRthAH
+11012001  vaizaMpAyana uvAca
+11012001a tata enam upAtiSThaJ zaucArthaM paricArakAH
+11012001c kRtazaucaM punaz cainaM provAca madhusUdanaH
+11012002a rAjann adhItA vedAs te zAstrANi vividhAni ca
+11012002c zrutAni ca purANAni rAjadharmAz ca kevalAH
+11012003a evaM vidvAn mahAprAjJa nAkArSIr vacanaM tadA
+11012003c pANDavAn adhikAJ jAnan bale zaurye ca kaurava
+11012004a rAjA hi yaH sthiraprajJaH svayaM doSAn avekSate
+11012004c dezakAlavibhAgaM ca paraM zreyaH sa vindati
+11012005a ucyamAnaM ca yaH zreyo gRhNIte no hitAhite
+11012005c ApadaM samanuprApya sa zocaty anaye sthitaH
+11012006a tato 'nyavRttam AtmAnaM samavekSasva bhArata
+11012006c rAjaMs tvaM hy avidheyAtmA duryodhanavaze sthitaH
+11012007a AtmAparAdhAd Ayastas tat kiM bhImaM jighAMsasi
+11012007c tasmAt saMyaccha kopaM tvaM svam anusmRtya duSkRtam
+11012008a yas tu tAM spardhayA kSudraH pAJcAlIm Anayat sabhAm
+11012008c sa hato bhImasenena vairaM praticikIrSatA
+11012009a Atmano 'tikramaM pazya putrasya ca durAtmanaH
+11012009c yad anAgasi pANDUnAM parityAgaH paraMtapa
+11012010a evam uktaH sa kRSNena sarvaM satyaM janAdhipa
+11012010c uvAca devakIputraM dhRtarASTro mahIpatiH
+11012011a evam etan mahAbAho yathA vadasi mAdhava
+11012011c putrasnehas tu dharmAtman dhairyAn mAM samacAlayat
+11012012a diSTyA tu puruSavyAghro balavAn satyavikramaH
+11012012c tvadgupto nAgamat kRSNa bhImo bAhvantaraM mama
+11012013a idAnIM tv aham ekAgro gatamanyur gatajvaraH
+11012013c madhyamaM pANDavaM vIraM spraSTum icchAmi kezava
+11012014a hateSu pArthivendreSu putreSu nihateSu ca
+11012014c pANDuputreSu me zarma prItiz cApy avatiSThate
+11012015a tataH sa bhImaM ca dhanaMjayaM ca; mAdryAz ca putrau puruSapravIrau
+11012015c pasparza gAtraiH prarudan sugAtrAn; AzvAsya kalyANam uvAca cainAn
+11013001  vaizaMpAyana uvAca
+11013001a dhRtarASTrAbhyanujJAtAs tatas te kurupuMgavAH
+11013001c abhyayur bhrAtaraH sarve gAndhArIM sahakezavAH
+11013002a tato jJAtvA hatAmitraM dharmarAjaM yudhiSThiram
+11013002c gAndhArI putrazokArtA zaptum aicchad aninditA
+11013003a tasyAH pApam abhiprAyaM viditvA pANDavAn prati
+11013003c RSiH satyavatIputraH prAg eva samabudhyata
+11013004a sa gaGgAyAm upaspRzya puNyagandhaM payaH zuci
+11013004c taM dezam upasaMpede paramarSir manojavaH
+11013005a divyena cakSuSA pazyan manasAnuddhatena ca
+11013005c sarvaprANabhRtAM bhAvaM sa tatra samabudhyata
+11013006a sa snuSAm abravIt kAle kalyavAdI mahAtapAH
+11013006c zApakAlam avAkSipya zamakAlam udIrayan
+11013007a na kopaH pANDave kAryo gAndhAri zamam Apnuhi
+11013007c rajo nigRhyatAm etac chRNu cedaM vaco mama
+11013008a uktAsy aSTAdazAhAni putreNa jayam icchatA
+11013008c zivam AzAssva me mAtar yudhyamAnasya zatrubhiH
+11013009a sA tathA yAcyamAnA tvaM kAle kAle jayaiSiNA
+11013009c uktavaty asi gAndhAri yato dharmas tato jayaH
+11013010a na cApy atItAM gAndhAri vAcaM te vitathAm aham
+11013010c smarAmi bhASamANAyAs tathA praNihitA hy asi
+11013011a sA tvaM dharmaM parismRtya vAcA coktvA manasvini
+11013011c kopaM saMyaccha gAndhAri maivaM bhUH satyavAdini
+11013012  gAndhAry uvAca
+11013012a bhagavan nAbhyasUyAmi naitAn icchAmi nazyataH
+11013012c putrazokena tu balAn mano vihvalatIva me
+11013013a yathaiva kuntyA kaunteyA rakSitavyAs tathA mayA
+11013013c yathaiva dhRtarASTreNa rakSitavyAs tathA mayA
+11013014a duryodhanAparAdhena zakuneH saubalasya ca
+11013014c karNaduHzAsanAbhyAM ca vRtto 'yaM kurusaMkSayaH
+11013015a nAparAdhyati bIbhatsur na ca pArtho vRkodaraH
+11013015c nakulaH sahadevo vA naiva jAtu yudhiSThiraH
+11013016a yudhyamAnA hi kauravyAH kRntamAnAH parasparam
+11013016c nihatAH sahitAz cAnyais tatra nAsty apriyaM mama
+11013017a yat tu karmAkarod bhImo vAsudevasya pazyataH
+11013017c duryodhanaM samAhUya gadAyuddhe mahAmanAH
+11013018a zikSayAbhyadhikaM jJAtvA carantaM bahudhA raNe
+11013018c adho nAbhyAM prahRtavAMs tan me kopam avardhayat
+11013019a kathaM nu dharmaM dharmajJaiH samuddiSTaM mahAtmabhiH
+11013019c tyajeyur Ahave zUrAH prANahetoH kathaM cana
+11014001  vaizaMpAyana uvAca
+11014001a tac chrutvA vacanaM tasyA bhImaseno 'tha bhItavat
+11014001c gAndhArIM pratyuvAcedaM vacaH sAnunayaM tadA
+11014002a adharmo yadi vA dharmas trAsAt tatra mayA kRtaH
+11014002c AtmAnaM trAtukAmena tan me tvaM kSantum arhasi
+11014003a na hi yuddhena putras te dharmeNa sa mahAbalaH
+11014003c zakyaH kena cid udyantum ato viSamam Acaram
+11014004a sainyasyaiko 'vaziSTo 'yaM gadAyuddhe ca vIryavAn
+11014004c mAM hatvA na hared rAjyam iti caitat kRtaM mayA
+11014005a rAjaputrIM ca pAJcAlIm ekavastrAM rajasvalAm
+11014005c bhavatyA viditaM sarvam uktavAn yat sutas tava
+11014006a suyodhanam asaMgRhya na zakyA bhUH sasAgarA
+11014006c kevalA bhoktum asmAbhir ataz caitat kRtaM mayA
+11014007a tac cApy apriyam asmAkaM putras te samupAcarat
+11014007c draupadyA yat sabhAmadhye savyam Urum adarzayat
+11014008a tatraiva vadhyaH so 'smAkaM durAcAro 'mba te sutaH
+11014008c dharmarAjAjJayA caiva sthitAH sma samaye tadA
+11014009a vairam uddhukSitaM rAjJi putreNa tava tan mahat
+11014009c klezitAz ca vane nityaM tata etat kRtaM mayA
+11014010a vairasyAsya gataH pAraM hatvA duryodhanaM raNe
+11014010c rAjyaM yudhiSThiraH prApto vayaM ca gatamanyavaH
+11014011  gAndhAry uvAca
+11014011a na tasyaiSa vadhas tAta yat prazaMsasi me sutam
+11014011c kRtavAMz cApi tat sarvaM yad idaM bhASase mayi
+11014012a hatAzve nakule yat tad vRSasenena bhArata
+11014012c apibaH zoNitaM saMkhye duHzAsanazarIrajam
+11014013a sadbhir vigarhitaM ghoram anAryajanasevitam
+11014013c krUraM karmAkaroH kasmAt tad ayuktaM vRkodara
+11014014  bhImasena uvAca
+11014014a anyasyApi na pAtavyaM rudhiraM kiM punaH svakam
+11014014c yathaivAtmA tathA bhrAtA vizeSo nAsti kaz cana
+11014015a rudhiraM na vyatikrAmad dantoSThaM me 'mba mA zucaH
+11014015c vaivasvatas tu tad veda hastau me rudhirokSitau
+11014016a hatAzvaM nakulaM dRSTvA vRSasenena saMyuge
+11014016c bhrAtqNAM saMprahRSTAnAM trAsaH saMjanito mayA
+11014017a kezapakSaparAmarze draupadyA dyUtakArite
+11014017c krodhAd yad abruvaM cAhaM tac ca me hRdi vartate
+11014018a kSatradharmAc cyuto rAjJi bhaveyaM zAzvatIH samAH
+11014018c pratijJAM tAm anistIrya tatas tat kRtavAn aham
+11014019a na mAm arhasi gAndhAri doSeNa parizaGkitum
+11014019c anigRhya purA putrAn asmAsv anapakAriSu
+11014020  gAndhAry uvAca
+11014020a vRddhasyAsya zataM putrAn nighnaMs tvam aparAjitaH
+11014020c kasmAn na zeSayaH kaM cid yenAlpam aparAdhitam
+11014021a saMtAnam Avayos tAta vRddhayor hRtarAjyayoH
+11014021c katham andhadvayasyAsya yaSTir ekA na varjitA
+11014022a zeSe hy avasthite tAta putrANAm antake tvayi
+11014022c na me duHkhaM bhaved etad yadi tvaM dharmam AcaraH
+11015001  vaizaMpAyana uvAca
+11015001a evam uktvA tu gAndhArI yudhiSThiram apRcchata
+11015001c kva sa rAjeti sakrodhA putrapautravadhArditA
+11015002a tAm abhyagacchad rAjendro vepamAnaH kRtAJjaliH
+11015002c yudhiSThira idaM cainAM madhuraM vAkyam abravIt
+11015003a putrahantA nRzaMso 'haM tava devi yudhiSThiraH
+11015003c zApArhaH pRthivInAze hetubhUtaH zapasva mAm
+11015004a na hi me jIvitenArtho na rAjyena dhanena vA
+11015004c tAdRzAn suhRdo hatvA mUDhasyAsya suhRddruhaH
+11015005a tam evaMvAdinaM bhItaM saMnikarSagataM tadA
+11015005c novAca kiM cid gAndhArI niHzvAsaparamA bhRzam
+11015006a tasyAvanatadehasya pAdayor nipatiSyataH
+11015006c yudhiSThirasya nRpater dharmajJA dharmadarzinI
+11015006e aGgulyagrANi dadRze devI paTTAntareNa sA
+11015007a tataH sa kunakhIbhUto darzanIyanakho nRpaH
+11015007c taM dRSTvA cArjuno 'gacchad vAsudevasya pRSThataH
+11015008a evaM saMceSTamAnAMs tAn itaz cetaz ca bhArata
+11015008c gAndhArI vigatakrodhA sAntvayAm Asa mAtRvat
+11015009a tayA te samanujJAtA mAtaraM vIramAtaram
+11015009c abhyagacchanta sahitAH pRthAM pRthulavakSasaH
+11015010a cirasya dRSTvA putrAn sA putrAdhibhir abhiplutA
+11015010c bASpam AhArayad devI vastreNAvRtya vai mukham
+11015011a tato bASpaM samutsRjya saha putrais tathA pRthA
+11015011c apazyad etAJ zastraughair bahudhA parivikSatAn
+11015012a sA tAn ekaikazaH putrAn saMspRzantI punaH punaH
+11015012c anvazocanta duHkhArtA draupadIM ca hatAtmajAm
+11015012e rudatIm atha pAJcAlIM dadarza patitAM bhuvi
+11015013  draupady uvAca
+11015013a Arye pautrAH kva te sarve saubhadrasahitA gatAH
+11015013c na tvAM te 'dyAbhigacchanti ciradRSTAM tapasvinIm
+11015013e kiM nu rAjyena vai kAryaM vihInAyAH sutair mama
+11015014  vaizaMpAyana uvAca
+11015014a tAM samAzvAsayAm Asa pRthA pRthulalocanA
+11015014c utthApya yAjJasenIM tu rudatIM zokakarzitAm
+11015015a tayaiva sahitA cApi putrair anugatA pRthA
+11015015c abhyagacchata gAndhArIm ArtAm ArtatarA svayam
+11015016a tAm uvAcAtha gAndhArI saha vadhvA yazasvinIm
+11015016c maivaM putrIti zokArtA pazya mAm api duHkhitAm
+11015017a manye lokavinAzo 'yaM kAlaparyAyacoditaH
+11015017c avazyabhAvI saMprAptaH svabhAvAl lomaharSaNaH
+11015018a idaM tat samanuprAptaM vidurasya vaco mahat
+11015018c asiddhAnunaye kRSNe yad uvAca mahAmatiH
+11015019a tasminn aparihArye 'rthe vyatIte ca vizeSataH
+11015019c mA zuco na hi zocyAs te saMgrAme nidhanaM gatAH
+11015020a yathaiva tvaM tathaivAhaM ko vA mAzvAsayiSyati
+11015020c mamaiva hy aparAdhena kulam agryaM vinAzitam
+11016001  vaizaMpAyana uvAca
+11016001a evam uktvA tu gAndhArI kurUNAm Avikartanam
+11016001c apazyat tatra tiSThantI sarvaM divyena cakSuSA
+11016002a pativratA mahAbhAgA samAnavratacAriNI
+11016002c ugreNa tapasA yuktA satataM satyavAdinI
+11016003a varadAnena kRSNasya maharSeH puNyakarmaNaH
+11016003c divyajJAnabalopetA vividhaM paryadevayat
+11016004a dadarza sA buddhimatI dUrAd api yathAntike
+11016004c raNAjiraM nRvIrANAm adbhutaM lomaharSaNam
+11016005a asthikezaparistIrNaM zoNitaughapariplutam
+11016005c zarIrair bahusAhasrair vinikIrNaM samantataH
+11016006a gajAzvarathayodhAnAm AvRtaM rudhirAvilaiH
+11016006c zarIrair aziraskaiz ca videhaiz ca zirogaNaiH
+11016007a gajAzvanaravIrANAM niHsattvair abhisaMvRtam
+11016007c sRgAlabaDakAkolakaGkakAkaniSevitam
+11016008a rakSasAM puruSAdAnAM modanaM kurarAkulam
+11016008c azivAbhiH zivAbhiz ca nAditaM gRdhrasevitam
+11016009a tato vyAsAbhyanujJAto dhRtarASTro mahIpatiH
+11016009c pANDuputrAz ca te sarve yudhiSThirapurogamAH
+11016010a vAsudevaM puraskRtya hatabandhuM ca pArthivam
+11016010c kurustriyaH samAsAdya jagmur AyodhanaM prati
+11016011a samAsAdya kurukSetraM tAH striyo nihatezvarAH
+11016011c apazyanta hatAMs tatra putrAn bhrAtqn pitqn patIn
+11016012a kravyAdair bhakSyamANAn vai gomAyubaDavAyasaiH
+11016012c bhUtaiH pizAcai rakSobhir vividhaiz ca nizAcaraiH
+11016013a rudrAkrIDanibhaM dRSTvA tadA vizasanaM striyaH
+11016013c mahArhebhyo 'tha yAnebhyo vikrozantyo nipetire
+11016014a adRSTapUrvaM pazyantyo duHkhArtA bharatastriyaH
+11016014c zarIreSv askhalann anyA nyapataMz cAparA bhuvi
+11016015a zrAntAnAM cApy anAthAnAM nAsIt kA cana cetanA
+11016015c pAJcAlakuruyoSANAM kRpaNaM tad abhUn mahat
+11016016a duHkhopahatacittAbhiH samantAd anunAditam
+11016016c dRSTvAyodhanam atyugraM dharmajJA subalAtmajA
+11016017a tataH sA puNDarIkAkSam Amantrya puruSottamam
+11016017c kurUNAM vaizasaM dRSTvA duHkhAd vacanam abravIt
+11016018a pazyaitAH puNDarIkAkSa snuSA me nihatezvarAH
+11016018c prakIrNakezAH krozantIH kurarIr iva mAdhava
+11016019a amUs tv abhisamAgamya smarantyo bharatarSabhAn
+11016019c pRthag evAbhyadhAvanta putrAn bhrAtqn pitqn patIn
+11016020a vIrasUbhir mahAbAho hataputrAbhir AvRtam
+11016020c kva cic ca vIrapatnIbhir hatavIrAbhir Akulam
+11016021a zobhitaM puruSavyAghrair bhISmakarNAbhimanyubhiH
+11016021c droNadrupadazalyaiz ca jvaladbhir iva pAvakaiH
+11016022a kAJcanaiH kavacair niSkair maNibhiz ca mahAtmanAm
+11016022c aGgadair hastakeyUraiH sragbhiz ca samalaMkRtam
+11016023a vIrabAhuvisRSTAbhiH zaktibhiH parighair api
+11016023c khaDgaiz ca vimalais tIkSNaiH sazaraiz ca zarAsanaiH
+11016024a kravyAdasaMghair muditais tiSThadbhiH sahitaiH kva cit
+11016024c kva cid AkrIDamAnaiz ca zayAnair aparaiH kva cit
+11016025a etad evaMvidhaM vIra saMpazyAyodhanaM vibho
+11016025c pazyamAnA ca dahyAmi zokenAhaM janArdana
+11016026a pAJcAlAnAM kurUNAM ca vinAzaM madhusUdana
+11016026c paJcAnAm iva bhUtAnAM nAhaM vadham acintayam
+11016027a tAn suparNAz ca gRdhrAz ca niSkarSanty asRgukSitAn
+11016027c nigRhya kavaceSUgrA bhakSayanti sahasrazaH
+11016028a jayadrathasya karNasya tathaiva droNabhISmayoH
+11016028c abhimanyor vinAzaM ca kaz cintayitum arhati
+11016029a avadhyakalpAn nihatAn dRSTvAhaM madhusUdana
+11016029c gRdhrakaGkabaDazyenazvasRgAlAdanIkRtAn
+11016030a amarSavazam ApannAn duryodhanavaze sthitAn
+11016030c pazyemAn puruSavyAghrAn saMzAntAn pAvakAn iva
+11016031a zayanAny ucitAH sarve mRdUni vimalAni ca
+11016031c vipannAs te 'dya vasudhAM vivRtAm adhizerate
+11016032a bandibhiH satataM kAle stuvadbhir abhinanditAH
+11016032c zivAnAm azivA ghorAH zRNvanti vividhA giraH
+11016033a ye purA zerate vIrAH zayaneSu yazasvinaH
+11016033c candanAgurudigdhAGgAs te 'dya pAMsuSu zerate
+11016034a teSAm AbharaNAny ete gRdhragomAyuvAyasAH
+11016034c AkSipanty azivA ghorA vinadantaH punaH punaH
+11016035a cApAni vizikhAn pItAn nistriMzAn vimalA gadAH
+11016035c yuddhAbhimAninaH prItA jIvanta iva bibhrati
+11016036a surUpavarNA bahavaH kravyAdair avaghaTTitAH
+11016036c RSabhapratirUpAkSAH zerate haritasrajaH
+11016037a apare punar AliGgya gadAH parighabAhavaH
+11016037c zerate 'bhimukhAH zUrA dayitA iva yoSitaH
+11016038a bibhrataH kavacAny anye vimalAny AyudhAni ca
+11016038c na dharSayanti kravyAdA jIvantIti janArdana
+11016039a kravyAdaiH kRSyamANAnAm apareSAM mahAtmanAm
+11016039c zAtakaumbhyaH srajaz citrA viprakIrNAH samantataH
+11016040a ete gomAyavo bhImA nihatAnAM yazasvinAm
+11016040c kaNThAntaragatAn hArAn AkSipanti sahasrazaH
+11016041a sarveSv apararAtreSu yAn anandanta bandinaH
+11016041c stutibhiz ca parArdhyAbhir upacAraiz ca zikSitAH
+11016042a tAn imAH paridevanti duHkhArtAH paramAGganAH
+11016042c kRpaNaM vRSNizArdUla duHkhazokArditA bhRzam
+11016043a raktotpalavanAnIva vibhAnti rucirANi vai
+11016043c mukhAni paramastrINAM parizuSkANi kezava
+11016044a ruditoparatA hy etA dhyAyantyaH saMpariplutAH
+11016044c kurustriyo 'bhigacchanti tena tenaiva duHkhitAH
+11016045a etAny AdityavarNAni tapanIyanibhAni ca
+11016045c roSarodanatAmrANi vaktrANi kuruyoSitAm
+11016046a AsAm aparipUrNArthaM nizamya paridevitam
+11016046c itaretarasaMkrandAn na vijAnanti yoSitaH
+11016047a etA dIrgham ivocchvasya vikruzya ca vilapya ca
+11016047c vispandamAnA duHkhena vIrA jahati jIvitam
+11016048a bahvyo dRSTvA zarIrANi krozanti vilapanti ca
+11016048c pANibhiz cAparA ghnanti zirAMsi mRdupANayaH
+11016049a zirobhiH patitair hastaiH sarvAGgair yUthazaH kRtaiH
+11016049c itaretarasaMpRktair AkIrNA bhAti medinI
+11016050a viziraskAn atho kAyAn dRSTvA ghorAbhinandinaH
+11016050c muhyanty anucitA nAryo videhAni zirAMsi ca
+11016051a ziraH kAyena saMdhAya prekSamANA vicetasaH
+11016051c apazyantyo paraM tatra nedam asyeti duHkhitAH
+11016052a bAhUrucaraNAn anyAn vizikhonmathitAn pRthak
+11016052c saMdadhatyo 'sukhAviSTA mUrchanty etAH punaH punaH
+11016053a utkRttazirasaz cAnyAn vijagdhAn mRgapakSibhiH
+11016053c dRSTvA kAz cin na jAnanti bhartqn bharatayoSitaH
+11016054a pANibhiz cAparA ghnanti zirAMsi madhusUdana
+11016054c prekSya bhrAtqn pitqn putrAn patIMz ca nihatAn paraiH
+11016055a bAhubhiz ca sakhaDgaiz ca zirobhiz ca sakuNDalaiH
+11016055c agamyakalpA pRthivI mAMsazoNitakardamA
+11016056a na duHkheSUcitAH pUrvaM duHkhaM gAhanty aninditAH
+11016056c bhrAtRbhiH pitRbhiH putrair upakIrNAM vasuMdharAm
+11016057a yUthAnIva kizorINAM sukezInAM janArdana
+11016057c snuSANAM dhRtarASTrasya pazya vRndAny anekazaH
+11016058a ato duHkhataraM kiM nu kezava pratibhAti me
+11016058c yad imAH kurvate sarvA rUpam uccAvacaM striyaH
+11016059a nUnam AcaritaM pApaM mayA pUrveSu janmasu
+11016059c yA pazyAmi hatAn putrAn pautrAn bhrAtqMz ca kezava
+11016059e evam ArtA vilapatI dadarza nihataM sutam
+11017001  vaizaMpAyana uvAca
+11017001a tato duryodhanaM dRSTvA gAndhArI zokakarzitA
+11017001c sahasA nyapatad bhUmau chinneva kadalI vane
+11017002a sA tu labdhvA punaH saMjJAM vikruzya ca punaH punaH
+11017002c duryodhanam abhiprekSya zayAnaM rudhirokSitam
+11017003a pariSvajya ca gAndhArI kRpaNaM paryadevayat
+11017003c hA hA putreti zokArtA vilalApAkulendriyA
+11017004a sugUDhajatru vipulaM hAraniSkaniSevitam
+11017004c vAriNA netrajenoraH siJcantI zokatApitA
+11017004e samIpasthaM hRSIkezam idaM vacanam abravIt
+11017005a upasthite 'smin saMgrAme jJAtInAM saMkSaye vibho
+11017005c mAm ayaM prAha vArSNeya prAJjalir nRpasattamaH
+11017005e asmiJ jJAtisamuddharSe jayam ambA bravItu me
+11017006a ity ukte jAnatI sarvam ahaM svaM vyasanAgamam
+11017006c abruvaM puruSavyAghra yato dharmas tato jayaH
+11017007a yathA na yudhyamAnas tvaM saMpramuhyasi putraka
+11017007c dhruvaM zastrajitA&l lokAn prAptAsy amaravad vibho
+11017008a ity evam abruvaM pUrvaM nainaM zocAmi vai prabho
+11017008c dhRtarASTraM tu zocAmi kRpaNaM hatabAndhavam
+11017009a amarSaNaM yudhAM zreSThaM kRtAstraM yuddhadurmadam
+11017009c zayAnaM vIrazayane pazya mAdhava me sutam
+11017010a yo 'yaM mUrdhAvasiktAnAm agre yAti paraMtapaH
+11017010c so 'yaM pAMsuSu zete 'dya pazya kAlasya paryayam
+11017011a dhruvaM duryodhano vIro gatiM nasulabhAM gataH
+11017011c tathA hy abhimukhaH zete zayane vIrasevite
+11017012a yaM purA paryupAsInA ramayanti mahIkSitaH
+11017012c mahItalasthaM nihataM gRdhrAs taM paryupAsate
+11017013a yaM purA vyajanair agryair upavIjanti yoSitaH
+11017013c tam adya pakSavyajanair upavIjanti pakSiNaH
+11017014a eSa zete mahAbAhur balavAn satyavikramaH
+11017014c siMheneva dvipaH saMkhye bhImasenena pAtitaH
+11017015a pazya duryodhanaM kRSNa zayAnaM rudhirokSitam
+11017015c nihataM bhImasenena gadAm udyamya bhArata
+11017016a akSauhiNIr mahAbAhur daza caikAM ca kezava
+11017016c anayad yaH purA saMkhye so 'nayAn nidhanaM gataH
+11017017a eSa duryodhanaH zete maheSvAso mahArathaH
+11017017c zArdUla iva siMhena bhImasenena pAtitaH
+11017018a viduraM hy avamanyaiSa pitaraM caiva mandabhAk
+11017018c bAlo vRddhAvamAnena mando mRtyuvazaM gataH
+11017019a niHsapatnA mahI yasya trayodaza samAH sthitA
+11017019c sa zete nihato bhUmau putro me pRthivIpatiH
+11017020a apazyaM kRSNa pRthivIM dhArtarASTrAnuzAsanAt
+11017020c pUrNAM hastigavAzvasya vArSNeya na tu tac ciram
+11017021a tAm evAdya mahAbAho pazyAmy anyAnuzAsanAt
+11017021c hInAM hastigavAzvena kiM nu jIvAmi mAdhava
+11017022a idaM kRcchrataraM pazya putrasyApi vadhAn mama
+11017022c yad imAH paryupAsante hatAJ zUrAn raNe striyaH
+11017023a prakIrNakezAM suzroNIM duryodhanabhujAGkagAm
+11017023c rukmavedInibhAM pazya kRSNa lakSmaNamAtaram
+11017024a nUnam eSA purA bAlA jIvamAne mahAbhuje
+11017024c bhujAv Azritya ramate subhujasya manasvinI
+11017025a kathaM tu zatadhA nedaM hRdayaM mama dIryate
+11017025c pazyantyA nihataM putraM putreNa sahitaM raNe
+11017026a putraM rudhirasaMsiktam upajighraty aninditA
+11017026c duryodhanaM tu vAmorUH pANinA parimArjati
+11017027a kiM nu zocati bhartAraM putraM caiSA manasvinI
+11017027c tathA hy avasthitA bhAti putraM cApy abhivIkSya sA
+11017028a svaziraH paJcazAkhAbhyAm abhihatyAyatekSaNA
+11017028c pataty urasi vIrasya kururAjasya mAdhava
+11017029a puNDarIkanibhA bhAti puNDarIkAntaraprabhA
+11017029c mukhaM vimRjya putrasya bhartuz caiva tapasvinI
+11017030a yadi cApy AgamAH santi yadi vA zrutayas tathA
+11017030c dhruvaM lokAn avApto 'yaM nRpo bAhubalArjitAn
+11018001  gAndhAry uvAca
+11018001a pazya mAdhava putrAn me zatasaMkhyAJ jitaklamAn
+11018001c gadayA bhImasenena bhUyiSThaM nihatAn raNe
+11018002a idaM duHkhataraM me 'dya yad imA muktamUrdhajAH
+11018002c hataputrA raNe bAlAH paridhAvanti me snuSAH
+11018003a prAsAdatalacAriNyaz caraNair bhUSaNAnvitaiH
+11018003c ApannA yat spRzantImA rudhirArdrAM vasuMdharAm
+11018004a gRdhrAn utsArayantyaz ca gomAyUn vAyasAMs tathA
+11018004c zokenArtA vighUrNantyo mattA iva caranty uta
+11018005a eSAnyA tv anavadyAGgI karasaMmitamadhyamA
+11018005c ghoraM tad vaizasaM dRSTvA nipataty atiduHkhitA
+11018006a dRSTvA me pArthivasutAm etAM lakSmaNamAtaram
+11018006c rAjaputrIM mahAbAho mano na vyupazAmyati
+11018007a bhrAtqMz cAnyAH patIMz cAnyAH putrAMz ca nihatAn bhuvi
+11018007c dRSTvA paripatanty etAH pragRhya subhujA bhujAn
+11018008a madhyamAnAM tu nArINAM vRddhAnAM cAparAjita
+11018008c AkrandaM hatabandhUnAM dAruNe vaizase zRNu
+11018009a rathanIDAni dehAMz ca hatAnAM gajavAjinAm
+11018009c AzritAH zramamohArtAH sthitAH pazya mahAbala
+11018010a anyA cApahRtaM kAyAc cArukuNDalam unnasam
+11018010c svasya bandhoH ziraH kRSNa gRhItvA pazya tiSThati
+11018011a pUrvajAtikRtaM pApaM manye nAlpam ivAnagha
+11018011c etAbhir anavadyAbhir mayA caivAlpamedhayA
+11018012a tad idaM dharmarAjena yAtitaM no janArdana
+11018012c na hi nAzo 'sti vArSNeya karmaNoH zubhapApayoH
+11018013a pratyagravayasaH pazya darzanIyakucodarAH
+11018013c kuleSu jAtA hrImatyaH kRSNapakSAkSimUrdhajAH
+11018014a haMsagadgadabhASiNyo duHkhazokapramohitAH
+11018014c sArasya iva vAzantyaH patitAH pazya mAdhava
+11018015a phullapadmaprakAzAni puNDarIkAkSa yoSitAm
+11018015c anavadyAni vaktrANi tapaty asukharazmivAn
+11018016a IrSUNAM mama putrANAM vAsudevAvarodhanam
+11018016c mattamAtaGgadarpANAM pazyanty adya pRthagjanAH
+11018017a zatacandrANi carmANi dhvajAMz cAdityasaMnibhAn
+11018017c raukmANi caiva varmANi niSkAn api ca kAJcanAn
+11018018a zIrSatrANAni caitAni putrANAM me mahItale
+11018018c pazya dIptAni govinda pAvakAn suhutAn iva
+11018019a eSa duHzAsanaH zete zUreNAmitraghAtinA
+11018019c pItazoNitasarvAGgo bhImasenena pAtitaH
+11018020a gadayA vIraghAtinyA pazya mAdhava me sutam
+11018020c dyUtaklezAn anusmRtya draupadyA coditena ca
+11018021a uktA hy anena pAJcAlI sabhAyAM dyUtanirjitA
+11018021c priyaM cikIrSatA bhrAtuH karNasya ca janArdana
+11018022a sahaiva sahadevena nakulenArjunena ca
+11018022c dAsabhAryAsi pAJcAli kSipraM praviza no gRhAn
+11018023a tato 'ham abruvaM kRSNa tadA duryodhanaM nRpam
+11018023c mRtyupAzaparikSiptaM zakuniM putra varjaya
+11018024a nibodhainaM sudurbuddhiM mAtulaM kalahapriyam
+11018024c kSipram enaM parityajya putra zAmyasva pANDavaiH
+11018025a na budhyase tvaM durbuddhe bhImasenam amarSaNam
+11018025c vAGnArAcais tudaMs tIkSNair ulkAbhir iva kuJjaram
+11018026a tAn eSa rabhasaH krUro vAkzalyAn avadhArayan
+11018026c utsasarja viSaM teSu sarpo govRSabheSv iva
+11018027a eSa duHzAsanaH zete vikSipya vipulau bhujau
+11018027c nihato bhImasenena siMheneva maharSabhaH
+11018028a atyartham akarod raudraM bhImaseno 'tyamarSaNaH
+11018028c duHzAsanasya yat kruddho 'pibac choNitam Ahave
+11019001  gAndhAry uvAca
+11019001a eSa mAdhava putro me vikarNaH prAjJasaMmataH
+11019001c bhUmau vinihataH zete bhImena zatadhA kRtaH
+11019002a gajamadhyagataH zete vikarNo madhusUdana
+11019002c nIlameghaparikSiptaH zaradIva divAkaraH
+11019003a asya cApagraheNaiSa pANiH kRtakiNo mahAn
+11019003c kathaM cic chidyate gRdhrair attukAmais talatravAn
+11019004a asya bhAryAmiSaprepsUn gRdhrAn etAMs tapasvinI
+11019004c vArayaty anizaM bAlA na ca zaknoti mAdhava
+11019005a yuvA vRndArakaH zUro vikarNaH puruSarSabha
+11019005c sukhocitaH sukhArhaz ca zete pAMsuSu mAdhava
+11019006a karNinAlIkanArAcair bhinnamarmANam Ahave
+11019006c adyApi na jahAty enaM lakSmIr bharatasattamam
+11019007a eSa saMgrAmazUreNa pratijJAM pAlayiSyatA
+11019007c durmukho 'bhimukhaH zete hato 'rigaNahA raNe
+11019008a tasyaitad vadanaM kRSNa zvApadair ardhabhakSitam
+11019008c vibhAty abhyadhikaM tAta saptamyAm iva candramAH
+11019009a zUrasya hi raNe kRSNa yasyAnanam athedRzam
+11019009c sa kathaM nihato 'mitraiH pAMsUn grasati me sutaH
+11019010a yasyAhavamukhe saumya sthAtA naivopapadyate
+11019010c sa kathaM durmukho 'mitrair hato vibudhalokajit
+11019011a citrasenaM hataM bhUmau zayAnaM madhusUdana
+11019011c dhArtarASTram imaM pazya pratimAnaM danuSmatAm
+11019012a taM citramAlyAbharaNaM yuvatyaH zokakarzitAH
+11019012c kravyAdasaMghaiH sahitA rudantyaH paryupAsate
+11019013a strINAM ruditanirghoSaH zvApadAnAM ca garjitam
+11019013c citrarUpam idaM kRSNa vicitraM pratibhAti me
+11019014a yuvA vRndArako nityaM pravarastrIniSevitaH
+11019014c viviMzatir asau zete dhvastaH pAMsuSu mAdhava
+11019015a zarasaMkRttavarmANaM vIraM vizasane hatam
+11019015c parivAryAsate gRdhrAH pariviMzA viviMzatim
+11019016a pravizya samare vIraH pANDavAnAm anIkinIm
+11019016c Avizya zayane zete punaH satpuruSocitam
+11019017a smitopapannaM sunasaM subhru tArAdhipopamam
+11019017c atIva zubhraM vadanaM pazya kRSNa viviMzateH
+11019018a yaM sma taM paryupAsante vasuM vAsavayoSitaH
+11019018c krIDantam iva gandharvaM devakanyAH sahasrazaH
+11019019a hantAraM vIrasenAnAM zUraM samitizobhanam
+11019019c nibarhaNam amitrANAM duHsahaM viSaheta kaH
+11019020a duHsahasyaitad AbhAti zarIraM saMvRtaM zaraiH
+11019020c girir AtmaruhaiH phullaiH karNikArair ivAvRtaH
+11019021a zAtakaumbhyA srajA bhAti kavacena ca bhAsvatA
+11019021c agnineva giriH zveto gatAsur api duHsahaH
+11020001  gAndhAry uvAca
+11020001a adhyardhaguNam Ahur yaM bale zaurye ca mAdhava
+11020001c pitrA tvayA ca dAzArha dRptaM siMham ivotkaTam
+11020002a yo bibheda camUm eko mama putrasya durbhidAm
+11020002c sa bhUtvA mRtyur anyeSAM svayaM mRtyuvazaM gataH
+11020003a tasyopalakSaye kRSNa kArSNer amitatejasaH
+11020003c abhimanyor hatasyApi prabhA naivopazAmyati
+11020004a eSA virATaduhitA snuSA gANDIvadhanvanaH
+11020004c ArtA bAlA patiM vIraM zocyA zocaty aninditA
+11020005a tam eSA hi samAsAdya bhAryA bhartAram antike
+11020005c virATaduhitA kRSNa pANinA parimArjati
+11020006a tasya vaktram upAghrAya saubhadrasya yazasvinI
+11020006c vibuddhakamalAkAraM kambuvRttazirodharam
+11020007a kAmyarUpavatI caiSA pariSvajati bhAminI
+11020007c lajjamAnA purevainaM mAdhvIkamadamUrchitA
+11020008a tasya kSatajasaMdigdhaM jAtarUpapariSkRtam
+11020008c vimucya kavacaM kRSNa zarIram abhivIkSate
+11020009a avekSamANA taM bAlA kRSNa tvAm abhibhASate
+11020009c ayaM te puNDarIkAkSa sadRzAkSo nipAtitaH
+11020010a bale vIrye ca sadRzas tejasA caiva te 'nagha
+11020010c rUpeNa ca tavAtyarthaM zete bhuvi nipAtitaH
+11020011a atyantasukumArasya rAGkavAjinazAyinaH
+11020011c kaccid adya zarIraM te bhUmau na paritapyate
+11020012a mAtaGgabhujavarSmANau jyAkSepakaThinatvacau
+11020012c kAJcanAGgadinau zeSe nikSipya vipulau bhujau
+11020013a vyAyamya bahudhA nUnaM sukhasuptaH zramAd iva
+11020013c evaM vilapatIm ArtAM na hi mAm abhibhASase
+11020014a AryAm Arya subhadrAM tvam imAMz ca tridazopamAn
+11020014c pitqn mAM caiva duHkhArtAM vihAya kva gamiSyasi
+11020015a tasya zoNitasaMdigdhAn kezAn unnAmya pANinA
+11020015c utsaGge vaktram AdhAya jIvantam iva pRcchati
+11020015e svasrIyaM vAsudevasya putraM gANDIvadhanvanaH
+11020016a kathaM tvAM raNamadhyasthaM jaghnur ete mahArathAH
+11020016c dhig astu krUrakartqMs tAn kRpakarNajayadrathAn
+11020017a droNadrauNAyanI cobhau yair asi vyasanIkRtaH
+11020017c ratharSabhANAM sarveSAM katham AsIt tadA manaH
+11020018a bAlaM tvAM parivAryaikaM mama duHkhAya jaghnuSAm
+11020018c kathaM nu pANDavAnAM ca pAJcAlAnAM ca pazyatAm
+11020018e tvaM vIra nidhanaM prApto nAthavAn sann anAthavat
+11020019a dRSTvA bahubhir Akrande nihataM tvAm anAthavat
+11020019c vIraH puruSazArdUlaH kathaM jIvati pANDavaH
+11020020a na rAjyalAbho vipulaH zatrUNAM vA parAbhavaH
+11020020c prItiM dAsyati pArthAnAM tvAm Rte puSkarekSaNa
+11020021a tava zastrajitA&l lokAn dharmeNa ca damena ca
+11020021c kSipram anvAgamiSyAmi tatra mAM pratipAlaya
+11020022a durmaraM punar aprApte kAle bhavati kena cit
+11020022c yad ahaM tvAM raNe dRSTvA hataM jIvAmi durbhagA
+11020023a kAm idAnIM naravyAghra zlakSNayA smitayA girA
+11020023c pitRloke sametyAnyAM mAm ivAmantrayiSyasi
+11020024a nUnam apsarasAM svarge manAMsi pramathiSyasi
+11020024c parameNa ca rUpeNa girA ca smitapUrvayA
+11020025a prApya puNyakRtA&l lokAn apsarobhiH sameyivAn
+11020025c saubhadra viharan kAle smarethAH sukRtAni me
+11020026a etAvAn iha saMvAso vihitas te mayA saha
+11020026c SaNmAsAn saptame mAsi tvaM vIra nidhanaM gataH
+11020027a ity uktavacanAm etAm apakarSanti duHkhitAm
+11020027c uttarAM moghasaMkalpAM matsyarAjakulastriyaH
+11020028a uttarAm apakRSyainAm ArtAm ArtatarAH svayam
+11020028c virATaM nihataM dRSTvA krozanti vilapanti ca
+11020029a droNAstrazarasaMkRttaM zayAnaM rudhirokSitam
+11020029c virATaM vitudanty ete gRdhragomAyuvAyasAH
+11020030a vitudyamAnaM vihagair virATam asitekSaNAH
+11020030c na zaknuvanti vivazA nivartayitum AturAH
+11020031a AsAm AtapataptAnAm AyAsena ca yoSitAm
+11020031c zrameNa ca vivarNAnAM rUpANAM vigataM vapuH
+11020032a uttaraM cAbhimanyuM ca kAmbojaM ca sudakSiNam
+11020032c zizUn etAn hatAn pazya lakSmaNaM ca sudarzanam
+11020032e Ayodhanaziromadhye zayAnaM pazya mAdhava
+11021001  gAndhAry uvAca
+11021001a eSa vaikartanaH zete maheSvAso mahArathaH
+11021001c jvalitAnalavat saMkhye saMzAntaH pArthatejasA
+11021002a pazya vaikartanaM karNaM nihatyAtirathAn bahUn
+11021002c zoNitaughaparItAGgaM zayAnaM patitaM bhuvi
+11021003a amarSI dIrgharoSaz ca maheSvAso mahArathaH
+11021003c raNe vinihataH zete zUro gANDIvadhanvanA
+11021004a yaM sma pANDavasaMtrAsAn mama putrA mahArathAH
+11021004c prAyudhyanta puraskRtya mAtaGgA iva yUthapam
+11021005a zArdUlam iva siMhena samare savyasAcinA
+11021005c mAtaGgam iva mattena mAtaGgena nipAtitam
+11021006a sametAH puruSavyAghra nihataM zUram Ahave
+11021006c prakIrNamUrdhajAH patnyo rudatyaH paryupAsate
+11021007a udvignaH satataM yasmAd dharmarAjo yudhiSThiraH
+11021007c trayodaza samA nidrAM cintayan nAdhyagacchata
+11021008a anAdhRSyaH parair yuddhe zatrubhir maghavAn iva
+11021008c yugAntAgnir ivArciSmAn himavAn iva ca sthiraH
+11021009a sa bhUtvA zaraNaM vIro dhArtarASTrasya mAdhava
+11021009c bhUmau vinihataH zete vAtarugNa iva drumaH
+11021010a pazya karNasya patnIM tvaM vRSasenasya mAtaram
+11021010c lAlapyamAnAH karuNaM rudatIM patitAM bhuvi
+11021011a AcAryazApo 'nugato dhruvaM tvAM; yad agrasac cakram iyaM dharA te
+11021011c tataH zareNApahRtaM ziras te; dhanaMjayenAhave zatrumadhye
+11021012a aho dhig eSA patitA visaMjJA; samIkSya jAmbUnadabaddhaniSkam
+11021012c karNaM mahAbAhum adInasattvaM; suSeNamAtA rudatI bhRzArtA
+11021013a alpAvazeSo hi kRto mahAtmA; zarIrabhakSaiH paribhakSayadbhiH
+11021013c draSTuM na saMprItikaraH zazIva; kRSNazya pakSasya caturdazAhe
+11021014a sAvartamAnA patitA pRthivyAm; utthAya dInA punar eva caiSA
+11021014c karNasya vaktraM parijighramANA; rorUyate putravadhAbhitaptA
+11022001  gAndhAry uvAca
+11022001a AvantyaM bhImasenena bhakSayanti nipAtitam
+11022001c gRdhragomAyavaH zUraM bahubandhum abandhuvat
+11022002a taM pazya kadanaM kRtvA zatrUNAM madhusUdana
+11022002c zayAnaM vIrazayane rudhireNa samukSitam
+11022003a taM sRgAlAz ca kaGkAz ca kravyAdAz ca pRthagvidhAH
+11022003c tena tena vikarSanti pazya kAlasya paryayam
+11022004a zayAnaM vIrazayane vIram AkrandasAriNam
+11022004c Avantyam abhito nAryo rudatyaH paryupAsate
+11022005a prAtipIyaM maheSvAsaM hataM bhallena bAhlikam
+11022005c prasuptam iva zArdUlaM pazya kRSNa manasvinam
+11022006a atIva mukhavarNo 'sya nihatasyApi zobhate
+11022006c somasyevAbhipUrNasya paurNamAsyAM samudyataH
+11022007a putrazokAbhitaptena pratijJAM parirakSatA
+11022007c pAkazAsaninA saMkhye vArddhakSatrir nipAtitaH
+11022008a ekAdaza camUr jitvA rakSyamANaM mahAtmanA
+11022008c satyaM cikIrSatA pazya hatam enaM jayadratham
+11022009a sindhusauvIrabhartAraM darpapUrNaM manasvinam
+11022009c bhakSayanti zivA gRdhrA janArdana jayadratham
+11022010a saMrakSyamANaM bhAryAbhir anuraktAbhir acyuta
+11022010c bhaSanto vyapakarSanti gahanaM nimnam antikAt
+11022011a tam etAH paryupAsante rakSamANA mahAbhujam
+11022011c sindhusauvIragAndhArakAmbojayavanastriyaH
+11022012a yadA kRSNAm upAdAya prAdravat kekayaiH saha
+11022012c tadaiva vadhyaH pANDUnAM janArdana jayadrathaH
+11022013a duHzalAM mAnayadbhis tu yadA mukto jayadrathaH
+11022013c katham adya na tAM kRSNa mAnayanti sma te punaH
+11022014a saiSA mama sutA bAlA vilapantI suduHkhitA
+11022014c pramApayati cAtmAnam Akrozati ca pANDavAn
+11022015a kiM nu duHkhataraM kRSNa paraM mama bhaviSyati
+11022015c yat sutA vidhavA bAlA snuSAz ca nihatezvarAH
+11022016a aho dhig duHzalAM pazya vItazokabhayAm iva
+11022016c ziro bhartur anAsAdya dhAvamAnAm itas tataH
+11022017a vArayAm Asa yaH sarvAn pANDavAn putragRddhinaH
+11022017c sa hatvA vipulAH senAH svayaM mRtyuvazaM gataH
+11022018a taM mattam iva mAtaGgaM vIraM paramadurjayam
+11022018c parivArya rudanty etAH striyaz candropamAnanAH
+11023001  gAndhAry uvAca
+11023001a eSa zalyo hataH zete sAkSAn nakulamAtulaH
+11023001c dharmajJena satA tAta dharmarAjena saMyuge
+11023002a yas tvayA spardhate nityaM sarvatra puruSarSabha
+11023002c sa eSa nihataH zete madrarAjo mahArathaH
+11023003a yena saMgRhNatA tAta ratham Adhirather yudhi
+11023003c jayArthaM pANDuputrANAM tathA tejovadhaH kRtaH
+11023004a aho dhik pazya zalyasya pUrNacandrasudarzanam
+11023004c mukhaM padmapalAzAkSaM vaDair AdaSTam avraNam
+11023005a eSA cAmIkarAbhasya taptakAJcanasaprabhA
+11023005c AsyAd viniHsRtA jihvA bhakSyate kRSNa pakSibhiH
+11023006a yudhiSThireNa nihataM zalyaM samitizobhanam
+11023006c rudantyaH paryupAsante madrarAjakulastriyaH
+11023007a etAH susUkSmavasanA madrarAjaM nararSabham
+11023007c krozanty abhisamAsAdya kSatriyAH kSatriyarSabham
+11023008a zalyaM nipatitaM nAryaH parivAryAbhitaH sthitAH
+11023008c vAzitA gRSTayaH paGke parimagnam ivarSabham
+11023009a zalyaM zaraNadaM zUraM pazyainaM rathasattamam
+11023009c zayAnaM vIrazayane zarair vizakalIkRtam
+11023010a eSa zailAlayo rAjA bhagadattaH pratApavAn
+11023010c gajAGkuzadharaH zreSThaH zete bhuvi nipAtitaH
+11023011a yasya rukmamayI mAlA zirasy eSA virAjate
+11023011c zvApadair bhakSyamANasya zobhayantIva mUrdhajAn
+11023012a etena kila pArthasya yuddham AsIt sudAruNam
+11023012c lomaharSaNam atyugraM zakrasya balinA yathA
+11023013a yodhayitvA mahAbAhur eSa pArthaM dhanaMjayam
+11023013c saMzayaM gamayitvA ca kuntIputreNa pAtitaH
+11023014a yasya nAsti samo loke zaurye vIrye ca kaz cana
+11023014c sa eSa nihataH zete bhISmo bhISmakRd Ahave
+11023015a pazya zAMtanavaM kRSNa zayAnaM sUryavarcasam
+11023015c yugAnta iva kAlena pAtitaM sUryam ambarAt
+11023016a eSa taptvA raNe zatrUJ zastratApena vIryavAn
+11023016c narasUryo 'stam abhyeti sUryo 'stam iva kezava
+11023017a zaratalpagataM vIraM dharme devApinA samam
+11023017c zayAnaM vIrazayane pazya zUraniSevite
+11023018a karNinAlIkanArAcair AstIrya zayanottamam
+11023018c Avizya zete bhagavAn skandaH zaravaNaM yathA
+11023019a atUlapUrNaM gAGgeyas tribhir bANaiH samanvitam
+11023019c upadhAyopadhAnAgryaM dattaM gANDIvadhanvanA
+11023020a pAlayAnaH pituH zAstram UrdhvaretA mahAyazAH
+11023020c eSa zAMtanavaH zete mAdhavApratimo yudhi
+11023021a dharmAtmA tAta dharmajJaH pAraMparyeNa nirNaye
+11023021c amartya iva martyaH sann eSa prANAn adhArayat
+11023022a nAsti yuddhe kRtI kaz cin na vidvAn na parAkramI
+11023022c yatra zAMtanavo bhISmaH zete 'dya nihataH paraiH
+11023023a svayam etena zUreNa pRcchyamAnena pANDavaiH
+11023023c dharmajJenAhave mRtyur AkhyAtaH satyavAdinA
+11023024a pranaSTaH kuruvaMzaz ca punar yena samuddhRtaH
+11023024c sa gataH kurubhiH sArdhaM mahAbuddhiH parAbhavam
+11023025a dharmeSu kuravaH kaM nu pariprakSyanti mAdhava
+11023025c gate devavrate svargaM devakalpe nararSabhe
+11023026a arjunasya vinetAram AcAryaM sAtyakes tathA
+11023026c taM pazya patitaM droNaM kurUNAM gurusattamam
+11023027a astraM caturvidhaM veda yathaiva tridazezvaraH
+11023027c bhArgavo vA mahAvIryas tathA droNo 'pi mAdhava
+11023028a yasya prasAdAd bIbhatsuH pANDavaH karma duSkaram
+11023028c cakAra sa hataH zete nainam astrANy apAlayan
+11023029a yaM purodhAya kurava Ahvayanti sma pANDavAn
+11023029c so 'yaM zastrabhRtAM zreSTho droNaH zastraiH pRthak kRtaH
+11023030a yasya nirdahataH senAM gatir agner ivAbhavat
+11023030c sa bhUmau nihataH zete zAntArcir iva pAvakaH
+11023031a dhanur muSTir azIrNaz ca hastAvApaz ca mAdhava
+11023031c droNasya nihatasyApi dRzyate jIvato yathA
+11023032a vedA yasmAc ca catvAraH sarvAstrANi ca kezava
+11023032c anapetAni vai zUrAd yathaivAdau prajApateH
+11023033a vandanArhAv imau tasya bandibhir vanditau zubhau
+11023033c gomAyavo vikarSanti pAdau ziSyazatArcitau
+11023034a droNaM drupadaputreNa nihataM madhusUdana
+11023034c kRpI kRpaNam anvAste duHkhopahatacetanA
+11023035a tAM pazya rudatIm ArtAM muktakezIm adhomukhIm
+11023035c hataM patim upAsantIM droNaM zastrabhRtAM varam
+11023036a bANair bhinnatanutrANaM dhRSTadyumnena kezava
+11023036c upAste vai mRdhe droNaM jaTilA brahmacAriNI
+11023037a pretakRtye ca yatate kRpI kRpaNam AturA
+11023037c hatasya samare bhartuH sukumArI yazasvinI
+11023038a agnIn AhRtya vidhivac citAM prajvAlya sarvazaH
+11023038c droNam AdhAya gAyanti trINi sAmAni sAmagAH
+11023039a kiranti ca citAm ete jaTilA brahmacAriNaH
+11023039c dhanurbhiH zaktibhiz caiva rathanIDaiz ca mAdhava
+11023040a zastraiz ca vividhair anyair dhakSyante bhUritejasam
+11023040c ta ete droNam AdhAya zaMsanti ca rudanti ca
+11023041a sAmabhis tribhir antaHsthair anuzaMsanti cApare
+11023041c agnAv agnim ivAdhAya droNaM hutvA hutAzane
+11023042a gacchanty abhimukhA gaGgAM droNaziSyA dvijAtayaH
+11023042c apasavyAM citiM kRtvA puraskRtya kRpIM tadA
+11024001  gAndhAry uvAca
+11024001a somadattasutaM pazya yuyudhAnena pAtitam
+11024001c vitudyamAnaM vihagair bahubhir mAdhavAntike
+11024002a putrazokAbhisaMtaptaH somadatto janArdana
+11024002c yuyudhAnaM maheSvAsaM garhayann iva dRzyate
+11024003a asau tu bhUrizravaso mAtA zokapariplutA
+11024003c AzvAsayati bhartAraM somadattam aninditA
+11024004a diSTyA nedaM mahArAja dAruNaM bharatakSayam
+11024004c kurusaMkrandanaM ghoraM yugAntam anupazyasi
+11024005a diSTyA yUpadhvajaM vIraM putraM bhUrisahasradam
+11024005c anekakratuyajvAnaM nihataM nAdya pazyasi
+11024006a diSTyA snuSANAm Akrande ghoraM vilapitaM bahu
+11024006c na zRNoSi mahArAja sArasInAm ivArNave
+11024007a ekavastrAnusaMvItAH prakIrNAsitamUrdhajAH
+11024007c snuSAs te paridhAvanti hatApatyA hatezvarAH
+11024008a zvApadair bhakSyamANaM tvam aho diSTyA na pazyasi
+11024008c chinnabAhuM naravyAghram arjunena nipAtitam
+11024009a zalaM vinihataM saMkhye bhUrizravasam eva ca
+11024009c snuSAz ca vidhavAH sarvA diSTyA nAdyeha pazyasi
+11024010a diSTyA tat kAJcanaM chatraM yUpaketor mahAtmanaH
+11024010c vinikIrNaM rathopasthe saumadatter na pazyasi
+11024011a amUs tu bhUrizravaso bhAryAH sAtyakinA hatam
+11024011c parivAryAnuzocanti bhartAram asitekSaNAH
+11024012a etA vilapya bahulaM bhartRzokena karzitAH
+11024012c patanty abhimukhA bhUmau kRpaNaM bata kezava
+11024013a bIbhatsur atibIbhatsaM karmedam akarot katham
+11024013c pramattasya yad acchaitsId bAhuM zUrasya yajvanaH
+11024014a tataH pApataraM karma kRtavAn api sAtyakiH
+11024014c yasmAt prAyopaviSTasya prAhArSIt saMzitAtmanaH
+11024015a eko dvAbhyAM hataH zeSe tvam adharmeNa dhArmikaH
+11024015c iti yUpadhvajasyaitAH striyaH krozanti mAdhava
+11024016a bhAryA yUpadhvajasyaiSA karasaMmitamadhyamA
+11024016c kRtvotsaGge bhujaM bhartuH kRpaNaM paryadevayat
+11024017a ayaM sa razanotkarSI pInastanavimardanaH
+11024017c nAbhyUrujaghanasparzI nIvIvisraMsanaH karaH
+11024018a vAsudevasya sAMnidhye pArthenAkliSTakarmaNA
+11024018c yudhyataH samare 'nyena pramattasya nipAtitaH
+11024019a kiM nu vakSyasi saMsatsu kathAsu ca janArdana
+11024019c arjunasya mahat karma svayaM vA sa kirITavAn
+11024020a ity evaM garhayitvaiSA tUSNIm Aste varAGganA
+11024020c tAm etAm anuzocanti sapatnyaH svAm iva snuSAm
+11024021a gAndhArarAjaH zakunir balavAn satyavikramaH
+11024021c nihataH sahadevena bhAgineyena mAtulaH
+11024022a yaH purA hemadaNDAbhyAM vyajanAbhyAM sma vIjyate
+11024022c sa eSa pakSibhiH pakSaiH zayAna upavIjyate
+11024023a yaH sma rUpANi kurute zatazo 'tha sahasrazaH
+11024023c tasya mAyAvino mAyA dagdhAH pANDavatejasA
+11024024a mAyayA nikRtiprajJo jitavAn yo yudhiSThiram
+11024024c sabhAyAM vipulaM rAjyaM sa punar jIvitaM jitaH
+11024025a zakuntAH zakuniM kRSNa samantAt paryupAsate
+11024025c kitavaM mama putrANAM vinAzAyopazikSitam
+11024026a etenaitan mahad vairaM prasaktaM pANDavaiH saha
+11024026c vadhAya mama putrANAm AtmanaH sagaNasya ca
+11024027a yathaiva mama putrANAM lokAH zastrajitAH prabho
+11024027c evam asyApi durbuddher lokAH zastreNa vai jitAH
+11024028a kathaM ca nAyaM tatrApi putrAn me bhrAtRbhiH saha
+11024028c virodhayed RjuprajJAn anRjur madhusUdana
+11025001  gAndhAry uvAca
+11025001a kAmbojaM pazya durdharSaM kAmbojAstaraNocitam
+11025001c zayAnam RSabhaskandhaM hataM pAMsuzu mAdhava
+11025002a yasya kSatajasaMdigdhau bAhU candanarUSitau
+11025002c avekSya kRpaNaM bhAryA vilapaty atiduHkhitA
+11025003a imau tau parighaprakhyau bAhU zubhatalAGgulI
+11025003c yayor vivaram ApannAM na ratir mAM purAjahat
+11025004a kAM gatiM nu gamiSyAmi tvayA hInA janezvara
+11025004c dUrabandhur anAtheva atIva madhurasvarA
+11025005a Atape klAmyamAnAnAM vividhAnAm iva srajAm
+11025005c klAntAnAm api nArINAM na zrIr jahati vai tanum
+11025006a zayAnam abhitaH zUraM kAliGgaM madhusUdana
+11025006c pazya dIptAGgadayugapratibaddhamahAbhujam
+11025007a mAgadhAnAm adhipatiM jayatsenaM janArdana
+11025007c parivArya praruditA mAgadhyaH pazya yoSitaH
+11025008a AsAm AyatanetrANAM susvarANAM janArdana
+11025008c manaHzrutiharo nAdo mano mohayatIva me
+11025009a prakIrNasarvAbharaNA rudantyaH zokakarzitAH
+11025009c svAstIrNazayanopetA mAgadhyaH zerate bhuvi
+11025010a kosalAnAm adhipatiM rAjaputraM bRhadbalam
+11025010c bhartAraM parivAryaitAH pRthak praruditAH striyaH
+11025011a asya gAtragatAn bANAn kArSNibAhubalArpitAn
+11025011c uddharanty asukhAviSTA mUrchamAnAH punaH punaH
+11025012a AsAM sarvAnavadyAnAm Atapena parizramAt
+11025012c pramlAnanalinAbhAni bhAnti vaktrANi mAdhava
+11025013a droNena nihatAH zUrAH zerate rucirAGgadAH
+11025013c droNenAbhimukhAH sarve bhrAtaraH paJca kekayAH
+11025014a taptakAJcanavarmANas tAmradhvajarathasrajaH
+11025014c bhAsayanti mahIM bhAsA jvalitA iva pAvakAH
+11025015a droNena drupadaM saMkhye pazya mAdhava pAtitam
+11025015c mahAdvipam ivAraNye siMhena mahatA hatam
+11025016a pAJcAlarAjJo vipulaM puNDarIkAkSa pANDuram
+11025016c AtapatraM samAbhAti zaradIva divAkaraH
+11025017a etAs tu drupadaM vRddhaM snuSA bhAryAz ca duHkhitAH
+11025017c dagdhvA gacchanti pAJcAlyaM rAjAnam apasavyataH
+11025018a dhRSTaketuM maheSvAsaM cedipuMgavam aGganAH
+11025018c droNena nihataM zUraM haranti hRtacetasaH
+11025019a droNAstram abhihatyaiSa vimarde madhusUdana
+11025019c maheSvAso hataH zete nadyA hRta iva drumaH
+11025020a eSa cedipatiH zUro dhRSTaketur mahArathaH
+11025020c zete vinihataH saMkhye hatvA zatrUn sahasrazaH
+11025021a vitudyamAnaM vihagais taM bhAryAH pratyupasthitAH
+11025021c cedirAjaM hRSIkeza hataM sabalabAndhavam
+11025022a dAzArhIputrajaM vIraM zayAnaM satyavikramam
+11025022c AropyAGke rudanty etAz cedirAjavarAGganAH
+11025023a asya putraM hRSIkeza suvaktraM cArukuNDalam
+11025023c droNena samare pazya nikRttaM bahudhA zaraiH
+11025024a pitaraM nUnam AjisthaM yudhyamAnaM paraiH saha
+11025024c nAjahAt pRSThato vIram adyApi madhusUdana
+11025025a evaM mamApi putrasya putraH pitaram anvagAt
+11025025c duryodhanaM mahAbAho lakSmaNaH paravIrahA
+11025026a vindAnuvindAv Avantyau patitau pazya mAdhava
+11025026c himAnte puSpitau zAlau marutA galitAv iva
+11025027a kAJcanAGgadavarmANau bANakhaDgadhanurdharau
+11025027c RSabhapratirUpAkSau zayAnau vimalasrajau
+11025028a avadhyAH pANDavAH kRSNa sarva eva tvayA saha
+11025028c ye muktA droNabhISmAbhyAM karNAd vaikartanAt kRpAt
+11025029a duryodhanAd droNasutAt saindhavAc ca mahArathAt
+11025029c somadattAd vikarNAc ca zUrAc ca kRtavarmaNaH
+11025029e ye hanyuH zastravegena devAn api nararSabhAH
+11025030a ta ime nihatAH saMkhye pazya kAlasya paryayam
+11025030c nAtibhAro 'sti daivasya dhruvaM mAdhava kaz cana
+11025030e yad ime nihatAH zUrAH kSatriyaiH kSatriyarSabhAH
+11025031a tadaiva nihatAH kRSNa mama putrAs tarasvinaH
+11025031c yadaivAkRtakAmas tvam upaplavyaM gataH punaH
+11025032a zaMtanoz caiva putreNa prAjJena vidureNa ca
+11025032c tadaivoktAsmi mA snehaM kuruSvAtmasuteSv iti
+11025033a tayor na darzanaM tAta mithyA bhavitum arhati
+11025033c acireNaiva me putrA bhasmIbhUtA janArdana
+11025034  vaizaMpAyana uvAca
+11025034a ity uktvA nyapatad bhUmau gAndhArI zokakarzitA
+11025034c duHkhopahatavijJAnA dhairyam utsRjya bhArata
+11025035a tataH kopaparItAGgI putrazokapariplutA
+11025035c jagAma zauriM doSeNa gAndhArI vyathitendriyA
+11025036  gAndhAry uvAca
+11025036a pANDavA dhArtarASTrAz ca drugdhAH kRSNa parasparam
+11025036c upekSitA vinazyantas tvayA kasmAj janArdana
+11025037a zaktena bahubhRtyena vipule tiSThatA bale
+11025037c ubhayatra samarthena zrutavAkyena caiva ha
+11025038a icchatopekSito nAzaH kurUNAM madhusUdana
+11025038c yasmAt tvayA mahAbAho phalaM tasmAd avApnuhi
+11025039a patizuzrUSayA yan me tapaH kiM cid upArjitam
+11025039c tena tvAM duravApAtmaJ zapsye cakragadAdhara
+11025040a yasmAt parasparaM ghnanto jJAtayaH kurupANDavAH
+11025040c upekSitAs te govinda tasmAj jJAtIn vadhiSyasi
+11025041a tvam apy upasthite varSe SaTtriMze madhusUdana
+11025041c hatajJAtir hatAmAtyo hataputro vanecaraH
+11025041e kutsitenAbhyupAyena nidhanaM samavApsyasi
+11025042a tavApy evaM hatasutA nihatajJAtibAndhavAH
+11025042c striyaH paripatiSyanti yathaitA bharatastriyaH
+11025043  vaizaMpAyana uvAca
+11025043a tac chrutvA vacanaM ghoraM vAsudevo mahAmanAH
+11025043c uvAca devIM gAndhArIm ISad abhyutsmayann iva
+11025044a saMhartA vRSNicakrasya nAnyo mad vidyate zubhe
+11025044c jAne 'ham etad apy evaM cIrNaM carasi kSatriye
+11025045a avadhyAs te narair anyair api vA devadAnavaiH
+11025045c parasparakRtaM nAzam ataH prApsyanti yAdavAH
+11025046a ity uktavati dAzArhe pANDavAs trastacetasaH
+11025046c babhUvur bhRzasaMvignA nirAzAz cApi jIvite
+11026001  vAsudeva uvAca
+11026001a uttiSThottiSTha gAndhAri mA ca zoke manaH kRthAH
+11026001c tavaiva hy aparAdhena kuravo nidhanaM gatAH
+11026002a yA tvaM putraM durAtmAnam IrSum atyantamAninam
+11026002c duryodhanaM puraskRtya duSkRtaM sAdhu manyase
+11026003a niSThuraM vairaparuSaM vRddhAnAM zAsanAtigam
+11026003c katham AtmakRtaM doSaM mayy AdhAtum ihecchasi
+11026004a mRtaM vA yadi vA naSTaM yo 'tItam anuzocati
+11026004c duHkhena labhate duHkhaM dvAv anarthau prapadyate
+11026005a taporthIyaM brAhmaNI dhatta garbhaM; gaur voDhAraM dhAvitAraM turaMgI
+11026005c zUdrA dAsaM pazupAlaM tu vaizyA; vadhArthIyaM tvadvidhA rAjaputrI
+11026006  vaizaMpAyana uvAca
+11026006a tac chrutvA vAsudevasya punaruktaM vaco 'priyam
+11026006c tUSNIM babhUva gAndhArI zokavyAkulalocanA
+11026007a dhRtarASTras tu rAjarSir nigRhyAbuddhijaM tamaH
+11026007c paryapRcchata dharmAtmA dharmarAjaM yudhiSThiram
+11026008a jIvatAM parimANajJaH sainyAnAm asi pANDava
+11026008c hatAnAM yadi jAnISe parimANaM vadasva me
+11026009  yudhiSThira uvAca
+11026009a dazAyutAnAm ayutaM sahasrANi ca viMzatiH
+11026009c koTyaH SaSTiz ca SaT caiva ye 'smin rAjamRdhe hatAH
+11026010a alakSyANAM tu vIrANAM sahasrANi caturdaza
+11026010c daza cAnyAni rAjendra zataM SaSTiz ca paJca ca
+11026011  dhRtarASTra uvAca
+11026011a yudhiSThira gatiM kAM te gatAH puruSasattamAH
+11026011c AcakSva me mahAbAho sarvajJo hy asi me mataH
+11026012  yudhiSThira uvAca
+11026012a yair hutAni zarIrANi hRSTaiH paramasaMyuge
+11026012c devarAjasamA&l lokAn gatAs te satyavikramAH
+11026013a ye tv ahRSTena manasA martavyam iti bhArata
+11026013c yudhyamAnA hatAH saMkhye te gandharvaiH samAgatAH
+11026014a ye tu saMgrAmabhUmiSThA yAcamAnAH parAGmukhAH
+11026014c zastreNa nidhanaM prAptA gatAs te guhyakAn prati
+11026015a pIDyamAnAH parair ye tu hIyamAnA nirAyudhAH
+11026015c hrIniSedhA mahAtmAnaH parAn abhimukhA raNe
+11026016a chidyamAnAH zitaiH zastraiH kSatradharmaparAyaNAH
+11026016c gatAs te brahmasadanaM hatA vIrAH suvarcasaH
+11026017a ye tatra nihatA rAjann antar AyodhanaM prati
+11026017c yathA kathaM cit te rAjan saMprAptA uttarAn kurUn
+11026018  dhRtarASTra uvAca
+11026018a kena jJAnabalenaivaM putra pazyasi siddhavat
+11026018c tan me vada mahAbAho zrotavyaM yadi vai mayA
+11026019  yudhiSThira uvAca
+11026019a nidezAd bhavataH pUrvaM vane vicaratA mayA
+11026019c tIrthayAtrAprasaGgena saMprApto 'yam anugrahaH
+11026020a devarSir lomazo dRSTas tataH prApto 'smy anusmRtim
+11026020c divyaM cakSur api prAptaM jJAnayogena vai purA
+11026021  dhRtarASTra uvAca
+11026021a ye 'trAnAthA janasyAsya sanAthA ye ca bhArata
+11026021c kaccit teSAM zarIrANi dhakSyanti vidhipUrvakam
+11026022a na yeSAM santi kartAro na ca ye 'trAhitAgnayaH
+11026022c vayaM ca kasya kuryAmo bahutvAt tAta karmaNaH
+11026023a yAn suparNAz ca gRdhrAz ca vikarSanti tatas tataH
+11026023c teSAM tu karmaNA lokA bhaviSyanti yudhiSThira
+11026024  vaizaMpAyana uvAca
+11026024a evam ukto mahAprAjJaH kuntIputro yudhiSThiraH
+11026024c Adideza sudharmANaM dhaumyaM sUtaM ca saMjayam
+11026025a viduraM ca mahAbuddhiM yuyutsuM caiva kauravam
+11026025c indrasenamukhAMz caiva bhRtyAn sUtAMz ca sarvazaH
+11026026a bhavantaH kArayantv eSAM pretakAryANi sarvazaH
+11026026c yathA cAnAthavat kiM cic charIraM na vinazyati
+11026027a zAsanAd dharmarAjasya kSattA sUtaz ca saMjayaH
+11026027c sudharmA dhaumyasahita indrasenAdayas tathA
+11026028a candanAgurukASThAni tathA kAlIyakAny uta
+11026028c ghRtaM tailaM ca gandhAMz ca kSaumANi vasanAni ca
+11026029a samAhRtya mahArhANi dArUNAM caiva saMcayAn
+11026029c rathAMz ca mRditAMs tatra nAnApraharaNAni ca
+11026030a citAH kRtvA prayatnena yathAmukhyAn narAdhipAn
+11026030c dAhayAm Asur avyagrA vidhidRSTena karmaNA
+11026031a duryodhanaM ca rAjAnaM bhrAtqMz cAsya zatAdhikAn
+11026031c zalyaM zalaM ca rAjAnaM bhUrizravasam eva ca
+11026032a jayadrathaM ca rAjAnam abhimanyuM ca bhArata
+11026032c dauHzAsaniM lakSmaNaM ca dhRSTaketuM ca pArthivam
+11026033a bRhantaM somadattaM ca sRJjayAMz ca zatAdhikAn
+11026033c rAjAnaM kSemadhanvAnaM virATadrupadau tathA
+11026034a zikhaNDinaM ca pAJcAlyaM dhRSTadyumnaM ca pArSatam
+11026034c yudhAmanyuM ca vikrAntam uttamaujasam eva ca
+11026035a kausalyaM draupadeyAMz ca zakuniM cApi saubalam
+11026035c acalaM vRSakaM caiva bhagadattaM ca pArthivam
+11026036a karNaM vaikartanaM caiva sahaputram amarSaNam
+11026036c kekayAMz ca maheSvAsAMs trigartAMz ca mahArathAn
+11026037a ghaTotkacaM rAkSasendraM bakabhrAtaram eva ca
+11026037c alambusaM ca rAjAnaM jalasaMdhaM ca pArthivam
+11026038a anyAMz ca pArthivAn rAjaJ zatazo 'tha sahasrazaH
+11026038c ghRtadhArAhutair dIptaiH pAvakaiH samadAhayan
+11026039a pitRmedhAz ca keSAM cid avartanta mahAtmanAm
+11026039c sAmabhiz cApy agAyanta te 'nvazocyanta cAparaiH
+11026040a sAmnAm RcAM ca nAdena strINAM ca ruditasvanaiH
+11026040c kazmalaM sarvabhUtAnAM nizAyAM samapadyata
+11026041a te vidhUmAH pradIptAz ca dIpyamAnAz ca pAvakAH
+11026041c nabhasIvAnvadRzyanta grahAs tanvabhrasaMvRtAH
+11026042a ye cApy anAthAs tatrAsan nAnAdezasamAgatAH
+11026042c tAMz ca sarvAn samAnAyya rAzIn kRtvA sahasrazaH
+11026043a citvA dArubhir avyagraH prabhUtaiH snehatApitaiH
+11026043c dAhayAm Asa viduro dharmarAjasya zAsanAt
+11026044a kArayitvA kriyAs teSAM kururAjo yudhiSThiraH
+11026044c dhRtarASTraM puraskRtya gaGgAm abhimukho 'gamat
+11027001  vaizaMpAyana uvAca
+11027001a te samAsAdya gaGgAM tu zivAM puNyajanocitAm
+11027001c hradinIM vaprasaMpannAM mahAnUpAM mahAvanAm
+11027002a bhUSaNAny uttarIyANi veSTanAny avamucya ca
+11027002c tataH pitqNAM pautrANAM bhrAtqNAM svajanasya ca
+11027003a putrANAm AryakANAM ca patInAM ca kurustriyaH
+11027003c udakaM cakrire sarvA rudantyo bhRzaduHkhitAH
+11027003e suhRdAM cApi dharmajJAH pracakruH salilakriyAH
+11027004a udake kriyamANe tu vIrANAM vIrapatnibhiH
+11027004c sUpatIrthAbhavad gaGgA bhUyo viprasasAra ca
+11027005a tan mahodadhisaMkAzaM nirAnandam anutsavam
+11027005c vIrapatnIbhir AkIrNaM gaGgAtIram azobhata
+11027006a tataH kuntI mahArAja sahasA zokakarzitA
+11027006c rudatI mandayA vAcA putrAn vacanam abravIt
+11027007a yaH sa zUro maheSvAso rathayUthapayUthapaH
+11027007c arjunena hataH saMkhye vIralakSaNalakSitaH
+11027008a yaM sUtaputraM manyadhvaM rAdheyam iti pANDavAH
+11027008c yo vyarAjac camUmadhye divAkara iva prabhuH
+11027009a pratyayudhyata yaH sarvAn purA vaH sapadAnugAn
+11027009c duryodhanabalaM sarvaM yaH prakarSan vyarocata
+11027010a yasya nAsti samo vIrye pRthivyAm api kaz cana
+11027010c satyasaMdhasya zUrasya saMgrAmeSv apalAyinaH
+11027011a kurudhvam udakaM tasya bhrAtur akliSTakarmaNaH
+11027011c sa hi vaH pUrvajo bhrAtA bhAskarAn mayy ajAyata
+11027011e kuNDalI kavacI zUro divAkarasamaprabhaH
+11027012a zrutvA tu pANDavAH sarve mAtur vacanam apriyam
+11027012c karNam evAnuzocanta bhUyaz cArtatarAbhavan
+11027013a tataH sa puruSavyAghraH kuntIputro yudhiSThiraH
+11027013c uvAca mAtaraM vIro niHzvasann iva pannagaH
+11027014a yasyeSupAtam AsAdya nAnyas tiSThed dhanaMjayAt
+11027014c kathaM putro bhavatyAM sa devagarbhaH purAbhavat
+11027015a yasya bAhupratApena tApitAH sarvato vayam
+11027015c tam agnim iva vastreNa kathaM chAditavaty asi
+11027015e yasya bAhubalaM ghoraM dhArtarASTrair upAsitam
+11027016a nAnyaH kuntIsutAt karNAd agRhNAd rathinAM rathI
+11027016c sa naH prathamajo bhrAtA sarvazastrabhRtAM varaH
+11027016e asUta taM bhavaty agre katham adbhutavikramam
+11027017a aho bhavatyA mantrasya pidhAnena vayaM hatAH
+11027017c nidhanena hi karNasya pIDitAH sma sabAndhavAH
+11027018a abhimanyor vinAzena draupadeyavadhena ca
+11027018c pAJcAlAnAM ca nAzena kurUNAM patanena ca
+11027019a tataH zataguNaM duHkham idaM mAm aspRzad bhRzam
+11027019c karNam evAnuzocan hi dahyAmy agnAv ivAhitaH
+11027020a na hi sma kiM cid aprApyaM bhaved api divi sthitam
+11027020c na ca sma vaizasaM ghoraM kauravAntakaraM bhavet
+11027021a evaM vilapya bahulaM dharmarAjo yudhiSThiraH
+11027021c vinadaJ zanakai rAjaMz cakArAsyodakaM prabhuH
+11027022a tato vineduH sahasA strIpuMsAs tatra sarvazaH
+11027022c abhito ye sthitAs tatra tasminn udakakarmaNi
+11027023a tata AnAyayAm Asa karNasya saparicchadam
+11027023c striyaH kurupatir dhImAn bhrAtuH premNA yudhiSThiraH
+11027024a sa tAbhiH saha dharmAtmA pretakRtyam anantaram
+11027024c kRtvottatAra gaGgAyAH salilAd AkulendriyaH

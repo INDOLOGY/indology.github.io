@@ -1,0 +1,327 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<base href="/bombay/" />
+<title>Towards a machine-readable Mahābhārata</title>
+</head>
+
+<body bgcolor="#e7e7e7">
+<h1>Towards a machine-readable <i>Mahābhārata</i></h1>
+
+<hr>
+<p>
+
+<i>The following text documents the first stage in my work on the electronic
+text of the </i>Mahābhārata<i>: the techniques described were employed during
+the mid-1990s to produce a usable but still very flawed text. Subsequently that
+text became the basis of a project, conducted from 1997 to 2001 in association
+with the Bhandarkar Oriental Research Institute in Pune, and with generous
+funding from the British Academy and the Society for South Asian Studies, to
+employ a team of assistants to correct the entire electronic </i>Mahābhārata<i>
+“by hand”. The text available from this website is the result of that
+project.</i><p>
+
+<hr>
+<p>
+
+Professor Muneo Tokunaga of Kyoto has typed up the complete Sanskrit text of
+both the <i>Rāmāyaṇa</i> and the <i>Mahābhārata</i>, and has made these
+electronic texts available via the Internet. In principle, this means that
+certain highly intensive tasks (for example, metrical analysis, analysis of
+diction, or the building of concordances), which would previously have been
+almost unthinkable for such enormous works, are now much more feasible. And at
+a smaller scale, it also becomes possible to check through the texts for usage
+of particular words or phrases, and to manipulate them in other ways — such as
+printing them in high-quality <a href="/bombay/mahabharata/nagari.html">Devanagari
+script</a>.<p>
+
+A number of problems arise for users who wish to use the these texts for
+purposes other than those which Prof. Tokunaga had in mind. There are
+inconsistencies in format or spelling; the transliteration used is hard to read
+and often ambiguous; the form in which the texts are presented differs markedly
+from “normal” Sanskrit; there are frequent typographic errors; and, in the case
+of the <i>Mahābhārata</i>, it suffers from the consequences of a policy
+decision which essentially results in all compounds being split up
+into apparently separate “words”.<p>
+
+Despite such problems, these electronic texts are potentially so
+valuable that I have tried to convert them into a more generally
+usable form. This has meant the following broad objectives:<p>
+
+<ol>
+
+<li> the <a href="/bombay/mahabharata/history.html#format">format</a> in
+     which the texts are stored should be standardised;
+
+<li> a “legible”
+     eight-bit <a href="/bombay/mahabharata/history.html#encoding">encoding</a>
+     should replace Tokunaga's seven-bit system, in which long vowels
+     are represented by doubled characters and retroflexes by
+     capitalised characters (so that the heroes of
+     the <i>Mahābhārata</i> are the paaNDavas);
+
+<li> the text should be a simple <a href
+     ="mahabharata/history.html#transcription">transcription</a> —
+     compounds should not be split up, sandhi should not be undone;
+
+<li> <a href="#corrections">typographic
+errors</a> should be corrected;
+
+<li> the <a href="/bombay/mahabharata/history.html#spaces">broken
+     compounds</a> resulting from Tokunaga's use (in his version of
+     the <i>Mahābhārata</i> only) of a single character to represent
+     both “end of word” and “end of compound member” should be mended.
+
+</ol>
+
+As far as possible, I have tried to tackle these problems by means of
+automatic procedures, rather than by hand: I have written numbers of
+Perl programs to carry out particular emendations or check for
+particular problems (the directory where I store these currently
+contains 21 such programs). The greater part of objectives 1-4 is met
+by a single program named <a href="/bombay/mahabharata/mconv.html">mconv</a>,
+while a suite of programs seeks to address objective 5. However, a
+huge amount of “hands on” work has also been necessary.<p>
+
+Using these methods to improve the <i>Mahābhārata</i> text to the
+point where it could be made public took me about a year; thereafter
+I continued to make specific improvements on an occasional basis —
+i.e. when I noticed some particularly annoying problem.
+
+<hr>
+
+<a name="format"><h2>1. Format</h2></a>
+
+As far as format is concerned, I have followed Tokunaga's general
+policy but tried to introduce consistency.<p>
+
+<ul>
+
+<li> Comments are introduced by the “%” sign; I have used these only
+     at the top of each file to allow me to detail its history and
+     current status.
+
+<li> Normal text lines begin with a line number, which is slightly
+     different in the <i>MBh</i> and the <i>R</i>:
+
+     <ul>
+
+     <li> In the <i>MBh</i>, the line number 123456781 would mean
+          “book 12, chapter 345, stanza 678, pādas 1 [and 2]”. If the
+          pada number is replaced by a capital letter, it signifies a
+          section of prose. If it is replaced by a space, it signifies
+          an <i>X uvāca</i> line.
+
+     <li> In the <i>R</i>, where there are fewer than ten books, no
+          prose and no <i>X uvācas</i>, 12345671 would mean “book 1,
+          chapter 234, stanza 567, pādas 1 [and 2]”.
+
+     </ul>
+
+<li> In both texts, anuṣṭubh lines are printed with two pādas on each
+     line (as is normal in Devanagari editions); triṣṭubh and other metres
+     also have two pādas per line, but separated by a semicolon. This
+     caused a major problem in the <i>MBh</i>, because Tokunaga uses
+     “;” both for that purpose and to indicate hiatus between vowels.
+     The problem did not really arise in the <i>R</i>, where he
+     indicates triṣṭubhs by the device of repeating their pādas. 
+
+</ul>
+
+In attempting to get this format standardised, I have checked
+mechanically to make sure<p>
+
+<ul>
+
+<li> that all lines begin with a valid line number containing the
+     right number of digits/capital letters in the right positions;
+
+<li> that every line number can legitimately follow the line number
+     preceding it;
+
+<li> that all “long” lines in both the <i>MBh</i> and the <i>R</i> do
+     contain one and only one semicolon.
+
+</ul>
+
+There may well still be mistakes in this general area, but I think
+they must be few in number.<p>
+
+<hr>
+
+<a name="encoding"><h2>2. Encoding</h2></a>
+
+There is nothing intrinsically wrong with Tokunaga's seven-bit ASCII system of
+transcription, but it is difficult to read and therefore prone to errors. I
+have converted his texts into the
+eight-bit <a href="/bombay/mahabharata/csx.html">CSX</a> encoding. I chose this not
+for its inherent merits (it has few) or because it is well suited to the Unix
+environment in which I work (it is very badly suited) but because it is the
+only attempt at a standard eight-bit encoding known to me, and standards are
+precious things. In converting the texts I have done my best to resolve the
+ambiguities in Tokunaga's original material, where “m” may be the labial nasal
+or anusvara, “h” may be the voiced breathing or visarga, and “n” may be the
+dental, palatal or velar nasal.<p>
+
+The only area where it is likely that errors may remain is the conversion of
+“n” to velar “ṅ”, which has to be largely done on a case-by-case basis. If
+errors do remain here, they are certainly not numerous.<p>
+
+<hr>
+
+<a name="transcription"><h2>3. Transcription method</h2></a>
+
+Tokunaga's texts are entered with vowel sandhi undone and compounds broken up,
+ostensibly to facilitate word searches. I do not believe that this is
+desirable, since the texts ought to be usable for other purposes (printing
+high-quality copy in Devanagari, metrical analysis, analysis of diction, etc.), and
+since there is not in fact any real difficulty in performing word searches on
+normal Sanskrit texts — with care, even a “difficult” word like <i>api</i> can
+be isolated and searched for. I have therefore normalised the sandhi and
+attempted to rejoin the compounds.<p>
+
+In the <i>MBh</i>, consonant sandhi was handled by Tokunaga in such a way as to
+necessitate undoing and then redoing it all. (For example, final “c” in a word
+might represent the form after sandhi, as in
+<i>tac ca</i>, or it might represent an idealised pre-sandhi form,
+as in <i>vāc</i>.)<p>
+
+Reapplying vowel sandhi automatically rejoins many compound members. Other
+compounds pose no problem in the <i>R</i>, where Tokunaga distinguishes between
+“.” (= hyphen between compound members) and “..” (= space between words). In
+the MBh there are extremely difficult problems in this area
+(see <a href="/bombay/mahabharata/history.html#spaces">section 5</a> below).<p>
+
+<hr>
+
+<a name="corrections"><h2>4. Correction of typographic errors</h2></a>
+
+The <i>MBh</i> text appears to me less carefully typed up than the
+<i>R</i>. I have not done a great deal in the way of textual
+correction of the <i>R</i>. In the <i>MBh</i>, I have<p>
+
+<ul>
+
+<li> made global changes to certain commonly misspelt words (e.g.
+     <i>cest-</i> for <i>ceST-</i>, i.e. <i>ceṣṭ-</i>);
+
+<li> searched out and eliminated all “impossible” letters (f, q etc.);
+
+<li> searched out and eliminated all “impossible” 2-letter sequences
+     (ao, bk etc.);
+
+<li> made an attempt to correct spellings in the second half of the
+     Śāntiparvan, where Tokunaga did not distinguish retroflexes from
+     dentals, and also in a smaller section of the
+     <i>Āraṇyakaparvan</i>, where a less extreme version of the same
+     problem was found. This last exercise has certainly not
+     eliminated all the errors in these two sections of the
+     <i>MBh</i>.
+
+<li> made corrections by hand wherever I have noticed specific errors.
+
+</ul>
+
+<hr>
+
+<a name="spaces"><h2>5. Eliminating spaces from within
+compounds</h2></a>
+
+In the <i>MBh</i>, Tokunaga uses “.” to indicate both end of word and
+end of compound member. When this is translated into the standardised
+system I am aiming at, the result is that compounds are broken up by
+spaces. Eliminating these “false spaces” is a very serious difficulty.
+I believe that I have so far managed to remove about 75% of them by
+the semi-automatic process described below.<p>
+
+The method that I have used attempts to teach the computer how to
+distinguish “false spaces” from genuine spaces by comparing sections
+of Tokunaga text with corrected equivalents.<p>
+
+<ul>
+
+<li> First, I correct a section of text by hand, choosing passages
+     which I know well enough to be able to do fairly quickly and
+     easily; so far these have been the <i>Gītā</i>, <i>Nala</i>,
+     the <i>Ambopākhyāna</i> at the end of the <i>Udyogaparvan</i>,
+     chapters 66-68 of the <i>Sabhāparvan</i>, and 13 chapters from
+     the battle narrative of the <i>Bhīṣmaparvan</i>.
+
+<li> Next, I feed the uncorrected and corrected versions of this
+     passage into a Perl program
+     named <a href="/bombay/mahabharata/mkmconv.html">mkmconv</a>, which
+     isolates all cases where the difference between the two is simply
+     the presence/absence of a space.
+
+<li> <b>Mkmconv</b> ends by
+     invoking <a href="/bombay/mahabharata/edmconv.html">edmconv</a>,
+     which presents me with these cases one at a time, after first
+     eliminating ones it already knows about, and asks me whether (a)
+     the form preceding the false space can <i>always</i> be assumed
+     to be a stem forming part of a compound, as in e.g. <i>ratna
+     dhanāni</i>, or whether (b) it might be able to stand on its own
+     as a word, as in e.g. <i>bhīma parākramaḥ</i>.
+
+<li> If I tell it that the form is an (a) type, the program constructs
+     a command meaning “remove all spaces immediately following the
+     stem <i>ratna</i>”.
+
+<li> If I tell it that the form is a (b) type, the program constructs
+     a command meaning “remove all spaces occurring between
+     <i>bhīma</i> and <i>parākram</i>”, stripping obvious
+     case-inflections off the second word in order to make the command
+     apply as generally as possible. (This has its dangers, which the
+     program tries to be alert to.)
+
+<li> The resulting collections of commands are then added to the
+     program <a href="/bombay/mahabharata/mconv.spacing.html">mconv.spacing</a>,
+     ready to be applied to the rest of the <i>MBh</i> text. (Also,
+     obviously, the corrected section of text is inserted in its
+     proper place.)
+
+</ul>
+
+It was only after I had gone through this process with the first
+four sections of <i>Mahābhārata</i> text mentioned above that I
+looked for the first time at Tokunaga's <i>Rāmāyaṇa</i>. I then
+realised that his use of “.” and “..” in the <i>R</i> allowed me to
+create (so to speak) deliberately incorrect versions of every
+<i>kāṇḍa</i>, as well as “corrected” versions. I did this, and fed
+the results into <b>mkmconv</b> in just the same way as with
+sections of <i>MBh</i> text, since there was likely to be
+significant overlap between the two epics. This produced large
+numbers of further improvements.<p>
+
+This method has been very successful, but it has intrinsic
+limitations, and I think it may be nearing the end of its usefulness
+— the graph of corrections achieved against effort expended is
+levelling off, and there are a lot of cases that it simply cannot
+handle properly. A major example is proper names. My system cannot
+close up spaces after all occurrences of (e.g.) <i>bhīma</i> because
+<i>bhīma</i> may be a vocative; it is restricted to closing up
+specific cases that happen to have been drawn to its attention, such
+as <i>bhīma parākram</i>. The next task must be to deal with all
+cases of <i>bhīma</i><tt>&lt;space&gt;</tt> etc. by means of “sweeps”
+through the entire <i>Mahābhārata</i> using an editor interactively.
+Unfortunately the <i>MBh</i> has a large cast of characters, many of
+them known by numerous
+different <a href="/bombay/mahabharata/names.el.html">names</a>; in addition
+there are many other <a href="/bombay/mahabharata/words.el.html">words</a>
+that require similar treatment because they cannot always be assumed
+to be stems.<p>
+
+<p>
+<hr>
+<p>
+
+<a href="/bombay/"><i>Back to home page</i></a>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6465011-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body></html>

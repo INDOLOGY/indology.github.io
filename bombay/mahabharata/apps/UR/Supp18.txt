@@ -1,0 +1,429 @@
+% Mahābhārata: supplementary passages - Svargārohaṇaparvan
+% Last updated: Tue Mar 13 2001
+% Encoding: Unicode Roman
+% Electronic text (C) Bhandarkar Oriental Research Institute,
+% Pune, India, 2001
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+% Book 18, star passages
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+% The introductory mantra
+18*0001_01 nārāyaṇaṁ namaskr̥tya naraṁ caiva narottamam
+18*0001_02 devīṁ sarasvatīṁ caiva tato jayam udīrayet
+
+% 18.1.2
+% After 2ab, K3 ins.:
+18*0002_01 na hi tr̥pyāmi sarveṣāṁ śr̥ṇvānaś caritaṁ mahat
+% After
+% 2, K3 ins.:
+18*0003_01 bhūtaṁ bhavyaṁ bhaviṣyac ca sarvaṁ vai vetsi tattvataḥ
+
+% 18.1.25
+% After 25ab, G4
+% ins.:
+18*0004_01 brahmann etān prapaśyāmi svargaloke ’tra karhi cit
+
+% 18.2.12
+% After 12, K1.2
+% ins.:
+18*0005_01 tathety ūcur vacas tasya devāḥ sarṣigaṇās tataḥ
+
+% 18.2.23
+% For 23ab, D6 T2 G1.2.4
+% M1 subst.:
+18*0006_01 sudurgamāṁ vaitaraṇīṁ pūyapūrṇāṁ dadarśa saḥ
+
+% 18.2.33
+% For 33cd, T1 subst.:
+18*0007_01 pavanas tāta tenāsmāṁs taptān sukhayati prabho
+
+% 18.2.37
+% After 37ab, K3 D8 ins.:
+18*0008_01 uvāca vadatāṁ śreṣṭho dharmaputro yudhiṣṭhiraḥ
+
+% 18.2.43
+% For 43cd, D5.6 S (except
+% T3) subst.:
+18*0009_01 karṇaś ca draupadeyāś ca pāñcālī vā sumadhyamā
+
+% 18.3.10
+% After 10, D5.6 T2.4 G1.2.4 M1.3 ins.:
+18*0010_01 bhrātr̥̄ṇāṁ suhr̥dāṁ caiva gatir nityā supūjitā
+
+% 18.3.13
+% K1-3 D5.8 T4
+% ins. after 13ab: B2.3 after 12:
+18*0011_01 bhūyiṣṭhaṁ śubhakarmā yaḥ pūrvaṁ narakam aśnute
+% K1-3 D5 cont.: D6.8 S ins. after 12:
+18*0012_01 bhūyiṣṭhaśubhakarmā tvam alpaṁ jihmaṁ tavācyuta
+
+% 18.3.38
+% After 38ab, M1 ins.:
+18*0013_01 mahāguroś ca śuśrūṣā vedāntaśra[-nāṁ śra]vaṇaṁ tathā
+18*0013_02 pūjite brahmavicchreṣṭhaiḥ svagr̥he śivaliṅgake
+18*0013_03 madvaṁśajānāṁ na dāntaṁ śivād ādhikyabuddhitā
+18*0013_04 svāyaṁbhuvādāvayādau (sic) bhavet tava varād iha
+18*0013_05 asmād ādhikyabuddhiś ced anāya nr̥ṇāṁ ha sā (sic)
+18*0013_06 madvaṁśajānāṁ sarveṣāṁ māstu sā tvadanugrahāt
+18*0013_07 ity uktvā dharmam uddiśya mahāntaṁ naram ādarāt
+18*0013_08 uvāca kiṁ cid uddiśya tvādr̥śā nu janādhipa
+
+% 18.3.41
+% After 41, N (except D5.6) T3 ins.:
+18*0014_01 yatra te puruṣavyāghrāḥ śūrā vigatamanyavaḥ
+18*0014_02 pāṇḍavā dhārtarāṣṭrāś ca svāni sthānāni bhejire
+
+% 18.4.3
+% After 3,
+% N (except D5.6) T3 ins.:
+18*0015_01 tathāsvarūpaṁ kaunteyo dadarśa madhusūdanam
+18*0015_02 tāv ubhau puruṣavyāghrau samudvīkṣya yudhiṣṭhiram
+18*0015_03 yathāvat pratipedāte pūjayā devapūjitau
+% On the other hand, G4 ins. after 3:
+18*0016_01 dadarśa rājā dharmātmā kuruvaṁśayaśaskaraḥ
+
+% 18.4.5
+% After 5, N (except D5.6) T3 ins.:
+18*0017_01 vāyor mūrtim ataḥ pārśve divyamūrtisamanvitam
+18*0017_02 śriyā paramayā yuktaṁ siddhiṁ paramikāṁ gatam
+
+% 18.4.7
+% After 7ab, K1 ins.:
+18*0018_01 divyena vapuṣā yuktāṁ divyabhūṣaṇabhūṣitām
+18*0018_02 tāṁ dr̥ṣṭvā dharmarājānam uvāca ca śacīpatiḥ
+
+% 18.4.8
+% For 8cd, D9 subst.:
+18*0019_01 tato ’sya kathayām āsa bhagavān vai puraṁdaraḥ
+
+% 18.5.5
+% After 5, N
+% (except D5.6) T3 ins.:
+18*0020_01 tapasā hi pradīptena sarvaṁ tvam anupaśyasi
+
+% 18.5.7
+% After
+% 7ab, N (except D5.6) ins.:
+18*0021_01 prakr̥tiṁ kiṁ nu samyak te pr̥cchaiṣā saṁprayojitā
+
+% 18.5.8
+% After 8, K3-5 D1.4.8 ins.:
+18*0022_01 tenoktaṁ karmaṇām ante praviśanti svikāṁ tanum
+
+% 18.5.20
+% After 20a, K3 ins.:
+18*0023_01                 rāmaḥ śeṣo bhujaṁgamaḥ
+18*0023_02 sa nāgo ’pi mahātejāḥ
+% K3.4 (marg.) B
+% Dn D2.3.7 T3 G1 ins. after 20: D4 after 20a:
+18*0024_01 yaḥ sa nārāyaṇo nāma devadevaḥ sanātanaḥ
+18*0024_02 tasyāṁśo vāsudevas tu karmaṇo ’nte viveśa ha
+% On the other hand, M1.3 ins. after 20:
+18*0025_01 jagato ’nugrahārthāya vāsudevo jagadguruḥ
+18*0025_02 divam āsthāya divyena vapuṣāntarhitaḥ sthitaḥ
+
+% 18.5.21
+% After 21cd, N (except D5.6) T3 ins.:
+18*0026_01 tatra tyaktvā śarīrāṇi divam āruruhuḥ punaḥ
+
+% 18.5.23
+% For 23cd,
+% K3 D5.8.9 T G2-5 M subst.:
+18*0027_01 te dānavān guhyakāṁś ca gandharvāṁś ca tathāviśan
+% After 23, K3 ins.:
+18*0028_01 śiśupāḷo rāvaṇo ’sau tayor gatim avāptavān
+18*0028_02 nikumbho nāma yas tv āsīd dānavo baḷadarpitaḥ
+18*0028_03 sr̥gāḷavāsudevo ’bhūd vāsudevena pātitaḥ
+18*0028_04 jarāsaṁdhaḥ sa bhagavān bhīmasenena ghātitaḥ
+18*0028_05 kāḷanemis tu tatrāsīt kaṁso nāma mahāsuraḥ
+18*0028_06 vāsudevena nihataḥ krūrakarmā madotkaṭaḥ
+18*0028_07 kāḷakeyās tathā jaṅghāḥ saṁsaptakagaṇās tu te
+18*0028_08 nārāyaṇabaḷaṁ tac ca nr̥pā ye ca mahābaḷāḥ
+18*0028_09 kaliṅgāḥ pārvatīyāś ca kāḷīkeyāḥ prakīrtitāḥ
+18*0028_10 lakṣmīṁ ca draupadīṁ viddhi gāndhārīṁ ditirūpiṇīm
+18*0028_11 aditiṁ ca priyāṁ devīṁ devakīṁ viddhi pārthiva
+18*0028_12 mahān vimardaḥ saṁjāto devānāṁ dānavaiḥ saha
+18*0028_13 martyaloke mahābhāga tato jitvā divaṁ gatāḥ
+
+% 18.5.29
+% After 29ab, K3 ins.:
+18*0029_01 vyāsaśiṣyaprasādena parāṁ nirvr̥tim āyayau
+
+% 18.5.34
+% D5.6 T G M2-5 ins.
+% after 34: M1 after 34ab:
+18*0030_01 krīḍāṁ ca vāsudevasya devadevasya śārṅgiṇaḥ
+18*0030_02 viśveṣāṁ devabhāgānāṁ janmasāyujyam eva ca
+% T1 cont.:
+18*0031_01 kīrtitaṁ paramaṁ puṇyaṁ dr̥ṣṭvā divyena cakṣuṣā
+
+% 18.5.35
+% After 35, K1 reads 52 followed by 57*. K1
+% cont.: Dn D5.6 S ins. after 35:
+18*0032_01 kārṣṇaṁ vedam imaṁ sarvaṁ śr̥ṇuyād yaḥ samāhitaḥ
+18*0032_02 brahmahatyākr̥taṁ pāpaṁ tatkṣaṇād eva naśyati
+
+% 18.5.36
+% After 36,
+% K2 ins.:
+18*0033_01 itihāsam imaṁ śrutvā puṇyaṁ satphalam aśnute
+18*0033_02 aputrayā ca śrotavyaṁ garbhiṇyā caiva yoṣitā
+18*0033_03 putraṁ vīraṁ janayati kanyāṁ vā rājabhāginīm
+% K2 cont.: K1 ins. after 36:
+18*0034_01 itihāsam imaṁ śrutvā nātra kāryā vicāraṇā
+
+% 18.5.37
+% After 37, K3-5 B Dn D1-4.7-9 T3
+% Bom. ed. ins.:
+18*0035_01 yad rātrau kurute pāpaṁ brāhmaṇas tv indriyaiś caran
+18*0035_02 mahābhāratam ākhyāya pūrvāṁ saṁdhyāṁ pramucyate
+18*0035_03 bharatānāṁ mahaj janma mahābhāratam ucyate
+18*0035_04 niruktam asya yo veda sarvapāpaiḥ pramucyate
+% After 35*, D8 ins. a passage given in App. I
+% (No. 3).
+% Bom. ed. cont.:
+18*0036_01 aṣṭādaśapurāṇāni dharmaśāstrāṇi sarvaśaḥ
+18*0036_02 vedāḥ sāṅgās tathaikatra bhārataṁ caikataḥ sthitam
+18*0036_03 śrūyatāṁ siṁhanādo ’yam r̥ṣes tasya mahātmanaḥ
+18*0036_04 aṣṭādaśapurāṇānāṁ kartur vedamahodadheḥ
+% Bom. ed. cont.: D5.6 T1.2.4 G M ins. after
+% 37: T3 after 41*: D9 cont. after 35*:
+18*0037_01 tribhir varṣair mahat pūrvaṁ kr̥ṣṇadvaipāyanaḥ prabhuḥ
+18*0037_02 akhilaṁ bhārataṁ cedaṁ cakāra bhagavān r̥ṣiḥ
+% After the above, T3 reads 38 followed by 41*.
+% D9 cont.:
+18*0038_01 caturṇām api vedānāṁ trir āvartya tu yat phalam
+18*0038_02 tat phalaṁ samavāpnoti adhīyānaḥ sakr̥n naraḥ
+18*0038_03 brahmahatyādipāpāni vilayaṁ yānti śr̥ṇvataḥ
+18*0038_04 saṁtānasukhakāmā yā śr̥ṇoti satataṁ satī
+18*0038_05 putraṁ vīraṁ janayati kanyāṁ ca rājabhāginīm
+18*0038_06 itihāsam imaṁ śrutvā nātra kāryā vicāraṇā
+% Bom. ed. cont. after 37*:
+18*0039_01 ākarṇya bhaktyā satataṁ jayākhyaṁ bhārataṁ mahat
+18*0039_02 śrīś ca kīrtis tathā vidyā bhavanti sahitāḥ sadā
+
+% 18.5.38
+% After 38ab, T1 ins.:
+18*0040_01 tasya sidhyati tat sarvaṁ śravaṇāt paṭhanād iha
+% D5.6 T G2.3.5 M ins.
+% after 38:
+18*0041_01 vācyate yatra satataṁ jayākhyaṁ bhārataṁ mahat
+18*0041_02 śrīś ca kīrtiś ca vidyā ca bhavanti muditāḥ sadā
+% T1 cont.:
+18*0042_01 putrapautrābhivr̥ddhiś ca kalyāṇāni bhavanti ca
+% T1 cont.: D5 T2 G3.4 cont. after 41*: G1 after
+% 38:
+18*0043_01 bhāratasya tu vaktāraṁ śrotāraṁ lekhakaṁ surāḥ
+18*0043_02 pūjayanty atisaṁhr̥ṣṭāḥ siddhāś ca paramarṣayaḥ
+18*0043_03 mahābhāratavaktāraṁ nārcayantīha ye narāḥ
+18*0043_04 teṣāṁ sarvakriyāhānir bhaved devāḥ śapanti ca
+% M3 cont. after 41*:
+18*0044_01 dharmaś ca caratāṁ nr̥ṇām
+
+% 18.5.39
+% D5.6 T1.4 G M ins. after 39: T2 after
+% 54abc:
+18*0045_01 yad yad iṣṭatamaṁ kāmaṁ labhate śraddhayānvitaḥ
+18*0045_02 śr̥ṇuyān mudito bhūtvā āstiko buddhisaṁyutaḥ
+% After line 1, T1 ins.:
+18*0046_01 mahābhāratam ākhyānaṁ śrotavyam anasūyayā
+% D5 T1 G3 cont.: G4 cont. after 49*:
+18*0047_01 apy ekavāraśravaṇād brahmahatyā vinaśyati
+18*0047_02 bhaktyā dvivāraśravaṇād aśvamedhaphalaṁ labhet
+18*0047_03 trivāraśravaṇād bhaktyā paṭhanād vā tathaiva ca
+18*0047_04 punarāvr̥ttirahitāṁ labhed brahmagatiṁ śubhām
+% T1 cont.:
+18*0048_01 mahābhāratam ākhyānaṁ yad gr̥he pūjitaṁ bhavet
+18*0048_02 vase[ta] tatra vibudhā devo nārāyaṇaḥ svayam
+18*0048_03 vāsudevo vasaty atra puṇḍarīkāyatekṣaṇaḥ
+% T1 cont.: D5 G3 cont. after 47*: D6 T2.4 G1.2.4.5
+% M after 45*:
+18*0049_01 vāsudevaṁ smaran vidvān puṇḍarīkāyatekṣaṇam
+
+% 18.5.41
+% After 41, K3-5 B Dn D1-4.7 T2.3 ins. (var.
+% 1.1.29*):
+18*0050_01 ṣaṣṭiṁ śatasahasrāṇi cakārānyāṁ sa saṁhitām
+18*0050_02 triṁśacchatasahasrāṇi devaloke pratiṣṭhitam
+18*0050_03 pitrye pañcadaśa jñeyaṁ nāgayakṣe caturdaśa
+18*0050_04 ekaṁ śatasahasraṁ tu mānuṣeṣu prabhāṣitam
+
+% 18.5.42
+% For 42cd, K3-5 D1 subst.:
+18*0051_01 gandharvayakṣarakṣāṁsi śrāvayām āsa vai śukaḥ
+18*0051_02 ekaṁ śatasahasraṁ ca vaiśaṁpāyana uktavān
+
+% 18.5.43
+% After 43, D5.6 T1.2.4 G M ins.:
+18*0052_01 sarvapāpaviśuddhātmā śucis tadgatamānasaḥ
+18*0052_02 iha kīrtiṁ mahat prāpya bhogavān sukham aśnute
+18*0052_03 vyāsaprasādena punaḥ svargalokaṁ sa gacchati
+18*0052_04 etad viditvā sarvaṁ tu sarvavedārthavid bhavet
+18*0052_05 pūjanīyaś ca satataṁ mānanīyo bhaved dvijaḥ
+% After line 3, M1.3 ins.:
+18*0053_01 vyāso hi bhagavān viṣṇuḥ paramātmā sanātanaḥ
+% G4 cont.:
+18*0054_01 samāpte parvaṇi tathā svargārohaṇike nr̥pa
+18*0054_02 saṁpūjya vācikaṁ vastrair bhojayed brāhmaṇaṁ tathā
+% M1 cont. after 52*:
+18*0055_01 vidyā * * * * dyābhyo dharmebhyo dharmadhāriṇe
+18*0055_02 devebhyo vāsudevāya varṇyāyāsmin namo namaḥ
+
+% 18.5.46
+% For 45c-46d, Dn
+% D2-4.7 T2 subst.:
+18*0056_01 śraddhayā parayā bhaktyā śrāvyate cāpi yena tu
+18*0056_02 ya imāṁ saṁhitāṁ puṇyāṁ putram adhyāpayac chukam
+
+% 18.5.52
+% K B D1.9 ins.
+% after 52 (= 1.1.205ab; 56.17cd):
+18*0057_01 kārṣṇaṁ vedam imaṁ vidvāñ śrāvayitvārtham aśnute
+% K2 cont. (= 1.1.205cd; 56.18ab):
+18*0058_01 bhrūṇahatyākr̥taṁ pāpaṁ jahyāc cāpi na saṁśayaḥ
+
+% 18.5.53
+% After 53, K3 ins.
+% a passage given in App. I (No. 3); while after
+% 53, D9 ins.:
+18*0059_01 dānāni dadyād vividhāni prītaye paramātmane
+18*0059_02 yasya yasya phalaprāptau vāñchā syāt tad vidhīyate
+
+% 18.5.54
+% K3 Bom. ed. ins.
+% after 54: B2 after 53:
+18*0060_01 yo gośataṁ kanakaśr̥ṅgamayaṁ dadāti
+18*0060_02 viprāya vedaviduṣe subahuśrutāya
+18*0060_03 puṇyāṁ ca bhāratakathāṁ satataṁ śr̥ṇoti
+18*0060_04 tulyaṁ phalaṁ bhavati tasya ca tasya caiva
+% K3 cont.:
+18*0061_01 pārāśaryavacaḥsarojam amalaṁ gītārthagandhotkaṭam
+18*0061_02 nānākhyānakakesaraṁ harikathāsaṁbodhanābodhitam
+18*0061_03 loke sajjanaṣaṭpadair aharahaḥ pepīyamānaṁ mudā
+18*0061_04 bhūyād bhāratapaṅkajaṁ kalimalapradhvaṁsi naḥ śreyase
+18*0061_05 yaḥ sarvaguṇasaṁpannaḥ sarvadoṣavivarjitaḥ
+18*0061_06 prīyatāṁ prītaye bāḷaṁ bhagavān me paraḥ suhr̥t
+18*0061_07 yasya haste gadācakre garuḍo yasya vāhanam
+18*0061_08 śaṅkhaḥ karatale yasya sa me viṣṇuḥ prasīdatu
+% On the other hand, T3 ins. after 54:
+18*0062_01 purāṇavācako bhaktyā pūjanīyaḥ prayatnataḥ
+18*0062_02 vastrālaṁ * * * * * * * * * * sarvadā
+18*0062_03 ajñānatimirāndhasya jñānāñjanaśalākayā
+18*0062_04 cakṣur unmīlitaṁ yena tasmai śrīgurave namaḥ
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Book 18, Appendix I passages
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% After 41*, G2 ins.:
+18_001_0001 bhāratasya tu vaktāraṁ brahmarṣiś ca mahāguruḥ
+18_001_0002 vaiśaṁpāyanam āropya svarṇabhadrāsanaṁ tadā
+18_001_0003 janamejayādyā rājāna āstikādyā dvijātayaḥ
+18_001_0004 dharmadattādivaiśyāś ca somyavaṁśyādiśūdrakāḥ
+18_001_0005 prayutaṁ cāyutaṁ ceti sahasraṁ śatam ity api
+18_001_0006 daśakaṁ ceti niṣkāṇām ānarcus taṁ mahāgurum
+18_001_0007 niṣkāṇāṁ daśakaṁ dattvā mr̥taputro ’mr̥taprajaḥ
+18_001_0008 kuṣṭhādivyādhiyuktaś ca śataṁ dattvā nirāmayaḥ
+18_001_0009 sahasradānāt saṁtānahīnaḥ saṁtānaputravān
+18_001_0010 āyur ārogyam aiśvaryaṁ bhejus te ’nnaṁ ca putrakān
+18_001_0011 ayutasya tu dānena prayutasya tu dānataḥ
+18_001_0012 jīvaiśvaraikyavijñāne mahāvākyodbhave tadā
+18_001_0013 caturṣv api ca vedeṣu sāravat kathite dr̥ḍhā
+18_001_0014 buddhir āsīc ca tasyaiva pūjayā ca munes tadā
+18_001_0015 suvarṇaṁ rajataṁ ratnaṁ sarvāṇy ābharaṇāni ca
+18_001_0016 sarvopakaraṇair yuktaṁ nidhinikṣepasaṁyutam
+18_001_0017 iṣṭakābhittisaṁyuktam agnibādhādivarjitam
+18_001_0018 devapūjāgnihotrādipāṭhārthagr̥hasaṁyutam
+18_001_0019 sāntarbahiḥsaṁvaraṇaṁ saprasādaṁ sagogr̥ham
+18_001_0020 vyaṣṭyā samaṣṭyā vā dadyāt svargārohaṇaparvaṇi
+18_001_0021 nivr̥ttikāmenaccaki (sic) punarjanma na vidyate
+18_001_0022 sakāmaś ced brahmakalpaṁ sukhaṁ brahmagr̥he vaset
+18_001_0023 purāṇamukhato yasmād vedāntajñānam āpyate
+18_001_0024 sahe na (sic) gurur ākhyātas tatpūjā hīśapūjanam
+18_001_0025 bhāratasya tu vaktāraṁ śrotāraṁ lekhakāṁs tathā
+18_001_0026 prapūjayanti saṁhr̥ṣṭāḥ siddhāś ca paramarṣayaḥ
+18_001_0027 mahābhāratavaktāraṁ nārcayantīha ye narāḥ
+18_001_0028 teṣāṁ sarvakriyāhānir bhaved devāḥ śapanti ca
+
+% After 52*, G3 ins.:
+18_002_0001 itihāsam imaṁ puṇyaṁ ye śr̥ṇvanti narottamāḥ
+18_002_0002 teṣāṁ vāsāya nirdiṣṭāḥ svargalokāḥ sanātanāḥ
+18_002_0003 likhyate yena satataṁ mahābhāratam āditaḥ
+18_002_0004 sa sarvajñaḥ sa vāgmī ca svargabhāk ca na saṁśayaḥ
+18_002_0005 *varadam itihāsaṁ ye paṭhantīha bhaktyā
+18_002_0006 sakalasuravariṣṭhaiḥ pūjyamānā bhavanti
+18_002_0007 munivarakr̥tam etad bhāratākhyaṁ supūjyaṁ
+18_002_0008 punar api suralokān na cyavante munīndrāḥ
+18_002_0009 etad bhāratavaktr̥̄ṇāṁ śrotr̥̄ṇāṁ caiva sarvadā
+18_002_0010 bhavet prasanno bhagavān maṅgalaṁ ca punaḥ punaḥ
+18_002_0011 etad bhāratam ākarṇya naimiśe[ṣe]yā maharṣayaḥ
+18_002_0012 śaunakādyās tadā sarve prahr̥ṣṭamanaso ’bhavan
+18_002_0013 tatratyā brāhmaṇāḥ sarve sūtaṁ paurāṇikottamam
+18_002_0014 pūjayām āsur atyantaṁ bhāṣaṇāśleṣaṇādibhiḥ
+18_002_0015 tataḥ pradakṣiṇīkr̥tya munimaṇḍalam ādarāt
+18_002_0016 svasti gobrāhmaṇebhyo ’stu dvijānāṁ purato ’vadan
+18_002_0017 yajñakarmāntare tv etac chrutvā bhāratam āditaḥ
+18_002_0018 samyag uktaṁ samyag uktam ity ūcus te maharṣayaḥ
+18_002_0019 śrutvā tv idaṁ bhāratam etad agryaṁ
+18_002_0020 yajñasya madhye dvijapuṁgavās te
+18_002_0021 taṁ pūjya vipraṁ vidhivat samāpya
+18_002_0022 svaṁ svaṁ gr̥hāṁś ca prayayuḥ prahr̥ṣṭāḥ
+
+% K3 ins. after 18.5.53: D8 after 35*:
+18_003_0001 tribhir varṣair dharmakāmaḥ kr̥ṣṇadvaipāyano muniḥ
+18_003_0002 cakāra pāvanaṁ viprā itihāsaṁ vimuktidam
+18_003_0003 bhāratasya padaikena gaṅgāyā darśanena ca
+18_003_0004 viṣṇoḥ smaraṇamātreṇa sarvapāpaiḥ pramucyate
+18_003_0005 aśvamedhasahasreṇa vājapeyaśatena ca
+18_003_0006 pākasaṁsthāditaḥ saṁsthāḥ somasaṁsthāś ca kurvatām
+18_003_0007 tatphalaṁ koṭiguṇitaṁ bhārataśravaṇe bhavet
+18_003_0008 bhuṅkte viprāyute caiva yaś ca gacchet sarasvatīm
+18_003_0009 lakṣair aṣṭādaśair devyā japahomaśatais tathā
+18_003_0010 vedasyāntaṁ ca paṭhatāṁ tat puṇyaṁ bhārataśravāt
+18_003_0011 tena dattāni dānāni tena taptaṁ mahat tapaḥ
+18_003_0012 tena vai lakṣadhā japtaṁ kr̥taṁ tīrthāvagāhanam
+18_003_0013 śrutaṁ tu bhārataṁ yena kr̥takr̥tyena dhīmatā
+18_003_0014 ādimadhyāvasānena śraddadhānena vai tathā
+18_003_0015 gobhūhiraṇyadānāni tena dattāni nityaśaḥ
+18_003_0016 dhenūnāṁ śatadānāni parvatānāṁ tathaiva ca
+18_003_0017 lokadānaṁ tathā dattaṁ brahmāṇḍasya ca saṁtatiḥ
+18_003_0018 kr̥tā dattaṁ bhavet tena śrutaṁ yenaitad uttamam
+18_003_0019 śrutvā jayaṁ cetihāsaṁ dvijāya
+18_003_0020 śuśrūṣave sānubhaktyā ca dadyāt
+18_003_0021 śubhātapatraṁ bhūmigokāñcanāni
+18_003_0022 gr̥hāṇi vastrāṇi śubhāṁ sarasvatīm
+18_003_0023 tripūruṣeṇa viditas triṣu śuklas tathā dvijaḥ
+18_003_0024 sādhuḥ sadācāraratas tasmād vai śr̥ṇuyāj jayam
+18_003_0025 viṣṇur hy ayaṁ yasya dehe vased bhārata bhāratī
+18_003_0026 nāviṣṇuś ca paṭhed etan nāviṣṇuḥ śr̥ṇuyād api
+18_003_0027 śrutismr̥tipurāṇāni jayamaṅgalabhāratī
+18_003_0028 satkulād eva śr̥ṇuyān na hīnāc ca kulāt kva cit
+18_003_0029 tasmāt sadācāraratāt satkulīnād bahuśrutāt
+18_003_0030 śr̥ṇuyād bhārataṁ nityaṁ vaṁśadvayaparīkṣitāt
+18_003_0031 asya śāstrasya kavayo na samarthā viśeṣaṇe
+18_003_0032 sādhor iva gr̥hasthasya śeṣās traya ivāśramāḥ
+18_003_0033 upadeṣṭā bhaved viṣṇuḥ śrotā caiva śrutaṁ tathā
+18_003_0034 api pātakinaṁ tasmāt punāty eṣa śruto jayaḥ
+18_003_0035 mahāpāpāni pāpāni jātibhraṁśakarāṇi ca
+18_003_0036 mālinyasaṁkarāṇy atra kāraṇāni tu yāni tu
+18_003_0037 tāni saṁśodhayed enat kr̥tsnaṁ śr̥ṇvan hi bhāratam
+18_003_0038 sarvamaṅgalalābhaś ca sarvasaṁpatsamāgamaḥ
+18_003_0039 putralābho mitralābhaḥ kāmalābhas tathaiva ca
+18_003_0040 rājyalābhaḥ paśulābho mahālābhas tathaiva ca
+18_003_0041 jāyate dharmalābhaś ca bhārataṁ śr̥ṇvataḥ sadā
+18_003_0042 sarvadā maṅgalaṁ teṣāṁ nāsti teṣām amaṅgalam
+18_003_0043 jayamaṅgalahomāś ca śāntayaḥ pauṣṭikāni ca
+18_003_0044 bhārataśravaṇād eva suśubhāni bhavanty uta
+18_003_0045 yeṣāṁ hr̥di hr̥ṣīkeśaḥ kaṇṭhe bhāratam eva ca
+18_003_0046 dhanyās te mānavā loke kr̥takr̥tyā na saṁśayaḥ
+18_003_0047 na hy evākr̥tapuṇyānāṁ bhārataṁ bhavati priyam
+18_003_0048 bhārataṁ bhavane yeṣāṁ na te śocyāḥ kr̥tākr̥te
+18_003_0049 jayo nāmetihāso ’yaṁ śrotavyo jayam icchatā
+18_003_0050 vipreṇa rājñā vaiśyena śūdreṇa ca yatātmanā
+18_003_0051 kurukṣetre bhaved dattaṁ snātaṁ snātaṁ supuṣkare
+18_003_0052 taptaṁ himādrau kāleṣu śrutaṁ yeneha bhāratam
+18_003_0053 jñātiśraiṣṭhyaṁ kulaśraiṣṭhyaṁ varṇaśraiṣṭhyaṁ tathaiva ca
+18_003_0054 dharmamaṅgalalābhaṁ ca śrutvaitat prāpnuyān naraḥ
+18_003_0055 bhāti sarveṣu vedeṣu ratiḥ sarvatra jantuṣu
+18_003_0056 taraṇaṁ sarvapāpānāṁ tena bhāratam ucyate

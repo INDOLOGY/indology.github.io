@@ -1,0 +1,89 @@
+% Mahābhārata: supplementary passages - Mahāprasthānikaparvan
+% Last updated: Tue Mar 13 2001
+% Encoding: Unicode Roman
+% Electronic text (C) Bhandarkar Oriental Research Institute,
+% Pune, India, 2001
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+% Book 17, star passages
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+% The introductory mantra:
+17*0001_01 nārāyaṇaṁ namaskr̥tya naraṁ caiva narottamam
+17*0001_02 devīṁ sarasvatīṁ caiva tato jayam udīrayet
+% Of the MSS. which om. the introductroy mantra,
+% K2 begins with śrīgaṇeśāya namaḥ |
+17*0002_01 * * * * * * * satyavatīhr̥dayanandano vyāsaḥ
+17*0002_02 yasyāsyakamalagalitaṁ vāṅmadhupuṇyaṁ jagat pibati
+
+% 17.1.11
+% After 11,
+% K2-5 Dn D2-4.7 T2.3 ins.:
+17*0003_01 dvaipāyanaṁ nāradaṁ ca mārkaṇḍeyaṁ tapodhanam
+17*0003_02 bhāradvājaṁ yājñavalkyaṁ harim uddiśya yatnavān
+17*0003_03 abhojayat svādu bhojyaṁ kīrtayitvā ca śārṅgiṇam
+
+% 17.1.13
+% After 13ab, D5.6 T4 G1.2.4
+% ins.:
+17*0004_01 āhūya bharataśreṣṭha saṁniveśyāsane tadā
+
+% 17.1.17
+% After 17, D5.6
+% S ins.:
+17*0005_01 vartamāne vivāde tu vāstuvikrayaṇaṁ prati
+17*0005_02 dhanecchā yugapat prāptā kṣetrataḥ svāmibhūbhr̥tām
+17*0005_03 prāptaṁ kaliyugaṁ jñātvā sahadevo hasann iva
+17*0005_04 rājñas tu kathayām āsa dharmo naṣṭas tu bhārata
+17*0005_05 rājā ca durmanā rājan paryāptaṁ jīvitaṁ mama
+% M1 cont.:
+17*0006_01 iti cintya gate rājan govinde dharmadhāraṇe
+
+% 17.1.40
+% After 40, K2.3 D4.7 T2.3 ins.:
+17*0007_01 yathā ghanasya gagane śabdo bhavati bhārata
+17*0007_02 salile kṣipyamāṇasya gāṇḍīvasya tathā hy abhūt
+
+% 17.1.42
+% For 42, T1 subst.:
+17*0008_01 jagmur bharataśārdūla tīreṇa lavaṇāmbhasaḥ
+17*0008_02 tataḥ punaḥ samāvr̥ttā jagmur dakṣiṇapaścimām
+
+% 17.1.43
+% After
+% 43, K2.4 D3.4 T3 ins.:
+17*0009_01 haripādāṅkavinyāsatīrthīkr̥tamahābhuvam
+17*0009_02 manobhiḥ pūjayantaś ca janārdanam aninditāḥ
+
+% 17.2.1
+% After 1ab, K2.3 ins.:
+17*0010_01 tatas te brāhmaṇīṁ snātvā dr̥ṣṭvā devaṁ jale sthitam
+17*0010_02 madhyamāṁśaṁ śivaṁ gatvā dr̥ṣṭvā rudraṁ mahābalam
+17*0010_03 prayāgapañcake snātvā gatvā himagiriṁ śubham
+17*0010_04 īśānaṁ tu namaskr̥tya snātvā haṁsodake śubhe
+17*0010_05 devadevaṁ tu kedāraṁ dr̥ṣṭvā spr̥ṣṭvā prayatnataḥ
+17*0010_06 piṇḍaṁ dattvā vidhānena pitr̥̄n devāṁś ca tarpya vai
+17*0010_07 udakaṁ vidhivat pītvā tato nandāṁ jagāma vai
+17*0010_08 mahāpanthānam āvr̥tya himavantaṁ jagāma ha
+
+% 17.2.10
+% After the ref., G3 ins.:
+17*0011_01 sahadevo ’pi dharmātmā sarvabuddhimatāṁ varaḥ
+% After 10ab,
+% K3 ins.:
+17*0012_01 kālatrayavidaś cāpi na me guhyaṁ prakāśitam
+17*0012_02 saṁpratijñāgataś cāhaṁ nākariṣyaṁ janakṣayam
+
+% 17.3.11
+% After 11, N (D6 om.) T3
+% ins.:
+17*0013_01 bhītaṁ bhaktaṁ nānyad astīti cārtaṁ
+17*0013_02 prāptaṁ kṣīṇaṁ rakṣaṇe prāṇalipsum
+17*0013_03 prāṇatyāgād apy ahaṁ nota moktuṁ
+17*0013_04 yateyaṁ vai nityam etad vrataṁ me
+
+% 17.3.27
+% After 27, K2.3 D2
+% T2.3 ins.:
+17*0014_01 tejāṁsi yāni dr̥ṣṭāni bhūmiṣṭhena tvayā vibho
+17*0014_02 veśmāni karmadevānāṁ paśyāmūni sahasraśaḥ
