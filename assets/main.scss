@@ -1,0 +1,21 @@
+---
+# Keeps the minima theme's styles and adds the site's own below.
+---
+
+@import "minima";
+
+/* Front page: large "Welcome" heading beside the image */
+.welcome {
+  font-size: 2.4em;
+  line-height: 1.2;
+  margin-top: 0.2em;
+  margin-bottom: 0.6em;
+}
+
+/* Three-line drop capital on the first letter of a paragraph */
+.dropcap::first-letter {
+  float: left;
+  font-size: 4.45em;
+  line-height: 0.8;
+  padding: 0.07em 0.06em 0 0;
+}
