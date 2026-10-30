@@ -1,21 +1,199 @@
 ---
 # Keeps the minima theme's styles and adds the site's own below.
+# The look follows the old indology.info site (WordPress "Twenty Sixteen").
 ---
+
+// Theme settings (must come before the import)
+$base-font-family: Merriweather, Georgia, serif;
+$heading-font-family: Montserrat, "Helvetica Neue", Arial, sans-serif;
+$base-font-size:   16px;
+$base-line-height: 1.75;
+$text-color:       #1a1a1a;
+$background-color: #ededed;
+$brand-color:      #0066bf;
+$grey-color:       #686868;
+$content-width:    1140px;
 
 @import "minima";
 
-/* Front page: large "Welcome" heading beside the image */
-.welcome {
-  font-size: 2.4em;
-  line-height: 1.2;
-  margin-top: 0.2em;
-  margin-bottom: 0.6em;
+// ---------- Header: logo, title and tagline on the left, menu on the right
+.site-header {
+  border-top: 0;
+  border-bottom: 0;
+  padding: 3.5em 0 2em;
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    &::after { display: none; }
+  }
 }
 
-/* Three-line drop capital on the first letter of a paragraph */
+.site-logo img {
+  display: block;
+  width: 50px;
+  height: 50px;
+}
+
+.site-title,
+.site-title:visited {
+  float: none;
+  display: block;
+  margin-top: 0.5em;
+  font-family: $heading-font-family;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #1a1a1a;
+}
+
+.site-branding { flex-shrink: 0; margin-right: 2em; }
+
+.site-description {
+  white-space: nowrap;
+  margin: 0.4em 0 0;
+  font-size: 13px;
+  line-height: 1.1;
+  color: $grey-color;
+}
+
+.site-nav {
+  float: none;
+  font-family: $heading-font-family;
+  line-height: 1.5;
+
+  .page-link {
+    color: #1a1a1a;
+    font-size: 15px;
+    margin: 0;
+    padding: 0.5em 0.7em;
+    &:hover { color: $brand-color; text-decoration: none; }
+    &.current { font-weight: 700; }
+  }
+}
+
+@include media-query($on-palm) {
+  .site-header .wrapper { align-items: flex-start; }
+  .site-nav {
+    background-color: $background-color;
+    .page-link { display: block; padding: 5px 10px; }
+  }
+}
+
+h1, h2, h3, h4, h5, h6 { font-family: $heading-font-family; }
+
+.page-content { padding: 1em 0 3em; }
+
+// Ordinary pages: keep text lines a readable length
+.post { max-width: 780px; }
+
+// ---------- Front page
+.home-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  column-gap: 4em;
+  align-items: start;
+}
+
+@include media-query($on-laptop) {
+  .home-grid { grid-template-columns: minmax(0, 1fr); }
+  .sidebar { margin-top: 3em; }
+}
+
+// Image with the welcome text beside it
+.media-text {
+  display: grid;
+  grid-template-columns: 41% auto;
+  align-items: center;
+  margin-bottom: 1.75em;
+
+  p { margin: 0; }
+  img { display: block; width: 100%; height: auto; }
+}
+
+.welcome {
+  margin: 0;
+  padding: 0 1.4em;
+  font-family: $base-font-family;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 1.75;
+}
+
+@include media-query($on-palm) {
+  .media-text { grid-template-columns: 1fr; }
+  .welcome { padding: 0.5em 0 0; font-size: 28px; line-height: 1.4; }
+}
+
+// Three-line drop capital on the first letter of a paragraph
 .dropcap::first-letter {
   float: left;
-  font-size: 4.45em;
-  line-height: 0.8;
-  padding: 0.07em 0.06em 0 0;
+  font-family: $base-font-family;
+  font-weight: 300;
+  font-size: 5.75em;
+  line-height: 0.78;
+  margin: 0.07em 0.08em 0 0;
+}
+
+// ---------- Sidebar ("widgets")
+.sidebar {
+  font-size: 13px;
+  line-height: 1.6;
+
+  h2 {
+    margin: 0 0 1.3em;
+    padding-top: 1.3em;
+    border-top: 4px solid #1a1a1a;
+    font-family: $heading-font-family;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  ul { margin-left: 1.3em; margin-bottom: 3.5em; }
+  li { margin-bottom: 0.3em; }
+  p  { margin-bottom: 3.5em; }
+}
+
+.widget-search { margin-bottom: 3.5em; }
+
+.search-form {
+  display: flex;
+  label { flex: 1; }
+  .search-field {
+    box-sizing: border-box;
+    width: 100%;
+    height: 2.6em;
+    padding: 0.4em 0.6em;
+    border: 1px solid #d1d1d1;
+    border-radius: 2px 0 0 2px;
+    background: #f7f7f7;
+    font-family: $base-font-family;
+    font-size: 13px;
+  }
+  .search-submit {
+    width: 2.8em;
+    border: 0;
+    border-radius: 0 2px 2px 0;
+    background: #1a1a1a;
+    color: #fff;
+    cursor: pointer;
+    &:hover { background: $brand-color; }
+  }
+}
+
+.screen-reader-text {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+// ---------- Footer
+.site-footer {
+  border-top: 1px solid #d1d1d1;
+  font-family: $base-font-family;
 }

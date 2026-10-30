@@ -1,0 +1,19 @@
+<aside class="sidebar" aria-label="Sidebar">
+  <section class="widget widget-search">
+    <h2 class="widget-title">Search this website</h2>
+    <form role="search" method="get" class="search-form" action="https://duckduckgo.com/">
+      <input type="hidden" name="sites" value="indology.github.io">
+      <label><span class="screen-reader-text">Search for:</span>
+        <input type="search" class="search-field" placeholder="Search …" name="q"></label>
+      <button type="submit" class="search-submit" aria-label="Search">
+        <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M11.7 10.3c.9-1.1 1.4-2.5 1.4-4C13.1 2.8 10.3 0 6.8 0S.5 2.8.5 6.3s2.8 6.3 6.3 6.3c1.5 0 2.9-.5 4-1.4l3.8 3.8 1.4-1.4-4.3-3.3zM6.8 10.6c-2.4 0-4.3-1.9-4.3-4.3S4.4 2 6.8 2s4.3 1.9 4.3 4.3-1.9 4.3-4.3 4.3z"/></svg>
+      </button>
+    </form>
+  </section>
+  {%- assign links_page = site.pages | where: "path", "pages/links.md" | first -%}
+  {%- if links_page %}
+  <div class="widget-links">
+    {{ links_page.content | markdownify }}
+  </div>
+  {%- endif %}
+</aside>
