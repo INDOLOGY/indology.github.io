@@ -1,5 +1,5 @@
 % Mahabharata: General information
-% Last updated: Fri Sep 25 2020
+% Last updated: Fri Oct 30 2026
 % Encoding: ASCII
 % Electronic text (C) Bhandarkar Oriental Research Institute,
 % Pune, India, 1999
@@ -28,18 +28,17 @@ The status of the electronic text
 The electronic text of the Mahabharata is Copyright (C) The Bhandarkar
 Oriental Research Institute (BORI), Pune. This authorised and regularly
 updated text is available only via the web page
-https://indology.github.io/bombay/mahabharata/statement.html. Please do not provide
-copies of the text to others.
+https://indology.github.io/bombay/mahabharata/statement.html.
 
 The text is as accurate as possible, but errors may well still appear. If you
-believe you have found an error, please report it by email to jds10 <at> cam.ac.uk.
+believe you have found an error, please report it by email to jds10 at cam.ac.uk.
 Before reporting any error, please read the rest of this document!
 
 Corrections will be made to errors remaining in the text as they come to
 light. Check the “Last updated” date at the head of each parvan against the
 current dates listed on the distribution website (URL
-https://indology.github.io/bombay/mahabharata/welcome.html) to see whether you need
-to download newer versions.
+https://indology.github.io/bombay/mahabharata/welcome.html) to see whether
+you need to download newer versions.
 
 ------------------------------------------------------------------------
 
@@ -63,8 +62,8 @@ anusvara, and “n” for the dental, palatal and velar nasals -- can be overcom
 with a little effort. Much the most serious problem is caused by his use of a
 single separator to divide word from word and compound-member from
 compound-member (something he did not do in his transcription of the
-Ramayana). The result is that, for example, the Gita begins dharma kSetre
-kuru kSetre, not dharmakSetre kurukSetre.
+Ramayana). The result is that, for example, the Gita begins
+dharma kSetre kuru kSetre, not dharmakSetre kurukSetre.
 
 In 1995 I devised a method which I believed would allow me to rejoin a
 significant percentage of these “split” compounds. It involved using a
