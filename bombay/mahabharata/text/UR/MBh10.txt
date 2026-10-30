@@ -1,5 +1,5 @@
 % Mahābhārata: Sauptikaparvan
-% Last updated: Thu Aug 27 2026
+% Last updated: Fri Oct 30 2026
 % Encoding: Unicode Roman
 % Electronic text (C) Bhandarkar Oriental Research Institute,
 % Pune, India, 1999
@@ -1054,7 +1054,7 @@
 10009044a pariṣvajethā rājānaṁ bāhlikaṁ sumahāratham
 10009044c saindhavaṁ somadattaṁ ca bhūriśravasam eva ca
 10009045a tathā pūrvagatān anyān svargaṁ pārthivasattamān
-10009045c asmad vākyāt pariṣvajya pr̥cchethās tvam anāmayam
+10009045c asmadvākyāt pariṣvajya pr̥cchethās tvam anāmayam
 10009046a ity evam uktvā rājānaṁ bhagnasaktham acetasam
 10009046c aśvatthāmā samudvīkṣya punar vacanam abravīt
 10009047a duryodhana jīvasi ced vācaṁ śrotrasukhāṁ śr̥ṇu
