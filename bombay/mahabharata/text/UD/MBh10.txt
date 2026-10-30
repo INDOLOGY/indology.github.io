@@ -1,5 +1,5 @@
 % Mahabharata: Sauptikaparvan
-% Last updated: Thu Aug 27 2026
+% Last updated: Fri Oct 30 2026
 % Encoding: Unicode Devanagari
 % Electronic text (C) Bhandarkar Oriental Research Institute,
 % Pune, India, 1999

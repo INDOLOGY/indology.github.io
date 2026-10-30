@@ -1,5 +1,5 @@
 % Mahabharata: Sauptikaparvan
-% Last updated: Thu Aug 27 2026
+% Last updated: Fri Oct 30 2026
 % Encoding: ASCII
 % Electronic text (C) Bhandarkar Oriental Research Institute,
 % Pune, India, 1999
@@ -1054,7 +1054,7 @@
 10009044a pariSvajethA rAjAnaM bAhlikaM sumahAratham
 10009044c saindhavaM somadattaM ca bhUrizravasam eva ca
 10009045a tathA pUrvagatAn anyAn svargaM pArthivasattamAn
-10009045c asmad vAkyAt pariSvajya pRcchethAs tvam anAmayam
+10009045c asmadvAkyAt pariSvajya pRcchethAs tvam anAmayam
 10009046a ity evam uktvA rAjAnaM bhagnasaktham acetasam
 10009046c azvatthAmA samudvIkSya punar vacanam abravIt
 10009047a duryodhana jIvasi ced vAcaM zrotrasukhAM zRNu
