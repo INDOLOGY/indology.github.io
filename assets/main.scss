@@ -61,8 +61,17 @@ $content-width:    1140px;
 
 .site-nav {
   float: none;
+  flex: 1 1 auto;
+  min-width: 0;
   font-family: $heading-font-family;
   line-height: 1.5;
+
+  // Let the menu wrap onto a second line when the window is narrow
+  .trigger {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
 
   .page-link {
     color: #1a1a1a;
@@ -77,7 +86,10 @@ $content-width:    1140px;
 @include media-query($on-palm) {
   .site-header .wrapper { align-items: flex-start; }
   .site-nav {
+    flex: none;
     background-color: $background-color;
+    .trigger { display: none; }
+    .nav-trigger:checked ~ .trigger { display: block; }
     .page-link { display: block; padding: 5px 10px; }
   }
 }
@@ -117,7 +129,7 @@ h1, h2, h3, h4, h5, h6 { font-family: $heading-font-family; }
   margin: 0;
   padding: 0 1.4em;
   font-family: $base-font-family;
-  font-size: 36px;
+  font-size: clamp(26px, 2.9vw, 36px);
   font-weight: 400;
   line-height: 1.75;
 }
