@@ -6,6 +6,7 @@
 ## Hosted by INDOLOGY
 
 * [SARIT: Search and Retrieval of Indic Texts (new interface, including GRETIL)](https://wujastyk.github.io/SARIT-corpus/) 
+* [NGMCP Descriptive Catalogue: Nepalese manuscripts](/NGMCP-Descriptive-Catalogue/)
 * [Scanned Indian manuscript catalogues](/scanned-catalogues/) 
 * [Bombay: John Smith’s Indic home page](/bombay/) 
 * [Sanskrit publishers’ vocabulary](/sanskrit-publishers-vocabulary/) 
