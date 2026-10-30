@@ -21,7 +21,6 @@ header_pages:
   - pages/guidelines.md
   - pages/subscribe.md
   - pages/bombay.md
-  - pages/links.md
 #
 kramdown:
   # parse markdown inside block-level HTML tag

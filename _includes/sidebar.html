@@ -10,10 +10,8 @@
       </button>
     </form>
   </section>
-  {%- assign links_page = site.pages | where: "path", "pages/links.md" | first -%}
-  {%- if links_page %}
+  {%- capture sidebar_links -%}{% include sidebar-links.md %}{%- endcapture -%}
   <div class="widget-links">
-    {{ links_page.content | markdownify }}
+    {{ sidebar_links | markdownify }}
   </div>
-  {%- endif %}
 </aside>

@@ -1,7 +1,7 @@
----
-title: Links
-layout: page
----
+{% comment %}
+  The link lists shown in the front-page sidebar.
+  Edit them here in ordinary Markdown; each "## heading" starts a new box.
+{% endcomment %}
 
 ## Hosted by INDOLOGY
 
