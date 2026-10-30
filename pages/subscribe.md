@@ -16,3 +16,5 @@ To subscribe to the INDOLOGY forum, first
    or a link to your university page if it shows your academic status and publications.
 
 Thank you for sending your subscription request to the INDOLOGY committee. 
+
+**Already a member?** Go to [Manage your preferences](https://list.indology.info/mailman/listinfo/indology) to change your password, switch to digest mode, or unsubscribe.
