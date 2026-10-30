@@ -197,3 +197,18 @@ h1, h2, h3, h4, h5, h6 { font-family: $heading-font-family; }
   border-top: 1px solid #d1d1d1;
   font-family: $base-font-family;
 }
+
+.footer-line {
+  margin: 0;
+  font-size: 13px;
+  color: $grey-color;
+}
+
+.footer-title,
+.footer-title:visited {
+  margin-right: 1em;
+  font-family: $heading-font-family;
+  font-size: 16px;
+  font-weight: 700;
+  color: #1a1a1a;
+}
