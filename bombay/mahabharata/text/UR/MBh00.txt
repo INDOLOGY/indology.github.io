@@ -31,7 +31,7 @@ updated text is available only via the web page
 https://indology.github.io/bombay/mahabharata/statement.html.
 
 The text is as accurate as possible, but errors may well still appear. If you
-believe you have found an error, please report it by email to jds10 at cam.ac.uk.
+believe you have found an error, please report it by email to jds10 (at) cam.ac.uk.
 Before reporting any error, please read the rest of this document!
 
 Corrections will be made to errors remaining in the text as they come to
