@@ -1,5 +1,5 @@
 % Ramayana: General information
-% Last updated: Fri Sep 25 2020
+% Last updated: Mon Nov 02 2026
 % Encoding: Unicode Devanagari
 %
 
@@ -45,16 +45,7 @@ Kulkarni, Christopher Minkowski, Sven Sellmer and Michael Slouber. (Please
 inform me of anyone I have accidentally omitted.)
 
 However, the text is still neither as accurate nor as consistent as I would
-like, so it should be used with caution. If you believe you have found an
-error, please report it by email to Suvarna Deshpande (suvarnad09 [at]
-gmail.com) or Pranav Gokhale (pranavpg88 [at] gmail.com). Before reporting any
-error, please read the rest of this document!
-
-Corrections will be made to errors remaining in the text as they come to
-light. Check the “Last updated” date at the head of each kāṇḍa against the
-current dates listed on the distribution website (URL
-https://indology.github.io/bombay/ramayana/welcome.html) to see whether you need to
-download newer versions.
+like, so it should be used with caution.
 
 ------------------------------------------------------------------------
 
