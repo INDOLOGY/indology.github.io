@@ -434,6 +434,12 @@ readings found in the printed edition are simple typographic errors.
   however, as the editor’s critical note observes, “nāpadam, that is na
   āpadam (for nā padam) is certainly more natural”.
 
+13154022c apaśyantyāḥ priyaṁ putraṁ yatra dīryati me ’dya vai
+  It is certain that yatra is a typographic error for yan na. The
+  editor records no variant readings for the word, and yet the Bombay,
+  Calcutta and Kumbakonam editions and manuscript D8 all have yan na
+  (PAE). I am grateful to Giulio Geymonat for pointing out this error.
+
 14011010a vyāptāsv athāsu vr̥treṇa rase ca viṣaye hr̥te
 
 14017035e tac chrutvā naiṣṭhikīṁ buddhiṁ buddhyethāḥ karmaniścayāt

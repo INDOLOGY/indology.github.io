@@ -434,6 +434,12 @@ readings found in the printed edition are simple typographic errors.
   however, as the editor's critical note observes, “नापदम्, that is <na
   āpadam> (for ना पदम्) is certainly more natural”.
 
+13154022c अपश्यन्त्याः प्रियं पुत्रं यत्र दीर्यति मेऽद्य वै
+  It is certain that यत्र is a typographic error for यन्न. The
+  editor records no variant readings for the word, and yet the Bombay,
+  Calcutta and Kumbakonam editions and manuscript D8 all have यन्न
+  (PAE). I am grateful to Giulio Geymonat for pointing out this error.
+
 14011010a व्याप्तास्वथासु वृत्रेण रसे च विषये हृते
 
 14017035e तच्छ्रुत्वा नैष्ठिकीं बुद्धिं बुद्ध्येथाः कर्मनिश्चयात्
