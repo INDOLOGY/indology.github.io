@@ -1,5 +1,5 @@
 % Mahabharata: Anusasanaparvan
-% Last updated: Mon Jul 29 2019
+% Last updated: Tue Nov 03 2026
 % Encoding: ASCII
 % Electronic text (C) Bhandarkar Oriental Research Institute,
 % Pune, India, 1999
@@ -14107,7 +14107,7 @@
 13154021a jAmadagnyena rAmeNa purA yo na parAjitaH
 13154021c divyair astrair mahAvIryaH sa hato 'dya zikhaNDinA
 13154022a azmasAramayaM nUnaM hRdayaM mama pArthivAH
-13154022c apazyantyAH priyaM putraM yatra dIryati me 'dya vai
+13154022c apazyantyAH priyaM putraM yan na dIryati me 'dya vai
 13154023a sametaM pArthivaM kSatraM kAzipuryAM svayaMvare
 13154023c vijityaikarathenAjau kanyAs tA yo jahAra ha
 13154024a yasya nAsti bale tulyaH pRthivyAm api kaz cana

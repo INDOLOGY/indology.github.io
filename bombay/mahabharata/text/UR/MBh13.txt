@@ -1,5 +1,5 @@
 % Mahābhārata: Anuśāsanaparvan
-% Last updated: Mon Jul 29 2019
+% Last updated: Tue Nov 03 2026
 % Encoding: Unicode Roman
 % Electronic text (C) Bhandarkar Oriental Research Institute,
 % Pune, India, 1999
@@ -14107,7 +14107,7 @@
 13154021a jāmadagnyena rāmeṇa purā yo na parājitaḥ
 13154021c divyair astrair mahāvīryaḥ sa hato ’dya śikhaṇḍinā
 13154022a aśmasāramayaṁ nūnaṁ hr̥dayaṁ mama pārthivāḥ
-13154022c apaśyantyāḥ priyaṁ putraṁ yatra dīryati me ’dya vai
+13154022c apaśyantyāḥ priyaṁ putraṁ yan na dīryati me ’dya vai
 13154023a sametaṁ pārthivaṁ kṣatraṁ kāśipuryāṁ svayaṁvare
 13154023c vijityaikarathenājau kanyās tā yo jahāra ha
 13154024a yasya nāsti bale tulyaḥ pr̥thivyām api kaś cana
