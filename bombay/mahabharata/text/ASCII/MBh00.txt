@@ -1,5 +1,5 @@
 % Mahabharata: General information
-% Last updated: Fri Oct 30 2026
+% Last updated: Tue Nov 03 2026
 % Encoding: ASCII
 % Electronic text (C) Bhandarkar Oriental Research Institute,
 % Pune, India, 1999
@@ -31,7 +31,7 @@ updated text is available only via the web page
 https://indology.github.io/bombay/mahabharata/statement.html.
 
 The text is as accurate as possible, but errors may well still appear. If you
-believe you have found an error, please report it by email to jds10 at cam.ac.uk.
+believe you have found an error, please report it by email to jds10 (at) cam.ac.uk.
 Before reporting any error, please read the rest of this document!
 
 Corrections will be made to errors remaining in the text as they come to
@@ -433,6 +433,12 @@ readings found in the printed edition are simple typographic errors.
   This line has been reproduced unchanged as it appears in the printed text;
   however, as the editor's critical note observes, “nApadam, that is na
   Apadam (for nA padam) is certainly more natural”.
+
+13154022c apazyantyAH priyaM putraM yatra dIryati me 'dya vai
+  It is certain that yatra is a typographic error for yan na. The
+  editor records no variant readings for the word, and yet the Bombay,
+  Calcutta and Kumbakonam editions and manuscript D8 all have yan na
+  (PAE). I am grateful to Giulio Geymonat for pointing out this error.
 
 14011010a vyAptAsv athAsu vRtreNa rase ca viSaye hRte
 
