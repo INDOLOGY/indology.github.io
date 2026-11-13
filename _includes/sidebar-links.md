@@ -15,6 +15,7 @@
 
 ## Outside links for Indologists
 
+* [Searchable handlist of the The Chandra Shum Shere Collection](https://suhasmahesh.com/oxford-css-manuscripts/)
 * [SARIT: Search and Retrieval of Indic Texts at GitHub](https://sarit.github.io/)
 * [The Sanskrit Heritage Site by Gérard Huet](https://sanskrit.inria.fr/) 
 * [GRETIL search (Teodorescu)](https://claudius-teodorescu.gitlab.io/gretil-corpus-site/) 
