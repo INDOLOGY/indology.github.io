@@ -11,8 +11,6 @@ permalink: /external-resources/
   table of contents at the top is built from those headings automatically.
 {% endcomment %}
 
-## Table of contents
-
 * Contents
 {:toc}
 
