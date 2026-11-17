@@ -34,4 +34,20 @@
 
 
 ## More external resources
-* See a [further collection of external resources](https://web.archive.org/web/20260302191723/https://indology.info/external-resources-2/) (March 2026).
+
+{% comment %}
+  Each line links to a category heading on pages/external-resources.md;
+  the part after "#" must match that heading's {#id}.
+{% endcomment %}
+* [Finding manuscripts](/external-resources/#finding-manuscripts)
+* [Dictionaries](/external-resources/#dictionaries)
+* [Digital Preservation](/external-resources/#digital-preservation)
+* [Publishing](/external-resources/#publishing)
+* [Indological reference aids](/external-resources/#indological-reference-aids)
+* [Institutions](/external-resources/#institutions)
+* [Blogs (living)](/external-resources/#blogs-living)
+* [Media](/external-resources/#media)
+* [Indological Project Sites](/external-resources/#indological-project-sites)
+* [Machine-readable Text Collections](/external-resources/#machine-readable-text-collections)
+* [Online Libraries of Scanned Manuscripts](/external-resources/#online-libraries-of-scanned-manuscripts)
+* [Bibliographies](/external-resources/#bibliographies)
