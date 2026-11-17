@@ -7,9 +7,8 @@ permalink: /external-resources/
 {% comment %}
   Categorized links, originally the "More external resources" page of the
   WordPress version of indology.info (as it stood in March 2026).
-  Edit in ordinary Markdown.  Each "## heading" is a category; the {#id}
-  after it is the anchor that the front-page sidebar
-  (_includes/sidebar-links.md) links to, so keep the two in step.
+  Edit in ordinary Markdown.  Each "## heading" is a category, and the
+  table of contents at the top is built from those headings automatically.
 {% endcomment %}
 
 Links to resources elsewhere on the web, arranged by category.
