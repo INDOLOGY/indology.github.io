@@ -75,7 +75,7 @@ permalink: /external-resources/
 
 ## Indological Project Sites {#indological-project-sites}
 
-* [AyurYog Project (Ayurveda, Yoga and Alchemy) (U. of Vienna)](http://ayuryoga.org)
+* [AyurYog Project (Ayurveda, Yoga and Alchemy) (U. of Vienna)](http://ayuryog.org)
 * [Bibliotheca Polyglotta](https://www.philology.no/bp)
 * [BUDA](https://www.bdrc.io/buda-archive/) — Buddhist Digital Archives
 * [Buddha Nexus](https://buddhanexus.net/)
