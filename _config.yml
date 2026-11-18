@@ -1,5 +1,5 @@
 title: INDOLOGY
-description: 'Resources for Indological scholarship (C) Dominik Wujastyk 1994-2026'
+description: 'Resources for Indological scholarship
 logo: /assets/img/indo-logo-1.png
 plugins:
   - jekyll-relative-links # converts links to markdown files to their html counterparts
